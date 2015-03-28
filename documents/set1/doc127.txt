@@ -1,0 +1,2004 @@
+The 1995 CIA World Factbook
+
+ system of currents) in the southern Indian Ocean; unique reversal of
+ surface currents in the northern Indian Ocean, low atmospheric
+ pressure over southwest Asia from hot, rising, summer air results in
+ the southwest monsoon and southwest-to-northeast winds and currents,
+ while high pressure over northern Asia from cold, falling, winter air
+ results in the northeast monsoon and northeast-to-southwest winds and
+ currents; ocean floor is dominated by the Mid-Indian Ocean Ridge and
+ subdivided by the Southeast Indian Ocean Ridge, Southwest Indian Ocean
+ Ridge, and Ninety East Ridge; maximum depth is 7,258 meters in the
+ Java Trench
+
+ Natural resources: oil and gas fields, fish, shrimp, sand and gravel
+ aggregates, placer deposits, polymetallic nodules
+
+ Environment:
+ current issues: endangered marine species include the dugong, seals,
+ turtles, and whales; oil pollution in the Arabian Sea, Persian Gulf,
+ and Red Sea
+ natural hazards: ships subject to superstructure icing in extreme
+ south near Antarctica from May to October
+ international agreements: NA
+
+ Note: major chokepoints include Bab el Mandeb, Strait of Hormuz,
+ Strait of Malacca, southern access to the Suez Canal, and the Lombok
+ Strait
+
+@Indian Ocean:Government
+
+ Digraph: XO
+
+@Indian Ocean:Economy
+
+ Overview: The Indian Ocean provides major sea routes connecting the
+ Middle East, Africa, and East Asia with Europe and the Americas. It
+ carries a particularly heavy traffic of petroleum and petroleum
+ products from the oilfields of the Persian Gulf and Indonesia. Its
+ fish are of great and growing importance to the bordering countries
+ for domestic consumption and export. Fishing fleets from Russia,
+ Japan, Korea, and Taiwan also exploit the Indian Ocean, mainly for
+ shrimp and tuna. Large reserves of hydrocarbons are being tapped in
+ the offshore areas of Saudi Arabia, Iran, India, and western
+ Australia. An estimated 40% of the world's offshore oil production
+ comes from the Indian Ocean. Beach sands rich in heavy minerals and
+ offshore placer deposits are actively exploited by bordering
+ countries, particularly India, South Africa, Indonesia, Sri Lanka, and
+ Thailand.
+
+ Industries: based on exploitation of natural resources, particularly
+ fish, minerals, oil and gas, fishing, sand and gravel
+
+@Indian Ocean:Transportation
+
+ Ports: Bombay (India), Calcutta (India), Colombo (Sri Lanka), Durban
+ (South Africa), Jakarta (Indonesia), Madras (India), Melbourne
+ (Australia), Richard's Bay (South Africa)
+
+@Indian Ocean:Communications
+
+ Telephone system:
+ international: submarine cables from India to United Arab Emirates and
+ Malaysia, and from Sri Lanka to Djibouti and Indonesia
+
+________________________________________________________________________
+
+INDONESIA
+
+@Indonesia:Geography
+
+ Location: Southeastern Asia, archipelago between the Indian Ocean and
+ the Pacific Ocean
+
+ Map references: Southeast Asia
+
+ Area:
+ total area: 1,919,440 sq km
+ land area: 1,826,440 sq km
+ comparative area: slightly less than three times the size of Texas
+
+ Land boundaries: total 2,602 km, Malaysia 1,782 km, Papua New Guinea
+ 820 km
+
+ Coastline: 54,716 km
+
+ Maritime claims: measured from claimed archipelagic baselines
+ exclusive economic zone: 200 nm
+ territorial sea: 12 nm
+
+ International disputes: sovereignty over Timor Timur (East Timor
+ Province) disputed with Portugal and not recognized by the UN; two
+ islands in dispute with Malaysia
+
+ Climate: tropical; hot, humid; more moderate in highlands
+
+ Terrain: mostly coastal lowlands; larger islands have interior
+ mountains
+
+ Natural resources: petroleum, tin, natural gas, nickel, timber,
+ bauxite, copper, fertile soils, coal, gold, silver
+
+ Land use:
+ arable land: 8%
+ permanent crops: 3%
+ meadows and pastures: 7%
+ forest and woodland: 67%
+ other: 15%
+
+ Irrigated land: 75,500 sq km (1989 est.)
+
+ Environment:
+ current issues: deforestation; water pollution from industrial wastes,
+ sewage; air pollution in urban areas
+ natural hazards: occasional floods, severe droughts, and tsunamis
+ international agreements: party to - Biodiversity, Climate Change,
+ Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test
+ Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 83,
+ Wetlands; signed, but not ratified - Desertification, Marine Life
+ Conservation, Tropical Timber 94
+
+ Note: archipelago of 13,500 islands (6,000 inhabited); straddles
+ Equator; strategic location astride or along major sea lanes from
+ Indian Ocean to Pacific Ocean
+
+@Indonesia:People
+
+ Population: 203,583,886 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 32% (female 32,548,039; male 33,485,810)
+ 15-64 years: 64% (female 65,394,816; male 64,914,362)
+ 65 years and over: 4% (female 4,027,367; male 3,213,492) (July 1995
+ est.)
+
+ Population growth rate: 1.56% (1995 est.)
+
+ Birth rate: 24.06 births/1,000 population (1995 est.)
+
+ Death rate: 8.48 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 0 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 65 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 61.22 years
+ male: 59.13 years
+ female: 63.42 years (1995 est.)
+
+ Total fertility rate: 2.74 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Indonesian(s)
+ adjective: Indonesian
+
+ Ethnic divisions: Javanese 45%, Sundanese 14%, Madurese 7.5%, coastal
+ Malays 7.5%, other 26%
+
+ Religions: Muslim 87%, Protestant 6%, Roman Catholic 3%, Hindu 2%,
+ Buddhist 1%, other 1% (1985)
+
+ Languages: Bahasa Indonesia (modified form of Malay; official),
+ English, Dutch, local dialects the most widely spoken of which is
+ Javanese
+
+ Literacy: age 15 and over can read and write (1990)
+ total population: 82%
+ male: 88%
+ female: 75%
+
+ Labor force: 67 million
+ by occupation: agriculture 55%, manufacturing 10%, construction 4%,
+ transport and communications 3% (1985 est.)
+
+@Indonesia:Government
+
+ Names:
+ conventional long form: Republic of Indonesia
+ conventional short form: Indonesia
+ local long form: Republik Indonesia
+ local short form: Indonesia
+ former: Netherlands East Indies; Dutch East Indies
+
+ Digraph: ID
+
+ Type: republic
+
+ Capital: Jakarta
+
+ Administrative divisions: 24 provinces (propinsi-propinsi, singular -
+ propinsi), 2 special regions* (daerah-daerah istimewa, singular -
+ daerah istimewa), and 1 special capital city district** (daerah khusus
+ ibukota); Aceh*, Bali, Bengkulu, Irian Jaya, Jakarta Raya**, Jambi,
+ Jawa Barat, Jawa Tengah, Jawa Timur, Kalimantan Barat, Kalimantan
+ Selatan, Kalimantan Tengah, Kalimantan Timur, Lampung, Maluku, Nusa
+ Tenggara Barat, Nusa Tenggara Timur, Riau, Sulawesi Selatan, Sulawesi
+ Tengah, Sulawesi Tenggara, Sulawesi Utara, Sumatera Barat, Sumatera
+ Selatan, Sumatera Utara, Timor Timur, Yogyakarta*
+
+ Independence: 17 August 1945 (proclaimed independence; on 27 December
+ 1949, Indonesia became legally independent from the Netherlands)
+
+ National holiday: Independence Day, 17 August (1945)
+
+ Constitution: August 1945, abrogated by Federal Constitution of 1949
+ and Provisional Constitution of 1950, restored 5 July 1959
+
+ Legal system: based on Roman-Dutch law, substantially modified by
+ indigenous concepts and by new criminal procedures code; has not
+ accepted compulsory ICJ jurisdiction
+
+ Suffrage: 17 years of age; universal and married persons regardless of
+ age
+
+ Executive branch:
+ chief of state and head of government: President Gen. (Ret.) SOEHARTO
+ (since 27 March 1968); Vice President Gen. (Ret.) Try SUTRISNO (since
+ 11 March 1993)
+ cabinet: Cabinet
+
+ Legislative branch: unicameral
+ House of Representatives (Dewan Perwakilan Rakyat or DPR): elections
+ last held on 8 June 1992 (next to be held NA 1997); results - GOLKAR
+ 68%, PPP 17%, PDI 15%; seats - (500 total, 400 elected, 100 military
+ representatives appointed) GOLKAR 282, PPP 62, PDI 56
+ note: the People's Consultative Assembly (Majelis Permusyawaratan
+ Rakyat or MPR) includes the DPR plus 500 indirectly elected members
+ who meet every five years to elect the president and vice president
+ and, theoretically, to determine national policy
+
+ Judicial branch: Supreme Court (Mahkamah Agung)
+
+ Political parties and leaders: GOLKAR (quasi-official party based on
+ functional groups), Lt. Gen. (Ret.) HARMOKO, general chairman;
+ Indonesia Democracy Party (PDI - federation of former Nationalist and
+ Christian Parties), Megawati SUKARNOPUTRI, chairman; Development Unity
+ Party (PPP, federation of former Islamic parties), Ismail Hasan
+ METAREUM, chairman
+
+ Member of: APEC, AsDB, ASEAN, CCC, CP, ESCAP, FAO, G-15, G-19, G-77,
+ GATT, IAEA, IBRD, ICAO, ICC, ICFTU, ICRM, IDA, IDB, IFAD, IFC, IFRCS,
+ ILO, IMF, IMO, INMARSAT, INTELSAT, INTERPOL, IOC, IOM (observer), ISO,
+ ITU, NAM, OIC, OPEC, UN, UNCTAD, UNESCO, UNIDO, UNIKOM, UNMIH,
+ UNPROFOR, UPU, WCL, WFTU, WHO, WIPO, WMO, WTO
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Arifin Mohamad SIREGAR
+ chancery: 2020 Massachusetts Avenue NW, Washington, DC 20036
+ telephone: [1] (202) 775-5200
+ FAX: [1] (202) 775-5365
+ consulate(s) general: Chicago, Houston, Los Angeles, New York, San
+ Francisco
+
+ US diplomatic representation:
+ chief of mission: Ambassador Robert L. BARRY
+ embassy: Medan Merdeka Selatan 5, Box 1, Jakarta
+ mailing address: APO AP 96520
+ telephone: [62] (21) 360360
+ FAX: [62] (21) 3862259
+ consulate(s) general: Medan, Surabaya
+
+ Flag: two equal horizontal bands of red (top) and white; similar to
+ the flag of Monaco, which is shorter; also similar to the flag of
+ Poland, which is white (top) and red
+
+@Indonesia:Economy
+
+ Overview: Indonesia is a mixed economy with some socialist
+ institutions and central planning but with a recent emphasis on
+ deregulation and private enterprise. Indonesia has extensive natural
+ wealth, yet, with a large and rapidly increasing population, it
+ remains a rather poor country. Real GDP growth in 1985-94 averaged
+ about 6%, quite impressive, but not sufficient to both slash
+ underemployment and absorb the 2.3 million workers annually entering
+ the labor force. Agriculture, including forestry and fishing, is an
+ important sector, accounting for 21% of GDP and over 50% of the labor
+ force. The staple crop is rice. Once the world's largest rice
+ importer, Indonesia is now nearly self-sufficient. Plantation crops -
+ rubber and palm oil - and textiles and plywood are being encouraged
+ for both export and job generation. Industrial output now accounts for
+ almost 40% of GDP and is based on a supply of diverse natural
+ resources, including crude oil, natural gas, timber, metals, and coal.
+ Foreign investment has also boosted manufacturing output and exports
+ in recent years. Indeed, the economy's growth is highly dependent on
+ the continuing expansion of nonoil exports. Japan remains Indonesia's
+ most important customer and supplier of aid. Rapid growth in the money
+ supply in 1989-90 prompted Jakarta to implement a tight monetary
+ policy in 1991, forcing the private sector to go to foreign banks for
+ investment financing. Real interest rates remained above 10% and
+ off-shore commercial debt grew. The growth in off-shore debt prompted
+ Jakarta to limit foreign borrowing beginning in late 1991. Despite the
+ continued problems in moving toward a more open financial system and
+ the persistence of a fairly tight credit situation, GDP growth in
+ 1992-94 has matched the government target of 6%-7% annual growth.
+
+ National product: GDP - purchasing power parity - $619.4 billion (1994
+ est.)
+
+ National product real growth rate: 6.7% (1994 est.)
+
+ National product per capita: $3,090 (1994 est.)
+
+ Inflation rate (consumer prices): 9.3% (1994 est.)
+
+ Unemployment rate: 3% official rate; underemployment 40% (1994 est.)
+
+ Budget:
+ revenues: $32.8 billion
+ expenditures: $32.8 billion, including capital expenditures of $12.9
+ billion (FY94/95)
+
+ Exports: $41.3 billion (f.o.b, 1994 est.)
+ commodities: manufactures 56.7%, fuels 24.8%, foodstuffs 11.1%, raw
+ materials 7.4% (1994 est.)
+ partners: Japan 30%, US 14%, Singapore 9%, South Korea 6%, Taiwan 4%
+ (1993)
+
+ Imports: $31.4 billion (f.o.b., 1994 est.)
+ commodities: capital equipment 44.2%, intermed and raw materials
+ 37.0%, consumer goods 11.5%, fuels 7.2% (1994 est.)
+ partners: Japan 22%, US 11%, South Korea 7%, Germany 7%, Singapore 6%,
+ Australia 5%, Taiwan 5% (1993)
+
+ External debt: $87 billion (1994)
+
+ Industrial production: growth rate 8.4% (1993 est.); accounts for 40%
+ of GDP
+
+ Electricity:
+ capacity: 12,100,000 kW
+ production: 44 billion kWh
+ consumption per capita: 207 kWh (1993)
+
+ Industries: petroleum and natural gas, textiles, mining, cement,
+ chemical fertilizers, plywood, food, rubber
+
+ Agriculture: accounts for 21% of GDP; subsistence food production;
+ small-holder and plantation production for export; main products are
+ rice, cassava, peanuts, rubber, cocoa, coffee, palm oil, copra, other
+ tropical products, poultry, beef, pork, eggs
+
+ Illicit drugs: illicit producer of cannabis for the international drug
+ trade, but not a major player; government actively eradicating
+ plantings and prosecuting traffickers; growing role as transshipment
+ point for Golden Triangle heroin; increasing indigenous
+ methamphetamine abuse
+
+ Economic aid:
+ recipient: US commitments, including Ex-Im (FY70-89), $4.4 billion;
+ Western (non-US) countries, ODA and OOF bilateral commitments
+ (1970-89), $25.9 billion; OPEC bilateral aid (1979-89), $213 million;
+ Communist countries (1970-89), $175 million
+
+ Currency: 1 Indonesian rupiah (Rp) = 100 sen (sen no longer used)
+
+ Exchange rates: Indonesian rupiahs (Rp) per US$1 - 2,203.6 (January
+ 1995), 2,160.7 (1994), 2,087.1 (1993), 2,029.9 (1992), 1,950.3 (1991),
+ 1,842.8 (1990)
+
+ Fiscal year: 1 April - 31 March
+
+@Indonesia:Transportation
+
+ Railroads:
+ total: 6,964 km
+ narrow gauge: 6,389 km 1.067-m gauge (101 km electrified; 101 km
+ double track); 497 km 0.750-m gauge; 78 km 0.600-m gauge
+
+ Highways:
+ total: 119,500 km
+ paved: NA
+ unpaved: NA
+ undifferentiated: provincial 34,180 km; district 73,508 km; state
+ 11,812 km
+
+ Inland waterways: 21,579 km total; Sumatra 5,471 km, Java and Madura
+ 820 km, Kalimantan 10,460 km, Celebes 241 km, Irian Jaya 4,587 km
+
+ Pipelines: crude oil 2,505 km; petroleum products 456 km; natural gas
+ 1,703 km (1989)
+
+ Ports: Cilacap, Cirebon, Jakarta, Kupang, Palembang, Semarang,
+ Surabaya, Ujungpandang
+
+ Merchant marine:
+ total: 438 ships (1,000 GRT or over) totaling 1,942,527 GRT/2,818,296
+ DWT
+ ships by type: bulk 26, cargo 259, chemical tanker 7, container 11,
+ liquefied gas tanker 6, livestock carrier 1, oil tanker 85, passenger
+ 6, passenger-cargo 12, roll-on/roll-off cargo 7, short-sea passenger
+ 7, specialized tanker 7, vehicle carrier 4
+
+ Airports:
+ total: 450
+ with paved runways over 3,047 m: 3
+ with paved runways 2,438 to 3,047 m: 10
+ with paved runways 1,524 to 2,437 m: 35
+ with paved runways 914 to 1,523 m: 42
+ with paved runways under 914 m: 324
+ with unpaved runways 1,524 to 2,438 m: 4
+ with unpaved runways 914 to 1,523 m: 32
+
+@Indonesia:Communications
+
+ Telephone system: 763,000 telephones (1986); domestic service fair,
+ international service good
+ local: NA
+ intercity: interisland microwave system and HF police net; 1 earth
+ station for a domestic satellite
+ international: 2 INTELSAT (1 Indian Ocean and 1 Pacific Ocean) earth
+ stations
+
+ Radio:
+ broadcast stations: AM 618, FM 38, shortwave 0
+ radios: NA
+ note: radiobroadcast coverage good
+
+ Television:
+ broadcast stations: 9
+ televisions: NA
+
+@Indonesia:Defense Forces
+
+ Branches: Army, Navy, Air Force, National Police
+
+ Manpower availability: males age 15-49 55,883,688; males fit for
+ military service 32,952,204; males reach military age (18) annually
+ 2,247,586 (1995 est.)
+
+ Defense expenditures: exchange rate conversion - $2.4 billion, 1.5% of
+ GNP (FY94/95)
+
+
+________________________________________________________________________
+
+IRAN
+
+@Iran:Geography
+
+ Location: Middle East, bordering the Gulf of Oman and the Persian
+ Gulf, between Iraq and Pakistan
+
+ Map references: Middle East
+
+ Area:
+ total area: 1.648 million sq km
+ land area: 1.636 million sq km
+ comparative area: slightly larger than Alaska
+
+ Land boundaries: total 5,440 km, Afghanistan 936 km, Armenia 35 km,
+ Azerbaijan (north) 432 km, Azerbaijan (northwest) 179 km, Iraq 1,458
+ km, Pakistan 909 km, Turkey 499 km, Turkmenistan 992 km
+
+ Coastline: 2,440 km
+ note: Iran also borders the Caspian Sea (740 km)
+
+ Maritime claims:
+ contiguous zone: 24 nm
+ continental shelf: natural prolongation
+ exclusive economic zone: bilateral agreements, or median lines in the
+ Persian Gulf
+ territorial sea: 12 nm
+
+ International disputes: Iran and Iraq restored diplomatic relations in
+ 1990 but are still trying to work out written agreements settling
+ outstanding disputes from their eight-year war concerning border
+ demarcation, prisoners-of-war, and freedom of navigation and
+ sovereignty over the Shatt al Arab waterway; Iran occupies two islands
+ in the Persian Gulf claimed by the UAE: Tunb as Sughra (Arabic),
+ Jazireh-ye Tonb-e Kuchek (Persian) or Lesser Tunb, and Tunb al Kubra
+ (Arabic), Jazireh-ye Tonb-e Bozorg (Persian) or Greater Tunb; it
+ jointly administers with the UAE an island in the Persian Gulf claimed
+ by the UAE, Abu Musa (Arabic) or Jazireh-ye Abu Musa (Persian); in
+ 1992 the dispute over Abu Musa and the Tunb islands became more acute
+ when Iran unilaterally tried to control the entry of third country
+ nationals into the UAE portion of Abu Musa island, Tehran subsequently
+ backed off in the face of significant diplomatic support for the UAE
+ in the region, but in 1994 it increased its military presence on the
+ disputed islands; periodic disputes with Afghanistan over Helmand
+ water rights; Caspian Sea boundaries are not yet determined
+
+ Climate: mostly arid or semiarid, subtropical along Caspian coast
+
+ Terrain: rugged, mountainous rim; high, central basin with deserts,
+ mountains; small, discontinuous plains along both coasts
+
+ Natural resources: petroleum, natural gas, coal, chromium, copper,
+ iron ore, lead, manganese, zinc, sulfur
+
+ Land use:
+ arable land: 8%
+ permanent crops: 0%
+ meadows and pastures: 27%
+ forest and woodland: 11%
+ other: 54%
+
+ Irrigated land: 57,500 sq km (1989 est.)
+
+ Environment:
+ current issues: air pollution, especially in urban areas, from vehicle
+ emissions, refinery operations, and industrial effluents;
+ deforestation; overgrazing; desertification; oil pollution in the
+ Persian Gulf; inadequate supplies of potable water
+ natural hazards: periodic droughts, floods; duststorms, sandstorms;
+ earthquakes along the Western border
+ international agreements: party to - Endangered Species, Hazardous
+ Wastes, Nuclear Test Ban, Ozone Layer Protection, Wetlands; signed,
+ but not ratified - Biodiversity, Climate Change, Desertification,
+ Environmental Modification, Law of the Sea, Marine Life Conservation
+
+@Iran:People
+
+ Population: 64,625,455 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 45% (female 14,113,933; male 14,995,015)
+ 15-64 years: 51% (female 16,237,810; male 16,803,943)
+ 65 years and over: 4% (female 1,197,869; male 1,276,885) (July 1995
+ est.)
+
+ Population growth rate: 2.29% (1995 est.)
+
+ Birth rate: 34.85 births/1,000 population (1995 est.)
+
+ Death rate: 6.85 deaths/1,000 population (1995 est.)
+
+ Net migration rate: -5.11 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 54.6 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 66.97 years
+ male: 65.77 years
+ female: 68.22 years (1995 est.)
+
+ Total fertility rate: 4.93 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Iranian(s)
+ adjective: Iranian
+
+ Ethnic divisions: Persian 51%, Azerbaijani 24%, Gilaki and Mazandarani
+ 8%, Kurd 7%, Arab 3%, Lur 2%, Baloch 2%, Turkmen 2%, other 1%
+
+ Religions: Shi'a Muslim 95%, Sunni Muslim 4%, Zoroastrian, Jewish,
+ Christian, and Baha'i 1%
+
+ Languages: Persian and Persian dialects 58%, Turkic and Turkic
+ dialects 26%, Kurdish 9%, Luri 2%, Baloch 1%, Arabic 1%, Turkish 1%,
+ other 2%
+
+ Literacy: age 15 and over can read and write (1991)
+ total population: 66%
+ male: 74%
+ female: 56%
+
+ Labor force: 15.4 million
+ by occupation: agriculture 33%, manufacturing 21%
+ note: shortage of skilled labor (1988 est.)
+
+@Iran:Government
+
+ Names:
+ conventional long form: Islamic Republic of Iran
+ conventional short form: Iran
+ local long form: Jomhuri-ye Eslami-ye Iran
+ local short form: Iran
+
+ Digraph: IR
+
+ Type: theocratic republic
+
+ Capital: Tehran
+
+ Administrative divisions: 24 provinces (ostanha, singular - ostan);
+ Azarbayjan-e Bakhtari (West Azerbaijan), Azarbayjan-e Khavari (East
+ Azerbaijan), Bakhtaran, Bushehr, Chahar Mahall va Bakhtiari, Esfahan,
+ Fars, Gilan, Hamadan, Hormozgan, Ilam, Kerman, Khorasan, Khuzestan,
+ Kohkiluyeh va Buyer Ahmadi, Kordestan, Lorestan, Markazi, Mazandaran,
+ Semnan, Sistan va Baluchestan, Tehran, Yazd, Zanjan
+ note: there may be a new province named Ardabil formed from a part of
+ Azarbayjan-e Khavari (East Azerbaijan) which may have been renamed
+ Azarbayjan-e Markazi (Central Azerbaijan); the name Bakhtaran may have
+ been changed to Kermanshahan
+
+ Independence: 1 April 1979 (Islamic Republic of Iran proclaimed)
+
+ National holiday: Islamic Republic Day, 1 April (1979)
+
+ Constitution: 2-3 December 1979; revised 1989 to expand powers of the
+ presidency and eliminate the prime ministership
+
+ Legal system: the Constitution codifies Islamic principles of
+ government
+
+ Suffrage: 15 years of age; universal
+
+ Executive branch:
+ supreme leader (rahbar) and functional chief of state: Leader of the
+ Islamic Revolution Ayatollah Ali Hoseini-KHAMENEI (since 4 June 1989)
+ head of government: President Ali Akbar Hashemi-RAFSANJANI (since 3
+ August 1989); election last held June 1993 (next to be held June
+ 1997); results - Ali Akbar Hashemi-RAFSANJANI was elected with 63% of
+ the vote
+ cabinet: Council of Ministers; selected by the president with
+ legislative approval
+
+ Legislative branch: unicameral
+ Islamic Consultative Assembly (Majles-e-Shura-ye-Eslami): elections
+ last held 8 April 1992 (next to be held April 1996); results - percent
+ of vote by party NA; seats - (270 seats total) number of seats by
+ party NA
+
+ Judicial branch: Supreme Court
+
+ Political parties and leaders: there are at least 76 licensed parties;
+ the three most important are - Tehran Militant Clergy Association,
+ Mohammad Reza MAHDAVI-KANI; Militant Clerics Association, Mehdi
+ MAHDAVI-KARUBI and Mohammad Asqar MUSAVI-KHOINIHA; Fedaiyin Islam
+ Organization, Sadeq KHALKHALI
+
+ Other political or pressure groups: groups that generally support the
+ Islamic Republic include Hizballah, Mojahedin of the Islamic
+ Revolution, Muslim Students Following the Line of the Imam; armed
+ political groups that have been almost completely repressed by the
+ government include Mojahedin-e Khalq Organization (MEK), People's
+ Fedayeen, Kurdish Democratic Party; the Society for the Defense of
+ Freedom
+
+ Member of: CCC, CP, ECO, ESCAP, FAO, G-19, G-24, G-77, IAEA, IBRD,
+ ICAO, ICC, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, INMARSAT,
+ INTELSAT, INTERPOL, IOC, IOM (observer), ISO, ITU, NAM, OIC, OPEC,
+ PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UPU, WCL, WFTU, WHO, WMO, WTO
+
+ Diplomatic representation in US:
+ chief of mission: Iran has an Interests Section in the Pakistani
+ Embassy in Washington, DC
+ chancery: Iranian Interests Section, 2209 Wisconsin Avenue NW,
+ Washington, DC 20007
+ telephone: [1] (202) 965-4990
+
+ US diplomatic representation: protecting power in Iran is Switzerland
+
+ Flag: three equal horizontal bands of green (top), white, and red; the
+ national emblem (a stylized representation of the word Allah) in red
+ is centered in the white band; Allah Alkbar (God is Great) in white
+ Arabic script is repeated 11 times along the bottom edge of the green
+ band and 11 times along the top edge of the red band
+
+@Iran:Economy
+
+ Overview: Iran's economy is a mixture of central planning, state
+ ownership of oil and other large enterprises, village agriculture, and
+ small-scale private trading and service ventures. Over the past
+ several years, the government has introduced several measures to
+ liberalize the economy and reduce government intervention, but most of
+ these changes have moved slowly because of political opposition. Iran
+ has faced increasingly severe financial difficulties since mid-1992
+ due to an import surge that began in 1989 and general financial
+ mismanagement. At yearend 1993 the Iranian Government estimated that
+ it owed foreign creditors about $30 billion; an estimated $8 billion
+ of this debt was in arrears. At yearend 1994, Iran rescheduled $12
+ billion in debt. Earnings from oil exports - which provide 90% of
+ Iran's export revenues - are providing less relief to Iran than usual
+ because of reduced oil prices.
+
+ National product: GDP - purchasing power parity - $310 billion (1994
+ est.)
+
+ National product real growth rate: -2% (1994 est.)
+
+ National product per capita: $4,720 (1994 est.)
+
+ Inflation rate (consumer prices): 35% (1994)
+
+ Unemployment rate: over 30% (1994 est.)
+
+ Budget:
+ revenues: $NA
+ expenditures: $NA, including capital expenditures of $NA
+
+ Exports: $16 billion (f.o.b., FY92/93 est.)
+ commodities: petroleum 90%, carpets, fruits, nuts, hides
+ partners: Japan, Italy, France, Netherlands, Belgium/Luxembourg,
+ Spain, and Germany
+
+ Imports: $18 billion (c.i.f., FY92/93 est.)
+ commodities: machinery, military supplies, metal works, foodstuffs,
+ pharmaceuticals, technical services, refined oil products
+ partners: Germany, Japan, Italy, UK, UAE
+
+ External debt: $30 billion (December 1993)
+
+ Industrial production: growth rate 4.6% (1993 est.); accounts for
+ almost 30% of GDP, including petroleum
+
+ Electricity:
+ capacity: 19,080,000 kW
+ production: 50.8 billion kWh
+ consumption per capita: 745 kWh (1993)
+
+ Industries: petroleum, petrochemicals, textiles, cement and other
+ building materials, food processing (particularly sugar refining and
+ vegetable oil production), metal fabricating, armaments and military
+ equipment
+
+ Agriculture: accounts for about 20% of GDP; principal products -
+ wheat, rice, other grains, sugar beets, fruits, nuts, cotton, dairy
+ products, wool, caviar; not self-sufficient in food
+
+ Illicit drugs: illicit producer of opium poppy for the domestic and
+ international drug trade; produced 35-70 metric tons in 1993; net
+ opiate importer but also a key transshipment point for Southwest Asian
+ heroin to Europe
+
+ Economic aid:
+ recipient: US commitments, including Ex-Im (FY70-80), $1 billion;
+ Western (non-US) countries, ODA and OOF bilateral commitments
+ (1970-89), $1.675 billion; Communist countries (1970-89), $976 million
+
+ note: aid fell sharply following the 1979 revolution
+
+ Currency: 10 Iranian rials (IR) = 1 toman; note - domestic figures are
+ generally referred to in terms of the toman
+
+ Exchange rates: Iranian rials (IR) per US$1 - 1,749.04 (January 1995),
+ 1,748.75 (1994), 1,267.77 (1993), 65.552 (1992), 67.505 (1991); black
+ market rate: 3,000 rials per US$1 (December 1994)
+
+ Fiscal year: 21 March - 20 March
+
+@Iran:Transportation
+
+ Railroads:
+ total: 4,850 km; note - 480 km under construction from Bafq to
+ Bandar-e 'Abbas; segment from Bafq to Sirjan has been completed and is
+ operational; section from Sirjan to Bandar-e 'Abbas still under
+ construction
+ broad gauge: 90 km 1.676-m gauge
+ narrow gauge: 4,760 km 1.432-m gauge
+
+ Highways:
+ total: 140,200 km
+ paved: 42,694 km
+ unpaved: gravel, crushed stone 46,866 km; improved earth 49,440 km;
+ unimproved earth 1,200 km
+
+ Inland waterways: 904 km; the Shatt al Arab is usually navigable by
+ maritime traffic for about 130 km; channel has been dredged to 3
+ meters and is in use
+
+ Pipelines: crude oil 5,900 km; petroleum products 3,900 km; natural
+ gas 4,550 km
+
+ Ports: Abadan (largely destroyed in fighting during 1980-88 war),
+ Ahvaz, Bandar Beheshti, Bandar-e 'Abbas, Bandar-e Anzali, Bandar-e
+ Bushehr, Bandar-e Khomeyni, Bandar-e Mah Shahr, Bandar-e Torkeman,
+ Jazireh-ye Khark, Jazireh-ye Lavan, Jazireh-ye Sirri, Khorramshahr
+ (limited operation since November 1992), Now Shahr
+
+ Merchant marine:
+ total: 132 ships (1,000 GRT or over) totaling 3,816,820 GRT/6,991,693
+ DWT
+ ships by type: bulk 48, cargo 38, chemical tanker 5, combination bulk
+ 2, liquefied gas tanker 1, oil tanker 26, refrigerated cargo 3,
+ roll-on/roll-off cargo 8, short-sea passenger 1
+
+ Airports:
+ total: 261
+ with paved runways over 3,047 m: 28
+ with paved runways 2,438 to 3,047 m: 12
+ with paved runways 1,524 to 2,437 m: 32
+ with paved runways 914 to 1,523 m: 20
+ with paved runways under 914 m: 46
+ with unpaved runways over 3,047 m: 2
+ with unpaved runways 2,438 to 3,047 m: 2
+ with unpaved runways 1,524 to 2,438 m: 18
+ with unpaved runways 914 to 1,523 m: 101
+
+@Iran:Communications
+
+ Telephone system: 2,143,000 telephones; 35 telephones/1,000 persons
+ local: NA
+ intercity: microwave radio relay extends throughout country; system
+ centered in Tehran
+ international: 3 INTELSAT (2 Atlantic Ocean and 1 Indian Ocean) earth
+ stations; HF radio and microwave radio relay to Turkey, Pakistan,
+ Syria, Kuwait, Tajikistan, and Uzbekistan; submarine fiber optic cable
+ to UAE
+
+ Radio:
+ broadcast stations: AM 77, FM 3, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 28
+ televisions: NA
+
+@Iran:Defense Forces
+
+ Branches: Islamic Republic of Iran Ground Forces, Navy, Air and Air
+ Defense Force, Revolutionary Guards (includes Basij militia with its
+ ground, air, and naval forces), Law Enforcement Forces
+
+ Manpower availability: males age 15-49 14,639,290; males fit for
+ military service 8,703,732; males reach military age (21) annually
+ 615,096 (1995 est.)
+
+ Defense expenditures: according to official Iranian data, Iran spent
+ 1,785 billion rials, including $808 million in hard currency, in 1992
+ and budgeted 2,507 billion rials, including $850 million in hard
+ currency, for 1993
+ note: conversion of rial expenditures into US dollars using the
+ current exchange rate could produce misleading results
+
+
+________________________________________________________________________
+
+IRAQ
+
+@Iraq:Geography
+
+ Location: Middle East, bordering the Persian Gulf, between Iran and
+ Kuwait
+
+ Map references: Middle East
+
+ Area:
+ total area: 437,072 sq km
+ land area: 432,162 sq km
+ comparative area: slightly more than twice the size of Idaho
+
+ Land boundaries: total 3,631 km, Iran 1,458 km, Jordan 181 km, Kuwait
+ 242 km, Saudi Arabia 814 km, Syria 605 km, Turkey 331 km
+
+ Coastline: 58 km
+
+ Maritime claims:
+ continental shelf: not specified
+ territorial sea: 12 nm
+
+ International disputes: Iran and Iraq restored diplomatic relations in
+ 1990 but are still trying to work out written agreements settling
+ outstanding disputes from their eight-year war concerning border
+ demarcation, prisoners-of-war, and freedom of navigation and
+ sovereignty over the Shatt al Arab waterway; in November 1994, Iraq
+ formally accepted the UN-demarcated border with Kuwait which had been
+ spelled out in Security Council Resolutions 687 (1991), 773 (1993),
+ and 883 (1993); this formally ends earlier claims to Kuwait and to
+ Bubiyan and Warbah islands; potential dispute over water development
+ plans by Turkey for the Tigris and Euphrates Rivers
+
+ Climate: mostly desert; mild to cool winters with dry, hot, cloudless
+ summers; northern mountainous regions along Iranian and Turkish
+ borders experience cold winters with occasionally heavy snows which
+ melt in early spring, sometimes causing extensive flooding in central
+ and southern Iraq
+
+ Terrain: mostly broad plains; reedy marshes along Iranian border in
+ south; mountains along borders with Iran and Turkey
+
+ Natural resources: petroleum, natural gas, phosphates, sulfur
+
+ Land use:
+ arable land: 12%
+ permanent crops: 1%
+ meadows and pastures: 9%
+ forest and woodland: 3%
+ other: 75%
+
+ Irrigated land: 25,500 sq km (1989 est)
+
+ Environment:
+ current issues: government water control projects have drained most of
+ the inhabited marsh areas west of Al Qurnah by drying up or diverting
+ the feeder streams and rivers; a once sizable population of Shi'a
+ Muslims, who have inhabited these areas for thousands of years, has
+ been displaced; furthermore, the destruction of the natural habitat
+ poses serious threats to the area's wildlife populations; inadequate
+ supplies of potable water; development of Tigris-Euphrates Rivers
+ system contingent upon agreements with upstream riparian Turkey; air
+ and water pollution; soil degradation (salinization) and erosion;
+ desertification
+ natural hazards: duststorms, sandstorms, floods
+ international agreements: party to - Law of the Sea, Nuclear Test Ban;
+ signed, but not ratified - Environmental Modification
+
+@Iraq:People
+
+ Population: 20,643,769 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 48% (female 4,850,028; male 5,009,513)
+ 15-64 years: 49% (female 5,021,710; male 5,125,191)
+ 65 years and over: 3% (female 338,790; male 298,537) (July 1995 est.)
+
+ Population growth rate: 3.72% (1995 est.)
+
+ Birth rate: 43.6 births/1,000 population (1995 est.)
+
+ Death rate: 6.82 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 0.39 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 62.4 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 66.52 years
+ male: 65.54 years
+ female: 67.56 years (1995 est.)
+
+ Total fertility rate: 6.56 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Iraqi(s)
+ adjective: Iraqi
+
+ Ethnic divisions: Arab 75%-80%, Kurdish 15%-20%, Turkoman, Assyrian or
+ other 5%
+
+ Religions: Muslim 97% (Shi'a 60%-65%, Sunni 32%-37%), Christian or
+ other 3%
+
+ Languages: Arabic, Kurdish (official in Kurdish regions), Assyrian,
+ Armenian
+
+ Literacy: age 15-45 can read and write (1985)
+ total population: 89%
+ male: 90%
+ female: 88%
+
+ Labor force: 4.4 million (1989)
+ by occupation: services 48%, agriculture 30%, industry 22%
+ note: severe labor shortage; expatriate labor force was about
+ 1,600,000 (July 1990); since then, it has declined substantially
+
+@Iraq:Government
+
+ Names:
+ conventional long form: Republic of Iraq
+ conventional short form: Iraq
+ local long form: Al Jumhuriyah al Iraqiyah
+ local short form: Al Iraq
+
+ Digraph: IZ
+
+ Type: republic
+
+ Capital: Baghdad
+
+ Administrative divisions: 18 provinces (muhafazat, singular -
+ muhafazah); Al Anbar, Al Basrah, Al Muthanna, Al Qadisiyah, An Najaf,
+ Arbil, As Sulaymaniyah, At Ta'mim, Babil, Baghdad, Dahuk, Dhi Qar,
+ Diyala, Karbala', Maysan, Ninawa, Salah ad Din, Wasit
+
+ Independence: 3 October 1932 (from League of Nations mandate under
+ British administration)
+
+ National holiday: Anniversary of the Revolution, 17 July (1968)
+
+ Constitution: 22 September 1968, effective 16 July 1970 (provisional
+ Constitution); new constitution drafted in 1990 but not adopted
+
+ Legal system: based on Islamic law in special religious courts, civil
+ law system elsewhere; has not accepted compulsory ICJ jurisdiction
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch:
+ chief of state: President SADDAM Husayn (since 16 July 1979); Vice
+ President Taha Muhyi al-Din MARUF (since 21 April 1974); Vice
+ President Taha Yasin RAMADAN (since 23 March 1991)
+ head of government: Prime Minister SADDAM Husayn (since NA May 1994);
+ Deputy Prime Minister Tariq Mikhail AZIZ (since NA 1979)
+ Revolutionary Command Council: Chairman SADDAM Husayn, Vice Chairman
+ Izzat IBRAHIM al-Duri
+ cabinet: Council of Ministers
+
+ Legislative branch: unicameral
+ National Assembly (Majlis al-Watani): elections last held on 1 April
+ 1989 (next to be held NA); results - Sunni Arabs 53%, Shi'a Arabs 30%,
+ Kurds 15%, Christians 2% (est.); seats - (250 total) number of seats
+ by party NA
+ note: in northern Iraq, a "Kurdish Assembly" was elected in May 1992
+ and calls for Kurdish self-determination within a federated Iraq; the
+ assembly is not recognized by the Baghdad government
+
+ Judicial branch: Court of Cassation
+
+ Political parties and leaders: Ba'th Party
+
+ Other political or pressure groups: political parties and activity
+ severely restricted; opposition to regime from disaffected members of
+ the Ba'th Party, Army officers, and Shi'a religious and ethnic Kurdish
+ dissidents; the Green Party (government-controlled)
+
+ Member of: ABEDA, ACC, AFESD, AL, AMF, CAEU, CCC, ESCWA, FAO, G-19,
+ G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF,
+ IMO, INMARSAT, INTELSAT, INTERPOL, IOC, ITU, NAM, OAPEC, OIC, OPEC,
+ PCA, UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU, WHO, WIPO, WMO, WTO
+
+ Diplomatic representation in US:
+ chief of mission: Iraq has an Interest Section in the Algerian Embassy
+ in Washington, DC
+ chancery: Iraqi Interests Section, 1801 P Street NW, Washington, DC
+ 20036
+ telephone: [1] (202) 483-7500
+ FAX: [1] (202) 462-5066
+
+ US diplomatic representation:
+ chief of mission: (vacant); note - operations have been temporarily
+ suspended; a US Interests Section is located in Poland's embassy in
+ Baghdad
+ embassy: Masbah Quarter (opposite the Foreign Ministry Club), Baghdad
+ mailing address: P. O. Box 2447 Alwiyah, Baghdad
+ telephone: [964] (1) 719-6138, 719-6139, 718-1840, 719-3791
+ FAX: Telex 212287
+
+ Flag: three equal horizontal bands of red (top), white, and black with
+ three green five-pointed stars in a horizontal line centered in the
+ white band; the phrase ALLAHU AKBAR (God is Great) in green Arabic
+ script - Allahu to the right of the middle star and Akbar to the left
+ of the middle star - was added in January 1991 during the Persian Gulf
+ crisis; similar to the flag of Syria that has two stars but no script
+ and the flag of Yemen that has a plain white band; also similar to the
+ flag of Egypt that has a symbolic eagle centered in the white band
+
+@Iraq:Economy
+
+ Overview: The Ba'thist regime engages in extensive central planning
+ and management of industrial production and foreign trade while
+ leaving some small-scale industry and services and most agriculture to
+ private enterprise. The economy has been dominated by the oil sector,
+ which has traditionally provided about 95% of foreign exchange
+ earnings. In the 1980s, financial problems caused by massive
+ expenditures in the eight-year war with Iran and damage to oil export
+ facilities by Iran, led the government to implement austerity measures
+ and to borrow heavily and later reschedule foreign debt payments.
+ After the end of hostilities in 1988, oil exports gradually increased
+ with the construction of new pipelines and restoration of damaged
+ facilities. Agricultural development remained hampered by labor
+ shortages, salinization, and dislocations caused by previous land
+ reform and collectivization programs. The industrial sector, although
+ accorded high priority by the government, also was under financial
+ constraints. Iraq's seizure of Kuwait in August 1990, subsequent
+ international economic embargoes, and military action by an
+ international coalition beginning in January 1991 drastically changed
+ the economic picture. Industrial and transportation facilities, which
+ suffered severe damage, have been partially restored. Oil exports
+ remain at less than 5% of the previous level. Shortages of spare parts
+ continue. Living standards deteriorated even further in 1993 and 1994;
+ consumer prices have more than doubled in both 1993 and 1994. The
+ UN-sponsored economic embargo has reduced exports and imports and has
+ contributed to the sharp rise in prices. The Iraqi government has been
+ unwilling to abide by UN resolutions so that the economic embargo can
+ be removed. The government's policies of supporting large military and
+ internal security forces and of allocating resources to key supporters
+ of the regime have exacerbated shortages. In brief, per capita output
+ in 1993-94 is far below the 1989-90 level, but no precise estimate is
+ available.
+
+ National product: GDP - purchasing power parity - $NA
+
+ National product real growth rate: NA%
+
+ National product per capita: $NA
+
+ Inflation rate (consumer prices): NA%
+
+ Unemployment rate: NA%
+
+ Budget:
+ revenues: $NA
+ expenditures: $NA, including capital expenditures of $NA
+
+ Exports: $10.4 billion (f.o.b., 1990)
+ commodities: crude oil and refined products, fertilizer, sulfur
+ partners: US, Brazil, Turkey, Japan, Netherlands, Spain (1990)
+
+ Imports: $6.6 billion (c.i.f., 1990)
+ commodities: manufactures, food
+ partners: Germany, US, Turkey, France, UK (1990)
+
+ External debt: $50 billion (1989 est.), excluding debt of about $35
+ billion owed to Gulf Arab states
+
+ Industrial production: growth rate NA%; manufacturing accounts for 10%
+ of GNP (1989)
+
+ Electricity:
+ capacity: 7,170,000 kW
+ production: 25.7 billion kWh
+ consumption per capita: 1,247 kWh (1993)
+
+ Industries: petroleum production and refining, chemicals, textiles,
+ construction materials, food processing
+
+ Agriculture: accounted for 11% of GNP and 30% of labor force before
+ the Gulf war; principal products - wheat, barley, rice, vegetables,
+ dates, other fruit, cotton, wool; livestock - cattle, sheep; not
+ self-sufficient in food output
+
+ Economic aid:
+ recipient: US commitments, including Ex-Im (FY70-80), $3 million;
+ Western (non-US) countries, ODA and OOF bilateral commitments
+ (1970-89), $647 million; Communist countries (1970-89), $3.9 billion
+
+ Currency: 1 Iraqi dinar (ID) = 1,000 fils
+
+ Exchange rates: Iraqi dinars (ID) per US$1 - 3.2 (fixed official rate
+ since 1982); black-market rate (March 1995) US$1 = 1200 Iraqi dinars;
+ semi-official rate US$1 = 650 Iraqi dinars
+
+ Fiscal year: calendar year
+
+@Iraq:Transportation
+
+ Railroads:
+ total: 2,457 km
+ standard gauge: 2,457 km 1.435-m gauge
+
+ Highways:
+ total: 45,550 km
+ paved: 38,400 km
+ unpaved: 7,150 km (1989 est.)
+
+ Inland waterways: 1,015 km; Shatt al Arab is usually navigable by
+ maritime traffic for about 130 km; channel has been dredged to 3
+ meters and is in use; Tigris and Euphrates Rivers have navigable
+ sections for shallow-draft watercraft; Shatt al Basrah canal was
+ navigable by shallow-draft craft before closing in 1991 because of the
+ Persian Gulf war
+
+ Pipelines: crude oil 4,350 km; petroleum products 725 km; natural gas
+ 1,360 km
+
+ Ports: Umm Qasr, Khawr az Zubayr, and Al Basrah have limited
+ functionality
+
+ Merchant marine:
+ total: 36 ships (1,000 GRT or over) totaling 795,346 GRT/1,431,154 DWT
+
+ ships by type: cargo 14, oil tanker 16, passenger 1, passenger-cargo
+ 1, refrigerated cargo 1, roll-on/roll-off cargo 3
+
+ Airports:
+ total: 121
+ with paved runways over 3,047 m: 21
+ with paved runways 2,438 to 3,047 m: 34
+ with paved runways 1,524 to 2,437 m: 8
+ with paved runways 914 to 1,523 m: 7
+ with paved runways under 914 m: 22
+ with unpaved runways over 3,047 m: 3
+ with unpaved runways 2,438 to 3,047 m: 5
+ with unpaved runways 1,524 to 2,438 m: 5
+ with unpaved runways 914 to 1,523 m: 16
+
+@Iraq:Communications
+
+ Telephone system: 632,000 telephones; reconstitution of damaged
+ telecommunication facilities began after the Gulf war; most damaged
+ facilities have been rebuilt
+ local: NA
+ intercity: the network consists of coaxial cables and microwave radio
+ relay links
+ international: 2 INTELSAT (1 Atlantic Ocean and 1 Indian Ocean), 1
+ GORIZONT (Atlantic Ocean) in the Intersputnik system, and 1 ARABSAT
+ earth station; coaxial cable and microwave radio relay to Jordan,
+ Kuwait, Syria, and Turkey; Kuwait line is probably non-operational
+
+ Radio:
+ broadcast stations: AM 16, FM 1, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 13
+ televisions: NA
+
+@Iraq:Defense Forces
+
+ Branches: Army, Republican Guard and Special Republican Guard, Navy,
+ Air Force, Air Defense Force, Border Guard Force, Internal Security
+ Forces
+
+ Manpower availability: males age 15-49 4,626,610; males fit for
+ military service 2,597,687; males reach military age (18) annually
+ 229,015 (1995 est.)
+
+ Defense expenditures: $NA, NA% of GNP
+
+
+________________________________________________________________________
+
+IRELAND
+
+@Ireland:Geography
+
+ Location: Western Europe, occupying five-sixths of the island of
+ Ireland in the North Atlantic Ocean, west of Great Britain
+
+ Map references: Europe
+
+ Area:
+ total area: 70,280 sq km
+ land area: 68,890 sq km
+ comparative area: slightly larger than West Virginia
+
+ Land boundaries: total 360 km, UK 360 km
+
+ Coastline: 1,448 km
+
+ Maritime claims:
+ continental shelf: not specified
+ exclusive fishing zone: 200 nm
+ territorial sea: 12 nm
+
+ International disputes: Northern Ireland question with the UK; Rockall
+ continental shelf dispute involving Denmark, Iceland, and the UK
+ (Ireland and the UK have signed a boundary agreement in the Rockall
+ area)
+
+ Climate: temperate maritime; modified by North Atlantic Current; mild
+ winters, cool summers; consistently humid; overcast about half the
+ time
+
+ Terrain: mostly level to rolling interior plain surrounded by rugged
+ hills and low mountains; sea cliffs on west coast
+
+ Natural resources: zinc, lead, natural gas, petroleum, barite, copper,
+ gypsum, limestone, dolomite, peat, silver
+
+ Land use:
+ arable land: 14%
+ permanent crops: 0%
+ meadows and pastures: 71%
+ forest and woodland: 5%
+ other: 10%
+
+ Irrigated land: NA sq km
+
+ Environment:
+ current issues: water pollution, especially of lakes, from
+ agricultural runoff
+ natural hazards: NA
+ international agreements: party to - Air Pollution, Air
+ Pollution-Nitrogen Oxides, Climate Change, Environmental Modification,
+ Hazardous Wastes, Marine Dumping, Nuclear Test Ban, Ozone Layer
+ Protection, Tropical Timber 83, Wetlands, Whaling; signed, but not
+ ratified - Air Pollution-Sulphur 94, Biodiversity, Desertification,
+ Endangered Species, Law of the Sea, Marine Life Conservation
+
+ Note: strategic location on major air and sea routes between North
+ America and northern Europe; over 40% of the population resides within
+ 60 miles of Dublin
+
+@Ireland:People
+
+ Population: 3,550,448 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 24% (female 415,640; male 440,468)
+ 15-64 years: 64% (female 1,125,638; male 1,155,823)
+ 65 years and over: 12% (female 237,098; male 175,781) (July 1995 est.)
+
+ Population growth rate: 0.33% (1995 est.)
+
+ Birth rate: 14.04 births/1,000 population (1995 est.)
+
+ Death rate: 8.48 deaths/1,000 population (1995 est.)
+
+ Net migration rate: -2.22 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 7.2 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 75.99 years
+ male: 73.15 years
+ female: 79 years (1995 est.)
+
+ Total fertility rate: 1.95 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Irishman(men), Irishwoman(men), Irish (collective plural)
+ adjective: Irish
+
+ Ethnic divisions: Celtic, English
+
+ Religions: Roman Catholic 93%, Anglican 3%, none 1%, unknown 2%, other
+ 1% (1981)
+
+ Languages: Irish (Gaelic), spoken mainly in areas located along the
+ western seaboard, English is the language generally used
+
+ Literacy: age 15 and over can read and write (1981 est.)
+ total population: 98%
+
+ Labor force: 1.37 million
+ by occupation: services 57.0%, manufacturing and construction 28%,
+ agriculture, forestry, and fishing 13.5%, energy and mining 1.5%
+ (1992)
+
+@Ireland:Government
+
+ Names:
+ conventional long form: none
+ conventional short form: Ireland
+
+ Digraph: EI
+
+ Type: republic
+
+ Capital: Dublin
+
+ Administrative divisions: 26 counties; Carlow, Cavan, Clare, Cork,
+ Donegal, Dublin, Galway, Kerry, Kildare, Kilkenny, Laois, Leitrim,
+ Limerick, Longford, Louth, Mayo, Meath, Monaghan, Offaly, Roscommon,
+ Sligo, Tipperary, Waterford, Westmeath, Wexford, Wicklow
+
+ Independence: 6 December 1921 (from UK)
+
+ National holiday: Saint Patrick's Day, 17 March
+
+ Constitution: 29 December 1937; adopted 1 July 1937 by plebescite
+
+ Legal system: based on English common law, substantially modified by
+ indigenous concepts; judicial review of legislative acts in Supreme
+ Court; has not accepted compulsory ICJ jurisdiction
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch:
+ chief of state: President Mary Bourke ROBINSON (since 9 November
+ 1990); election last held 9 November 1990 (next to be held November
+ 1997); results - Mary Bourke ROBINSON 52.8%, Brian LENIHAN 47.2%
+ head of government: Prime Minister John BRUTON (since 15 December
+ 1994)
+ cabinet: Cabinet; appointed by president with previous nomination of
+ the prime minister and approval of the House of Representatives
+
+ Legislative branch: bicameral Parliament (Oireachtas)
+ Senate (Seanad Eireann): elections last held NA February 1992 (next to
+ be held NA February 1997); results - percent of vote by party NA;
+ seats - (60 total, 49 elected) Fianna Fail 26, Fine Gael 16, Labor 9,
+ Progressive Democrats 2, Democratic Left 1, independents 6
+ House of Representatives (Dail Eireann): elections last held on 25
+ November 1992 (next to be held by November 1997); results - Fianna
+ Fail 39.1%, Fine Gael 24.5%, Labor Party 19.3%, Progressive Democrats
+ 4.7%, Democratic Left 2.8%, Sinn Fein 1.6%, Workers' Party 0.7%,
+ independents 5.9%; seats - (166 total) Fianna Fail 68, Fine Gael 45,
+ Labor Party 33, Progressive Democrats 10 Democratic Left 4, Greens 1,
+ independents 5
+
+ Judicial branch: Supreme Court
+
+ Political parties and leaders: Democratic Left, Proinsias DE ROSSA;
+ Fianna Fail, Bertie AHERN; Labor Party, Richard SPRING; Fine Gael,
+ John BRUTON; Communist Party of Ireland, Michael O'RIORDAN; Sinn Fein,
+ Gerry ADAMS; Progressive Democrats, Desmond O'MALLEY; The Workers'
+ Party, Marion DONNELLY; Green Alliance, Bronwen MAHER
+ note: Prime Minister BRUTON heads a three-party coalition consisting
+ of the Fine Gael, the Labor Party, and the Democratic Left
+
+ Member of: Australia Group, BIS, CCC, CE, EBRD, EC, ECE, EIB, ESA,
+ FAO, GATT, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IEA, IFAD, IFC, IFRCS,
+ ILO, IMF, IMO, INTELSAT, INTERPOL, IOC, ISO, ITU, MINURSO, MTCR, NEA,
+ NSG, OECD, ONUSAL, OSCE, UN, UNCTAD, UNESCO, UNFICYP, UNIDO, UNIFIL,
+ UNIKOM, UNOMOZ, UNOSOM, UNPROFOR, UNTSO, UPU, WEU (observer), WHO,
+ WIPO, WMO, ZC
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Dermot A. GALLAGHER
+ chancery: 2234 Massachusetts Avenue NW, Washington, DC 20008
+ telephone: [1] (202) 462-3939
+ consulate(s) general: Boston, Chicago, New York, and San Francisco
+
+ US diplomatic representation:
+ chief of mission: Ambassador Jean Kennedy SMITH
+ embassy: 42 Elgin Road, Ballsbridge, Dublin
+ mailing address: use embassy street address
+ telephone: [353] (1) 6687122
+ FAX: [353] (1) 6689946
+
+ Flag: three equal vertical bands of green (hoist side), white, and
+ orange; similar to the flag of the Cote d'Ivoire, which is shorter and
+ has the colors reversed - orange (hoist side), white, and green; also
+ similar to the flag of Italy, which is shorter and has colors of green
+ (hoist side), white, and red
+
+@Ireland:Economy
+
+ Overview: The economy is small and trade dependent. Agriculture, once
+ the most important sector, is now dwarfed by industry, which accounts
+ for 37% of GDP, about 80% of exports, and employs 28% of the labor
+ force. Although exports remain the primary engine for Ireland's robust
+ growth, the economy is also benefiting from a rise in consumer
+ spending and recovery in both construction and business investment.
+ Ireland has substantially reduced its external debt since 1987, to 40%
+ of GDP in 1994. Over the same period, inflation has fallen sharply and
+ chronic trade deficits have been transformed into annual surpluses.
+ Unemployment remains a serious problem, however, and job creation is
+ the main focus of government policy. To ease unemployment, Dublin
+ aggressively courts foreign investors and recently created a new
+ industrial development agency to aid small indigenous firms.
+ Government assistance is constrained by Dublin's continuing deficit
+ reduction measures.
+
+ National product: GDP - purchasing power parity - $49.8 billion (1994
+ est.)
+
+ National product real growth rate: 5.5% (1994 est.)
+
+ National product per capita: $14,060 (1994 est.)
+
+ Inflation rate (consumer prices): 2.7% (1994 est.)
+
+ Unemployment rate: 16% (1994 est.)
+
+ Budget:
+ revenues: $16 billion
+ expenditures: $16.6 billion, including capital expenditures of $NA
+ (1994)
+
+ Exports: $28 billion (f.o.b., 1994 est.)
+ commodities: chemicals, data processing equipment, industrial
+ machinery, live animals, animal products
+ partners: EU 75% (UK 32%, Germany 13%, France 10%), US 9%
+
+ Imports: $26 billion (c.i.f., 1994 est.)
+ commodities: food, animal feed, data processing equipment, petroleum
+ and petroleum products, machinery, textiles, clothing
+ partners: EU 66% (UK 41%, Germany 8%, France 4%), US 15%
+
+ External debt: $20 billion (1994 est.)
+
+ Industrial production: growth rate 8.5% (1994 est.); accounts for 37%
+ of GDP
+
+ Electricity:
+ capacity: 3,930,000 kW
+ production: 14.9 billion kWh
+ consumption per capita: 3,938 kWh (1993)
+
+ Industries: food products, brewing, textiles, clothing, chemicals,
+ pharmaceuticals, machinery, transportation equipment, glass and
+ crystal
+
+ Agriculture: accounts for 10% of GDP; principal crops - turnips,
+ barley, potatoes, sugar beets, wheat; livestock - meat and dairy
+ products; 85% self-sufficient in food; food shortages include bread
+ grain, fruits, vegetables
+
+ Illicit drugs: transshipment point for hashish from North Africa to
+ the UK and Netherlands
+
+ Economic aid:
+ donor: ODA commitments (1980-89), $90 million
+
+ Currency: 1 Irish pound (#Ir) = 100 pence
+
+ Exchange rates: Irish pounds (#Ir) per US$1 - 0.6420 (January 1995),
+ 0.6676 (1994), 0.6816 (1993), 0.5864 (1992), 0.6190 (1991), 0.6030
+ (1990)
+
+ Fiscal year: calendar year
+
+@Ireland:Transportation
+
+ Railroads:
+ total: 1,947 km
+ broad gauge: 1,947 km 1.600-m gauge (36 km electrified; 485 km double
+ track)
+
+ Highways:
+ total: 92,327 km
+ paved: 86,787 km (32 km of expressways)
+ unpaved: gravel, crushed stone 5,540 km (1992)
+
+ Inland waterways: limited for commercial traffic
+
+ Pipelines: natural gas 225 km
+
+ Ports: Arklow, Cork, Drogheda, Dublin, Foynes, Galway, Limerick, New
+ Ross, Waterford
+
+ Merchant marine:
+ total: 47 ships (1,000 GRT or over) totaling 129,996 GRT/160,419 DWT
+ ships by type: bulk 4, cargo 33, chemical tanker 2, container 2, oil
+ tanker 1, short-sea passenger 3, specialized tanker 2
+
+ Airports:
+ total: 44
+ with paved runways over 3,047 m: 1
+ with paved runways 2,438 to 3,047 m: 1
+ with paved runways 1,524 to 2,437 m: 4
+ with paved runways 914 to 1,523 m: 2
+ with paved runways under 914 m: 32
+ with unpaved runways 914 to 1,523 m: 4
+
+@Ireland:Communications
+
+ Telephone system: 900,000 telephones; modern digital system using
+ cable and microwave radio relay
+ local: NA
+ intercity: microwave radio relay
+ international: 1 INTELSAT (Atlantic Ocean) earth station
+
+ Radio:
+ broadcast stations: AM 9, FM 45, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 86
+ televisions: NA
+
+@Ireland:Defense Forces
+
+ Branches: Army (includes Naval Service and Air Corps), National Police
+ (Garda Siochana)
+
+ Manpower availability: males age 15-49 926,831; males fit for military
+ service 749,646; males reach military age (17) annually 34,215 (1995
+ est.)
+
+ Defense expenditures: exchange rate conversion - $500 million, 1.3% of
+ GDP (1994)
+
+
+________________________________________________________________________
+
+ISRAEL
+
+ (also see separate Gaza Strip and West Bank entries) Note: The
+ territories occupied by Israel since the 1967 war are not included in
+ the data below. In keeping with the framework established at the
+ Madrid Conference in October 1991, bilateral negotiations are being
+ conducted between Israel and Palestinian representatives, Syria, and
+ Jordan to determine the final status of the occupied territories. On
+ 25 April 1982, Israel withdrew from the Sinai pursuant to the 1979
+ Israel-Egypt Peace treaty. Outstanding territorial and other disputes
+ with Jordan were resolved in the 26 October 1994 Israel-Jordan Treaty
+ of Peace. 
+
+@Israel:Geography
+
+ Location: Middle East, bordering the Mediterranean Sea, between Egypt
+ and Lebanon
+
+ Map references: Middle East
+
+ Area:
+ total area: 20,770 sq km
+ land area: 20,330 sq km
+ comparative area: slightly larger than New Jersey
+
+ Land boundaries: total 1,006 km, Egypt 255 km, Gaza Strip 51 km,
+ Jordan 238 km, Lebanon 79 km, Syria 76 km, West Bank 307 km
+
+ Coastline: 273 km
+
+ Maritime claims:
+ continental shelf: to depth of exploitation
+ territorial sea: 12 nm
+
+ International disputes: separated from Lebanon, Syria, and the West
+ Bank by the 1949 Armistice Line; the Gaza Strip and Jericho area,
+ formerly occupied by Israel, are now administered largely by the
+ Palestinian Authority; other areas of the West Bank outside Jericho
+ are administered jointly by Israel and the Palestinian Authority;
+ Golan Heights is Israeli occupied; Israeli troops in southern Lebanon
+ since June 1982
+
+ Climate: temperate; hot and dry in southern and eastern desert areas
+
+ Terrain: Negev desert in the south; low coastal plain; central
+ mountains; Jordan Rift Valley
+
+ Natural resources: copper, phosphates, bromide, potash, clay, sand,
+ sulfur, asphalt, manganese, small amounts of natural gas and crude oil
+
+ Land use:
+ arable land: 17%
+ permanent crops: 5%
+ meadows and pastures: 40%
+ forest and woodland: 6%
+ other: 32%
+
+ Irrigated land: 2,140 sq km (1989)
+
+ Environment:
+ current issues: limited arable land and natural fresh water resources
+ pose serious constraints; desertification; air pollution from
+ industrial and vehicle emissions; groundwater pollution from
+ industrial and domestic waste, chemical fertilizers, and pesticides
+ natural hazards: sandstorms may occur during spring and summer
+ international agreements: party to - Biodiversity, Endangered Species,
+ Hazardous Wastes, Nuclear Test Ban, Ozone Layer Protection, Ship
+ Pollution; signed, but not ratified - Climate Change, Desertification,
+ Marine Life Conservation
+
+ Note: there are 199 Jewish settlements and civilian land use sites in
+ the West Bank, 42 in the Israeli-occupied Golan Heights, 24 in the
+ Gaza Strip, and 25 in East Jerusalem (August 1994 est.)
+
+@Israel:People
+
+ Population: 5,433,134 (July 1995 est.)
+ note: includes 122,000 Jewish settlers in the West Bank, 14,500 in the
+ Israeli-occupied Golan Heights, 4,800 in the Gaza Strip, and 149,000
+ in East Jerusalem (August 1994 est.)
+
+ Age structure:
+ 0-14 years: 29%
+ 15-64 years: 61%
+ 65 years and over: 10%
+
+ Population growth rate: 1.4% (1995 est.)
+
+ Birth rate: 20.39 births/1,000 population (1995 est.)
+
+ Death rate: 6.38 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 0 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 8.4 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 78.14 years
+ male: 76 years
+ female: 80.39 years (1995 est.)
+
+ Total fertility rate: 2.81 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Israeli(s)
+ adjective: Israeli
+
+ Ethnic divisions: Jewish 82% (Israel born 50%, Europe/Americas/Oceania
+ born 20%, Africa born 7%, Asia born 5%), non-Jewish 18% (mostly Arab)
+ (1993 est.)
+
+ Religions: Judaism 82%, Islam 14% (mostly Sunni Muslim), Christian 2%,
+ Druze and other 2%
+
+ Languages: Hebrew (official), Arabic used officially for Arab
+ minority, English most commonly used foreign language
+
+ Literacy: age 15 and over can read and write (1992)
+ total population: 95%
+ male: 97%
+ female: 93%
+
+ Labor force: 1.9 million (1992)
+ by occupation: public services 29.3%, industry 22.1%, commerce 13.9%,
+ finance and business 10.4%, personal and other services 7.4%,
+ construction 6.5%, transport, storage, and communications 6.3%,
+ agriculture, forestry, and fishing 3.5%, other 0.6% (1992)
+
+@Israel:Government
+
+ Names:
+ conventional long form: State of Israel
+ conventional short form: Israel
+ local long form: Medinat Yisra'el
+ local short form: Yisra'el
+
+ Digraph: IS
+
+ Type: republic
+
+ Capital: Jerusalem
+ note: Israel proclaimed Jerusalem its capital in 1950, but the US,
+ like nearly all other countries, does not recognize this status, and
+ maintains its Embassy in Tel Aviv
+
+ Administrative divisions: 6 districts (mehozot, singular - mehoz);
+ Central, Haifa, Jerusalem, Northern, Southern, Tel Aviv
+
+ Independence: 14 May 1948 (from League of Nations mandate under
+ British administration)
+
+ National holiday: Independence Day, 14 May 1948 (Israel declared
+ independence on 14 May 1948, but the Jewish calendar is lunar and the
+ holiday may occur in April or May)
+
+ Constitution: no formal constitution; some of the functions of a
+ constitution are filled by the Declaration of Establishment (1948),
+ the basic laws of the parliament (Knesset), and the Israeli
+ citizenship law
+
+ Legal system: mixture of English common law, British Mandate
+ regulations, and, in personal matters, Jewish, Christian, and Muslim
+ legal systems; in December 1985, Israel informed the UN Secretariat
+ that it would no longer accept compulsory ICJ jurisdiction
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch:
+ chief of state: President Ezer WEIZMAN (since 13 May 1993) election
+ last held 24 March 1993 (next to be held NA March 1999); results -
+ Ezer WEIZMAN elected by Knesset
+ head of government: Prime Minister Yitzhak RABIN (since NA July 1992)
+ cabinet: Cabinet; selected from and approved by the Knesset
+
+ Legislative branch: unicameral
+ parliament (Knesset): elections last held NA June 1992 (next to be
+ held by NA 1996); results - percent of vote by party NA; seats - (120
+ total) Labor 44, Likud 32, MERETZ 12, Tzomet 8, National Religious
+ Party 6, SHAS 6, United Torah Jewry 4, Democratic Front for Peace and
+ Equality (Hadash) 3, Moledet 3, Arab Democratic Party 2; note - in
+ 1994 four legislators broke party ranks, resulting in the following
+ new distribution of seats - Labor Party 44, Likud bloc 32, MERETZ 12,
+ National Religious Party 6, SHAS 6, Tzomet 5, United Torah Jewry 4,
+ Democratic Front for Peace and Equality (Hadash) 3, Moledet 2, Arab
+ Democratic Party 2, independents 4 (1 in coalition, 3 voting with
+ opposition)
+
+ Judicial branch: Supreme Court
+
+ Political parties and leaders:
+ members of the government: Labor Party, Prime Minister Yitzhak RABIN;
+ MERETZ, Minister of Communications Shulamit ALONI; independent, Gonen
+ SEGEV
+ not in coalition, but voting with the government: Democratic Front for
+ Peace and Equality (Hadash), Hashim MAHAMID; Arab Democratic Party,
+ Abd al Wahab DARAWSHAH
+ opposition parties: Likud Party, Binyamin NETANYAHU; Tzomet, Rafael
+ EITAN; National Religious Party, Zevulun HAMMER; United Torah Jewry,
+ Avraham SHAPIRA; Moledet, Rehavam ZEEVI; Peace Guard (independent),
+ Shaul GUTMAN; SHAS, Arieh DERI
+ note: Israel currently has a coalition government comprising 2 parties
+ and an independent that hold 57 seats of the Knesset's 120 seats
+
+ Other political or pressure groups: Gush Emunim, Israeli nationalists
+ advocating Jewish settlement on the West Bank and Gaza Strip; Peace
+ Now supports territorial concessions in the West Bank and is critical
+ of government's Lebanon policy
+
+ Member of: AG (observer), CCC, CE (observer), CERN (observer), EBRD,
+ ECE, FAO, GATT, IADB, IAEA, IBRD, ICAO, ICC, ICFTU, IDA, IFAD, IFC,
+ ILO, IMF, IMO, INMARSAT, INTELSAT, INTERPOL, IOC, IOM, ISO, ITU, OAS
+ (observer), PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UPU, WHO, WIPO,
+ WMO, WTO
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Itamar RABINOVICH
+ chancery: 3514 International Drive NW, Washington, DC 20008
+ telephone: [1] (202) 364-5500
+ FAX: [1] (202) 364-5610
+ consulate(s) general: Atlanta, Boston, Chicago, Houston, Los Angeles,
+ Miami, New York, Philadelphia, and San Francisco
+
+ US diplomatic representation:
+ chief of mission: Ambassador Martin INDYK
+ embassy: 71 Hayarkon Street, Tel Aviv
+ mailing address: PSC 98, Box 100, Tel Aviv; APO AE 09830
+ telephone: [972] (3) 517-4338
+ FAX: [972] (3) 663-449
+ consulate(s) general: Jerusalem
+
+ Flag: white with a blue hexagram (six-pointed linear star) known as
+ the Magen David (Shield of David) centered between two equal
+ horizontal blue bands near the top and bottom edges of the flag
+
+@Israel:Economy
+
+ Overview: Israel has a market economy with substantial government
+ participation. It depends on imports of crude oil, grains, raw
+ materials, and military equipment. Despite limited natural resources,
+ Israel has intensively developed its agricultural and industrial
+ sectors over the past 20 years. Industry employs about 22% of Israeli
+ workers, construction 6.5%, agriculture, forestry, and fishing 3.5%,
+ and services most of the rest. Israel is largely self-sufficient in
+ food production except for grains. Diamonds, high-technology
+ equipment, and agricultural products (fruits and vegetables) are
+ leading exports. Israel usually posts current account deficits, which
+ are covered by large transfer payments from abroad and by foreign
+ loans. Roughly half of the government's external debt is owed to the
+ United States, which is its major source of economic and military aid.
+ To earn needed foreign exchange, Israel has been targeting
+ high-technology niches in international markets, such as medical
+ scanning equipment. The influx of Jewish immigrants from the former
+ USSR, which topped 450,000 during the period 1990-94, increased
+ unemployment, intensified housing problems, and strained the
+ government budget. At the same time, the immigrants bring to the
+ economy valuable scientific and professional expertise.
+
+ National product: GDP - purchasing power parity - $70.1 billion (1994
+ est.)
+
+ National product real growth rate: 6.8% (1994 est.)
+
+ National product per capita: $13,880 (1994 est.)
+
+ Inflation rate (consumer prices): 14.5% (1994)
+
+ Unemployment rate: 7.5% (1994 est.)
+
+ Budget:
+ revenues: $42.3 billion
+ expenditures: $45.4 billion, including capital expenditures of $11.1
+ billion (FY92/93)
+
+ Exports: $16.2 billion (f.o.b., 1994 est.)
+ commodities: machinery and equipment, cut diamonds, chemicals,
+ textiles and apparel, agricultural products, metals
+ partners: US, EU, Japan
+
+ Imports: $22.5 billion (c.i.f., 1994 est.)
+ commodities: military equipment, investment goods, rough diamonds,
+ oil, other productive inputs, consumer goods
+ partners: EU, US, Japan
+
+ External debt: $25.9 billion (November 1994 est.)
+
+ Industrial production: growth rate 8% (1994 est.); accounts for about
+ 30% of GDP
+
+ Electricity:
+ capacity: 4,140,000 kW
+ production: 23 billion kWh
+ consumption per capita: 4,290 kWh (1993)
+
+ Industries: food processing, diamond cutting and polishing, textiles
+ and apparel, chemicals, metal products, military equipment, transport
+ equipment, electrical equipment, miscellaneous machinery, potash
+ mining, high-technology electronics, tourism
+
+ Agriculture: citrus and other fruits, vegetables, cotton; beef,
+ poultry, dairy products
+
+ Illicit drugs: increasingly concerned about cocaine and heroin abuse
+ and trafficking
+
+ Economic aid:
+ recipient: US commitments, including Ex-Im (FY70-90), $18.2 billion;
+ Western (non-US) countries, ODA and OOF bilateral commitments
+ (1970-89), $2.8 billion
+
+ Currency: 1 new Israeli shekel (NIS) = 100 new agorot
+
+ Exchange rates: new Israeli shekels (NIS) per US$1 - 3.070 (December
+ 1994), 3.0111 (1994), 2.8301 (1993), 2.4591 (1992), 2.2791 (1991),
+ 2.0162 (1990), 1.9164 (1989)
+
+ Fiscal year: calendar year (since 1 January 1992)
+
+@Israel:Transportation
+
+ Railroads:
+ total: 520 km (diesel operated; single track)
+ standard gauge: 520 km 1.435-m gauge
+
+ Highways:
+ total: 13,461 km
+ paved: 13,461 km
+
+ Pipelines: crude oil 708 km; petroleum products 290 km; natural gas 89
+ km
+
+ Ports: Ashdod, Ashqelon, Elat, Hadera, Haifa, Tel Aviv-Yafo
+
+ Merchant marine:
+ total: 32 ships (1,000 GRT or over) totaling 624,861 GRT/720,765 DWT
+ ships by type: cargo 7, container 22, refrigerated cargo 2,
+ roll-on/roll-off cargo 1
+
+ Airports:
+ total: 57
+ with paved runways over 3,047 m: 2
+ with paved runways 2,438 to 3,047 m: 6
+ with paved runways 1,524 to 2,437 m: 8
+ with paved runways 914 to 1,523 m: 7
+ with paved runways under 914 m: 31
+ with unpaved runways 914 to 1,523 m: 3
+
+@Israel:Communications
+
+ Telephone system: 1,800,000 telephones; most highly developed in the
+ Middle East although not the largest
+ local: NA
+ intercity: good system of coaxial cable and microwave radio relay
+ international: 3 submarine cables; 3 INTELSAT (2 Atlantic Ocean and 1
+ Indian Ocean) earth stations
+
+ Radio:
+ broadcast stations: AM 9, FM 45, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 20
+ televisions: NA
+
+@Israel:Defense Forces
+
+ Branches: Israel Defense Forces (includes ground, naval, and air
+ components), Pioneer Fighting Youth (Nahal), Frontier Guard, Chen
+ (women); note - historically there have been no separate Israeli
+ military services
+
+ Manpower availability: males age 15-49 1,309,502; females age 15-49
+ 1,283,923; males fit for military service 1,072,501; females fit for
+ military service 1,047,575; males reach military age (18) annually
+ 47,950; females reach military age (18) annually 45,839 (1995 est.)
+ note: military service mandatory for men and women
+
+ Defense expenditures: exchange rate conversion - $6.5 billion, about
+ 10% of GDP (1995)
+
+
+________________________________________________________________________
+
+ITALY
+
+@Italy:Geography
+
+ Location: Southern Europe, a peninsula extending into the central
+ Mediterranean Sea, northeast of Tunisia
+
+ Map references: Europe
+
+ Area:
+ total area: 301,230 sq km
+ land area: 294,020 sq km
+ comparative area: slightly larger than Arizona
+ note: includes Sardinia and Sicily
+
+ Land boundaries: total 1,899.2 km, Austria 430 km, France 488 km, Holy
+ See (Vatican City) 3.2 km, San Marino 39 km, Slovenia 199 km,
+ Switzerland 740 km
+
+ Coastline: 4,996 km
+
+ Maritime claims:
+ continental shelf: 200-m depth or to the depth of exploitation
+ territorial sea: 12 nm
+
+ International disputes: none
+
+ Climate: predominantly Mediterranean; Alpine in far north; hot, dry in
+ south
+
+ Terrain: mostly rugged and mountainous; some plains, coastal lowlands
+
+ Natural resources: mercury, potash, marble, sulfur, dwindling natural
+ gas and crude oil reserves, fish, coal
+
+ Land use:
+ arable land: 32%
+ permanent crops: 10%
+ meadows and pastures: 17%
+ forest and woodland: 22%
+ other: 19%
+
+ Irrigated land: 31,000 sq km (1989 est.)
+
+ Environment:
+ current issues: air pollution from industrial emissions such as sulfur
+ dioxide; coastal and inland rivers polluted from industrial and
+ agricultural effluents; acid rain damaging lakes; inadequate
+ industrial waste treatment and disposal facilities
+ natural hazards: regional risks include landslides, mudflows,
+ avalanches, earthquakes, volcanic eruptions, flooding; land subsidence
+ in Venice
+ international agreements: party to - Air Pollution, Air
+ Pollution-Nitrogen Oxides, Air Pollution-Sulphur 85, Antarctic Treaty,
+ Biodiversity, Climate Change, Endangered Species, Environmental
+ Modification, Hazardous Wastes, Law of the Sea, Marine Dumping,
+ Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical
+ Timber 83, Wetlands; signed, but not ratified - Air Pollution-Sulphur
+ 94, Air Pollution-Volatile Organic Compounds, Antarctic-Environmental
+ Protocol, Desertification
+
+ Note: strategic location dominating central Mediterranean as well as
+ southern sea and air approaches to Western Europe
+
+@Italy:People
+
+ Population: 58,261,971 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 15% (female 4,352,325; male 4,603,083)
+ 15-64 years: 68% (female 19,969,086; male 19,874,528)
+ 65 years and over: 17% (female 5,630,747; male 3,832,202) (July 1995
+ est.)
+
+ Population growth rate: 0.21% (1995 est.)
+
+ Birth rate: 10.89 births/1,000 population (1995 est.)
+
+ Death rate: 9.78 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 1.03 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 7.4 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 77.85 years
+ male: 74.67 years
+ female: 81.23 years (1995 est.)
+
+ Total fertility rate: 1.41 children born/woman (1995 est.)
+
+
+Back to Full Books

@@ -1,0 +1,2003 @@
+The 1995 CIA World Factbook
+
+ Electricity:
+ capacity: 2,440,000 kW
+ production: 7.8 billion kWh
+ consumption per capita: 650 kWh (1993)
+
+ Industries: copper mining and processing, construction, foodstuffs,
+ beverages, chemicals, textiles, and fertilizer
+
+ Agriculture: accounts for 12% of GDP and 85% of labor force; crops -
+ corn (food staple), sorghum, rice, peanuts, sunflower, tobacco,
+ cotton, sugarcane, cassava; cattle, goats, beef, eggs
+
+ Illicit drugs: increasingly a regional transshipment center for
+ methaqualone and heroin
+
+ Economic aid:
+ recipient: US commitments, including Ex-Im (1970-89), $4.8 billion;
+ Western (non-US) countries, ODA and OOF bilateral commitments
+ (1970-89), $4.8 billion; OPEC bilateral aid (1979-89), $60 million;
+ Communist countries (1970-89), $533 million
+
+ Currency: 1 Zambian kwacha (ZK) = 100 ngwee
+
+ Exchange rates: Zambian kwacha (ZK) per US$1 - 672.8 (September 1994),
+ 434.78 (1993), 156.25 (1992), 61.7284 (1991), 28.9855 (1990)
+
+ Fiscal year: calendar year
+
+@Zambia:Transportation
+
+ Railroads:
+ total: 1,273 km
+ narrow gauge: 1,273 km 1.067-m gauge (13 km double track)
+ note: not a part of Zambia Railways is the Tanzania-Zambia Railway
+ Authority (TAZARA), which operates 1,860 km of 1.067-m narrow gauge
+ track between Dar es Salaam and New Kapiri M'poshi where it connects
+ to the Zambia Railways system; 891 km of the TAZARA line transit
+ Zambia
+
+ Highways:
+ total: 36,370 km
+ paved: 6,500 km
+ unpaved: crushed stone, gravel, stabilized earth 7,000 km; improved,
+ unimproved earth 22,870 km
+
+ Inland waterways: 2,250 km, including Zambezi and Luapula Rivers, Lake
+ Tanganyika
+
+ Pipelines: crude oil 1,724 km
+
+ Ports: Mpulungu
+
+ Airports:
+ total: 113
+ with paved runways over 3,047 m: 1
+ with paved runways 2,438 to 3,047 m: 4
+ with paved runways 1,524 to 2,437 m: 4
+ with paved runways 914 to 1,523 m: 4
+ with paved runways under 914 m: 39
+ with unpaved runways 1,524 to 2,438 m: 4
+ with unpaved runways 914 to 1,523 m: 57
+
+@Zambia:Communications
+
+ Telephone system: NA telephones; facilities are among the best in
+ Sub-Saharan Africa
+ local: NA
+ intercity: high capacity micrwave radio relay connects most larger
+ towns and cities
+ international: 2 INTELSAT earth stations (1 Indian Ocean and 1
+ Atlantic Ocean)
+
+ Radio:
+ broadcast stations: AM 11, FM 5, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 9
+ televisions: NA
+
+@Zambia:Defense Forces
+
+ Branches: Army, Air Force, Police
+
+ Manpower availability: males age 15-49 1,953,967; males fit for
+ military service 1,028,113 (1995 est.)
+
+ Defense expenditures: exchange rate conversion - $45 million, 1.4% of
+ GDP (1994)
+
+
+________________________________________________________________________
+
+ZIMBABWE
+
+@Zimbabwe:Geography
+
+ Location: Southern Africa, northeast of Botswana
+
+ Map references: Africa
+
+ Area:
+ total area: 390,580 sq km
+ land area: 386,670 sq km
+ comparative area: slightly larger than Montana
+
+ Land boundaries: total 3,066 km, Botswana 813 km, Mozambique 1,231 km,
+ South Africa 225 km, Zambia 797 km
+
+ Coastline: 0 km (landlocked)
+
+ Maritime claims: none; landlocked
+
+ International disputes: quadripoint with Botswana, Namibia, and Zambia
+ is in disagreement
+
+ Climate: tropical; moderated by altitude; rainy season (November to
+ March)
+
+ Terrain: mostly high plateau with higher central plateau (high veld);
+ mountains in east
+
+ Natural resources: coal, chromium ore, asbestos, gold, nickel, copper,
+ iron ore, vanadium, lithium, tin, platinum group metals
+
+ Land use:
+ arable land: 7.25%
+ permanent crops: 0.25% (coffee is a permanent crop)
+ meadows and pastures: 12.5%
+ forest and woodland: 49%
+ other: 31%
+
+ Irrigated land: 2,250 sq km (1993 est.)
+
+ Environment:
+ current issues: deforestation; soil erosion; land degradation; air and
+ water pollution; the black rhinoceros herd - once the largest
+ concentration of the species in the world - has been significantly
+ reduced by poaching
+ natural hazards: recurring droughts; floods and severe storms are rare
+
+ international agreements: party to - Biodiversity, Climate Change,
+ Endangered Species, Law of the Sea, Ozone Layer Protection; signed,
+ but not ratified - Desertification
+
+ Note: landlocked
+
+@Zimbabwe:People
+
+ Population: 11,139,961 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 47% (female 2,588,193; male 2,617,485)
+ 15-64 years: 51% (female 2,915,697; male 2,723,511)
+ 65 years and over: 2% (female 151,635; male 143,440) (July 1995 est.)
+
+ Population growth rate: 1.78% (1995 est.)
+
+ Birth rate: 36.35 births/1,000 population (1995 est.)
+
+ Death rate: 18.54 deaths/1,000 population (1995 est.)
+
+ Net migration rate: NA migrant(s)/1,000 population (1995 est.)
+ note: following the settlement of hostilities in Mozambique in 1992,
+ refugees from the fighting there began to return to their homes; this
+ process continues at a lesser rate in 1995; there is a small but
+ steady flow of Zimbabweans into South Africa in search of better paid
+ employment
+
+ Infant mortality rate: 72.7 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 41.35 years
+ male: 39.73 years
+ female: 43.01 years (1995 est.)
+
+ Total fertility rate: 4.93 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Zimbabwean(s)
+ adjective: Zimbabwean
+
+ Ethnic divisions: African 98% (Shona 71%, Ndebele 16%, other 11%),
+ white 1%, mixed and Asian 1%
+
+ Religions: syncretic (part Christian, part indigenous beliefs) 50%,
+ Christian 25%, indigenous beliefs 24%, Muslim and other 1%
+
+ Languages: English (official), Shona, Sindebele
+
+ Literacy: age 15 and over can read and write (1982)
+ total population: 78%
+ male: 84%
+ female: 72%
+
+ Labor force: 3.1 million
+ by occupation: agriculture 74%, transport and services 16%, mining,
+ manufacturing, construction 10% (1987)
+
+@Zimbabwe:Government
+
+ Names:
+ conventional long form: Republic of Zimbabwe
+ conventional short form: Zimbabwe
+ former: Southern Rhodesia
+
+ Digraph: ZI
+
+ Type: parliamentary democracy
+
+ Capital: Harare
+
+ Administrative divisions: 8 provinces; Manicaland, Mashonaland
+ Central, Mashonaland East, Mashonaland West, Masvingo (Victoria),
+ Matabeleland North, Matabeleland South, Midlands
+
+ Independence: 18 April 1980 (from UK)
+
+ National holiday: Independence Day, 18 April (1980)
+
+ Constitution: 21 December 1979
+
+ Legal system: mixture of Roman-Dutch and English common law
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch:
+ chief of state and head of government: Executive President Robert
+ Gabriel MUGABE (since 31 December 1987); Co-Vice President Simon
+ Vengai MUZENDA (since 31 December 1987); Co-Vice President Joshua M.
+ NKOMO (since 6 August 1990); election last held 28-30 March 1990 (next
+ to be held NA March 1996); results - Robert MUGABE 78.3%, Edgar TEKERE
+ 21.7%
+ cabinet: Cabinet; appointed by the president; responsible to
+ Parliament
+
+ Legislative branch: unicameral
+ Parliament: elections last held 8-9 April 1995 (next to be held NA
+ March 2000); results - percent of vote by party NA; seats - (150
+ total, 120 elected) ZANU-PF 118, ZANU-S 2
+
+ Judicial branch: Supreme Court
+
+ Political parties and leaders: Zimbabwe African National
+ Union-Patriotic Front (ZANU-PF), Robert MUGABE; Zimbabwe African
+ National Union-Sithole (ZANU-S), Ndabaningi SITHOLE; Zimbabwe Unity
+ Movement (ZUM), Edgar TEKERE; Democratic Party (DP), Emmanuel MAGOCHE;
+ Forum Party of Zimbabwe, Enock DUMBUTSHENA; United Parties, Abel
+ MUZOREWA
+
+ Member of: ACP, AfDB, C, CCC, ECA, FAO, FLS, G-15, G-77, GATT, IAEA,
+ IBRD, ICAO, ICFTU, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, INTELSAT,
+ INTERPOL, IOC, IOM (observer), ISO, ITU, NAM, OAU, PCA, SADC, UN,
+ UNAMIR, UNAVEM II, UNCTAD, UNESCO, UNIDO, UNOMUR, UNOSOM, UPU, WCL,
+ WHO, WIPO, WMO, WTO
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Amos Bernard Muvengwa MIDZI
+ chancery: 1608 New Hampshire Avenue NW, Washington, DC 20009
+ telephone: [1] (202) 332-7100
+ FAX: [1] (202) 483-9326
+
+ US diplomatic representation:
+ chief of mission: Ambassador Johnny CARSON
+ embassy: 172 Herbert Chitepo Avenue, Harare
+ mailing address: P. O. Box 3340, Harare
+ telephone: [263] (4) 794521
+ FAX: [263] (4) 796488
+
+ Flag: seven equal horizontal bands of green, yellow, red, black, red,
+ yellow, and green with a white equilateral triangle edged in black
+ based on the hoist side; a yellow Zimbabwe bird is superimposed on a
+ red five-pointed star in the center of the triangle
+
+@Zimbabwe:Economy
+
+ Overview: Agriculture employs three-fourths of the labor force and
+ supplies almost 40% of exports. The manufacturing sector, based on
+ agriculture and mining, produces a variety of goods and contributes
+ 35% to GDP. Mining accounts for only 5% of both GDP and employment,
+ but minerals and metals account for about 40% of exports. Severe
+ drought caused GDP to drop 8% in 1992, with growth rebounding to 2% in
+ 1993 and 3.5% in 1994. Despite the lingering effects of the drought on
+ economic and social conditions, the government is continuing to push
+ its IMF/World Bank structural adjustment program aimed at encouraging
+ exports and foreign investment.
+
+ National product: GDP - purchasing power parity - $17.4 billion (1994
+ est.)
+
+ National product real growth rate: 3.5% (1994 est.)
+
+ National product per capita: $1,580 (1994 est.)
+
+ Inflation rate (consumer prices): 22% (December 1994 est.)
+
+ Unemployment rate: at least 45% (1994 est.)
+
+ Budget:
+ revenues: $1.7 billion
+ expenditures: $2.2 billion, including capital expenditures of $253
+ million (FY92/93)
+
+ Exports: $1.8 billion (f.o.b., 1994 est.)
+ commodities: agricultural 35% (tobacco 30%, other 5%), manufactures
+ 25%, gold 12%, ferrochrome 10%, textiles 8% (1992)
+ partners: UK 14%, Germany 11%, South Africa 10%, Japan 7%, US 5%
+ (1991)
+
+ Imports: $1.8 billion (c.i.f., 1992 est.)
+ commodities: machinery and transportation equipment 41%, other
+ manufactures 23%, chemicals 16%, fuels 12% (1991)
+ partners: South Africa 25%, UK 15%, Germany 9%, US 6%, Japan 5% (1991)
+
+ External debt: $3.5 billion (December 1992 est.)
+
+ Industrial production: growth rate 2.3% (1992); accounts for 35% of
+ GDP
+
+ Electricity:
+ capacity: 2,040,000 kW
+ production: 9 billion kWh
+ consumption per capita: 913 kWh (1993)
+
+ Industries: mining, steel, clothing and footwear, chemicals,
+ foodstuffs, fertilizer, beverage, transportation equipment, wood
+ products
+
+ Agriculture: accounts for 20% of GDP; 40% of land area divided into
+ 4,500 large commercial farms and 42% in communal lands; crops - corn
+ (food staple), cotton, tobacco, wheat, coffee, sugarcane, peanuts;
+ livestock - cattle, sheep, goats, pigs; self-sufficient in food
+
+ Economic aid: NA
+
+ Currency: 1 Zimbabwean dollar (Z$) = 100 cents
+
+ Exchange rates: Zimbabwean dollars (Z$) per US$1 - 8.3752 (January
+ 1995), 8.1500 (1994), 6.4725 (1993), 5.1046 (1992), 3.4282 (1991),
+ 2.4480 (1990)
+
+ Fiscal year: 1 July - 30 June
+
+@Zimbabwe:Transportation
+
+ Railroads:
+ total: 2,745 km
+ narrow gauge: 2,745 km 1.067-m gauge (355 km electrified; 42 km double
+ track)
+
+ Highways:
+ total: 85,237 km
+ paved: 15,800 km
+ unpaved: crushed stone, gravel, stabilized earth 39,090 km; improved
+ earth 23,097 km; unimproved earth 7,250 km
+
+ Inland waterways: Lake Kariba is a potential line of communication
+
+ Pipelines: petroleum products 212 km
+
+ Ports: Binga, Kariba
+
+ Airports:
+ total: 471
+ with paved runways over 3,047 m: 3
+ with paved runways 2,438 to 3,047 m: 2
+ with paved runways 1,524 to 2,437 m: 6
+ with paved runways 914 to 1,523 m: 13
+ with paved runways under 914 m: 222
+ with unpaved runways 1,524 to 2,438 m: 2
+ with unpaved runways 914 to 1,523 m: 223
+
+@Zimbabwe:Communications
+
+ Telephone system: 247,000 telephones; system was once one of the best
+ in Africa, but now suffers from poor maintenance
+ local: NA
+ intercity: consists of microwave links, open-wire lines, and radio
+ communications stations
+ international: 1 INTELSAT (Atlantic Ocean) earth station
+
+ Radio:
+ broadcast stations: AM 8, FM 18, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 8
+ televisions: NA
+
+@Zimbabwe:Defense Forces
+
+ Branches: Zimbabwe National Army, Air Force of Zimbabwe, Zimbabwe
+ Republic Police (includes Police Support Unit, Paramilitary Police)
+
+ Manpower availability: males age 15-49 2,435,931; males fit for
+ military service 1,514,068 (1995 est.)
+
+ Defense expenditures: exchange rate conversion - $175 million, 3.1% of
+ GDP (FY94/95)
+
+
+________________________________________________________________________
+
+APPENDIX B
+
+Abbreviations for International Organizations and Groups
+
+ Note: Not all international organizations and groups have
+ abbreviations.
+
+A
+
+     ABEDA -- Arab Bank for Economic Development in Africa
+
+     ACC -- Arab Cooperation Council
+
+     ACCT -- Agence de Cooperation Culturelle et Technique; see Agency
+     for Cultural and Technical Cooperation
+
+     ACP -- African, Caribbean, and Pacific Countries
+
+     AfDB -- African Development Bank
+
+     AFESD -- Arab Fund for Economic and Social Development
+
+     AG -- Andean Group
+
+     AL -- Arab League
+
+     ALADI -- Asociacion Latinoamericana de Integracion; see Latin
+     American Integration Association (LAIA)
+
+     AMF -- Arab Monetary Fund
+
+     AMU -- Arab Maghreb Union
+
+     ANZUS -- Australia-New Zealand-United States Security Treaty
+
+     APEC -- Asia Pacific Economic Cooperation
+
+     AsDB -- Asian Development Bank
+
+     ASEAN -- Association of Southeast Asian Nations
+
+B
+
+     BAD -- Banque Africaine de Developpement; see African Development
+     Bank (AfDB)
+
+     BADEA -- Banque Arabe de Developpement Economique en Afrique; see
+     Arab Bank for Economic Development in Africa (ABEDA)
+
+     BCIE -- Banco Centroamericano de Integracion Economico; see
+     Central American Bank for Economic Integration (BCIE)
+
+     BDEAC -- Banque de Developpment des Etats de l'Afrique Centrale;
+     see Central African States Development Bank (BDEAC)
+
+     Benelux -- Benelux Economic Union
+
+     BID -- Banco Interamericano de Desarrollo; see Inter-American
+     Development Bank (IADB)
+
+     BIS -- Bank for International Settlements
+
+     BOAD -- Banque Ouest-Africaine de Developpement; see West African
+     Development Bank (WADB)
+
+     BSEC -- Black Sea Economic Cooperation Zone
+
+C
+
+     C -- Commonwealth
+
+     CACM -- Central American Common Market
+
+     CAEU -- Council of Arab Economic Unity
+
+     CARICOM -- Caribbean Community and Common Market
+
+     CBSS -- Council of the Baltic Sea States
+
+     CCC -- Customs Cooperation Council
+
+     CDB -- Caribbean Development Bank
+
+     CE -- Council of Europe
+
+     CEAO -- Communaute Economique de l'Afrique de l'Ouest; see West
+     African Economic Community (CEAO)
+
+     CEEAC -- Communaute Economique des Etats de l'Afrique Centrale;
+     see Economic Community of Central African States (CEEAC)
+
+     CEI -- Central European Initiative
+
+     CEMA -- Council for Mutual Economic Assistance; also known as CMEA
+     or Comecon; abolished 1 January 1991
+
+     CEPGL -- Communaute Economique des Pays des Grands Lacs; see
+     Economic Community of the Great Lakes Countries (CEPGL)
+
+     CERN -- Conseil Europeen pour la Recherche Nucleaire; see European
+     Organization for Nuclear Research (CERN)
+
+     CG -- Contadora Group
+
+     CIS -- Commonwealth of Independent States
+
+     CMEA -- Council for Mutual Economic Assistance (CEMA); also known
+     as Comecon; abolished 1 January 1991
+
+     COCOM -- Coordinating Committee on Export Controls
+
+     Comecon -- Council for Mutual Economic Assistance (CEMA); also
+     known as CMEA; abolished 1 January 1991
+
+     CP -- Colombo Plan
+
+     CSCE -- Conference on Security and Cooperation in Europe
+
+D
+
+     DC -- developed country
+
+E
+
+     EADB -- East African Development Bank
+
+     EBRD -- European Bank for Reconstruction and Development
+
+     EC -- European Community; see European Union (EU)
+
+     ECA -- Economic Commission for Africa
+
+     ECAFE -- Economic Commission for Asia and the Far East; see
+     Economic and Social Commission for Asia and the Pacific (ESCAP)
+
+     ECE -- Economic Commission for Europe
+
+     ECLA -- Economic Commission for Latin America; see Economic
+     Commission for Latin America and the Caribbean (ECLAC)
+
+     ECLAC -- Economic Commission for Latin America and the Caribbean
+
+     ECO -- Economic Cooperation Organization
+
+     ECOSOC -- Economic and Social Council
+
+     ECOWAS -- Economic Community of West African States
+
+     ECSC -- European Coal and Steel Community
+
+     ECWA -- Economic Commission for Western Asia; see Economic and
+     Social Commission for Western Asia (ESCWA)
+
+     EEC -- European Economic Community
+
+     EFTA -- European Free Trade Association
+
+     EIB -- European Investment Bank
+
+     Entente -- Council of the Entente
+
+     ESA -- European Space Agency
+
+     ESCAP -- Economic and Social Commission for Asia and the Pacific
+
+     ESCWA -- Economic and Social Commission for Western Asia
+
+     EU -- European Union
+
+     Euratom -- European Atomic Energy Community
+
+F
+
+     FAO -- Food and Agriculture Organization
+
+     FLS -- Front Line States
+
+     FZ -- Franc Zone
+
+G
+
+     G-2 -- Group of 2
+
+     G-3 -- Group of 3
+
+     G-5 -- Group of 5
+
+     G-6 -- Group of 6 (not to be confused with the Big Six)
+
+     G-7 -- Group of 7
+
+     G-8 -- Group of 8
+
+     G-9 -- Group of 9
+
+     G-10 -- Group of 10
+
+     G-11 -- Group of 11
+
+     G-15 -- Group of 15
+
+     G-19 -- Group of 19
+
+     G-24 -- Group of 24
+
+     G-30 -- Group of 30
+
+     G-33 -- Group of 33
+
+     G-77 -- Group of 77
+
+     GATT -- General Agreement on Tariffs and Trade
+
+     GCC -- Gulf Cooperation Council
+
+H
+
+     Habitat -- Commission on Human Settlements
+
+I
+
+     IADB -- Inter-American Development Bank
+
+     IAEA -- International Atomic Energy Agency
+
+     IBEC -- International Bank for Economic Cooperation
+
+     IBRD -- International Bank for Reconstruction and Development
+
+     ICAO -- International Civil Aviation Organization
+
+     ICC -- International Chamber of Commerce
+
+     ICEM -- Intergovernmental Committee for European Migration; see
+     International Organization for Migration (IOM)
+
+     ICFTU -- International Confederation of Free Trade Unions
+
+     ICJ -- International Court of Justice
+
+     ICM -- Intergovernmental Committee for Migration; see
+     International Organization for Migration (IOM)
+
+     ICRC -- International Committee of the Red Cross
+
+     ICRM -- International Red Cross and Red Crescent Movement
+
+     IDA -- International Development Association
+
+     IDB -- Islamic Development Bank
+
+     IEA -- International Energy Agency
+
+     IFAD -- International Fund for Agricultural Development
+
+     IFC -- International Finance Corporation
+
+     IFCTU -- International Federation of Christian Trade Unions
+
+     IFRCS -- International Federation of Red Cross and Red Crescent
+     Societies
+
+     IGADD -- Inter-Governmental Authority on Drought and Development
+
+     IIB -- International Investment Bank
+
+     ILO -- International Labor Organization
+
+     IMCO -- Intergovernmental Maritime Consultative Organization; see
+     International Maritime Organization (IMO)
+
+     IMF -- International Monetary Fund
+
+     IMO -- International Maritime Organization
+
+     INMARSAT -- International Maritime Satellite Organization
+
+     INTELSAT -- International Telecommunications Satellite
+     Organization
+
+     INTERPOL -- International Criminal Police Organization
+
+     IOC -- International Olympic Committee
+
+     IOM -- International Organization for Migration
+
+     ISO -- International Organization for Standardization
+
+     ITU -- International Telecommunication Union
+
+L
+
+     LAES -- Latin American Economic System
+
+     LAIA -- Latin American Integration Association
+
+     LAS -- League of Arab States; see Arab League (AL)
+
+     LDC -- less developed country
+
+     LLDC -- least developed country
+
+     LORCS -- League of Red Cross and Red Crescent Societies
+
+M
+
+     MERCOSUR -- Mercado Comun del Cono Sur; see Southern Cone Common
+     Market
+
+     MINURSO -- United Nations Mission for the Referendum in Western
+     Sahara
+
+     MTCR -- Missile Technology Control Regime
+
+N
+
+     NACC -- North Atlantic Cooperation Council
+
+     NAM -- Nonaligned Movement
+
+     NATO -- North Atlantic Treaty Organization
+
+     NC -- Nordic Council
+
+     NEA -- Nuclear Energy Agency
+
+     NIB -- Nordic Investment Bank
+
+     NIC -- newly industrializing country; see newly industrializing
+     economy (NIE)
+
+     NIE -- newly industrializing economy
+
+     NSG -- Nuclear Suppliers Group
+
+O
+
+     OAPEC -- Organization of Arab Petroleum Exporting Countries
+
+     OAS -- Organization of American States
+
+     OAU -- Organization of African Unity
+
+     OECD -- Organization for Economic Cooperation and Development
+
+     OECS -- Organization of Eastern Caribbean States
+
+     OIC -- Organization of the Islamic Conference
+
+     ONUMOZ -- see UNOMOZ
+
+     ONUSAL -- United Nations Observer Mission in El Salvador
+
+     OPANAL -- Organismo para la Proscripcion de las Armas Nucleares en
+     la America Latina y el Caribe; see Agency for the Prohibition of
+     Nuclear Weapons in Latin America and the Caribbean
+
+     OPEC -- Organization of Petroleum Exporting Countries
+
+     OSCE -- Organization on Security and Cooperation in Europe
+
+P
+
+     PCA -- Permanent Court of Arbitration
+
+     PFP -- Partnership for Peace
+
+R
+
+     RG -- Rio Group
+
+S
+
+     SAARC -- South Asian Association for Regional Cooperation
+
+     SACU -- Southern African Customs Union
+
+     SADC -- Southern African Development Community
+
+     SADCC -- Southern African Development Coordination Conference
+
+     SELA -- Sistema Economico Latinoamericana; see Latin American
+     Economic System (LAES)
+
+     SPARTECA -- South Pacific Regional Trade and Economic Cooperation
+     Agreement
+
+     SPC -- South Pacific Commission
+
+     SPF -- South Pacific Forum
+
+U
+
+     UDEAC -- Union Douaniere et Economique de l'Afrique Centrale; see
+     Central African Customs and Economic Union (UDEAC)
+
+     UN -- United Nations
+
+     UNAVEM II -- United Nations Angola Verification Mission
+
+     UNAMIR -- United Nations Assistance Mission for Rwanda
+
+     UNCTAD -- United Nations Conference on Trade and Development
+
+     UNDOF -- United Nations Disengagement Observer Force
+
+     UNDP -- United Nations Development Program
+
+     UNEP -- United Nations Environment Program
+
+     UNESCO -- United Nations Educational, Scientific, and Cultural
+     Organization
+
+     UNFICYP -- United Nations Force in Cyprus
+
+     UNFPA -- United Nations Fund for Population Activities; see UN
+     Population Fund (UNFPA)
+
+     UNHCR -- United Nations Office of the High Commissioner for
+     Refugees
+
+     UNICEF -- United Nations Children's Fund
+
+     UNIDO -- United Nations Industrial Development Organization
+
+     UNIFIL -- United Nations Interim Force in Lebanon
+
+     UNIKOM -- United Nations Iraq-Kuwait Observation Mission
+
+     UNITAR -- United Nations Institute for Training and Research
+
+     UNMIH -- United Nations Mission in Haiti
+
+     UNMOGIP -- United Nations Military Observer Group in India and
+     Pakistan
+
+     UNOMIG -- United Nations Observer Mission in Georgia
+
+     UNOMIL -- United Nations Observer Mission in Liberia
+
+     UNOMOZ -- United Nations Operation in Mozambique
+
+     UNOMUR -- United Nations Observer Mission Uganda-Rwanda (ONUMOZ)
+
+     UNOSOM -- United Nations Operation in Somalia
+
+     UNPROFOR -- United Nations Protection Force
+
+     UNRISD -- United Nations Research Institute for Social Development
+
+     UNRWA -- United Nations Relief and Works Agency for Palestine
+     Refugees in the Near East
+
+     UNTAC -- United Nations Transitional Authority in Cambodia
+
+     UNTSO -- United Nations Truce Supervision Organization
+
+     UNU -- United Nations University
+
+     UPU -- Universal Postal Union
+
+     USSR/EE -- USSR/Eastern Europe
+
+W
+
+     WADB -- West African Development Bank
+
+     WCL -- World Confederation of Labor
+
+     WEU -- Western European Union
+
+     WFC -- World Food Council
+
+     WFP -- World Food Program
+
+     WFTU -- World Federation of Trade Unions
+
+     WHO -- World Health Organization
+
+     WIPO -- World Intellectual Property Organization
+
+     WMO -- World Meteorological Organization
+
+     WP -- Warsaw Pact (members met 1 July 1991 to dissolve the
+     alliance)
+
+     WTO -- see WToO
+
+     WToO -- World Tourism Organization
+
+     WTrO -- World Trade Organization (will be added in The World
+     Factbook 1996)
+
+Z
+
+     ZC -- Zangger Committee
+
+
+________________________________________________________________________
+
+APPENDIX C
+
+International Organizations and Groups
+
+ Note: The Socialist Federal Republic of Yugoslavia (SFRY) has
+ dissolved and ceases to exist. None of the successor states of the
+ former Yugoslavia, including Serbia and Montenegro, have been
+ permitted to participate solely on the basis of the membership of the
+ former Yugoslavia in the United Nations General Assembly and Economic
+ and Social Council and their subsidiary bodies and in various United
+ Nations specialized agencies. The United Nations, however, permits the
+ seat and nameplate of the SFRY to remain, permits the SFRY mission to
+ continue to function, and continues to fly the flag of the former
+ Yugoslavia. For a variety of reasons, a number of other organizations
+ have not yet taken action with regard to the membership of the former
+ Yugoslavia. The World Factbook therefore continues to list Yugoslavia
+ under international organizations where the SFRY seat remains or where
+ no action has yet been taken.
+
+advanced developing countries
+
+ another term for those less developed countries (LDCs) with
+ particularly rapid industrial development; see newly industrializing
+ economies (NIEs)
+
+African, Caribbean, and Pacific Countries (ACP)
+
+ address -- Avenue Georges Henri 451, B-1200 Brussels, Belgium
+
+ telephone -- [32] (2) 733 96 00
+
+ FAX -- [32] (2) 735 55 73
+
+ established -- 1 April 1976
+
+ aim -- to manage their preferential economic and aid relationship with
+ the EU
+
+ members -- (70) Angola, Antigua and Barbuda, The Bahamas, Barbados,
+ Belize, Benin, Botswana, Burkina, Burundi, Cameroon, Cape Verde,
+ Central African Republic, Chad, Comoros, Congo, Cote d'Ivoire,
+ Djibouti, Dominica, Dominican Republic, Equatorial Guinea, Eritrea,
+ Ethiopia, Fiji, Gabon, The Gambia, Ghana, Grenada, Guinea,
+ Guinea-Bissau, Guyana, Haiti, Jamaica, Kenya, Kiribati, Lesotho,
+ Liberia, Madagascar, Malawi, Mali, Mauritania, Mauritius, Mozambique,
+ Namibia, Niger, Nigeria, Papua New Guinea, Rwanda, Saint Kitts and
+ Nevis, Saint Lucia, Saint Vincent and the Grenadines, Sao Tome and
+ Principe, Senegal, Seychelles, Sierra Leone, Solomon Islands, Somalia,
+ Sudan, Suriname, Swaziland, Tanzania, Togo, Tonga, Trinidad and
+ Tobago, Tuvalu, Uganda, Vanuatu, Western Samoa, Zaire, Zambia,
+ Zimbabwe
+
+African Development Bank (AfDB)
+
+ note -- also known as Banque Africaine de Developpement (BAD)
+
+ address -- 01 BP 1387, Abidjan 01, Cote dIvoire
+
+ telephone -- [225] 20 44 44
+
+ FAX -- [225] 21 77 53, 20 49 01, 20 49 09
+
+ established -- 4 August 1963
+
+ aim -- to promote economic and social development
+
+ regional members -- (51) Algeria, Angola, Benin, Botswana, Burkina,
+ Burundi, Cameroon, Cape Verde, Central African Republic, Chad,
+ Comoros, Congo, Cote d'Ivoire, Djibouti, Egypt, Equatorial Guinea,
+ Ethiopia, Gabon, The Gambia, Ghana, Guinea, Guinea-Bissau, Kenya,
+ Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania,
+ Mauritius, Morocco, Mozambique, Namibia, Niger, Nigeria, Rwanda, Sao
+ Tome and Principe, Senegal, Seychelles, Sierra Leone, Somalia, Sudan,
+ Swaziland, Tanzania, Togo, Tunisia, Uganda, Zaire, Zambia, Zimbabwe
+
+ nonregional members -- (26) Argentina, Austria, Belgium, Brazil,
+ Canada, China, Denmark, Finland, France, Germany, India, Italy, Japan,
+ South Korea, Kuwait, Netherlands, Norway, Portugal, Saudi Arabia,
+ Spain, Sweden, Switzerland, Turkey, UK, US, Yugoslavia
+
+Agence de Cooperation Culturelle et Technique (ACCT)
+
+ see -- Agency for Cultural and Technical Cooperation (ACCT)
+
+Agency for Cultural and Technical Cooperation (ACCT)
+
+ note -- acronym from Agence de Cooperation Culturelle et Technique
+
+ address -- 13 quai Andre-Citroen, F-75015 Paris, France
+
+ telephone -- [33] (1) 44 37 33 00
+
+ FAX -- [33] (1) 45 79 14 98
+
+ established -- 21 March 1970
+
+ aim -- to promote cultural and technical cooperation among
+ French-speaking countries
+
+ members -- (37) Belgium, Benin, Bulgaria, Burkina, Burundi, Cambodia,
+ Cameroon, Canada, Central African Republic, Chad, Comoros, Congo, Cote
+ d'Ivoire, Djibouti, Dominica, Equatorial Guinea, France, Gabon,
+ Guinea, Haiti, Laos, Lebanon, Luxembourg, Madagascar, Mali, Mauritius,
+ Monaco, Niger, Romania, Rwanda, Senegal, Seychelles, Togo, Tunisia,
+ Vanuatu, Vietnam, Zaire
+
+ associate members -- (5) Egypt, Guinea-Bissau, Mauritania, Morocco,
+ Saint Lucia
+
+ participating governments -- (2) New Brunswick (Canada), Quebec
+ (Canada)
+
+Agency for the Prohibition of Nuclear Weapons in Latin America and the
+
+ Caribbean (OPANAL)
+
+ note -- acronym from Organismo para la Proscripcion de las Armas
+ Nucleares en la America Latina y el Caribe (OPANAL)
+
+ address -- Temistocles 78, Col Polanco, CP 011560, Mexico City 5 DF,
+ Mexico
+
+ telephone -- [52] (5) 280 4923, 280 5064
+
+ FAX -- [52] (5) 280 2965
+
+ established -- 14 February 1967
+
+ aim -- to encourage the peaceful uses of atomic energy and prohibit
+ nuclear weapons
+
+ members -- (28) Antigua and Barbuda, Argentina, The Bahamas, Barbados,
+ Bolivia, Brazil, Chile, Colombia, Costa Rica, Dominica, Dominican
+ Republic, Ecuador, El Salvador, Grenada, Guatemala, Haiti, Honduras,
+ Jamaica, Mexico, Nicaragua, Panama, Paraguay, Peru, Saint Vincent and
+ the Grenadines, Suriname, Trinidad and Tobago, Uruguay, Venezuela
+
+Andean Group (AG)
+
+ address -- c\o JUNAC, Paseo de la Republica 3895, Casilla 18-1177,
+ Lima 27, Peru
+
+ telephone -- [51] (14) 414212
+
+ FAX -- [51] (14) 420911
+
+ established -- 26 May 1969
+
+ effective -- 16 October 1969
+
+ aim -- to promote harmonious development through economic integration
+
+ members -- (5) Bolivia, Colombia, Ecuador, Peru, Venezuela
+
+ associate member -- (1) Panama
+
+ observers -- (26) Argentina, Australia, Austria, Belgium, Brazil,
+ Canada, Costa Rica, Denmark, Egypt, Finland, France, Germany, India,
+ Israel, Italy, Japan, Mexico, Netherlands, Paraguay, Spain, Sweden,
+ Switzerland, UK, US, Uruguay, Yugoslavia
+
+Arab Bank for Economic Development in Africa (ABEDA)
+
+ note -- also known as Banque Arabe de Developpement Economique en
+ Afrique (BADEA)
+
+ address -- Sayed Abdel Rahman El Mahdi Avenue, P.O. Box 2640,
+ Khartoum, Sudan
+
+ telephone -- [249] (11) 73646, 73498, 73709
+
+ FAX -- [249] (11) 70600
+
+ established -- 18 February 1974
+
+ effective -- 16 September 1974
+
+ aim -- to promote economic development
+
+ members -- (17 plus the Palestine Liberation Organization) Algeria,
+ Bahrain, Egypt, Iraq, Jordan, Kuwait, Lebanon, Libya, Mauritania,
+ Morocco, Oman, Qatar, Saudi Arabia, Sudan, Syria, Tunisia, UAE,
+ Palestine Liberation Organization; note - these are all the members of
+ the Arab League except for Comoros, Djibouti, Somalia, and Yemen
+
+Arab Cooperation Council (ACC)
+
+ established -- 16 February 1989
+
+ aim -- to promote economic cooperation and integration, possibly
+ leading to an Arab Common Market
+
+ members -- (4) Egypt, Iraq, Jordan, Yemen
+
+Arab Fund for Economic and Social Development (AFESD)
+
+ address -- P.O. Box 21923, Safat 13080, Kuwait
+
+ telephone -- [965] 2451580, 2451588
+
+ FAX -- [965] 2416758
+
+ established -- 16 May 1968
+
+ aim -- to promote economic and social development
+
+ members -- (20 plus the Palestine Liberation Organization) Algeria,
+ Bahrain, Djibouti, Egypt (suspended from 1979 to 1988), Iraq, Jordan,
+ Kuwait, Lebanon, Libya, Mauritania, Morocco, Oman, Qatar, Saudi
+ Arabia, Somalia, Sudan, Syria, Tunisia, UAE, Yemen, Palestine
+ Liberation Organization
+
+Arab League (AL)
+
+ note -- also known as League of Arab States (LAS)
+
+ address -- Midan Attahrir, Tahrir Square, P.O. Box 11642, Cairo, Egypt
+
+ telephone -- [20] (2) 750 511
+
+ FAX -- [20] (2) 740 331
+
+ established -- 22 March 1945
+
+ aim -- to promote economic, social, political, and military
+ cooperation
+
+ members -- (21 plus the Palestine Liberation Organization) Algeria,
+ Bahrain, Comoros, Djibouti, Egypt, Iraq, Jordan, Kuwait, Lebanon,
+ Libya, Mauritania, Morocco, Oman, Qatar, Saudi Arabia, Somalia, Sudan,
+ Syria, Tunisia, UAE, Yemen, Palestine Liberation Organization
+
+Arab Maghreb Union (AMU)
+
+ address -- 27 avenue Okba Agdal, Rabat, Morocco
+
+ established -- 17 February 1989
+
+ aim -- to promote cooperation and integration among the Arab states of
+ northern Africa
+
+ members -- (5) Algeria, Libya, Mauritania, Morocco, Tunisia
+
+Arab Monetary Fund (AMF)
+
+ address -- P.O. Box 2818, Abu Dhabi, United Arab Emirates
+
+ telephone -- [971] (2) 215000
+
+ FAX -- [971] (2) 326454
+
+ established -- 27 April 1976
+
+ effective -- 2 February 1977
+
+ aim -- to promote Arab cooperation, development, and integration in
+ monetary and economic affairs
+
+ members -- (19 plus the Palestine Liberation Organization) Algeria,
+ Bahrain, Egypt, Iraq, Jordan, Kuwait, Lebanon, Libya, Mauritania,
+ Morocco, Oman, Qatar, Saudi Arabia, Somalia, Sudan, Syria, Tunisia,
+ UAE, Yemen, Palestine Liberation Organization
+
+Asia Pacific Economic Cooperation (APEC)
+
+ address -- Ministry of Trade and Industry, Public Relations, 8 Shenton
+ Way No 48-01, Treasury Building, Singapore, Singapore
+
+ established -- 7 November 1989
+
+ aim -- to promote trade and investment in the Pacific basin
+
+ members -- (18) all ASEAN members (Brunei, Indonesia, Malaysia,
+ Philippines, Singapore, Thailand) plus Australia, Canada, Chile,
+ China, Hong Kong, Japan, South Korea, Mexico, NZ, Papua New Guinea,
+ Taiwan, US
+
+ observers -- (3) Association of Southeast Asian Nations, Pacific
+ Economic Cooperation Conference, South Pacific Forum
+
+Asian Development Bank (AsDB)
+
+ address -- 6 ADB Avenue, Mandaluyong, METRO Manila, Philippines
+
+ telephone -- [63] (2) 711 3851
+
+ FAX -- [63] (2) 741 7961, 631 6816
+
+ established -- 19 December 1966
+
+ aim -- to promote regional economic cooperation
+
+ regional members -- (40) Afghanistan, Australia, Bangladesh, Bhutan,
+ Burma, Cambodia, China, Cook Islands, Fiji, Hong Kong, India,
+ Indonesia, Japan, Kazakhstan, Kiribati, South Korea, Kyrgyzstan, Laos,
+ Malaysia, Maldives, Marshall Islands, Federated States of Micronesia,
+ Mongolia, Nauru, Nepal, NZ, Pakistan, Papua New Guinea, Philippines,
+ Singapore, Solomon Islands, Sri Lanka, Taiwan, Thailand, Tonga,
+ Tuvalu, Uzbekistan, Vanuatu, Vietnam, Western Samoa
+
+ nonregional members -- (16) Austria, Belgium, Canada, Denmark,
+ Finland, France, Germany, Italy, Netherlands, Norway, Spain, Sweden,
+ Switzerland, Turkey, UK, US
+
+Asociacion Latinoamericana de Integracion (ALADI)
+
+ see -- Latin American Integration Association (LAIA)
+
+Association of Southeast Asian Nations (ASEAN)
+
+ address -- Jalan Sisingamangaraja 70A, Kebayoran Baru, P.O. Box 2072,
+ Jakarta 12110, Indonesia
+
+ telephone -- [62] (21) 71 22 72, 71 19 88
+
+ FAX -- [62] (21) 739 82 34
+
+ established -- 9 August 1967
+
+ aim -- to encourage regional economic, social, and cultural
+ cooperation among the non-Communist countries of Southeast Asia
+
+ members -- (6) Brunei, Indonesia, Malaysia, Philippines, Singapore,
+ Thailand
+
+ observers -- (3) Laos, Papua New Guinea, Vietnam
+
+Australia Group
+
+ established -- 1984
+
+ aim -- to consult on and coordinate export controls related to
+ chemical and biological weapons
+
+ members -- (28) Argentina, Australia, Austria, Belgium, Canada, Czech
+ Republic, Denmark, Finland, France, Germany, Greece, Hungary, Iceland,
+ Ireland, Italy, Japan, Luxembourg, Netherlands, NZ, Norway, Poland,
+ Portugal, Slovakia, Spain, Sweden, Switzerland, UK, US
+
+ observer -- (1) Singapore
+
+Australia-New Zealand-United States Security Treaty (ANZUS)
+
+ address -- c/o Department of Foreign Affairs and Trade, Bag 8, Queen
+ Victoria Terrace, Canberra ACT 2600, Australia
+
+ telephone -- [61] (62) 61 91 11
+
+ FAX -- [61] (62) 61 21 51
+
+ established -- 1 September 1951
+
+ effective -- 29 April 1952
+
+ aim -- to implement a trilateral mutual security agreement, although
+ the US suspended security obligations to NZ on 11 August 1986
+
+ members -- (3) Australia, NZ, US
+
+Banco Centroamericano de Integracion Economico (BCIE)
+
+ see -- Central American Bank for Economic Integration (BCIE)
+
+Banco Interamericano de Desarrollo (BID)
+
+ see -- Inter-American Development Bank (IADB)
+
+Bank for International Settlements (BIS)
+
+ address -- Centralbahnplatz 2, CH-4002 Basel, Switzerland
+
+ telephone -- [41] (61) 280 80 80
+
+ FAX -- [41] (61) 280 91 00
+
+ established -- 20 January 1930
+
+ effective -- 17 March 1930
+
+ aim -- to promote cooperation among central banks in international
+ financial settlements
+
+ members -- (33) Australia, Austria, Belgium, Bulgaria, Canada, Czech
+ Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary,
+ Iceland, Ireland, Italy, Japan, Latvia, Lithuania, Netherlands,
+ Norway, Poland, Portugal, Romania, Slovakia, South Africa, Spain,
+ Sweden, Switzerland, Turkey, UK, US, Yugoslavia
+
+Banque Africaine de Developpement (BAD)
+
+ see -- African Development Bank (AfDB)
+
+Banque Arabe de Developpement Economique en Afrique (BADEA)
+
+ see -- Arab Bank for Economic Development in Africa (ABEDA)
+
+Banque de Developpement des Etats de l'Afrique Centrale (BDEAC)
+
+ see -- Central African States Development Bank (BDEAC)
+
+Banque Ouest-Africaine de Developpement (BOAD)
+
+ see -- West African Development Bank (WADB)
+
+Benelux Economic Union (Benelux)
+
+ note -- acronym from Belgium, Netherlands, and Luxembourg
+
+ address -- Rue de la Regence 39, B-1000 Brussels, Belgium
+
+ telephone -- [32] (2) 519 38 11
+
+ FAX -- [32] (2) 513 42 06
+
+ established -- 3 February 1958
+
+ effective -- 1 November 1960
+
+ aim -- to develop closer economic cooperation and integration
+
+ members -- (3) Belgium, Luxembourg, Netherlands
+
+Big Seven
+
+ note -- membership is the same as the Group of 7
+
+ established -- NA 1975
+
+ aim -- to discuss and coordinate major economic policies
+
+ members -- (7) Big Six (Canada, France, Germany, Italy, Japan, UK)
+ plus the US
+
+Big Six
+
+ note -- not to be confused with the Group of 6
+
+ established -- NA 1967
+
+ aim -- to foster economic cooperation
+
+ members -- (6) Canada, France, Germany, Italy, Japan, UK
+
+Black Sea Economic Cooperation Zone (BSEC)
+
+ established -- 25 June 1992
+
+ aim -- to enhance regional stability through economic cooperation
+
+ members -- (11) Albania, Armenia, Azerbaijan, Bulgaria, Georgia,
+ Greece, Moldova, Romania, Russia, Turkey, Ukraine
+
+ observer -- (1) Poland
+
+Caribbean Community and Common Market (CARICOM)
+
+ address -- CARICOM, P.O. Box 10827, Bank of Guyana Building, 3rd
+ floor, Avenue of the Republic, Georgetown, Guyana
+
+ telephone -- [592] (2) 69281 through 69289
+
+ FAX -- [592] (2) 66091, 67816, 57341
+
+ established -- 4 July 1973
+
+ effective -- 1 August 1973
+
+ aim -- to promote economic integration and development, especially
+ among the less developed countries
+
+ members -- (14) Antigua and Barbuda, The Bahamas, Barbados, Belize,
+ Dominica, Grenada, Guyana, Jamaica, Montserrat, Saint Kitts and Nevis,
+ Saint Lucia, Saint Vincent and the Grenadines, Suriname, Trinidad and
+ Tobago
+
+ associate members -- (2) British Virgin Islands, Turks and Caicos
+ Islands
+
+ observers -- (9) Anguilla, Bermuda, Cayman Islands, Dominican
+ Republic, Haiti, Mexico, Netherlands Antilles, Puerto Rico, Venezuela
+
+Caribbean Development Bank (CDB)
+
+ address -- P.O. Box 408, Wildey, St. Michael, Barbados
+
+ telephone -- [1] (809) 431 1600
+
+ FAX -- [1] (809) 426 7269
+
+ established -- 18 October 1969
+
+ effective -- 26 January 1970
+
+ aim -- to promote economic development and cooperation
+
+ regional members -- (20) Anguilla, Antigua and Barbuda, The Bahamas,
+ Barbados, Belize, British Virgin Islands, Cayman Islands, Colombia,
+ Dominica, Grenada, Guyana, Jamaica, Mexico, Montserrat, Saint Kitts
+ and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and
+ Tobago, Turks and Caicos Islands, Venezuela
+
+ nonregional members -- (5) Canada, France, Germany, Italy, UK
+
+Cartagena Group
+
+ see -- Group of 11
+
+Central African Customs and Economic Union (UDEAC)
+
+ note -- acronym from Union Douaniere et Economique de l'Afrique
+ Centrale
+
+ address -- BP 969, Bangui, Central African Republic
+
+ telephone -- [236] 61 09 22, 61 45 77
+
+ FAX -- [236] 61 21 35
+
+ established -- 8 December 1964
+
+ effective -- 1 January 1966
+
+ aim -- to promote the establishment of a Central African Common Market
+
+ members -- (6) Cameroon, Central African Republic, Chad, Congo,
+ Equatorial Guinea, Gabon
+
+Central African States Development Bank (BDEAC)
+
+ note -- acronym from Banque de Developpement des Etats de l'Afrique
+ Centrale
+
+ address -- BDEAC, Place du Gouvernement, BP 1177, Brazzaville, Congo
+
+ telephone -- [242] 83 01 26, 83 01 49, 81 02 12, 81 02 21
+
+ FAX -- [242] 83 02 66
+
+ established -- 3 December 1975
+
+ aim -- to provide loans for economic development
+
+ members -- (9) Cameroon, Central African Republic, Chad, Congo,
+ Equatorial Guinea, France, Gabon, Germany, Kuwait
+
+Central American Bank for Economic Integration (BCIE)
+
+ note -- acronym from Banco Centroamericano de Integracion Economico
+
+ address -- Apartado Postal 772, Tegucigalpa DC, Honduras
+
+ telephone -- [504] 372230 through 372239, 371184 through 371188
+
+ FAX -- [504] 370793
+
+ established -- 13 December 1960
+
+ aim -- to promote economic integration and development
+
+ members -- (5) Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua
+
+ nonregional members -- (4) Argentina, Mexico, Taiwan, Venezuela
+
+Central American Common Market (CACM)
+
+ address -- 4A Avda 10-25, Zona 14, Apdo Postal 1237, 01901 Guatemala
+ City, Guatemala
+
+ telephone -- [502] (2) 682151
+
+ FAX -- [502] (2) 681071
+
+ established -- 13 December 1960
+
+ effective -- 3 June 1961
+
+ aim -- to promote establishment of a Central American Common Market
+
+ members -- (5) Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua
+
+Central European Initiative (CEI)
+
+ note -- evolved from the Hexagonal Group
+
+ address -- Chairman of the National Coordinators, Ministry for Foreign
+ Affairs, Bem rakpart 47, Budapest II, Hungary
+
+ established -- 27 July 1991
+
+ aim -- to form an economic and political cooperation group for the
+ region between the Adriatic and the Baltic Seas
+
+ members -- (10) Austria, Bosnia and Herzegovina, Croatia, Czech
+ Republic, Hungary, Italy, The Former Yugoslav Republic of Macedonia,
+ Poland, Slovakia, Slovenia
+
+ associate members -- (4) Bulgaria, Belarus, Romania, Ukraine
+
+centrally planned economies
+
+ a term applied mainly to the traditionally Communist states that
+ looked to the former USSR for leadership; most are now evolving toward
+ more democratic and market-oriented systems; also known formerly as
+ the Second World or as the Communist countries; through the 1980s,
+ this group included Albania, Bulgaria, Cambodia, China, Cuba,
+ Czechoslovakia, GDR, Hungary, North Korea, Laos, Mongolia, Poland,
+ Romania, USSR, Vietnam, Yugoslavia
+
+Colombo Plan (CP)
+
+ address -- Colombo Plan Bureau, P.O. Box 596, 12 Melbourne Avenue,
+ Colombo 4, Sri Lanka
+
+ telephone -- [94] (1) 581813, 581853, 581754
+
+ FAX -- [94] (1) 580721
+
+ established -- 1 July 1951
+
+ aim -- to promote economic and social development in Asia and the
+ Pacific
+
+ members -- (24) Afghanistan, Australia, Bangladesh, Bhutan, Burma,
+ Cambodia, Fiji, India, Indonesia, Iran, Japan, South Korea, Laos,
+ Malaysia, Maldives, Nepal, NZ, Pakistan, Papua New Guinea,
+ Philippines, Singapore, Sri Lanka, Thailand, US
+
+Commission for Social Development
+
+ note -- formerly Social Commission
+
+ address -- c/o ECOSOC/DPCSD, United Nations, New York, NY 10017, USA
+
+ telephone -- [1] (212) 963 2320
+
+ FAX -- [1] (212) 963 5935
+
+ established -- 21 June 1946 as the Social Commission, renamed 29 July
+ 1966
+
+ aim -- to deal, as part of the Economic and Social Council, with
+ social development programs of UN
+
+ members -- (32) selected on a rotating basis from all regions
+
+Commission on Crime Prevention and Criminal Justice
+
+ established -- 6 February 1992
+
+ aim -- to provide guidance, as part of the Economic and Social
+ Council, on crime prevention and criminal justice
+
+ members -- (40) selected on a rotating basis from all regions
+
+Commission on Human Rights
+
+ address -- c/o United Nationas Office, Centre for Human Rights, Palais
+ des Nations, CH-1211 Geneva 10, Switzerland
+
+ telephone -- [41] (22) 917 12 34, 907 12 34
+
+ FAX -- [41] (22) 733 32 46
+
+ established -- 18 February 1946
+
+ aim -- to assist, as part of the Economic and Social Council, with
+ human rights programs of UN
+
+ members -- (53) selected on a rotating basis from all regions
+
+Commission on Human Settlements (Habitat)
+
+ address -- c/o HABITAT, P.O. Box 30030, Nairobi, Kenya
+
+ telephone -- [254] (2) 621234
+
+ FAX -- [254] (2) 226473, 226479
+
+ established -- 12 October 1978
+
+ aim -- to assist, as part of the Economic and Social Council, in
+ solving human settlement problems of UN
+
+ members -- (58) selected on a rotating basis from all regions
+
+Commission on Narcotic Drugs
+
+ address -- c/o International Drug Control Programme, Treaty
+ Implementation and Legal Affairs Division, P.O. Box 500, A-1400
+ Vienna, Austria
+
+ telephone -- [43] (1) 211 310
+
+ FAX -- [43] (1) 230 7002
+
+ established -- 16 February 1946
+
+ aim -- Economic and Social Council organization dealing with illicit
+ drugs programs of UN
+
+ members -- (53) selected on a rotating basis from all regions with
+ emphasis on producing and processing countries
+
+Commission on Science and Technology for Development
+
+ established -- 30 April 1992
+
+ aim -- to promote international cooperation, as part of the Economic
+ and Social Council, in the field of science and technology
+
+ members -- (53) selected on a rotating basis from all regions
+
+Commission on the Status of Women
+
+ address -- c/o Economic and Social Council, Affairs Division,
+ Department for Policy Coordination and Sustainable Development, Room
+ S-2963, United Nations, New York, NY 10017, USA
+
+ established -- 21 June 1946
+
+ aim -- to deal, as part of the Economic and Social Council, with
+ women's rights goals of UN
+
+ members -- (45) selected on a rotating basis from all regions
+
+Commission on Sustainable Development
+
+ established -- 12 February 1993
+
+ aim -- to monitor, as part of the Economic and Social Council,
+ implementation of agreements reached at the UN Conference on
+ Environment and Development
+
+ members -- (53) selected on a rotating basis from all regions
+
+Commonwealth (C)
+
+ address -- c/o Commonwealth Secretariat, Marlborough House, Pall Mall,
+ London SW1Y5HX, UK
+
+ telephone -- [44] (71) 839 3411
+
+ FAX -- [44] (71) 930 0827
+
+ established -- 31 December 1931
+
+ aim -- to foster multinational cooperation and assistance, as a
+ voluntary association that evolved from the British Empire
+
+ members -- (49) Antigua and Barbuda, Australia, The Bahamas,
+ Bangladesh, Barbados, Belize, Botswana, Brunei, Canada, Cyprus,
+ Dominica, The Gambia, Ghana, Grenada, Guyana, India, Jamaica, Kenya,
+ Kiribati, Lesotho, Malawi, Malaysia, Maldives, Malta, Mauritius,
+ Namibia, NZ, Nigeria, Pakistan, Papua New Guinea, Saint Kitts and
+ Nevis, Saint Lucia, Saint Vincent and the Grenadines, Seychelles,
+ Sierra Leone, Singapore, Solomon Islands, South Africa, Sri Lanka,
+ Swaziland, Tanzania, Tonga, Trinidad and Tobago, Uganda, UK, Vanuatu,
+ Western Samoa, Zambia, Zimbabwe
+
+ special members -- (2) Nauru, Tuvalu
+
+Commonwealth of Independent States (CIS)
+
+ address -- Kirov Street 17, 220000 Minsk, Belarus
+
+ telephone -- [7] (172) 293434, 293517
+
+ FAX -- [7] (172) 261894, 261944
+
+ established -- 8 December 1991
+
+ effective -- 21 December 1991
+
+ aim -- to coordinate intercommonwealth relations and to provide a
+ mechanism for the orderly dissolution of the USSR
+
+ members -- (12) Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan,
+ Kyrgyzstan, Moldova, Russia, Tajikistan, Turkmenistan, Ukraine,
+ Uzbekistan
+
+Communaute Economique de l'Afrique de l'Ouest (CEAO)
+
+ see -- West African Economic Community (CEAO)
+
+Communaute Economique des Etats de l'Afrique Centrale (CEEAC)
+
+ see -- Economic Community of Central African States (CEEAC)
+
+Communaute Economique des Pays des Grands Lacs (CEPGL)
+
+ see -- Economic Community of the Great Lakes Countries (CEPGL)
+
+Communist countries
+
+ traditionally the Marxist-Leninist states with authoritarian
+ governments and command economies based on the Soviet model; most of
+ the original and the successor states are no longer Communist; see
+ centrally planned economies
+
+Conference on Security and Cooperation in Europe (CSCE)
+
+ see -- Organization on Security and Cooperation in Europe (OSCE)
+
+Conseil Europeen pour la Recherche Nucleaire (CERN)
+
+ see -- European Organization for Nuclear Research (CERN)
+
+Contadora Group (CG)
+
+ was established 5 January 1983 (on the Panamanian island of Contadora)
+ to reduce tensions and conflicts in Central America; has evolved into
+ the Rio Group (RG); members included Colombia, Mexico, Panama,
+ Venezuela
+
+Cooperation Council for the Arab States of the Gulf
+
+ see -- Gulf Cooperation Council (GCC)
+
+Coordinating Committee on Export Controls (COCOM)
+
+ established in 1949 to control the export of strategic products and
+ technical data from member countries to proscribed destinations;
+ members were Australia, Belgium, Canada, Denmark, France, Germany,
+ Greece, Italy, Japan, Luxembourg, Netherlands, Norway, Portugal,
+ Spain, Turkey, UK, US; was abolished 31 March 1994; COCOM members are
+ working on a new organization with expanded membership which focuses
+ on nonproliferation export controls as opposed to East-West control of
+ advanced technology
+
+Council for Mutual Economic Assistance (CEMA)
+
+ note -- also known as CMEA or Comecon established 25 January 1949 to
+ promote the development of socialist economies and was abolished 1
+ January 1991; members included Afghanistan (observer), Albania (had
+ not participated since 1961 break with USSR), Angola (observer),
+ Bulgaria, Cuba, Czechoslovakia, Ethiopia (observer), GDR, Hungary,
+ Laos (observer), Mongolia, Mozambique (observer), Nicaragua
+ (observer), Poland, Romania, USSR, Vietnam, Yemen (observer),
+ Yugoslavia (associate)
+
+Council of Arab Economic Unity (CAEU)
+
+ address -- BP 925100, Amman, Jordan
+
+ telephone -- [962] (6) 66 43 26, 66 43 27, 66 43 28
+
+ FAX -- [962] (6) 66 33 43
+
+ established -- 3 June 1957
+
+ effective -- 30 May 1964
+
+ aim -- to promote economic integration among Arab nations
+
+ members -- (11 plus the Palestine Liberation Organization) Egypt,
+ Iraq, Jordan, Kuwait, Libya, Mauritania, Somalia, Sudan, Syria, UAE,
+ Yemen, Palestine Liberation Organization
+
+Council of Europe (CE)
+
+ address -- Palais de lEurope, F-67075 Strasbourg CEDEX, France
+
+ telephone -- [33] 88 41 20 00
+
+ FAX -- [33] 88 41 27 81, 88 41 27 82
+
+ established -- 5 May 1949
+
+ effective -- 3 August 1949
+
+ aim -- to promote increased unity and quality of life in Europe
+
+ members -- (32) Austria, Belgium, Bulgaria, Cyprus, Czech Republic,
+ Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland,
+ Ireland, Italy, Liechtenstein, Lithuania, Luxembourg, Malta,
+ Netherlands, Norway, Poland, Portugal, Romania, San Marino, Slovakia,
+ Slovenia, Spain, Sweden, Switzerland, Turkey, UK
+
+ guests -- (9) Albania, Belarus, Bosnia and Herzegovina, Croatia,
+ Latvia, The Former Yugoslav Republic of Macedonia, Moldova, Russia,
+ Ukraine
+
+ observer -- (1) Israel
+
+Council of the Baltic Sea States (CBSS)
+
+ established -- 5 March 1992
+
+ aim -- to promote cooperation among the Baltic Sea states in the areas
+ of aid to new democratic institutions, economic development,
+ humanitarian aid, energy and the environment, cultural programs and
+ education, and transportation and communication
+
+ members -- (10) Denmark, Estonia, Finland, Germany, Latvia, Lithuania,
+ Norway, Poland, Russia, Sweden
+
+Council of the Entente (Entente)
+
+ address -- BP 3734, Abidjan 01, Cote dIvoire
+
+ telephone -- [225] 33 10 01, 33 28 35
+
+ FAX -- [225] 33 11 49
+
+ established -- 29 May 1959
+
+ aim -- to promote economic, social, and political coordination
+
+ members -- (5) Benin, Burkina, Cote d'Ivoire, Niger, Togo
+
+Customs Cooperation Council (CCC)
+
+ address -- Rue de lIndustrie 26-38, B-1040 Brussels, Belgium
+
+ telephone -- [32] (2) 508 42 11
+
+ FAX -- [32] (2) 508 42 40
+
+ established -- 15 December 1950
+
+ aim -- to promote international cooperation in customs matters
+
+ members -- (136) Albania, Algeria, Angola, Argentina, Armenia,
+ Australia, Austria, Azerbaijan, The Bahamas, Bangladesh, Belarus,
+ Belgium, Bermuda, Botswana, Brazil, Bulgaria, Burkina, Burma, Burundi,
+ Cameroon, Canada, Cape Verde, Central African Republic, Chile, China,
+ Colombia, Comoros, Congo, Cote d'Ivoire, Croatia, Cuba, Cyprus, Czech
+ Republic, Denmark, Egypt, Estonia, Ethiopia, Finland, France, Gabon,
+ The Gambia, Georgia, Germany, Ghana, Greece, Guatemala, Guinea,
+ Guyana, Haiti, Hong Kong, Hungary, Iceland, India, Indonesia, Iran,
+ Iraq, Ireland, Israel, Italy, Jamaica, Japan, Jordan, Kazakhstan,
+ Kenya, South Korea, Kuwait, Latvia, Lebanon, Lesotho, Liberia, Libya,
+ Lithuania, Luxembourg, Macau, The Former Yugoslav Republic of
+ Macedonia, Madagascar, Malawi, Malaysia, Mali, Malta, Mauritania,
+ Mauritius, Mexico, Mongolia, Morocco, Mozambique, Namibia, Nepal,
+ Netherlands, NZ, Niger, Nigeria, Norway, Pakistan, Paraguay, Peru,
+ Philippines, Poland, Portugal, Qatar, Romania, Russia, Rwanda, Saudi
+ Arabia, Senegal, Sierra Leone, Singapore, Slovakia, Slovenia, South
+ Africa, Spain, Sri Lanka, Sudan, Swaziland, Sweden, Switzerland,
+ Syria, Tanzania, Thailand, Togo, Trinidad and Tobago, Tunisia, Turkey,
+ Turkmenistan, Uganda, Ukraine, UAE, UK, US, Uruguay, Uzbekistan,
+ Vietnam, Yemen, Zaire, Zambia, Zimbabwe
+
+developed countries (DCs)
+
+ the top group in the hierarchy of developed countries (DCs), former
+ USSR/Eastern Europe (former USSR/EE), and less developed countries
+ (LDCs); includes the market-oriented economies of the mainly
+ democratic nations in the Organization for Economic Cooperation and
+ Development (OECD), Bermuda, Israel, South Africa, and the European
+ ministates; also known as the First World, high-income countries, the
+ North, industrial countries; generally have a per capita GDP in excess
+ of $10,000 although four OECD countries and South Africa have figures
+ well under $10,000 and two of the excluded OPEC countries have figures
+ of more than $10,000; the 35 DCs are: Andorra, Australia, Austria,
+ Belgium, Bermuda, Canada, Denmark, Faroe Islands, Finland, France,
+ Germany, Greece, Holy See, Iceland, Ireland, Israel, Italy, Japan,
+ Liechtenstein, Luxembourg, Malta, Mexico, Monaco, Netherlands, NZ,
+ Norway, Portugal, San Marino, South Africa, Spain, Sweden,
+ Switzerland, Turkey, UK, US
+
+developing countries
+
+ an imprecise term for the less developed countries with growing
+ economies;
+
+ see -- less developed countries (LDCs)
+
+East African Development Bank (EADB)
+
+ address -- 4 Nile Avenue, P.O. Box 7128, Kampala, Uganda
+
+ telephone -- [256] (41) 230021, 230825
+
+ FAX -- [256] (41) 259763
+
+ established -- 6 June 1967
+
+ effective -- 1 December 1967
+
+ aim -- to promote economic development
+
+ members -- (3) Kenya, Tanzania, Uganda
+
+Economic and Social Commission for Asia and the Pacific (ESCAP)
+
+ address -- United Nations Building, Rajadamnern Avenue, Bangkok 10200,
+ Thailand
+
+ telephone -- [66] (2) 2829161 through 2829200, 2829381 through 2829389
+
+ FAX -- [66] (2) 2811743
+
+ established -- 28 March 1947 as Economic Commission for Asia and the
+ Far East (ECAFE)
+
+ aim -- to carryout the commitment of the Economic and Social Council
+ of the UN to promote economic development
+
+ members -- (49) Afghanistan, Armenia, Australia, Azerbaijan,
+ Bangladesh, Bhutan, Brunei, Burma, Cambodia, China, Fiji, France,
+ India, Indonesia, Iran, Japan, Kazakhstan, Kiribati, North Korea,
+ South Korea, Kyrgyzstan, Laos, Malaysia, Maldives, Marshall Islands,
+ Federated States of Micronesia, Mongolia, Nauru, Nepal, Netherlands,
+ NZ, Pakistan, Papua New Guinea, Philippines, Russia, Singapore,
+ Solomon Islands, Sri Lanka, Tajikistan, Thailand, Tonga, Turkmenistan,
+ Tuvalu, UK, US, Uzbekistan, Vanuatu, Vietnam, Western Samoa
+
+ associate members -- (10) American Samoa, Cook Islands, French
+ Polynesia, Guam, Hong Kong, Macau, New Caledonia, Niue, Northern
+ Mariana Islands, Palau
+
+Economic and Social Commission for Western Asia (ESCWA)
+
+ address -- (temporary) P.O. Box 927115, Amman, Jordan
+
+ telephone -- [962] (6) 694351
+
+ FAX -- [962] (6) 694981, 694982
+
+ established -- 9 August 1973 as Economic Commission for Western Asia
+ (ECWA)
+
+ aim -- to promote economic development as a regional commission for
+ the UN's Economic and Social Council
+
+ members -- (12 plus the Palestine Liberation Organization) Bahrain,
+ Egypt, Iraq, Jordan, Kuwait, Lebanon, Oman, Qatar, Saudi Arabia,
+ Syria, UAE, Yemen, Palestine Liberation Organization
+
+Economic and Social Council (ECOSOC)
+
+ address -- United Nations, New York, NY 10017, USA
+
+ telephone -- [1] (212) 963 1234
+
+ FAX -- [1] (212) 758 2718
+
+ established -- 26 June 1945
+
+ effective -- 24 October 1945
+
+ aim -- to coordinate the economic and social work of the UN; includes
+ five regional commissions (see Economic Commission for Africa,
+ Economic Commission for Europe, Economic Commission for Latin America
+ and the Caribbean, Economic and Social Commission for Asia and the
+ Pacific, Economic and Social Commission for Western Asia) and 10
+ functional commissions (see Commission for Social Development,
+ Commission on Human Rights, Commission on Narcotic Drugs, Commission
+ on the Status of Women, Population Commission, Statistical Commission,
+ Commission on Science and Technology for Development, Commission on
+ Sustainable Development, Commission on Crime Prevention and Criminal
+ Justice, and Commission on Transnational Corporations)
+
+ members -- (54) selected on a rotating basis from all regions
+
+Economic Commission for Africa (ECA)
+
+ address -- P.O. Box 3001-3005, Addis Ababa, Ethiopia
+
+ telephone -- [251] (1) 51 72 00
+
+ FAX -- [251] (1) 51 44 16
+
+ established -- 29 April 1958
+
+ aim -- to promote economic development as a regional commission of the
+ UN's Economic and Social Council
+
+ members -- (53) Algeria, Angola, Benin, Botswana, Burkina, Burundi,
+ Cameroon, Cape Verde, Central African Republic, Chad, Comoros, Congo,
+ Cote d'Ivoire, Djibouti, Egypt, Equatorial Guinea, Eritrea, Ethiopia,
+ Gabon, The Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho,
+ Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mauritius,
+ Morocco, Mozambique, Namibia, Niger, Nigeria, Rwanda, Sao Tome and
+ Principe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa,
+ Sudan, Swaziland, Tanzania, Togo, Tunisia, Uganda, Zaire, Zambia,
+ Zimbabwe
+
+ associate members -- (2) France, UK
+
+Economic Commission for Asia and the Far East (ECAFE)
+
+ see -- Economic and Social Commission for Asia and the Pacific (ESCAP)
+
+Economic Commission for Europe (ECE)
+
+ address -- Palais des Nations, CH-1211 Geneva 10, Switzerland
+
+ telephone -- [41] (22) 917 1234, 907 2893
+
+ FAX -- [41] (22) 917 0036
+
+ established -- 28 March 1947
+
+ aim -- to promote economic development as a regional commission of the
+
+Back to Full Books

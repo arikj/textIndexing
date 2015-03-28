@@ -1,0 +1,2004 @@
+The 1995 CIA World Factbook
+
+ Budget:
+ revenues: $227.4 million
+ expenditures: $263 million, including capital expenditures of $54
+ million (1993 est.)
+
+ Exports: $50 million (f.o.b., 1993 est.)
+ commodities: fish, cinnamon bark, copra, petroleum products
+ (re-exports)
+ partners: France 43%, UK 22%, Reunion 11%, (1992)
+
+ Imports: $261 million (f.o.b., 1993 est.)
+ commodities: manufactured goods, food, petroleum products, tobacco,
+ beverages, machinery and transportation equipment
+ partners: Singapore 16%, Bahrain 16%, South Africa, 14%, UK 13% (1992)
+
+ External debt: $181 million (1993 est.)
+
+ Industrial production: growth rate 4% (1992); accounts for 12% of GDP
+
+ Electricity:
+ capacity: 30,000 kW
+ production: 110 million kWh
+ consumption per capita: 1,399 kWh (1993)
+
+ Industries: tourism, processing of coconut and vanilla, fishing, coir
+ rope factory, boat building, printing, furniture, beverage
+
+ Agriculture: accounts for 5% of GDP, mostly subsistence farming; cash
+ crops - coconuts, cinnamon, vanilla; other products - sweet potatoes,
+ cassava, bananas; broiler chickens; large share of food needs
+ imported; expansion of tuna fishing under way
+
+ Economic aid:
+ recipient: US commitments, including Ex-Im (FY78-89), $26 million;
+ Western (non-US) countries, ODA and OOF bilateral commitments
+ (1978-89), $315 million; OPEC bilateral aid (1979-89), $5 million;
+ Communist countries (1970-89), $60 million
+
+ Currency: 1 Seychelles rupee (SRe) = 100 cents
+
+ Exchange rates: Seychelles rupees (SRe) per US$1 - 4.9371 (January
+ 1995), 5.0559 (1994), 5.1815 (1993), 5.1220 (1992), 5.2893 (1991),
+ 5.3369 (1990)
+
+ Fiscal year: calendar year
+
+@Seychelles:Transportation
+
+ Railroads: 0 km
+
+ Highways:
+ total: 260 km
+ paved: 160 km
+ unpaved: crushed stone, earth 100 km
+
+ Ports: Victoria
+
+ Merchant marine: none
+
+ Airports:
+ total: 14
+ with paved runways 2,438 to 3,047 m: 1
+ with paved runways 914 to 1,523 m: 5
+ with paved runways under 914 m: 6
+ with unpaved runways 914 to 1,523 m: 2
+
+@Seychelles:Communications
+
+ Telephone system: 13,000 telephones; direct radio communications with
+ adjacent islands and African coastal countries
+ local: NA
+ intercity: radio communications
+ international: 1 INTELSAT (Indian Ocean) earth station
+
+ Radio:
+ broadcast stations: AM 2, FM 0, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 2
+ televisions: NA
+
+@Seychelles:Defense Forces
+
+ Branches: Army, Coast Guard, Marines, National Guard, Presidential
+ Protection Unit, Police Force
+
+ Manpower availability: males age 15-49 19,829; males fit for military
+ service 10,099 (1995 est.)
+
+ Defense expenditures: exchange rate conversion - $12 million, 4% of
+ GDP (1990 est.)
+
+
+________________________________________________________________________
+
+SIERRA LEONE
+
+@Sierra Leone:Geography
+
+ Location: Western Africa, bordering the North Atlantic Ocean, between
+ Guinea and Liberia
+
+ Map references: Africa
+
+ Area:
+ total area: 71,740 sq km
+ land area: 71,620 sq km
+ comparative area: slightly smaller than South Carolina
+
+ Land boundaries: total 958 km, Guinea 652 km, Liberia 306 km
+
+ Coastline: 402 km
+
+ Maritime claims:
+ territorial sea: 200 nm
+ continental shelf: 200-m depth or to the depth of exploitation
+
+ International disputes: none
+
+ Climate: tropical; hot, humid; summer rainy season (May to December);
+ winter dry season (December to April)
+
+ Terrain: coastal belt of mangrove swamps, wooded hill country, upland
+ plateau, mountains in east
+
+ Natural resources: diamonds, titanium ore, bauxite, iron ore, gold,
+ chromite
+
+ Land use:
+ arable land: 25%
+ permanent crops: 2%
+ meadows and pastures: 31%
+ forest and woodland: 29%
+ other: 13%
+
+ Irrigated land: 340 sq km (1989 est.)
+
+ Environment:
+ current issues: rapid population growth pressuring the environment;
+ overharvesting of timber, expansion of cattle grazing, and
+ slash-and-burn agriculture have resulted in deforestation and soil
+ exhaustion; civil war depleting natural resources; overfishing
+ natural hazards: dry, sand-laden harmattan winds blow from the Sahara
+ (November to May); sandstorms, dust storms
+ international agreements: party to - Biodiversity, Endangered Species,
+ Law of the Sea, Marine Life Conservation, Nuclear Test Ban; signed,
+ but not ratified - Climate Change, Environmental Modification
+
+@Sierra Leone:People
+
+ Population: 4,753,120 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 44% (female 1,054,826; male 1,020,943)
+ 15-64 years: 53% (female 1,310,506; male 1,216,510)
+ 65 years and over: 3% (female 72,982; male 77,353) (July 1995 est.)
+
+ Population growth rate: 2.63% (1995 est.)
+
+ Birth rate: 44.65 births/1,000 population (1995 est.)
+
+ Death rate: 18.38 deaths/1,000 population (1995 est.)
+
+ Net migration rate: NA migrant(s)/1,000 population (1995 est.)
+ note: thousands of refugees, fleeing the civil strife in Sierra Leone,
+ are taking refuge in Guinea
+
+ Infant mortality rate: 138.8 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 46.94 years
+ male: 44.07 years
+ female: 49.89 years (1995 est.)
+
+ Total fertility rate: 5.9 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Sierra Leonean(s)
+ adjective: Sierra Leonean
+
+ Ethnic divisions: 13 native African tribes 99% (Temne 30%, Mende 30%,
+ other 39%), Creole, European, Lebanese, and Asian 1%
+
+ Religions: Muslim 60%, indigenous beliefs 30%, Christian 10%
+
+ Languages: English (official; regular use limited to literate
+ minority), Mende (principal vernacular in the south), Temne (principal
+ vernacular in the north), Krio (the language of the re-settled
+ ex-slave population of the Freetown area and is lingua franca)
+
+ Literacy: age 15 and over can read and write English, Mende, Temne, or
+ Arabic (1990 est.)
+ total population: 21%
+ male: 31%
+ female: 11%
+
+ Labor force: 1.369 million (1981 est.)
+ by occupation: agriculture 65%, industry 19%, services 16% (1981 est.)
+
+ note: only about 65,000 wage earners (1985)
+
+@Sierra Leone:Government
+
+ Names:
+ conventional long form: Republic of Sierra Leone
+ conventional short form: Sierra Leone
+
+ Digraph: SL
+
+ Type: military government
+
+ Capital: Freetown
+
+ Administrative divisions: 3 provinces and 1 area*; Eastern, Northern,
+ Southern, Western*
+
+ Independence: 27 April 1961 (from UK)
+
+ National holiday: Republic Day, 27 April (1961)
+
+ Constitution: 1 October 1991; suspended following 19 April 1992 coup
+
+ Legal system: based on English law and customary laws indigenous to
+ local tribes; has not accepted compulsory ICJ jurisdiction
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch:
+ chief of state and head of government: Chairman of the Supreme Council
+ of State Capt. Valentine E. M. STRASSER (since 29 April 1992)
+ cabinet: Council of Secretaries; responsible to the Supreme Council of
+ State (SCS)
+
+ Legislative branch: unicameral House of Representatives (suspended
+ after coup of 29 April 1992); Chairman STRASSER promises multi-party
+ elections sometime in 1995
+
+ Judicial branch: Supreme Court (suspended after coup of 29 April 1992)
+
+ Political parties and leaders: status of existing political parties is
+ unknown following 29 April 1992 coup
+
+ Member of: ACP, AfDB, C, CCC, ECA, ECOWAS, FAO, G-77, GATT, IAEA,
+ IBRD, ICAO, ICFTU, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO,
+ INTELSAT (nonsignatory user), INTERPOL, IOC, ITU, NAM, OAU, OIC, UN,
+ UNCTAD, UNESCO, UNIDO, UPU, WCL, WFTU, WHO, WIPO, WMO, WTO
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Thomas Kahota KARGBO
+ chancery: 1701 19th Street NW, Washington, DC 20009
+ telephone: [1] (202) 939-9261
+
+ US diplomatic representation:
+ chief of mission: Ambassador Lauralee M. PETERS
+ embassy: Corner of Walpole and Siaka Stevens Streets, Freetown
+ mailing address: use embassy street address
+ telephone: [232] (22) 226481 trough 226485
+ FAX: [232] (22) 225471
+
+ Flag: three equal horizontal bands of light green (top), white, and
+ light blue
+
+@Sierra Leone:Economy
+
+ Overview: Sierra Leone has substantial mineral, agricultural, and
+ fishery resources, but the economic and social infrastructure is not
+ well developed. Agriculture generates about 40% of GDP and employs
+ about two-thirds of the working population, with subsistence
+ agriculture dominating the sector. Manufacturing, which accounts for
+ roughly 10% of GDP, consists mainly of the processing of raw materials
+ and of light manufacturing for the domestic market. Diamond mining
+ provides an important source of hard currency. Since 1990, the
+ government has been able to meet its IMF- and World Bank-mandated
+ stabilization targets, holding down fiscal deficits, increasing
+ foreign exchange reserves, and retiring much of its domestic debt -
+ but at a steep cost in terms of capital investments and social
+ spending. Moreover, the economic infrastructure has nearly collapsed
+ due to neglect and war-related disruptions in the mining and
+ agricultural export sectors. The continuing civil war in Liberia has
+ led to a large influx of refugees, who place additional burdens on
+ Sierra Leon's fragile economy.
+
+ National product: GDP - purchasing power parity - $4.5 billion (1993
+ est.)
+
+ National product real growth rate: 0.7% (1993 est.)
+
+ National product per capita: $1,000 (1993 est.)
+
+ Inflation rate (consumer prices): 22% (1993 est.)
+
+ Unemployment rate: NA%
+
+ Budget:
+ revenues: $68 million
+ expenditures: $118 million, including capital expenditures of $28
+ million (1992 est.)
+
+ Exports: $149 million (f.o.b., 1993)
+ commodities: rutile 48%, bauxite 25%, diamonds 16%, coffee, cocoa,
+ fish
+ partners: US, UK, Belgium, Germany, other Western Europe
+
+ Imports: $149 million (c.i.f., 1993)
+ commodities: foodstuffs 48%, machinery and equipment 32%, fuels 9%
+ partners: US, EC countries, Japan, China, Nigeria
+
+ External debt: $1.15 billion (yearend 1993)
+
+ Industrial production: growth rate -1.5% (FY91/92); accounts for 11%
+ of GDP
+
+ Electricity:
+ capacity: 130,000 kW
+ production: 220 million kWh
+ consumption per capita: 44 kWh (1993)
+
+ Industries: mining (diamonds, bauxite, rutile), small-scale
+ manufacturing (beverages, textiles, cigarettes, footwear), petroleum
+ refinery
+
+ Agriculture: largely subsistence farming; cash crops - coffee, cocoa,
+ palm kernels; harvests of food staple rice meets 80% of domestic
+ needs; annual fish catch averages 53,000 metric tons
+
+ Economic aid:
+ recipient: US commitments, including Ex-Im (FY70-89), $161 million;
+ Western (non-US) countries, ODA and OOF bilateral commitments
+ (1970-89), $848 million; OPEC bilateral aid (1979-89), $18 million;
+ Communist countries (1970-89), $101 million
+
+ Currency: 1 leone (Le) = 100 cents
+
+ Exchange rates: leones (Le) per US$1 - 617.67 (January 1995), 586.74
+ (1994), 567.46 (1993), 499.44 (1992), 295.34 (1991), 144.9275 (1990)
+
+ Fiscal year: 1 July - 30 June
+
+@Sierra Leone:Transportation
+
+ Railroads:
+ total: 84 km mineral line is used on a limited basis because the mine
+ at Marampa is closed
+ narrow gauge: 84 km 1.067-m gauge
+
+ Highways:
+ total: 7,400 km
+ paved: 1,150 km
+ unpaved: crushed stone, gravel 490 km; improved earth 5,760 km
+
+ Inland waterways: 800 km; 600 km navigable year round
+
+ Ports: Bonthe, Freetown, Pepel
+
+ Merchant marine: none
+
+ Airports:
+ total: 11
+ with paved runways over 3,047 m: 1
+ with paved runways 914 to 1,523 m: 3
+ with paved runways under 914 m: 3
+ with unpaved runways 914 to 1,523 m: 4
+
+@Sierra Leone:Communications
+
+ Telephone system: 23,650 telephones; telephone density - 5
+ telephones/1,000 persons; marginal telephone and telegraph service
+ local: NA
+ intercity: national microwave radio relay system made unserviceable by
+ military activities
+ international: 1 INTELSAT (Atlantic Ocean) earth station
+
+ Radio:
+ broadcast stations: AM 1, FM 1, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 1
+ televisions: NA
+
+@Sierra Leone:Defense Forces
+
+ Branches: Army, Navy, Police, Security Forces
+
+ Manpower availability: males age 15-49 1,030,332; males fit for
+ military service 498,945 (1995 est.)
+
+ Defense expenditures: exchange rate conversion - $14 million, 2.6% of
+ GDP (FY92/93)
+
+
+________________________________________________________________________
+
+SINGAPORE
+
+@Singapore:Geography
+
+ Location: Southeastern Asia, islands between Malaysia and Indonesia
+
+ Map references: Southeast Asia
+
+ Area:
+ total area: 632.6 sq km
+ land area: 622.6 sq km
+ comparative area: slightly less than 3.5 times the size of Washington,
+ DC
+
+ Land boundaries: 0 km
+
+ Coastline: 193 km
+
+ Maritime claims:
+ exclusive fishing zone: within and beyond territorial sea, as defined
+ in treaties and practice
+ territorial sea: 3 nm
+
+ International disputes: two islands in dispute with Malaysia
+
+ Climate: tropical; hot, humid, rainy; no pronounced rainy or dry
+ seasons; thunderstorms occur on 40% of all days (67% of days in April)
+
+ Terrain: lowland; gently undulating central plateau contains water
+ catchment area and nature preserve
+
+ Natural resources: fish, deepwater ports
+
+ Land use:
+ arable land: 4%
+ permanent crops: 7%
+ meadows and pastures: 0%
+ forest and woodland: 5%
+ other: 84%
+
+ Irrigated land: NA sq km
+
+ Environment:
+ current issues: industrial pollution; limited natural fresh water
+ resources; limited land availability presents waste disposal problems
+ natural hazards: NA
+ international agreements: party to - Endangered Species, Law of the
+ Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution; signed,
+ but not ratified - Biodiversity, Climate Change
+
+ Note: focal point for Southeast Asian sea routes
+
+@Singapore:People
+
+ Population: 2,890,468 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 23% (female 327,417; male 348,345)
+ 15-64 years: 70% (female 991,015; male 1,030,668)
+ 65 years and over: 7% (female 105,081; male 87,942) (July 1995 est.)
+
+ Population growth rate: 1.06% (1995 est.)
+
+ Birth rate: 15.93 births/1,000 population (1995 est.)
+
+ Death rate: 5.35 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 0 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 5.7 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 76.16 years
+ male: 73.28 years
+ female: 79.25 years (1995 est.)
+
+ Total fertility rate: 1.87 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Singaporean(s)
+ adjective: Singapore
+
+ Ethnic divisions: Chinese 76.4%, Malay 14.9%, Indian 6.4%, other 2.3%
+
+ Religions: Buddhist (Chinese), Muslim (Malays), Christian, Hindu,
+ Sikh, Taoist, Confucianist
+
+ Languages: Chinese (official), Malay (official and national), Tamil
+ (official), English (official)
+
+ Literacy: age 15 and over can read and write (1990)
+ total population: 89%
+ male: 95%
+ female: 83%
+
+ Labor force: 1.649 million (1994)
+ by occupation: financial, business, and other services 33.5%,
+ manufacturing 25.6%, commerce 22.9%, construction 6.6%, other 11.4%
+ (1994)
+
+@Singapore:Government
+
+ Names:
+ conventional long form: Republic of Singapore
+ conventional short form: Singapore
+
+ Digraph: SN
+
+ Type: republic within Commonwealth
+
+ Capital: Singapore
+
+ Administrative divisions: none
+
+ Independence: 9 August 1965 (from Malaysia)
+
+ National holiday: National Day, 9 August (1965)
+
+ Constitution: 3 June 1959, amended 1965 (based on preindependence
+ State of Singapore Constitution)
+
+ Legal system: based on English common law; has not accepted compulsory
+ ICJ jurisdiction
+
+ Suffrage: 20 years of age; universal and compulsory
+
+ Executive branch:
+ chief of state: President ONG Teng Cheong (since 1 September 1993);
+ election last held 28 August 1993 (next to be held NA August 1997);
+ results - ONG Teng Cheong was elected with 59% of the vote in the
+ country's first popular election for president
+ head of government: Prime Minister GOH Chok Tong (since 28 November
+ 1990); Deputy Prime Minister LEE Hsien Loong (since 28 November 1990)
+ cabinet: Cabinet; appointed by the president, responsible to
+ parliament
+
+ Legislative branch: unicameral
+ Parliament: elections last held 31 August 1991 (next to be held by 31
+ August 1996); results - percent of vote by party NA; seats - (81
+ total) PAP 77, SDP 3, WP 1
+
+ Judicial branch: Supreme Court
+
+ Political parties and leaders:
+ government: People's Action Party (PAP), GOH Chok Tong, secretary
+ general
+ opposition: Workers' Party (WP), J. B. JEYARETNAM; Singapore
+ Democratic Party (SDP), CHEE Soon Juan; National Solidarity Party
+ (NSP), leader NA; Barisan Sosialis (BS, Socialist Front), leader NA;
+ Singapore People's Party (SPP), SIN Kek Tong
+
+ Member of: APEC, AsDB, ASEAN, C, CCC, CP, ESCAP, G-77, GATT, IAEA,
+ IBRD, ICAO, ICC, ICFTU, ICRM, IFC, IFRCS, ILO, IMF, IMO, INMARSAT,
+ INTELSAT, INTERPOL, IOC, ISO, ITU, NAM, PCA, UN, UNCTAD, UNIKOM, UPU,
+ WHO, WIPO, WMO
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Sellapan Rama NATHAN
+ chancery: 3501 International Place NW, Washington, DC 20008
+ telephone: [1] (202) 537-3100
+ FAX: [1] (202) 537-0876
+
+ US diplomatic representation:
+ chief of mission: Ambassador Timothy A. CHORBA
+ embassy: 30 Hill Street, Singapore 0617
+ mailing address: FPO AP 96534
+ telephone: [65] 3380251
+ FAX: [65] 3384550
+
+ Flag: two equal horizontal bands of red (top) and white; near the
+ hoist side of the red band, there is a vertical, white crescent
+ (closed portion is toward the hoist side) partially enclosing five
+ white five-pointed stars arranged in a circle
+
+@Singapore:Economy
+
+ Overview: Singapore has an open entrepreneurial economy with strong
+ service and manufacturing sectors and excellent international trading
+ links derived from its entrepot history. The economy registered 10.1%
+ growth in 1994, with prospects for 7.5%-8.5% growth in 1995. In 1994,
+ the manufacturing and financial and business services sectors have led
+ economic growth. Exports boomed, led by the electronics sector,
+ particularly US demand for disk drives. Rising labor costs continue to
+ be a threat to Singapore's competitiveness, but there are indications
+ that productivity is keeping up. In applied technology, per capita
+ output, investment, and labor discipline, Singapore has key attributes
+ of a developed country.
+
+ National product: GDP - purchasing power parity - $57 billion (1994
+ est.)
+
+ National product real growth rate: 10.1% (1994)
+
+ National product per capita: $19,940 (1994 est.)
+
+ Inflation rate (consumer prices): 3.6% (1994)
+
+ Unemployment rate: 2.6% (1994)
+
+ Budget:
+ revenues: $11.9 billion
+ expenditures: $10.5 billion, including capital expenditures of $3.9
+ billion (FY93/94 est.)
+
+ Exports: $96.4 billion (f.o.b., 1994)
+ commodities: computer equipment, rubber and rubber products, petroleum
+ products, telecommunications equipment
+ partners: Malaysia 20%, US 19%, Hong Kong 9%, Japan 7%, Thailand 6%
+ (1994)
+
+ Imports: $102.4 billion (c.i.f., 1994)
+ commodities: aircraft, petroleum, chemicals, foodstuffs
+ partners: Japan 22%, Malaysia 16%, US 15%, Taiwan 4%, Saudi Arabia 4%
+ (1994)
+
+ External debt: $20 million (1993 est.)
+
+ Industrial production: growth rate 13% (1994 est.); accounts for 28%
+ of GDP (1993)
+
+ Electricity:
+ capacity: 4,510,000 kW
+ production: 17 billion kWh
+ consumption per capita: 5,590 kWh (1993)
+
+ Industries: petroleum refining, electronics, oil drilling equipment,
+ rubber processing and rubber products, processed food and beverages,
+ ship repair, entrepot trade, financial services, biotechnology
+
+ Agriculture: minor importance in the economy; self-sufficient in
+ poultry and eggs; must import much of other food; major crops -
+ rubber, copra, fruit, vegetables
+
+ Illicit drugs: transit point for Golden Triangle heroin going to the
+ US, Western Europe, and the Third World; also a major money-laundering
+ center
+
+ Economic aid:
+ recipient: US commitments, including Ex-Im (FY70-83), $590 million;
+ Western (non-US) countries, ODA and OOF bilateral commitments
+ (1970-89), $1 billion
+
+ Currency: 1 Singapore dollar (S$) = 100 cents
+
+ Exchange rates: Singapore dollars (S$) per US$1 - 1.4524 (January
+ 1995), 1.5275 (1994), 1.6158 (1993), 1.6290 (1992), 1.7276 (1991),
+ 1.8125 (1990)
+
+ Fiscal year: 1 April - 31 March
+
+@Singapore:Transportation
+
+ Railroads:
+ total: 38.6 km
+ narrow gauge: 38.6 km 1.000-m gauge
+
+ Highways:
+ total: 2,883 km
+ paved: 2,796 km
+ unpaved: 87 km (1991 est.)
+
+ Ports: Singapore
+
+ Merchant marine:
+ total: 563 ships (1,000 GRT or over) totaling 11,167,596
+ GRT/17,845,687 DWT
+ ships by type: bulk 96, cargo 121, chemical tanker 16, combination
+ bulk 2, combination ore/oil 7, container 78, liquefied gas tanker 6,
+ oil tanker 198, refrigerated cargo 1, roll-on/roll-off cargo 12,
+ short-sea passenger 1, specialized tanker 3, vehicle carrier 22
+ note: a flag of convenience registry; includes 20 countries among
+ which are Japan 35 ships, Denmark 21, Germany 21, Hong Kong 18,
+ Belgium 14, Thailand 11, Sweden 8, US 7, Indonesia 6, and Norway 5;
+ Singapore owns 1 ship under Malaysia registry
+
+ Airports:
+ total: 10
+ with paved runways over 3,047 m: 3
+ with paved runways 2,438 to 3,047 m: 2
+ with paved runways 1,524 to 2,437 m: 4
+ with paved runways 914 to 1,523 m: 1
+
+@Singapore:Communications
+
+ Telephone system: 1,110,000 telephones; good domestic facilities; good
+ international service; good radio and television broadcast coverage
+ local: NA
+ intercity: NA
+ international: submarine cables extend to Malaysia (Sabah and
+ Peninsular Malaysia), Indonesia, and the Philippines; 2 INTELSAT (1
+ Indian Ocean and 1 Pacific Ocean) earth stations
+
+ Radio:
+ broadcast stations: AM 13, FM 4, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 2
+ televisions: NA
+
+@Singapore:Defense Forces
+
+ Branches: Army, Navy, Air Force, People's Defense Force, Police Force
+
+ Manpower availability: males age 15-49 860,437; males fit for military
+ service 629,973 (1995 est.)
+
+ Defense expenditures: exchange rate conversion - $2.7 billion, 6% of
+ GDP (1993 est.)
+
+
+________________________________________________________________________
+
+SLOVAKIA
+
+@Slovakia:Geography
+
+ Location: Central Europe, south of Poland
+
+ Map references: Ethnic Groups in Eastern Europe, Europe
+
+ Area:
+ total area: 48,845 sq km
+ land area: 48,800 sq km
+ comparative area: about twice the size of New Hampshire
+
+ Land boundaries: total 1,355 km, Austria 91 km, Czech Republic 215 km,
+ Hungary 515 km, Poland 444 km, Ukraine 90 km
+
+ Coastline: 0 km (landlocked)
+
+ Maritime claims: none; landlocked
+
+ International disputes: Gabcikovo Dam dispute with Hungary; unresolved
+ property issues with Czech Republic over redistribution of former
+ Czechoslovak federal property
+
+ Climate: temperate; cool summers; cold, cloudy, humid winters
+
+ Terrain: rugged mountains in the central and northern part and
+ lowlands in the south
+
+ Natural resources: brown coal and lignite; small amounts of iron ore,
+ copper and manganese ore; salt
+
+ Land use:
+ arable land: NA%
+ permanent crops: NA%
+ meadows and pastures: NA%
+ forest and woodland: NA%
+ other: NA%
+
+ Irrigated land: NA sq km
+
+ Environment:
+ current issues: air pollution from metallurgical plants presents human
+ health risks; acid rain damaging forests
+ natural hazards: NA
+ international agreements: party to - Air Pollution, Air
+ Pollution-Nitrogen Oxides, Air Pollution-Sulphur 85, Antarctic Treaty,
+ Biodiversity, Climate Change, Endangered Species, Environmental
+ Modification, Hazardous Wastes, Nuclear Test Ban, Ozone Layer
+ Protection, Ship Pollution, Wetlands; signed, but not ratified - Air
+ Pollution-Sulphur 94, Antarctic-Environmental Protocol, Law of the Sea
+
+ Note: landlocked
+
+@Slovakia:People
+
+ Population: 5,432,383 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 23% (female 609,795; male 638,346)
+ 15-64 years: 66% (female 1,807,312; male 1,778,712)
+ 65 years and over: 11% (female 364,610; male 233,608) (July 1995 est.)
+
+ Population growth rate: 0.54% (1995 est.)
+
+ Birth rate: 14.51 births/1,000 population (1995 est.)
+
+ Death rate: 9.12 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 0 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 10 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 73.24 years
+ male: 69.15 years
+ female: 77.57 years (1995 est.)
+
+ Total fertility rate: 1.93 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Slovak(s)
+ adjective: Slovak
+
+ Ethnic divisions: Slovak 85.7%, Hungarian 10.7%, Gypsy 1.5% (the 1992
+ census figures underreport the Gypsy/Romany community, which could
+ reach 500,000 or more), Czech 1%, Ruthenian 0.3%, Ukrainian 0.3%,
+ German 0.1%, Polish 0.1%, other 0.3%
+
+ Religions: Roman Catholic 60.3%, atheist 9.7%, Protestant 8.4%,
+ Orthodox 4.1%, other 17.5%
+
+ Languages: Slovak (official), Hungarian
+
+ Literacy: NA%
+
+ Labor force: 2.484 million
+ by occupation: industry 33.2%, agriculture 12.2%, construction 10.3%,
+ communication and other 44.3% (1990)
+
+@Slovakia:Government
+
+ Names:
+ conventional long form: Slovak Republic
+ conventional short form: Slovakia
+ local long form: Slovenska Republika
+ local short form: Slovensko
+
+ Digraph: LO
+
+ Type: parliamentary democracy
+
+ Capital: Bratislava
+
+ Administrative divisions: 4 departments (kraje, singular - kraj)
+ Bratislava, Zapadoslovensky, Stredoslovensky, Vychodoslovensky
+
+ Independence: 1 January 1993 (from Czechoslovakia)
+
+ National holiday: Anniversary of Slovak National Uprising, August 29
+ (1944)
+
+ Constitution: ratified 1 September 1992, fully effective 1 January
+ 1993
+
+ Legal system: civil law system based on Austro-Hungarian codes; has
+ not accepted compulsory ICJ jurisdiction; legal code modified to
+ comply with the obligations of Organization on Security and
+ Cooperation in Europe (OSCE) and to expunge Marxist-Leninist legal
+ theory
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch:
+ chief of state: President Michal KOVAC (since 8 February 1993);
+ election last held 8 February 1993 (next to be held NA 1998); results
+ - Michal KOVAC elected by the National Council
+ head of government: Prime Minister Vladimir MECIAR (since 12 December
+ 1994)
+ cabinet: Cabinet; appointed by the president on recommendation of the
+ prime minister
+
+ Legislative branch: unicameral
+ National Council (Narodni Rada): elections last held 30 September-1
+ October 1994 (next to be held by October 1998); results - HZDS 35%,
+ SDL 10.4%, Hungarian coalition (Hungarian Christian Democrats,
+ Hungarian Civic Party, Coexistence) 10.2%, KDH 10.1%, DU 8.6%, ZRS
+ 7.3%, SNS 5.4%; seats - (150 total) governing coalition 83 (HZDS 61,
+ ZRS 13, SNS 9), opposition 67 (SDL 18, Hungarian coalition 17, KDH 17,
+ DU 15)
+
+ Judicial branch: Supreme Court
+
+ Political parties and leaders: Movement for a Democratic Slovakia
+ (HZDS), Vladimir MECIAR, chairman; Common Choice/Party of the
+ Democratic Left (SDL), Peter WEISS, chairman; Hungarian Christian
+ Democrats, Vojtech BUGAR; Hungarian Civic Party; Coexistence, Miklos
+ DURAY, chairman; Christian Democratic Movement (KDH), Jan CARNOGURSKY;
+ Democratic Union (DU), Jozef MORAVCIK, chairman; Association of Slovak
+ Workers (ZRS), Jan LUPTAK, chairman; Slovak National Party (SNS), Jan
+ SLOTA, chairman
+
+ Other political or pressure groups: Green Party; Social Democratic
+ Party of Slovakia; Slovak Christian Union
+
+ Member of: Australia Group, BIS, CCC, CE (guest), CEI, CERN, EBRD,
+ ECE, FAO, GATT, IAEA, IBRD, ICAO, ICFTU, ICRM, IDA, IFC, IFRCS, ILO,
+ IMF, IMO, INMARSAT, INTELSAT (nonsignatory user), INTERPOL, IOC, IOM
+ (observer), ISO, ITU, NACC, NSG, OSCE, PCA, PFP, UN, UNAVEM II,
+ UNCTAD, UNESCO, UNIDO, UNOMIL, UNOMUR, UNPROFOR, UPU, WEU (associate
+ partner), WHO, WIPO, WMO, WTO, ZC
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Branislav LICHARDUS
+ chancery: (temporary) Suite 380, 2201 Wisconsin Avenue NW, Washington,
+ DC 20007
+ telephone: [1] (202) 965-5161
+ FAX: [1] (202) 965-5166
+
+ US diplomatic representation:
+ chief of mission: Ambassador Theodore E. RUSSELL
+ embassy: Hviezdoslavovo Namestie 4, 81102 Bratislava
+ mailing address: use embassy street address
+ telephone: [42] (7) 330-861, 333-338
+ FAX: [42] (7) 330-096
+
+ Flag: three equal horizontal bands of white (top), blue, and red
+ superimposed with the Slovak cross in a shield centered on the hoist
+ side; the cross is white centered on a background of red and blue
+
+@Slovakia:Economy
+
+ Overview: In 1994 macroeconomic performance improved steadily but
+ privatization progressed only in fits and starts. Most of Slovakia's
+ IMF-approved targets were met by an interim government that lasted 9
+ months. Annual inflation fell from 23% in 1993 to 12%; unemployment at
+ 14.6% was still well below forecasts of 17%; and the budget deficit
+ was around half that in 1993. Slovakia's nearly $200 million trade
+ surplus also compares favorably with a more than $800 million deficit
+ in 1993. Furthermore, after contracting almost 25% in the three years
+ following 1990, GDP grew 4.3% in 1994, according to official
+ statistics. Bratislava in June qualified for a $254 million IMF
+ stand-by loan and the second $90 million tranche of its Systemic
+ Transformation Facility and, in December, received approval for a
+ European Union loan worth about $160 million. By the end of September
+ 1994, the Central Bank's foreign currency reserves had tripled since
+ the end of 1993. Slovakia continued to have difficulty attracting
+ foreign investment, however, because of perceived political
+ instability and halting progress in privatization. The interim
+ government prepared property worth nearly $2 billion for the second
+ wave of coupon privatization and sold participation in the program to
+ over 80% of Slovakia's eligible citizens. Parties controlling the new
+ Parliament in November 1994, however, put the second wave of coupon
+ privatization on hold and suspended sales of 38 firms until the new
+ government could evaluate the interim government's decisions in early
+ 1995. The new government's targets for 1995 include GDP growth of 3%,
+ inflation of 8%-10%, unemployment of 15%, and a budget deficit under
+ 3% of GDP. Continuing economic recovery in western Europe should boost
+ Slovak exports and production, but Slovakia's image with foreign
+ creditors and investors could suffer setbacks in 1995 if progress on
+ privatization stalls or budget deficits mount beyond IMF-recommended
+ levels.
+
+ National product: GDP - purchasing power parity - $32.8 billion (1994
+ est.)
+
+ National product real growth rate: 4.3% (1994 est.)
+
+ National product per capita: $6,070 (1994 est.)
+
+ Inflation rate (consumer prices): 12% (1994 est.)
+
+ Unemployment rate: 14.6% (1994 est.)
+
+ Budget:
+ revenues: $4.4 billion
+ expenditures: $4.8 billion, including capital expenditures of $350
+ million (1994 est.)
+
+ Exports: $6.3 billion (f.o.b., January-November 1994)
+ commodities: machinery and transport equipment; chemicals; fuels,
+ minerals, and metals; agricultural products
+ partners: Czech Republic 37.7%, Germany 17.1%, Hungary 5.3%, Austria
+ 5.3%, Italy 4.6%, Russia 4.0%, Poland 2.6%, Ukraine 1.8%, US 1.6%
+ (January-September 1994)
+
+ Imports: $6.1 billion (f.o.b., January-November 1994)
+ commodities: machinery and transport equipment; fuels and lubricants;
+ manufactured goods; raw materials; chemicals; agricultural products
+ partners: Czech Republic 29.9%, Russia 19.0%, Germany 13.2%, Austria
+ 5.8%, Italy 4.3%, US 2.6%, Poland 2.4%, Ukraine 1.9%, Hungary 1.6%
+ (January-September 1994)
+
+ External debt: $4.2 billion hard currency indebtedness (1994 est.)
+
+ Industrial production: growth rate NA%
+
+ Electricity:
+ capacity: 6,300,000 kW
+ production: 20.9 billion kWh
+ consumption per capita: 3,609 kWh (1993)
+
+ Industries: metal and metal products; food and beverages; electricity,
+ gas, and water; coking, oil production, and nuclear fuel production;
+ chemicals and manmade fibers; machinery; paper and printing;
+ earthenware and ceramics; transport vehicles; textiles; electrical and
+ optical apparatus; rubber products
+
+ Agriculture: largely self-sufficient in food production; diversified
+ crop and livestock production, including grains, potatoes, sugar
+ beets, hops, fruit, hogs, cattle, and poultry; exporter of forest
+ products
+
+ Illicit drugs: transshipment point for Southwest Asian heroin bound
+ for Western Europe
+
+ Economic aid:
+ donor: the former Czechoslovakia was a donor - $4.2 billion in
+ bilateral aid to non-Communist less developed countries (1954-89)
+
+ Currency: 1 koruna (Sk) = 100 halierov
+
+ Exchange rates: koruny (Sk) per US$1 - 31.14 (September 1994), 32.9
+ (December 1993), 28.59 (December 1992), 28.26 (1992), 29.53 (1991),
+ 17.95 (1990), 15.05 (1989); note - values before 1993 reflect
+ Czechoslovak exchange rate
+
+ Fiscal year: calendar year
+
+@Slovakia:Transportation
+
+ Railroads:
+ total: 3,660 km (electrified 635 km)
+ broad gauge: 102 km 1.520-m gauge
+ standard gauge: 3,511 km 1.435-m gauge
+ narrow gauge: 47 km (35 km 1,000-m gauge; 12 km 0.750-m gauge) (1994)
+
+ Highways:
+ total: 17,650 km (1990)
+ paved: NA
+ unpaved: NA
+
+ Inland waterways: NA km
+
+ Pipelines: petroleum products NA km; natural gas 2,700 km
+
+ Ports: Bratislava, Komarno
+
+ Merchant marine:
+ total: 2 cargo ships (1,000 GRT or over) totaling 4,160 GRT/6,163 DWT
+
+ Airports:
+ total: 37
+ with paved runways over 3,047 m: 1
+ with paved runways 2,438 to 3,047 m: 3
+ with paved runways 1,524 to 2,437 m: 2
+ with paved runways 914 to 1,523 m: 2
+ with paved runways under 914 m: 4
+ with unpaved runways 2,438 to 3,047 m: 2
+ with unpaved runways 1,524 to 2,438 m: 2
+ with unpaved runways 914 to 1,523 m: 10
+ with unpaved runways under 914 m: 11
+
+@Slovakia:Communications
+
+ Telephone system: NA telephones
+ local: NA
+ intercity: NA
+ international: NA
+
+ Radio:
+ broadcast stations: AM NA, FM NA, shortwave NA
+ radios: NA
+
+ Television:
+ broadcast stations: NA
+ televisions: NA
+
+@Slovakia:Defense Forces
+
+ Branches: Army, Air and Air Defense Forces, Civil Defense, Railroad
+ Units
+
+ Manpower availability: males age 15-49 1,443,719; males fit for
+ military service 1,107,453; males reach military age (18) annually
+ 49,045 (1995 est.)
+
+ Defense expenditures: 9.59 billion koruny, 3.1% of GDP (1994 est.);
+ note - conversion of defense expenditures into US dollars using the
+ current exchange rate could produce misleading results
+
+
+________________________________________________________________________
+
+SLOVENIA
+
+@Slovenia:Geography
+
+ Location: Southeastern Europe, bordering the Adriatic Sea, between
+ Croatia and Italy
+
+ Map references: Ethnic Groups in Eastern Europe, Europe
+
+ Area:
+ total area: 20,296 sq km
+ land area: 20,296 sq km
+ comparative area: slightly larger than New Jersey
+
+ Land boundaries: total 1,045 km, Austria 262 km, Croatia 501 km, Italy
+ 199 km, Hungary 83 km
+
+ Coastline: 32 km
+
+ Maritime claims: NA
+
+ International disputes: dispute with Croatia over fishing rights in
+ the Adriatic and over some border areas; the border issue is currently
+ under negotiation
+
+ Climate: Mediterranean climate on the coast, continental climate with
+ mild to hot summers and cold winters in the plateaus and valleys to
+ the east
+
+ Terrain: a short coastal strip on the Adriatic, an alpine mountain
+ region adjacent to Italy, mixed mountain and valleys with numerous
+ rivers to the east
+
+ Natural resources: lignite coal, lead, zinc, mercury, uranium, silver
+
+ Land use:
+ arable land: 10%
+ permanent crops: 2%
+ meadows and pastures: 20%
+ forest and woodland: 45%
+ other: 23%
+
+ Irrigated land: NA sq km
+
+ Environment:
+ current issues: Sava River polluted with domestic and industrial
+ waste; pollution of coastal waters with heavy metals and toxic
+ chemicals; forest damage near Koper from air pollution (originating at
+ metallurgical and chemical plants) and resulting acid rain
+ natural hazards: flooding and earthquakes
+ international agreements: party to - Air Pollution, Hazardous Wastes,
+ Marine Dumping, Nuclear Test Ban, Ozone Layer Protection, Ship
+ Pollution, Wetlands; signed, but not ratified - Air Pollution-Sulphur
+ 94, Biodiversity, Climate Change
+
+@Slovenia:People
+
+ Population: 2,051,522 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 19% (female 191,318; male 200,957)
+ 15-64 years: 69% (female 701,082; male 708,482)
+ 65 years and over: 12% (female 160,662; male 89,021) (July 1995 est.)
+
+ Population growth rate: 0.24% (1995 est.)
+
+ Birth rate: 11.85 births/1,000 population (1995 est.)
+
+ Death rate: 9.27 deaths/1,000 population (1995 est.)
+
+ Net migration rate: -0.19 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 7.9 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 74.73 years
+ male: 70.91 years
+ female: 78.76 years (1995 est.)
+
+ Total fertility rate: 1.64 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Slovene(s)
+ adjective: Slovenian
+
+ Ethnic divisions: Slovene 91%, Croat 3%, Serb 2%, Muslim 1%, other 3%
+
+ Religions: Roman Catholic 96% (including 2% Uniate), Muslim 1%, other
+ 3%
+
+ Languages: Slovenian 91%, Serbo-Croatian 7%, other 2%
+
+ Literacy: NA%
+
+ Labor force: 786,036
+ by occupation: agriculture 2%, manufacturing and mining 46%
+
+@Slovenia:Government
+
+ Names:
+ conventional long form: Republic of Slovenia
+ conventional short form: Slovenia
+ local long form: Republika Slovenije
+ local short form: Slovenija
+
+ Digraph: SI
+
+ Type: emerging democracy
+
+ Capital: Ljubljana
+
+ Administrative divisions: 60 provinces (pokajine, singular - pokajina)
+ Ajdovscina, Brezice, Celje, Cerknica, Crnomelj, Dravograd, Gornja
+ Radgona, Grosuplje, Hrastnik Lasko, Idrija, Ilirska Bistrica, Izola,
+ Jesenice, Kamnik, Kocevje, Koper, Kranj, Krsko, Lenart, Lendava,
+ Litija, Ljubljana-Bezigrad, Ljubljana-Center, Ljubljana-Moste-Polje,
+ Ljubljana-Siska, Ljubljana-Vic-Rudnik, Ljutomer, Logatec, Maribor,
+ Metlika, Mozirje, Murska Sobota, Nova Gorica, Novo Mesto, Ormoz,
+ Pesnica, Piran, Postojna, Ptuj, Radlje Ob Dravi, Radovljica, Ravne Na
+ Koroskem, Ribnica, Ruse, Sentjur Pri Celju, Sevnica, Sezana, Skofja
+ Loka, Slovenj Gradec, Slovenska Bistrica, Slovenske Konjice, Smarje
+ Pri Jelsah, Tolmin, Trbovlje, Trebnje, Trzic, Velenje, Vrhnika,
+ Zagorje Ob Savi, Zalec
+
+ Independence: 25 June 1991 (from Yugoslavia)
+
+ National holiday: Statehood Day, 25 June (1991)
+
+ Constitution: adopted 23 December 1991, effective 23 December 1991
+
+ Legal system: based on civil law system
+
+ Suffrage: 18 years of age; universal (16 years of age, if employed)
+
+ Executive branch:
+ chief of state: President Milan KUCAN (since 22 April 1990); election
+ last held 6 December 1992 (next to be held NA 1996); results - Milan
+ KUCAN reelected by direct popular vote
+ head of government: Prime Minister Janez DRNOVSEK (since 14 May 1992)
+ cabinet: Council of Ministers
+
+ Legislative branch: bicameral National Assembly
+ State Assembly: elections last held 6 December 1992 (next to be held
+ NA 1996); results - percent of vote by party NA; seats - (90 total)
+ LDS 22, SKD 15, United List (former Communists and allies) 14, Slovene
+ National Party 12, SLS 10, Democratic Party 6, ZS 5, SDSS 4, Hungarian
+ minority 1, Italian minority 1
+ State Council: will become operational after next election in 1996; in
+ the election of 6 December 1992, 40 members were elected to represent
+ local and socioeconomic interests
+
+ Judicial branch: Supreme Court, Constitutional Court
+
+ Political parties and leaders: Liberal Democratic (LDS), Janez
+ DRNOVSEK, chairman; Slovene Christian Democrats (SKD), Lozje PETERLE,
+ chairman; Social Democratic Party of Slovenia (SDSS), Janez JANSA,
+ chairman; Slovene People's National Party, Marjan PODOBNIK, chairman;
+ United List (former Communists and allies), Janez KOCJANCIC, chairman;
+ Slovene People's Party (SLS), Ivan OMAN, chairman; Democratic Party,
+ Igor BAVCAR, chairman; Greens of Slovenia (ZS), Dusan PLUT, chairman
+ note: parties have changed as of the December 1992 elections
+
+ Other political or pressure groups: none
+
+ Member of: CCC, CE, CEI, EBRD, ECE, FAO, IADB, IAEA, IBRD, ICAO, ICRM,
+ IDA, IFC, ILO, IMF, IMO, INTELSAT (nonsignatory user), INTERPOL, IOC,
+ IOM (observer), ISO, ITU, NAM (guest), OSCE, PFP, UN, UNCTAD, UNESCO,
+ UNIDO, UPU, WHO, WIPO, WMO, WTO
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Ernest PETRIC
+ chancery: 1525 New Hampshire Avenue NW, Washington, DC 20036
+ telephone: [1] (202) 667-5363
+ FAX: [1] (202) 667-4563
+ consulate(s) general: New York
+
+ US diplomatic representation:
+ chief of mission: Ambassador E. Allan WENDT
+ embassy: P.O. Box 254, Prazakova 4, 61000 Ljubljana
+ mailing address: American Embassy, Ljubljana, Department of State,
+ Washington, DC 20521-7140
+ telephone: [386] (61) 301-427, 472, 485
+ FAX: [386] (61) 301-401
+
+ Flag: three equal horizontal bands of white (top), blue, and red with
+ the Slovenian seal (a shield with the image of Triglav in white
+ against a blue background at the center, beneath it are two wavy blue
+ lines depicting seas and rivers, and around it, there are three
+ six-sided stars arranged in an inverted triangle); the seal is located
+ in the upper hoist side of the flag centered in the white and blue
+ bands
+
+@Slovenia:Economy
+
+ Overview: Slovenia appears to be making a solid economic recovery,
+ fulfilling the promise it showed at the time of Yugoslavia's breakup.
+ It was by far the most prosperous of the former Yugoslav republics,
+ with a per capita income more than twice the national average. It also
+ benefited from strong ties to Western Europe and suffered
+ comparatively small physical damage in the dismemberment process. The
+ beginning was difficult, however. Real GDP fell 15% during 1991-92,
+ while inflation jumped to 247% in 1991 and unemployment topped 8% -
+ nearly three times the 1989 level. The turning point came in 1993 when
+ real GDP grew 1%, unemployment leveled off at about 9%, and inflation
+ slowed dramatically to 23%. In 1994, the rate of growth of GDP rose to
+ 4%, unemployment remained stable, and inflation dropped to 20%. This
+ was accomplished, moreover, without balance-of-payments problems. The
+ government gets generally good economic marks from foreign observers,
+ particularly with regard to fiscal policy - the budget deficit in 1994
+ was only about 1% of GDP, following several years of small surpluses.
+ Prospects for 1995 appear good, with economic growth expected to
+ remain strong while unemployment and inflation may decline slightly.
+ Privatization, sluggish to date, is expected to pick up in 1995.
+
+ National product: GDP - purchasing power parity - $16 billion (1994
+ est.)
+
+ National product real growth rate: 4% (1994 est.)
+
+ National product per capita: $8,110 (1994 est.)
+
+ Inflation rate (consumer prices): 20% (1994)
+
+ Unemployment rate: 9% (1994 est.)
+
+ Budget:
+ revenues: $9.9 billion
+ expenditures: $9.8 billion, including capital expenditures of $NA
+ (1993)
+
+ Exports: $6.5 billion (f.o.b., 1994 est.)
+ commodities: machinery and transport equipment 27%, intermediate
+ manufactured goods 26%, chemicals 9%, food 4.8%, raw materials 3%,
+ consumer goods 26% (1993)
+ partners: Germany 29.5%, former Yugoslavia 15.8%, Italy 12.4%, France
+ 8.7%, Austria 5.0% (1993)
+
+ Imports: $6.5 billion (f.o.b., 1994 est.)
+ commodities: machinery and transport equipment 30%, intermediate
+ manufactured goods 17.6%, chemicals 11.5%, raw materials 5.3%, fuels
+ and lubricants 10.8%, food 8.4% (1993)
+ partners: Germany 25.0%, Italy 16.1%, former Yugoslavia 10.7%, France
+ 8.0%, Austria 8.5% (1993)
+
+ External debt: $2.1 billion (1994)
+
+ Industrial production: growth rate 6% (1994 est.); accounts for 37% of
+ GDP (1993)
+
+ Electricity:
+ capacity: 2,700,000 kW
+ production: 8.9 billion kWh
+ consumption per capita: 4,470 kWh (1993)
+
+ Industries: ferrous metallurgy and rolling mill products, aluminum
+ reduction and rolled products, lead and zinc smelting, electronics
+ (including military electronics), trucks, electric power equipment,
+ wood products, textiles, chemicals, machine tools
+
+ Agriculture: accounts for 4.8% of GDP (1993); dominated by stock
+ breeding (sheep and cattle) and dairy farming; main crops - potatoes,
+ hops, hemp, flax; an export surplus in these commodities; Slovenia
+ must import many other agricultural products and has a negative
+ overall trade balance in this sector
+
+ Illicit drugs: NA
+
+ Economic aid: $NA
+
+ Currency: 1 tolar (SlT) = 100 stotins
+
+ Exchange rates: tolars (SIT) per US$1 - 127 (January 1995), 112 (June
+ 1993), 28 (January 1992)
+
+ Fiscal year: calendar year
+
+@Slovenia:Transportation
+
+ Railroads:
+ total: 1,201 km
+ standard gauge: 1,201 km 1.435-m gauge (electrified 499 km) (1994)
+
+ Highways:
+ total: 14,726 km
+ paved: 11,046 km (187 km expressways)
+ unpaved: gravel 3,680 km (1992)
+
+ Inland waterways: NA
+
+ Pipelines: crude oil 290 km; natural gas 305 km
+
+ Ports: Izola, Koper, Piran
+
+ Merchant marine:
+ total: 17 ships (1,000 GRT or over) totaling 265,937 GRT/449,205 DWT
+ (controlled by Slovenian owners)
+ ships by type: bulk 11, cargo 6
+ note: ships under the flag of Saint Vincent and the Grenadines,
+ Singapore, Liberia; no ships remain under the Slovenian flag
+
+ Airports:
+ total: 14
+ with paved runways over 3,047 m: 1
+ with paved runways 2,438 to 3,047 m: 1
+ with paved runways 1,524 to 2,437 m: 1
+ with paved runways 914 to 1,523 m: 2
+ with paved runways under 914 m: 5
+ with unpaved runways 1,524 to 2,438 m: 2
+ with unpaved runways 914 to 1,523 m: 2
+
+@Slovenia:Communications
+
+ Telephone system: 130,000 telephones
+ local: NA
+ intercity: NA
+ international: NA
+
+ Radio:
+ broadcast stations: AM 6, FM 5, shortwave 0
+ radios: 370,000
+
+ Television:
+ broadcast stations: 7
+ televisions: 330,000
+
+@Slovenia:Defense Forces
+
+ Branches: Slovene Defense Forces
+
+ Manpower availability: males age 15-49 542,815; males fit for military
+ service 434,302; males reach military age (19) annually 15,350 (1995
+ est.)
+
+ Defense expenditures: 13.5 billion tolars, 4.5% of GDP (1993 est.);
+ note - conversion of the military budget into US dollars using the
+ current exchange rate could produce misleading results
+
+
+________________________________________________________________________
+
+SOLOMON ISLANDS
+
+@Solomon Islands:Geography
+
+ Location: Oceania, group of islands in the South Pacific Ocean, east
+ of Papua New Guinea
+
+ Map references: Oceania
+
+ Area:
+ total area: 28,450 sq km
+ land area: 27,540 sq km
+ comparative area: slightly larger than Maryland
+
+ Land boundaries: 0 km
+
+ Coastline: 5,313 km
+
+ Maritime claims: measured from claimed archipelagic baselines
+ continental shelf: 200 nm
+ exclusive economic zone: 200 nm
+ territorial sea: 12 nm
+
+ International disputes: none
+
+ Climate: tropical monsoon; few extremes of temperature and weather
+
+ Terrain: mostly rugged mountains with some low coral atolls
+
+ Natural resources: fish, forests, gold, bauxite, phosphates, lead,
+ zinc, nickel
+
+ Land use:
+ arable land: 1%
+ permanent crops: 1%
+ meadows and pastures: 1%
+ forest and woodland: 93%
+ other: 4%
+
+ Irrigated land: NA sq km
+
+ Environment:
+ current issues: deforestation; soil erosion; much of the surrounding
+ coral reefs are dead or dying
+ natural hazards: typhoons, but they are rarely destructive;
+ geologically active region with frequent earth tremors; volcanic
+ activity
+ international agreements: party to - Climate Change, Environmental
+ Modification, Marine Dumping, Marine Life Conservation, Ozone Layer
+ Protection, Whaling; signed, but not ratified - Biodiversity, Law of
+ the Sea
+
+@Solomon Islands:People
+
+ Population: 399,206 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 46% (female 90,293; male 93,695)
+ 15-64 years: 51% (female 100,183; male 103,374)
+ 65 years and over: 3% (female 5,738; male 5,923) (July 1995 est.)
+
+ Population growth rate: 3.4% (1995 est.)
+
+ Birth rate: 38.48 births/1,000 population (1995 est.)
+
+ Death rate: 4.51 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 0 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 26.7 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 70.84 years
+ male: 68.38 years
+ female: 73.41 years (1995 est.)
+
+ Total fertility rate: 5.59 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Solomon Islander(s)
+ adjective: Solomon Islander
+
+ Ethnic divisions: Melanesian 93%, Polynesian 4%, Micronesian 1.5%,
+ European 0.8%, Chinese 0.3%, other 0.4%
+
+ Religions: Anglican 34%, Roman Catholic 19%, Baptist 17%, United
+ (Methodist/Presbyterian) 11%, Seventh-Day Adventist 10%, other
+ Protestant 5%, traditional beliefs 4%
+
+ Languages: Melanesian pidgin in much of the country is lingua franca,
+ English spoken by 1%-2% of population
+ note: 120 indigenous languages
+
+ Literacy: NA%
+
+ Labor force: NA
+ by occupation: agriculture, forestry, and fishing 32.4%, services 25%,
+ construction, manufacturing, and mining 7.0%, commerce, transport, and
+ finance 4.7% (1984)
+
+@Solomon Islands:Government
+
+ Names:
+ conventional long form: none
+ conventional short form: Solomon Islands
+ former: British Solomon Islands
+
+ Digraph: BP
+
+ Type: parliamentary democracy
+
+ Capital: Honiara
+
+ Administrative divisions: 7 provinces and 1 town*; Central,
+ Guadalcanal, Honiara*, Isabel, Makira, Malaita, Temotu, Western
+
+ Independence: 7 July 1978 (from UK)
+
+ National holiday: Independence Day, 7 July (1978)
+
+ Constitution: 7 July 1978
+
+ Legal system: common law
+
+ Suffrage: 21 years of age; universal
+
+ Executive branch:
+ chief of state: Queen ELIZABETH II (since 6 February 1952),
+ represented by Governor General Moses PITAKAKA (since 10 June 1994)
+ head of government: Prime Minister Solomon MAMALONI (since 7 November
+ 1994); Deputy Prime Minister Dennis LULEI (since 10 November 1994)
+ cabinet: Cabinet; appointed by the governor general on advice of the
+ prime minister from members of parliament
+
+ Legislative branch: unicameral
+ National Parliament: elections last held NA November 1994 (next to be
+ held NA 1997); results - percent of vote by party NA; seats - (47
+ total) number of seats by party NA
+
+ Judicial branch: High Court
+
+ Political parties and leaders: People's Alliance Party (PAP); United
+ Party (UP), leader NA; Solomon Islands Liberal Party (SILP),
+ Bartholemew ULUFA'ALU; Nationalist Front for Progress (NFP), Andrew
+ NORI; Labor Party (LP), Joses TUHANUKU; National Action Party, leader
+ NA; Christian Fellowship, leader NA; National Unity Group, Solomon
+ MAMALONI
+
+ Member of: ACP, AsDB, C, ESCAP, FAO, G-77, IBRD, ICAO, ICRM, IDA,
+ IFAD, IFC, IFRCS, ILO, IMF, IMO, INTELSAT (nonsignatory user), IOC,
+ ITU, SPARTECA, SPC, SPF, UN, UNCTAD, UNESCO, UPU, WFTU, WHO, WMO
+
+ Diplomatic representation in US: ambassador traditionally resides in
+ Honiara (Solomon Islands)
+
+ US diplomatic representation: embassy closed July 1993; the ambassador
+ to Papua New Guinea is accredited to the Solomon Islands
+
+ Flag: divided diagonally by a thin yellow stripe from the lower
+ hoist-side corner; the upper triangle (hoist side) is blue with five
+ white five-pointed stars arranged in an X pattern; the lower triangle
+ is green
+
+@Solomon Islands:Economy
+
+ Overview: The bulk of the population depend on subsistence
+ agriculture, fishing, and forestry for at least part of their
+ livelihood. Most manufactured goods and petroleum products must be
+ imported. The islands are rich in undeveloped mineral resources such
+ as lead, zinc, nickel, and gold. The economy suffered from a severe
+ cyclone in mid-1986 that caused widespread damage to the
+ infrastructure. In 1993, the government was working with the IMF to
+ develop a structural adjustment program to address the country's
+ fiscal deficit.
+
+ National product: GDP - purchasing power parity - $1 billion (1992
+ est.)
+
+ National product real growth rate: 8% (1992)
+
+ National product per capita: $2,590 (1992 est.)
+
+ Inflation rate (consumer prices): 13% (1992 est.)
+
+ Unemployment rate: NA%
+
+ Budget:
+ revenues: $48 million
+ expenditures: $107 million, including capital expenditures of $45
+ million (1991 est.)
+
+ Exports: $84 million (f.o.b., 1991)
+ commodities: fish 46%, timber 31%, palm oil 5%, cocoa, copra
+ partners: Japan 39%, UK 23%, Thailand 9%, Australia 5%, US 2% (1991)
+
+ Imports: $110 million (c.i.f., 1991)
+ commodities: plant and machinery, manufactured goods, food and live
+ animals, fuel
+ partners: Australia 34%, Japan 16%, Singapore 14%, NZ 9%
+
+ External debt: $128 million (1988 est.)
+
+ Industrial production: growth rate -3.8% (1991 est.); accounts for 5%
+ of GDP
+
+ Electricity:
+ capacity: 21,000 kW
+ production: 30 million kWh
+ consumption per capita: 80 kWh (1993)
+
+ Industries: copra, fish (tuna)
+
+ Agriculture: including fishing and forestry, accounts for 31% of GDP;
+ mostly subsistence farming; cash crops - cocoa, beans, coconuts, palm
+ kernels, timber; other products - rice, potatoes, vegetables, fruit,
+ cattle, pigs; not self-sufficient in food grains; 90% of the total
+ fish catch of 44,500 metric tons was exported (1988)
+
+ Economic aid:
+ recipient: Western (non-US) countries, ODA and OOF bilateral
+ commitments (1980-89), $250 million
+
+ Currency: 1 Solomon Islands dollar (SI$) = 100 cents
+
+ Exchange rates: Solomon Islands dollars (SI$) per US$1 - 3.3113
+ (September 1994), 3.1877 (1993), 2.9281 (1992), 2.7148 (1991), 2.5288
+ (1990)
+
+ Fiscal year: calendar year
+
+@Solomon Islands:Transportation
+
+ Railroads: 0 km
+
+ Highways:
+ total: 1,300 km
+ paved: 30 km
+ unpaved: gravel 290 km; earth 980 km
+ note: in addition, there are 800 km of private logging and plantation
+ roads of varied construction (1982)
+
+ Ports: Aola Bay, Honiara, Lofung, Noro, Viru Harbor, Yandina
+
+ Merchant marine: none
+
+ Airports:
+ total: 31
+ with paved runways 1,524 to 2,437 m: 1
+ with paved runways 914 to 1,523 m: 1
+ with paved runways under 914 m: 19
+ with unpaved runways 1,524 to 2,438 m: 1
+ with unpaved runways 914 to 1,523 m: 9
+
+@Solomon Islands:Communications
+
+ Telephone system: 3,000 telephones
+ local: NA
+ intercity: NA
+ international: 1 INTELSAT (Pacific Ocean) earth station
+
+ Radio:
+ broadcast stations: AM 4, FM 0, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 0
+ televisions: NA
+
+@Solomon Islands:Defense Forces
+
+ Branches: no military forces; Royal Solomon Islands Police (RSIP)
+
+ Defense expenditures: $NA, NA% of GDP
+
+
+________________________________________________________________________
+
+SOMALIA
+
+@Somalia:Geography
+
+ Location: Eastern Africa, bordering the Gulf of Aden and the Indian
+ Ocean, east of Ethiopia
+
+ Map references: Africa
+
+ Area:
+ total area: 637,660 sq km
+ land area: 627,340 sq km
+ comparative area: slightly smaller than Texas
+
+ Land boundaries: total 2,366 km, Djibouti 58 km, Ethiopia 1,626 km,
+ Kenya 682 km
+
+ Coastline: 3,025 km
+
+ Maritime claims:
+ territorial sea: 200 nm
+
+ International disputes: southern half of boundary with Ethiopia is a
+ Provisional Administrative Line; territorial dispute with Ethiopia
+ over the Ogaden
+
+ Climate: principally desert; December to February - northeast monsoon,
+ moderate temperatures in north and very hot in south; May to October -
+ southwest monsoon, torrid in the north and hot in the south, irregular
+ rainfall, hot and humid periods (tangambili) between monsoons
+
+ Terrain: mostly flat to undulating plateau rising to hills in north
+
+ Natural resources: uranium and largely unexploited reserves of iron
+ ore, tin, gypsum, bauxite, copper, salt
+
+ Land use:
+ arable land: 2%
+ permanent crops: 0%
+ meadows and pastures: 46%
+ forest and woodland: 14%
+ other: 38%
+
+ Irrigated land: 1,600 sq km (1989 est.)
+
+ Environment:
+ current issues: famine; use of contaminated water contributes to human
+ health problems; deforestation; overgrazing; soil erosion;
+ desertification
+ natural hazards: recurring droughts; frequent dust storms over eastern
+ plains in summer
+ international agreements: party to - Endangered Species, Law of the
+ Sea; signed, but not ratified - Marine Dumping, Nuclear Test Ban
+
+ Note: strategic location on Horn of Africa along southern approaches
+ to Bab el Mandeb and route through Red Sea and Suez Canal
+
+@Somalia:People
+
+ Population: 7,347,554 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 45% (female 1,653,175; male 1,650,377)
+ 15-64 years: 51% (female 1,845,886; male 1,932,012)
+ 65 years and over: 4% (female 138,264; male 127,840) (July 1995 est.)
+
+ Population growth rate: 15.58% (1995 est.)
+
+ Birth rate: 45.53 births/1,000 population (1995 est.)
+
+ Death rate: 13.3 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 123.62 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 119.5 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 55.74 years
+ male: 55.48 years
+ female: 56 years (1995 est.)
+
+ Total fertility rate: 7.13 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Somali(s)
+ adjective: Somali
+
+ Ethnic divisions: Somali 85%, Bantu, Arabs 30,000
+
+ Religions: Sunni Muslim
+
+ Languages: Somali (official), Arabic, Italian, English
+
+ Literacy: age 15 and over can read and write (1990 est.)
+ total population: 24%
+ male: 36%
+ female: 14%
+
+ Labor force: 2.2 million (very few are skilled laborers)
+ by occupation: pastoral nomad 70%, agriculture, government, trading,
+ fishing, handicrafts, and other 30%
+
+@Somalia:Government
+
+ Names:
+ conventional long form: none
+ conventional short form: Somalia
+ former: Somali Republic
+
+ Digraph: SO
+
+ Type: none
+
+ Capital: Mogadishu
+
+ Administrative divisions: 18 regions (plural - NA, singular -
+ gobolka); Awdal, Bakool, Banaadir, Bari, Bay, Galguduud, Gedo,
+ Hiiraan, Jubbada Dhexe, Jubbada Hoose, Mudug, Nugaal, Sanaag,
+ Shabeellaha Dhexe, Shabeellaha Hoose, Sool, Togdheer, Woqooyi Galbeed
+
+ Independence: 1 July 1960 (from a merger of British Somaliland, which
+ became independent from the UK on 26 June 1960, and Italian
+ Somaliland, which became independent from the Italian-administered UN
+ trusteeship on 1 July 1960, to form the Somali Republic)
+
+ National holiday: NA
+
+ Constitution: 25 August 1979, presidential approval 23 September 1979
+
+ Legal system: NA
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch: Somalia has no functioning government; the United
+ Somali Congress (USC) ousted the regime of Maj. Gen. Mohamed SIAD
+ Barre on 27 January 1991; the present political situation is one of
+ anarchy, marked by inter-clan fighting and random banditry
+
+ Legislative branch: unicameral People's Assembly
+ People's Assembly (Golaha Shacbiga): not functioning
+
+ Judicial branch: Supreme Court (not functioning)
+
+ Political parties and leaders: the United Somali Congress (USC) ousted
+ the former regime on 27 January 1991; formerly the only party was the
+ Somali Revolutionary Socialist Party (SRSP), headed by former
+ President and Commander in Chief of the Army Maj. Gen. Mohamed SIAD
+ Barre
+
+ Other political or pressure groups: numerous clan and subclan factions
+ are currently vying for power
+
+ Member of: ACP, AfDB, AFESD, AL, AMF, CAEU, ECA, FAO, G-77, IBRD,
+ ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGADD, ILO, IMF, IMO,
+ INTELSAT, INTERPOL, IOC, IOM (observer), ITU, NAM, OAU, OIC, UN,
+ UNCTAD, UNESCO, UNHCR, UNIDO, UPU, WFTU, WHO, WIPO, WMO
+
+ Diplomatic representation in US: Somalian Embassy ceased operations on
+ 8 May 1991
+
+ US diplomatic representation:
+ note: the US Embassy in Mogadishu was evacuated and closed
+ indefinitely in January 1991; Ambassador Daniel SIMPSON, ambassador to
+ Kenya, represents US interests in Somalia
+ liaison office: US Embassy, Nairobi, Kenya
+ address: corner of Moi Avenue and Haile Selassie Avenue, Nairobi
+ mailing address: P.O. Box 30137, Unit 64100, Nairobi or APO AE 09831
+ telephone: [254] (2) 334141
+ FAX: [254] (2) 340838
+
+ Flag: light blue with a large white five-pointed star in the center;
+ design based on the flag of the UN (Italian Somaliland was a UN trust
+ territory)
+
+@Somalia:Economy
+
+ Overview: One of the world's poorest and least developed countries,
+ Somalia has few resources. Moreover, much of the economy has been
+ devastated by the civil war. Agriculture is the most important sector,
+ with livestock accounting for about 40% of GDP and about 65% of export
+ earnings. Nomads and seminomads who are dependent upon livestock for
+ their livelihood make up about 70% of the population. Crop production
+ generates only 10% of GDP and employs about 20% of the work force. The
+ main export crop is bananas; sugar, sorghum, and corn are grown for
+ the domestic market. The small industrial sector is based on the
+ processing of agricultural products and accounts for less than 10% of
+ GDP; most facilities have been shut down because of the civil strife.
+ The greatly increased political turmoil of 1991-93 has resulted in a
+ substantial drop in agricultural output, with widespread famine. In
+ 1994 economic conditions stabilized in the countryside but may turn
+ worse in 1995 if civil strife intensifies after the UN withdrawal.
+
+ National product: GDP - purchasing power parity - $3.3 billion (1994
+ est.)
+
+ National product real growth rate: NA%
+
+ National product per capita: $500 (1994 est.)
+
+ Inflation rate (consumer prices): NA% (1994)
+
+ Unemployment rate: NA%
+
+ Budget:
+ revenues: $NA
+ expenditures: $NA, including capital expenditures of $NA
+
+ Exports: $58 million (1990 est.)
+ commodities: bananas, live animals, fish, hides
+ partners: Saudi Arabia, Italy, FRG (1986)
+
+ Imports: $249 million (1990 est.)
+ commodities: petroleum products, foodstuffs, construction materials
+ partners: US 13%, Italy, FRG, Kenya, UK, Saudi Arabia (1986)
+
+ External debt: $1.9 billion (1989)
+
+ Industrial production: growth rate NA%
+
+ Electricity:
+ capacity: prior to the civil war, 75,000 kW, but now almost completely
+ shut down due to war damage; note - UN and relief organizations use
+ their own portable power systems
+ production: NA kWh
+ consumption per capita: NA kWh
+
+ Industries: a few small industries, including sugar refining,
+ textiles, petroleum refining (mostly shut down) (1994)
+
+ Agriculture: dominant sector, led by livestock raising (cattle, sheep,
+ goats); crops - bananas, sorghum, corn, mangoes, sugarcane; not
+ self-sufficient in food; distribution of food disrupted by civil
+ strife; fishing potential largely unexploited
+
+ Economic aid:
+ recipient: US commitments, including Ex-Im (FY70-89), $639 million;
+ Western (non-US) countries, ODA and OOF bilateral commitments
+ (1970-89), $3.8 billion; OPEC bilateral aid (1979-89), $1.1 billion;
+ Communist countries (1970-89), $336 million
+
+ Currency: 1 Somali shilling (So. Sh.) = 100 cents
+
+ Exchange rates: Somali shillings (So. Sh.) per US$1 - approximately
+ 5,000 (1 January 1995), 2,616 (1 July 1993), 4,200 (December 1992),
+ 3,800.00 (December 1990), 490.7 (1989),
+
+ Fiscal year: calendar year
+
+@Somalia:Transportation
+
+ Railroads: 0 km
+
+ Highways:
+ total: 22,500 km
+ paved: 2,700 km
+ unpaved: gravel 3,000 km; improved, stabilized earth 16,800 km (1992)
+
+ Pipelines: crude oil 15 km
+
+ Ports: Bender Cassim (Boosaaso), Berbera, Chisimayu (Kismaayo), Merca,
+ Mogadishu
+
+ Merchant marine:
+ total: 2 ships (1,000 GRT or over) totaling 5,529 GRT/6,892 DWT
+ ships by type: cargo 1, refrigerated cargo 1
+
+ Airports:
+ total: 76
+ with paved runways over 3,047 m: 3
+ with paved runways 2,438 to 3,047 m: 1
+ with paved runways 1,524 to 2,437 m: 3
+ with paved runways 914 to 1,523 m: 1
+ with paved runways under 914 m: 14
+ with unpaved runways 2,438 to 3,047 m: 5
+ with unpaved runways 1,524 to 2,438 m: 16
+ with unpaved runways 914 to 1,523 m: 33
+
+@Somalia:Communications
+
+ Telephone system: NA telephones; the public telecommunications system
+ was completely destroyed or dismantled by the civil war factions; all
+ relief organizations depend on their own private systems (1993)
+ local: NA
+ intercity: NA
+ international: NA
+
+ Radio:
+ broadcast stations: AM NA, FM NA, shortwave NA
+ radios: NA
+
+ Television:
+ broadcast stations: NA
+ televisions: NA
+
+@Somalia:Defense Forces
+
+ Branches: no functioning central government military forces; clan
+ militias continue to battle for control of key economic or political
+ prizes
+
+ Manpower availability: males age 15-49 1,736,673; males fit for
+ military service 972,203 (1995 est.
+
+ Defense expenditures: $NA, NA% of GDP
+
+
+________________________________________________________________________
+
+SOUTH AFRICA
+
+@South Africa:Geography
+
+ Location: Southern Africa, at the southern tip of the continent of
+ Africa
+
+ Map references: Africa
+
+ Area:
+ total area: 1,219,912 sq km
+ land area: 1,219,912 sq km
+ comparative area: slightly less than twice the size of Texas
+ note: includes Prince Edward Islands (Marion Island and Prince Edward
+
+Back to Full Books

@@ -1,0 +1,2004 @@
+The 1995 CIA World Factbook
+
+ unpaved: 8,273 km (1992)
+
+ Inland waterways: 2,043 km (1,528 km in regular commercial use)
+
+ Pipelines: crude oil 161 km; petroleum products 1,167 km; natural gas
+ 3,300 km
+
+ Ports: Antwerp, Brugge, Gent, Hasselt, Liege, Mons, Namur, Oostende,
+ Zeebrugge
+
+ Merchant marine:
+ total: 23 ships (1,000 GRT or over) totaling 42,055 GRT/56,842 DWT
+ ships by type: bulk 1, cargo 9, chemical tanker 6, liquefied gas 2,
+ oil tanker 5
+
+ Airports:
+ total: 43
+ with paved runways over 3,047 m: 6
+ with paved runways 2,438 to 3,047 m: 9
+ with paved runways 1,524 to 2,437 m: 2
+ with paved runways 914 to 1,523 m: 1
+ with paved runways under 914 m: 22
+ with unpaved runways 914 to 1,523 m: 3
+
+@Belgium:Communications
+
+ Telephone system: 4,720,000 telephones; highly developed,
+ technologically advanced, and completely automated domestic and
+ international telephone and telegraph facilities
+ local: NA
+ intercity: extensive cable network; limited microwave radio relay
+ network; nationwide mobile phone system
+ international: 5 submarine cables; 2 Atlantic Ocean INTELSAT earth
+ stations and 1 EUTELSAT earth station
+
+ Radio:
+ broadcast stations: AM 3, FM 39, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 32
+ televisions: NA
+
+@Belgium:Defense Forces
+
+ Branches: Army, Navy, Air Force, National Gendarmerie
+
+ Manpower availability: males age 15-49 2,559,077; males fit for
+ military service 2,126,875; males reach military age (19) annually
+ 61,488 (1995 est.)
+
+ Defense expenditures: exchange rate conversion - $3.9 billion, 1.8% of
+ GDP (1994)
+
+
+________________________________________________________________________
+
+BELIZE
+
+@Belize:Geography
+
+ Location: Middle America, bordering the Caribbean Sea, between
+ Guatemala and Mexico
+
+ Map references: Central America and the Caribbean
+
+ Area:
+ total area: 22,960 sq km
+ land area: 22,800 sq km
+ comparative area: slightly larger than Massachusetts
+
+ Land boundaries: total 516 km, Guatemala 266 km, Mexico 250 km
+
+ Coastline: 386 km
+
+ Maritime claims:
+ exclusive economic zone: 200 nm
+ territorial sea: 12 nm in the north, 3 nm in the south; note - from
+ the mouth of the Sarstoon River to Ranguana Cay, Belize's territorial
+ sea is 3 miles; according to Belize's Maritime Areas Act, 1992, the
+ purpose of this limitation is to provide a framework for the
+ negotiation of a definitive agreement on territorial differences with
+ Guatemala
+
+ International disputes: border with Guatemala in dispute; talks to
+ resolve the dispute are stalled
+
+ Climate: tropical; very hot and humid; rainy season (May to February)
+
+ Terrain: flat, swampy coastal plain; low mountains in south
+
+ Natural resources: arable land potential, timber, fish
+
+ Land use:
+ arable land: 2%
+ permanent crops: 0%
+ meadows and pastures: 2%
+ forest and woodland: 44%
+ other: 52%
+
+ Irrigated land: 20 sq km (1989 est.)
+
+ Environment:
+ current issues: deforestation; water pollution from sewage, industrial
+ effluents, agricultural runoff
+ natural hazards: frequent, devastating hurricanes (September to
+ December) and coastal flooding (especially in south)
+ international agreements: party to - Biodiversity, Climate Change,
+ Endangered Species, Law of the Sea, Marine Dumping
+
+ Note: national capital moved 80 km inland from Belize City to Belmopan
+ because of hurricanes; only country in Central America without a
+ coastline on the North Pacific Ocean
+
+@Belize:People
+
+ Population: 214,061 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 44% (female 45,812; male 47,618)
+ 15-64 years: 53% (female 55,630; male 57,230)
+ 65 years and over: 3% (female 3,970; male 3,801) (July 1995 est.)
+
+ Population growth rate: 2.42% (1995 est.)
+
+ Birth rate: 33.71 births/1,000 population (1995 est.)
+
+ Death rate: 5.86 deaths/1,000 population (1995 est.)
+
+ Net migration rate: -3.7 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 34.7 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 68.32 years
+ male: 66.37 years
+ female: 70.36 years (1995 est.)
+
+ Total fertility rate: 4.25 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Belizean(s)
+ adjective: Belizean
+
+ Ethnic divisions: mestizo 44%, Creole 30%, Maya 11%, Garifuna 7%,
+ other 8%
+
+ Religions: Roman Catholic 62%, Protestant 30% (Anglican 12%, Methodist
+ 6%, Mennonite 4%, Seventh-Day Adventist 3%, Pentecostal 2%, Jehovah's
+ Witnesses 1%, other 2%), none 2%, other 6% (1980)
+
+ Languages: English (official), Spanish, Maya, Garifuna (Carib)
+
+ Literacy: age 15 and over has ever attended school (1970)
+ total population: 91%
+ male: 91%
+ female: 91%
+
+ Labor force: 51,500
+ by occupation: agriculture 30%, services 16%, government 15.4%,
+ commerce 11.2%, manufacturing 10.3%
+ note: shortage of skilled labor and all types of technical personnel
+ (1985)
+
+@Belize:Government
+
+ Names:
+ conventional long form: none
+ conventional short form: Belize
+ former: British Honduras
+
+ Digraph: BH
+
+ Type: parliamentary democracy
+
+ Capital: Belmopan
+
+ Administrative divisions: 6 districts; Belize, Cayo, Corozal, Orange
+ Walk, Stann Creek, Toledo
+
+ Independence: 21 September 1981 (from UK)
+
+ National holiday: Independence Day, 21 September (1981)
+
+ Constitution: 21 September 1981
+
+ Legal system: English law
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch:
+ chief of state: Queen ELIZABETH II (since 6 February 1952),
+ represented by Governor General Sir Colville YOUNG (since 17 November
+ 1993)
+ head of government: Prime Minister Manuel ESQUIVEL (since July 1993);
+ Deputy Prime Minister Dean BARROW (since NA 1993)
+ cabinet: Cabinet; appointed by the governor general on advice from the
+ prime minister
+
+ Legislative branch: bicameral National Assembly
+ Senate: consists of an 8-member appointed body; 5 members are
+ appointed on the advice of the prime minister, 2 on the advice of the
+ leader of the opposition, and 1 after consultation with the Belize
+ Advisory Council (this council serves as an independent body to advise
+ the governor-general with respect to difficult decisions such as
+ granting pardons, commutations, stays of execution, the removal of
+ justices of appeal who appear to be incompetent, etc.)
+ National Assembly: elections last held 30 June 1993 (next to be held
+ June 1998); results - percent of vote by party NA; seats - (28 total)
+ PUP 13 UDP 15
+
+ Judicial branch: Supreme Court
+
+ Political parties and leaders: People's United Party (PUP), George
+ PRICE, Florencio MARIN, Said MUSA; United Democratic Party (UDP),
+ Manuel ESQUIVEL, Dean LINDO, Dean BARROW; National Alliance for
+ Belizean Rights, Philip GOLDSON
+
+ Other political or pressure groups: Society for the Promotion of
+ Education and Research (SPEAR), Assad SHOMAN; United Workers Front,
+ leader NA
+
+ Member of: ACP, C, CARICOM, CDB, ECLAC, FAO, G-77, GATT, IADB, IBRD,
+ ICAO, ICFTU, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, INTELSAT
+ (nonsignatory user), INTERPOL, IOC, IOM (observer), ITU, LAES, NAM,
+ OAS, UN, UNCTAD, UNESCO, UNIDO, UPU, WCL, WHO, WMO
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Dean R. LINDO
+ chancery: 2535 Massachusetts Avenue NW, Washington, DC 20008
+ telephone: [1] (202) 332-9636
+ FAX: [1] (202) 332-6888
+ consulate(s) general: Los Angeles
+ consulate(s): New York
+
+ US diplomatic representation:
+ chief of mission: Ambassador George Charles BRUNO
+ embassy: Gabourel Lane and Hutson Street, Belize City
+ mailing address: P. O. Box 286, Belize City; APO: Unit 7401, APO AA
+ 34025
+ telephone: [501] (2) 77161 through 77163
+ FAX: [501] (2) 30802
+
+ Flag: blue with a narrow red stripe along the top and the bottom
+ edges; centered is a large white disk bearing the coat of arms; the
+ coat of arms features a shield flanked by two workers in front of a
+ mahogany tree with the related motto SUB UMBRA FLOREO (I Flourish in
+ the Shade) on a scroll at the bottom, all encircled by a green garland
+
+@Belize:Economy
+
+ Overview: The small, essentially private enterprise economy is based
+ primarily on agriculture, agro-based industry, and merchandising, with
+ tourism and construction assuming increasing importance. Agriculture
+ accounts for about 30% of GDP and provides 75% of export earnings,
+ while sugar, the chief crop, accounts for almost 40% of hard currency
+ earnings. The US, Belize's main trading partner, is assisting in
+ efforts to reduce dependency on sugar with an agricultural
+ diversification program.
+
+ National product: GDP - purchasing power parity - $575 million (1994
+ est.)
+
+ National product real growth rate: 2% (1994 est.)
+
+ National product per capita: $2,750 (1994 est.)
+
+ Inflation rate (consumer prices): 5.5% (1991)
+
+ Unemployment rate: 10% (1993 est.)
+
+ Budget:
+ revenues: $126.8 million
+ expenditures: $123.1 million, including capital expenditures of $44.8
+ million (FY90/91 est.)
+
+ Exports: $115 million (f.o.b., 1993)
+ commodities: sugar, citrus fruits, bananas, clothing, fish products,
+ molasses, wood
+ partners: US 51%, UK, other EC (1992)
+
+ Imports: $281 million (c.i.f., 1993)
+ commodities: machinery and transportation equipment, food,
+ manufactured goods, fuels, chemicals, pharmaceuticals
+ partners: US 57%, UK 8%, other EC 7%, Mexico (1992)
+
+ External debt: $158 million (1992)
+
+ Industrial production: growth rate 3.7% (1990); accounts for 12% of
+ GDP
+
+ Electricity:
+ capacity: 34,532 kW
+ production: 110 million kWh
+ consumption per capita: 490 kWh (1993)
+
+ Industries: garment production, food processing, tourism, construction
+
+ Agriculture: commercial crops: bananas, coca, citrus fruits, fish,
+ cultured shrimp, lumber
+
+ Illicit drugs: transshipment point for cocaine; an illicit producer of
+ cannabis for the international drug trade; minor money-laundering
+ center
+
+ Economic aid:
+ recipient: US commitments, including Ex-Im (FY70-89), $104 million;
+ Western (non-US) countries, ODA and OOF bilateral commitments
+ (1970-89), $215 million
+
+ Currency: 1 Belizean dollar (Bz$) = 100 cents
+
+ Exchange rates: Belizean dollars (Bz$) per US$1 - 2.00 (fixed rate)
+
+ Fiscal year: 1 April - 31 March
+
+@Belize:Transportation
+
+ Railroads: 0 km
+
+ Highways:
+ total: 2,710 km
+ paved: 500 km
+ unpaved: gravel 1,600 km; improved earth 300 km; unimproved earth 310
+ km
+
+ Inland waterways: 825 km river network used by shallow-draft craft;
+ seasonally navigable
+
+ Ports: Belize City, Big Creek, Corozol, Punta Gorda
+
+ Merchant marine:
+ total: 41 ships (1,000 GRT or over) totaling 170,002 GRT/270,893 DWT
+ ships by type: bulk 5, cargo 25, container 4, oil tanker 2,
+ refrigerated cargo 1, roll-on/roll-off cargo 3, vehicle carrier 1
+
+ Airports:
+ total: 46
+ with paved runways 1,524 to 2,437 m: 1
+ with paved runways under 914 m: 35
+ with unpaved runways 2,438 to 3,047 m: 1
+ with unpaved runways 914 to 1,523 m: 9
+
+@Belize:Communications
+
+ Telephone system: 8,650 telephones; above-average system based on
+ microwave radio relay
+ local: NA
+ intercity: microwave radio relay
+ international: 1 INTELSAT (Atlantic Ocean) earth station
+
+ Radio:
+ broadcast stations: AM 6, FM 5, shortwave 1
+ radios: NA
+
+ Television:
+ broadcast stations: 1
+ televisions: NA
+
+@Belize:Defense Forces
+
+ Branches: Belize Defense Force (includes Army, Navy, Air Force, and
+ Volunteer Guard), Belize National Police
+
+ Manpower availability: males age 15-49 50,499; males fit for military
+ service 30,040; males reach military age (18) annually 2,285 (1995
+ est.)
+
+ Defense expenditures: exchange rate conversion - $11 million, 2.2% of
+ GDP (FY93/94)
+
+
+________________________________________________________________________
+
+BENIN
+
+@Benin:Geography
+
+ Location: Western Africa, bordering the North Atlantic Ocean, between
+ Nigeria and Togo
+
+ Map references: Africa
+
+ Area:
+ total area: 112,620 sq km
+ land area: 110,620 sq km
+ comparative area: slightly smaller than Pennsylvania
+
+ Land boundaries: total 1,989 km, Burkina 306 km, Niger 266 km, Nigeria
+ 773 km, Togo 644 km
+
+ Coastline: 121 km
+
+ Maritime claims:
+ territorial sea: 200 nm
+
+ International disputes: none
+
+ Climate: tropical; hot, humid in south; semiarid in north
+
+ Terrain: mostly flat to undulating plain; some hills and low mountains
+
+ Natural resources: small offshore oil deposits, limestone, marble,
+ timber
+
+ Land use:
+ arable land: 12%
+ permanent crops: 4%
+ meadows and pastures: 4%
+ forest and woodland: 35%
+ other: 45%
+
+ Irrigated land: 60 sq km (1989 est.)
+
+ Environment:
+ current issues: recent droughts have severely affected marginal
+ agriculture in north; inadequate supplies of potable water; poaching
+ threatens wildlife populations; deforestation; desertification
+ natural hazards: hot, dry, dusty harmattan wind may affect north in
+ winter
+ international agreements: party to - Biodiversity, Climate Change,
+ Endangered Species, Environmental Modification, Nuclear Test Ban,
+ Ozone Layer Protection; signed, but not ratified - Desertification,
+ Law of the Sea
+
+ Note: no natural harbors
+
+@Benin:People
+
+ Population: 5,522,677 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 48% (female 1,324,553; male 1,333,673)
+ 15-64 years: 49% (female 1,431,630; male 1,299,180)
+ 65 years and over: 3% (female 74,119; male 59,522) (July 1995 est.)
+
+ Population growth rate: 3.33% (1995 est.)
+
+ Birth rate: 47.25 births/1,000 population (1995 est.)
+
+ Death rate: 13.93 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 0 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 107.6 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 52.24 years
+ male: 50.34 years
+ female: 54.2 years (1995 est.)
+
+ Total fertility rate: 6.72 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Beninese (singular and plural)
+ adjective: Beninese
+
+ Ethnic divisions: African 99% (42 ethnic groups, most important being
+ Fon, Adja, Yoruba, Bariba), Europeans 5,500
+
+ Religions: indigenous beliefs 70%, Muslim 15%, Christian 15%
+
+ Languages: French (official), Fon and Yoruba (most common vernaculars
+ in south), tribal languages (at least six major ones in north)
+
+ Literacy: age 15 and over can read and write (1990 est.)
+ total population: 23%
+ male: 32%
+ female: 16%
+
+ Labor force: 1.9 million (1987)
+ by occupation: agriculture 60%, transport, commerce, and public
+ services 38%, industry less than 2%
+
+@Benin:Government
+
+ Names:
+ conventional long form: Republic of Benin
+ conventional short form: Benin
+ local long form: Republique du Benin
+ local short form: Benin
+ former: Dahomey
+
+ Digraph: BN
+
+ Type: republic under multiparty democratic rule dropped
+ Marxism-Leninism December 1989; democratic reforms adopted February
+ 1990; transition to multiparty system completed 4 April 1991
+
+ Capital: Porto-Novo
+
+ Administrative divisions: 6 provinces; Atakora, Atlantique, Borgou,
+ Mono, Oueme, Zou
+
+ Independence: 1 August 1960 (from France)
+
+ National holiday: National Day, 1 August (1990)
+
+ Constitution: 2 December 1990
+
+ Legal system: based on French civil law and customary law; has not
+ accepted compulsory ICJ jurisdiction
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch:
+ chief of state and head of government: President Nicephore SOGLO
+ (since 4 April 1991); election last held 10 and 24 March 1991 (next
+ election 1996); results - Nicephore SOGLO 68%, Mathieu KEREKOU 32%
+ cabinet: Executive Council; appointed by the president
+
+ Legislative branch: unicameral
+ National Assembly (Assemblee Nationale): elections last held 28 March
+ 1995; results - percent of vote by party NA; seats - (83 total)
+ Renaissance Party and allies 20, PRD 19, FARD-ALAFIA 10, PSD 7, NCC 3,
+ RDL-VIVOTEN 3, Communist Party 2, Alliance Chameleon 1, RDP 1, ADP 1,
+ other 16
+
+ Judicial branch: Supreme Court (Cour Supreme)
+
+ Political parties and leaders: as of August 1994, 72 political parties
+ were officially recognized; the following are among the most
+ important: Alliance of the Democratic Union for the Forces of Progress
+ (UDFP), Timothee ADANLIN; Movement for Democracy and Social Progress
+ (MDPS), Jean-Roger AHOYO; Union for Liberty and Development (ULD),
+ Marcellin DEGBE; Alliance of the National Party for Democracy and
+ Development (PNDD) and the Democratic Renewal Party (PRD), Pascal
+ Chabi KAO; Alliance of the Social Democratic Party (PSD) and the
+ National Union for Solidarity and Progress (UNSP), Bruno AMOUSSOU; Our
+ Common Cause (NCC), Albert TEVOEDJRE; National Rally for Democracy
+ (RND), Joseph KEKE; Alliance of the National Movement for Democracy
+ and Development (MNDD), leader NA; Movement for Solidarity, Union, and
+ Progress (MSUP), Adebo ADENIYI; Union for Democracy and National
+ Reconstruction (UDRN), Azaria FAKOREDE; Union for Democracy and
+ National Solidarity (UDS), Mama Amadou N'DIAYE; Assembly of Liberal
+ Democrats for National Reconstruction (RDL), Severin ADJOVI; Alliance
+ for Social Democracy (ASD), Robert DOSSOU; Bloc for Social Democracy
+ (BSD), Michel MAGNIDE; Alliance for Democracy and Progress (ADP),
+ Akindes ADEKPEDJOU, and the Democratic Union for Social Renewal
+ (UDRS), Bio Gado Seko N'GOYE; National Union for Democracy and
+ Progress (UNDP), Robert TAGNON; Party for Progress and Democracy,
+ Thiophile NATA; FARD-ALAFIA, Mathieu KEREKOU; The Renaissance Party,
+ Nicephore SOGLO; The Patriotic Union for the Republic (UPR),
+ Jean-Marie ZAHOUN; Union for the Conservation of Democracy, Bernard
+ HOUEGNON
+
+ Member of: ACCT, ACP, AfDB, CEAO, ECA, ECOWAS, Entente, FAO, FZ, G-77,
+ GATT, IBRD, ICAO, ICFTU, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF,
+ IMO, INTELSAT, INTERPOL, IOC, ITU, NAM, OAU, OIC, UN, UNCTAD, UNESCO,
+ UNIDO, UPU, WADB, WCL, WFTU, WHO, WIPO, WMO, WTO
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Lucien Edgar TONOUKOUIN
+ chancery: 2737 Cathedral Avenue NW, Washington, DC 20008
+ telephone: [1] (202) 232-6656, 6657, 6658
+ FAX: [1] (202) 265-1996
+
+ US diplomatic representation:
+ chief of mission: Ambassador Ruth A. DAVIS
+ embassy: Rue Caporal Bernard Anani, Cotonou
+ mailing address: B. P. 2012, Cotonou
+ telephone: [229] 30-06-50, 30-05-13, 30-17-92
+ FAX: [229] 41-15-22
+
+ Flag: two equal horizontal bands of yellow (top) and red with a
+ vertical green band on the hoist side
+
+@Benin:Economy
+
+ Overview: The economy of Benin remains underdeveloped and dependent on
+ subsistence agriculture, cotton production, and regional trade. Growth
+ in real output has averaged a sound 4% in 1991-94 but this rate barely
+ exceeds the rapid population growth of 3.3%. Inflation jumped to 35%
+ in 1994 (compared to 3% in 1993) following the 50% currency
+ devaluation in January. Commercial and transport activities, which
+ make up almost 36% of GDP, are extremely vulnerable to developments in
+ Nigeria as evidenced by decreased reexport trade in 1994 due to a
+ severe contraction in Nigerian demand. The industrial sector accounts
+ for less than 10% of GDP and mainly produces foods, beverages, cement,
+ and textiles. Support by the Paris Club and official bilateral
+ creditors has eased the external debt situation in recent years. The
+ government, still burdened with money-losing state enterprises and a
+ bloated civil service, is gradually implementing a World Bank
+ supported structural adjustment program.
+
+ National product: GDP - purchasing power parity - $6.7 billion (1994
+ est.)
+
+ National product real growth rate: 4% (1994 est.)
+
+ National product per capita: $1,260 (1994 est.)
+
+ Inflation rate (consumer prices): 35% (1994 est.)
+
+ Unemployment rate: NA%
+
+ Budget:
+ revenues: $272 million (1993 est.)
+ expenditures: $375 million, including capital expenditures of $84
+ million (1993 est.)
+
+ Exports: $332 million (f.o.b., 1993 est.)
+ commodities: cotton, crude oil, palm products, cocoa
+ partners: FRG 36%, France 16%, Spain 14%, Italy 8%, UK 4%
+
+ Imports: $571 million (f.o.b., 1993 est.)
+ commodities: foodstuffs, beverages, tobacco, petroleum products,
+ intermediate goods, capital goods, light consumer goods
+ partners: France 20%, Thailand 8%, Netherlands 7%, US 5%
+
+ External debt: $1 billion (December 1990 est.)
+
+ Industrial production: growth rate -0.7% (1988); accounts for 10% of
+ GDP
+
+ Electricity:
+ capacity: 30,000 kW
+ production: 10 million kWh
+ consumption per capita: 25 kWh (1993)
+
+ Industries: textiles, cigarettes, construction materials, beverages,
+ food, petroleum
+
+ Agriculture: accounts for 35% of GDP; small farms produce 90% of
+ agricultural output; production is dominated by food crops - corn,
+ sorghum, cassava, yams, beans, rice; cash crops include cotton, palm
+ oil, peanuts; poultry and livestock output has not kept up with
+ consumption
+
+ Illicit drugs: transshipment point for narcotics associated with
+ Nigerian trafficking organizations and most commonly destined for
+ Western Europe and the US
+
+ Economic aid:
+ recipient: US commitments, including Ex-Im (FY70-89), $46 million;
+ Western (non-US) countries, ODA and OOF bilateral commitments
+ (1970-89), $1.3 billion; OPEC bilateral aid (1979-89), $19 million;
+ Communist countries (1970-89), $101 million
+
+ Currency: 1 CFA franc (CFAF) = 100 centimes
+
+ Exchange rates: Communaute Financiere Africaine francs (CFAF) per US$1
+ - 529.43 (January 1995), 555.20 (1994), 283.16 (1993), 264.69 (1992),
+ 282.11 (1991), 272.26 (1990)
+ note: beginning 12 January 1994 the CFA franc was devalued to CFAF 100
+ per French franc from CFAF 50 at which it had been fixed since 1948
+
+ Fiscal year: calendar year
+
+@Benin:Transportation
+
+ Railroads:
+ total: 578 km (single track)
+ narrow gauge: 578 km 1.000-m gauge
+
+ Highways:
+ total: 8,435 km
+ paved: 1,038 km
+ unpaved: crushed stone 2,600 km; improved earth 1,530 km; unimproved
+ earth 3,267 km
+
+ Inland waterways: navigable along small sections, important only
+ locally
+
+ Ports: Cotonou, Porto-Novo
+
+ Merchant marine: none
+
+ Airports:
+ total: 7
+ with paved runways 2,438 to 3,047 m: 1
+ with paved runways 1,524 to 2,437 m: 1
+ with unpaved runways 1,524 to 2,438 m: 1
+ with unpaved runways 914 to 1,523 m: 4
+
+@Benin:Communications
+
+ Telephone system: NA telephones; fair system of open wire and
+ microwave radio relay
+ local: NA
+ intercity: microwave radio relay and open wire
+ international: 1 Atlantic Ocean INTELSAT earth station, submarine
+ cable
+
+ Radio:
+ broadcast stations: AM 2, FM 2, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 2
+ televisions: NA
+
+@Benin:Defense Forces
+
+ Branches: Armed Forces (includes Army, Navy, Air Force), National
+ Gendarmerie
+
+ Manpower availability: males age 15-49 1,165,463; females age 15-49
+ 1,249,234; males fit for military service 596,956; females fit for
+ military service 631,780; males reach military age (18) annually
+ 60,282 (1995 est.); females reach military age (18) annually 58,770
+ (1995 est.)
+ note: both sexes are liable for miltary service
+
+ Defense expenditures: exchange rate conversion - $33 million, 3.2% of
+ GDP (1994)
+
+
+________________________________________________________________________
+
+BERMUDA
+
+ (dependent territory of the UK) 
+
+@Bermuda:Geography
+
+ Location: North America, group of islands in the North Atlantic Ocean,
+ east of North Carolina (US)
+
+ Map references: North America
+
+ Area:
+ total area: 50 sq km
+ land area: 50 sq km
+ comparative area: about 0.3 times the size of Washington, DC
+
+ Land boundaries: 0 km
+
+ Coastline: 103 km
+
+ Maritime claims:
+ exclusive fishing zone: 200 nm
+ territorial sea: 12 nm
+
+ International disputes: none
+
+ Climate: subtropical; mild, humid; gales, strong winds common in
+ winter
+
+ Terrain: low hills separated by fertile depressions
+
+ Natural resources: limestone, pleasant climate fostering tourism
+
+ Land use:
+ arable land: 0%
+ permanent crops: 0%
+ meadows and pastures: 0%
+ forest and woodland: 20%
+ other: 80%
+
+ Irrigated land: NA sq km
+
+ Environment:
+ current issues: NA
+ natural hazards: hurricanes (June to November)
+ international agreements: NA
+
+ Note: consists of about 360 small coral islands with ample rainfall,
+ but no rivers or freshwater lakes; some reclaimed land leased by US
+ Government
+
+@Bermuda:People
+
+ Population: 61,629 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: NA
+ 15-64 years: NA
+ 65 years and over: NA
+
+ Population growth rate: 0.76% (1995 est.)
+
+ Birth rate: 15.07 births/1,000 population (1995 est.)
+
+ Death rate: 7.3 deaths/1,000 population (1995 est.)
+
+ Net migration rate: -0.13 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 13.16 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 75.03 years
+ male: 73.36 years
+ female: 76.97 years (1995 est.)
+
+ Total fertility rate: 1.81 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Bermudian(s)
+ adjective: Bermudian
+
+ Ethnic divisions: black 61%, white and other 39%
+
+ Religions: Anglican 37%, Roman Catholic 14%, African Methodist
+ Episcopal (Zion) 10%, Methodist 6%, Seventh-Day Adventist 5%, other
+ 28%
+
+ Languages: English
+
+ Literacy: age 15 and over can read and write (1970)
+ total population: 98%
+ male: 98%
+ female: 99%
+
+ Labor force: 32,000
+ by occupation: clerical 25%, services 22%, laborers 21%, professional
+ and technical 13%, administrative and managerial 10%, sales 7%,
+ agriculture and fishing 2% (1984)
+
+@Bermuda:Government
+
+ Names:
+ conventional long form: none
+ conventional short form: Bermuda
+
+ Digraph: BD
+
+ Type: dependent territory of the UK
+
+ Capital: Hamilton
+
+ Administrative divisions: 9 parishes and 2 municipalities*;
+ Devonshire, Hamilton, Hamilton*, Paget, Pembroke, Saint George*, Saint
+ Georges, Sandys, Smiths, Southampton, Warwick
+
+ Independence: none (dependent territory of the UK)
+
+ National holiday: Bermuda Day, 24 May
+
+ Constitution: 8 June 1968
+
+ Legal system: English law
+
+ Suffrage: 21 years of age; universal
+
+ Executive branch:
+ chief of state: Queen ELIZABETH II (since 6 February 1952),
+ represented by Governor Lord David WADDINGTON (since 25 August 1992)
+ head of government: Premier John William David SWAN (since NA January
+ 1982); Deputy Premier J. Irving PEARMAN (since 5 October 1993)
+ cabinet: Cabinet; nominated by the premier, appointed by the governor
+
+ Legislative branch: bicameral Parliament
+ Senate: consists of an 11-member body appointed by the governor
+ House of Assembly: elections last held 5 October 1993 (next to be held
+ by NA October 1998); results - percent of vote by party UBP 50%, PLP
+ 46%, independents 4%; seats - (40 total) UBP 22, PLP 18
+
+ Judicial branch: Supreme Court
+
+ Political parties and leaders: United Bermuda Party (UBP), John W. D.
+ SWAN; Progressive Labor Party (PLP), Frederick WADE; National Liberal
+ Party (NLP), Gilbert DARRELL
+
+ Other political or pressure groups: Bermuda Industrial Union (BIU),
+ Ottiwell SIMMONS
+
+ Member of: CARICOM (observer), CCC, ICFTU, INTERPOL (subbureau), IOC
+
+ Diplomatic representation in US: none (dependent territory of the UK)
+
+ US diplomatic representation:
+ chief of mission: Ambassador Robert A. FARMER
+ consulate(s) general: Crown Hill, 16 Middle Road, Devonshire, Hamilton
+
+ mailing address: P. O. Box HM325, Hamilton HMBX; PSC 1002, FPO AE
+ 09727-1002
+ telephone: [1] (809) 295-1342
+ FAX: [1] (809) 295-1592
+
+ Flag: red with the flag of the UK in the upper hoist-side quadrant and
+ the Bermudian coat of arms (white and blue shield with a red lion
+ holding a scrolled shield showing the sinking of the ship Sea Venture
+ off Bermuda in 1609) centered on the outer half of the flag
+
+@Bermuda:Economy
+
+ Overview: Bermuda enjoys one of the highest per capita incomes in the
+ world, having successfully exploited its location by providing luxury
+ tourist facilities and financial services. The tourist industry
+ attracts more than 90% of its business from North America. The
+ industrial sector is small, and agriculture is severely limited by a
+ lack of suitable land. About 80% of food needs are imported.
+
+ National product: GDP - purchasing power parity - $1.7 billion (1994
+ est.)
+
+ National product real growth rate: 2.5% (1994)
+
+ National product per capita: $28,000 (1994 est.)
+
+ Inflation rate (consumer prices): 2.5% (1993)
+
+ Unemployment rate: 6% (1991)
+
+ Budget:
+ revenues: $327.5 million
+ expenditures: $308.9 million, including capital expenditures of $35.4
+ million (FY90/91 est.)
+
+ Exports: $60 million (f.o.b., 1991)
+ commodities: semitropical produce, light manufactures, re-exports of
+ pharmaceuticals
+ partners: US 62.4%, UK 20%
+
+ Imports: $519 million (f.o.b.,1993)
+ commodities: fuel, foodstuffs, machinery
+ partners: US 38%, UK 5%, Canada 5%
+
+ External debt: $NA
+
+ Industrial production: growth rate NA%
+
+ Electricity:
+ capacity: 140,000 kW
+ production: 504 million kWh
+ consumption per capita: 7,745 kWh (1993)
+
+ Industries: tourism, finance, structural concrete products, paints,
+ pharmaceuticals, ship repairing
+
+ Agriculture: accounts for less than 1% of GDP; most basic foods must
+ be imported; produces bananas, vegetables, citrus fruits, flowers,
+ dairy products
+
+ Economic aid:
+ recipient: US commitments, including Ex-Im (FY70-81), $34 million;
+ Western (non-US) countries, ODA and OOF bilateral commitments
+ (1970-89), $277 million
+
+ Currency: 1 Bermudian dollar (Bd$) = 100 cents
+
+ Exchange rates: Bermudian dollar (Bd$) per US$1 - 1.0000 (fixed rate)
+
+ Fiscal year: 1 April - 31 March
+
+@Bermuda:Transportation
+
+ Railroads: 0 km
+
+ Highways:
+ total: 210 km
+ paved: 210 km
+ note: in addition, there are 400 km of paved and unpaved roads that
+ are privately owned
+
+ Ports: Hamilton, Saint George
+
+ Merchant marine:
+ total: 65 ships (1,000 GRT or over) totaling 3,144,245 GRT/5,152,030
+ DWT
+ ships by type: bulk 14, cargo 4, container 7, liquefied gas tanker 15,
+ oil tanker 16, refrigerated cargo 2, roll-on/roll-off cargo 5,
+ short-sea passenger 1, vehicle carrier 1
+ note: a flag of convenience registry; includes 12 countries among
+ which are UK 6 ships, Canada 4, US 4, Sweden 3, Hong Kong 2, Mexico 2,
+ Norway 2, Australia 1, Germany 1, NZ 1
+
+ Airports:
+ total: 1
+ with paved runways 2,438 to 3,047 m: 1
+
+@Bermuda:Communications
+
+ Telephone system: 52,670 telephones; modern, fully automatic telephone
+ system
+ local: NA
+ intercity: NA
+ international: 3 submarine cables; 2 INTELSAT (Atlantic Ocean) earth
+ stations
+
+ Radio:
+ broadcast stations: AM 5, FM 3, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 2
+ televisions: NA
+
+@Bermuda:Defense Forces
+
+ Branches: Bermuda Regiment, Bermuda Police Force, Bermuda Reserve
+ Constabulary
+
+ Defense expenditures: $NA, NA% of GDP
+
+ Note: defense is the responsibility of the UK
+
+
+________________________________________________________________________
+
+BHUTAN
+
+@Bhutan:Geography
+
+ Location: Southern Asia, between China and India
+
+ Map references: Asia
+
+ Area:
+ total area: 47,000 sq km
+ land area: 47,000 sq km
+ comparative area: slightly more than half the size of Indiana
+
+ Land boundaries: total 1,075 km, China 470 km, India 605 km
+
+ Coastline: 0 km (landlocked)
+
+ Maritime claims: none; landlocked
+
+ International disputes: none
+
+ Climate: varies; tropical in southern plains; cool winters and hot
+ summers in central valleys; severe winters and cool summers in
+ Himalayas
+
+ Terrain: mostly mountainous with some fertile valleys and savanna
+
+ Natural resources: timber, hydropower, gypsum, calcium carbide
+
+ Land use:
+ arable land: 2%
+ permanent crops: 0%
+ meadows and pastures: 5%
+ forest and woodland: 70%
+ other: 23%
+
+ Irrigated land: 340 sq km (1989 est.)
+
+ Environment:
+ current issues: soil erosion; limited access to potable water
+ natural hazards: violent storms coming down from the Himalayas are the
+ source of the country's name which translates as Land of the Thunder
+ Dragon; frequent landslides during the rainy season
+ international agreements: party to - Nuclear Test Ban; signed, but not
+ ratified - Biodiversity, Climate Change, Law of the Sea
+
+ Note: landlocked; strategic location between China and India; controls
+ several key Himalayan mountain passes
+
+@Bhutan:People
+
+ Population: 1,780,638 (July 1995 est.)
+ note: other estimates range as low as 600,000
+
+ Age structure:
+ 0-14 years: 40% (female 342,276; male 368,916)
+ 15-64 years: 56% (female 486,258; male 513,560)
+ 65 years and over: 4% (female 34,215; male 35,413) (July 1995 est.)
+
+ Population growth rate: 2.34% (1995 est.)
+
+ Birth rate: 39.02 births/1,000 population (1995 est.)
+
+ Death rate: 15.61 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 0 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 118.6 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 51.03 years
+ male: 51.56 years
+ female: 50.48 years (1995 est.)
+
+ Total fertility rate: 5.39 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Bhutanese (singular and plural)
+ adjective: Bhutanese
+
+ Ethnic divisions: Bhote 50%, ethnic Nepalese 35%, indigenous or
+ migrant tribes 15%
+
+ Religions: Lamaistic Buddhism 75%, Indian- and Nepalese-influenced
+ Hinduism 25%
+
+ Languages: Dzongkha (official), Bhotes speak various Tibetan dialects;
+ Nepalese speak various Nepalese dialects
+
+ Literacy: NA%
+
+ Labor force: NA
+ by occupation: agriculture 93%, services 5%, industry and commerce 2%
+ note: massive lack of skilled labor
+
+@Bhutan:Government
+
+ Names:
+ conventional long form: Kingdom of Bhutan
+ conventional short form: Bhutan
+
+ Digraph: BT
+
+ Type: monarchy; special treaty relationship with India
+
+ Capital: Thimphu
+
+ Administrative divisions: 18 districts (dzongkhag, singular and
+ plural); Bumthang, Chhukha, Chirang, Daga, Geylegphug, Ha, Lhuntshi,
+ Mongar, Paro, Pemagatsel, Punakha, Samchi, Samdrup Jongkhar, Shemgang,
+ Tashigang, Thimphu, Tongsa, Wangdi Phodrang
+
+ Independence: 8 August 1949 (from India)
+
+ National holiday: National Day, 17 December (1907) (Ugyen Wangchuck
+ became first hereditary king)
+
+ Constitution: no written constitution or bill of rights
+
+ Legal system: based on Indian law and English common law; has not
+ accepted compulsory ICJ jurisdiction
+
+ Suffrage: each family has one vote in village-level elections
+
+ Executive branch:
+ Chief of State and Head of Government: King Jigme Singye WANGCHUCK
+ (since 24 July 1972)
+ Royal Advisory Council (Lodoi Tsokde): nominated by the king
+ cabinet: Council of Ministers (Lhengye Shungtsog); appointed by the
+ king
+
+ Legislative branch: unicameral National Assembly (Tshogdu); no
+ national elections
+
+ Judicial branch: High Court
+
+ Political parties and leaders: no legal parties
+
+ Other political or pressure groups: Buddhist clergy; Indian merchant
+ community; ethnic Nepalese organizations leading militant
+ antigovernment campaign
+
+ Member of: AsDB, CP, ESCAP, FAO, G-77, IBRD, ICAO, IDA, IFAD, IMF,
+ INTELSAT, IOC, ITU, NAM, SAARC, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO,
+ WIPO
+
+ Diplomatic representation in US: Bhutan has no embassy in the US, but
+ does have a Permanent Mission to the UN, headed by Ugyen TSERING,
+ located at 2 United Nations Plaza, 27th Floor, New York, NY 10017,
+ telephone [1] (212) 826-1919; note - the Bhutanese mission to the UN
+ has consular jurisdiction in the US
+ consulate(s) general: New York
+ honorary consulate(s): San Francisco; Washington, DC
+
+ US diplomatic representation: no formal diplomatic relations, although
+ informal contact is maintained between the Bhutanese and US Embassy in
+ New Delhi (India)
+
+ Flag: divided diagonally from the lower hoist side corner; the upper
+ triangle is orange and the lower triangle is red; centered along the
+ dividing line is a large black and white dragon facing away from the
+ hoist side
+
+@Bhutan:Economy
+
+ Overview: The economy, one of the world's least developed, is based on
+ agriculture and forestry, which provide the main livelihood for 90% of
+ the population and account for about half of GDP. Agriculture consists
+ largely of subsistence farming and animal husbandry. Rugged mountains
+ dominate the terrain and make the building of roads and other
+ infrastructure difficult and expensive. The economy is closely aligned
+ with India's through strong trade and monetary links. The industrial
+ sector is small and technologically backward, with most production of
+ the cottage industry type. Most development projects, such as road
+ construction, rely on Indian migrant labor. Bhutan's hydropower
+ potential and its attraction for tourists are key resources; however,
+ the government limits the number of tourists to 4,000 per year to
+ minimize foreign influence. Much of the impetus for growth has come
+ from large public-sector companies. Nevertheless, in recent years,
+ Bhutan has shifted toward decentralized development planning and
+ greater private initiative. The government privatized several large
+ public-sector firms, is revamping its trade regime and liberalizing
+ administerial procedures over industrial licensing. The government's
+ industrial contribution to GDP decreased from 13% in 1988 to about 11%
+ in 1993.
+
+ National product: GDP - purchasing power parity - $1.2 billion (1994
+ est.)
+
+ National product real growth rate: 5% (1994 est.)
+
+ National product per capita: $700 (1994 est.)
+
+ Inflation rate (consumer prices): 10% (October 1994)
+
+ Unemployment rate: NA%
+
+ Budget:
+ revenues: $52 million
+ expenditures: $150 million, including capital expenditures of $95
+ million (FY93/94 est.)
+ note: the government of India finances nearly three-fifths of Bhutan's
+ budget expenditures
+
+ Exports: $66.8 million (f.o.b., FY93/94)
+ commodities: cardamon, gypsum, timber, handicrafts, cement, fruit,
+ electricity (to India), precious stones, spices
+ partners: India 87%, Bangladesh
+
+ Imports: $97.6 million (c.i.f., FY93/94 est.)
+ commodities: fuel and lubricants, grain, machinery and parts,
+ vehicles, fabrics, rice
+ partners: India 79%, Japan, UK, Germany, US
+
+ External debt: $141 million (October 1994)
+
+ Industrial production: growth rate 7.6% (1992 est.); accounts for 18%
+ of GDP; primarily cottage industry and home based handicrafts
+
+ Electricity:
+ capacity: 360,000 kW
+ production: 1.7 billion kWh
+ consumption per capita: 143 kWh (1993)
+ note: Bhutan exports electricity to India
+
+ Industries: cement, wood products, processed fruits, alcoholic
+ beverages, calcium carbide
+
+ Agriculture: rice, corn, root crops, citrus fruit, dairy products,
+ foodgrains, eggs
+
+ Economic aid:
+ recipient: Western (non-US) countries, ODA and OOF bilateral
+ commitments (1970-89), $115 million; OPEC bilateral aid (1979-89), $11
+ million
+
+ Currency: 1 ngultrum (Nu) = 100 chetrum; note - Indian currency is
+ also legal tender
+
+ Exchange rates: ngultrum (Nu) per US$1 - 31.374 (January 1995), 31.374
+ (1994), 30.493 (1993), 25.918 (1992), 22.742 (1991), 17.504 (1990);
+ note - the Bhutanese ngultrum is at par with the Indian rupee
+
+ Fiscal year: 1 July - 30 June
+
+@Bhutan:Transportation
+
+ Railroads: 0 km
+
+ Highways:
+ total: 2,165 km
+ paved: NA
+ unpaved: gravel 1,703 km
+ undifferentiated: 462 km
+
+ Ports: none
+
+ Airports:
+ total: 2
+ with paved runways 1,524 to 2,437 m: 1
+ with unpaved runways 914 to 1,523 m: 1
+
+@Bhutan:Communications
+
+ Telephone system: NA telephones; domestic telephone service is very
+ poor with very few telephones in use
+ local: NA
+ intercity: NA
+ international: international telephone and telegraph service is by
+ land line through India; an earth station was planned (1990)
+
+ Radio:
+ broadcast stations: AM 1, FM 1, shortwave 0 (1990)
+ radios: NA
+
+ Television:
+ broadcast stations: 0 (1990)
+ televisions: NA
+
+@Bhutan:Defense Forces
+
+ Branches: Royal Bhutan Army, Palace Guard, Militia, Royal Bhutan
+ Police
+
+ Manpower availability: males age 15-49 434,586; males fit for military
+ service 232,121; males reach military age (18) annually 17,365 (1995
+ est.)
+
+ Defense expenditures: $NA, NA% of GDP
+
+
+________________________________________________________________________
+
+BOLIVIA
+
+@Bolivia:Geography
+
+ Location: Central South America, southwest of Brazil
+
+ Map references: South America
+
+ Area:
+ total area: 1,098,580 sq km
+ land area: 1,084,390 sq km
+ comparative area: slightly less than three times the size of Montana
+
+ Land boundaries: total 6,743 km, Argentina 832 km, Brazil 3,400 km,
+ Chile 861 km, Paraguay 750 km, Peru 900 km
+
+ Coastline: 0 km (landlocked)
+
+ Maritime claims: none; landlocked
+
+ International disputes: has wanted a sovereign corridor to the South
+ Pacific Ocean since the Atacama area was lost to Chile in 1884;
+ dispute with Chile over Rio Lauca water rights
+
+ Climate: varies with altitude; humid and tropical to cold and semiarid
+
+ Terrain: rugged Andes Mountains with a highland plateau (Altiplano),
+ hills, lowland plains of the Amazon Basin
+
+ Natural resources: tin, natural gas, petroleum, zinc, tungsten,
+ antimony, silver, iron, lead, gold, timber
+
+ Land use:
+ arable land: 3%
+ permanent crops: 0%
+ meadows and pastures: 25%
+ forest and woodland: 52%
+ other: 20%
+
+ Irrigated land: 1,650 sq km (1989 est.)
+
+ Environment:
+ current issues: the clearing of land for agricultural purposes and the
+ international demand for tropical timber are contributing to
+ deforestation; soil erosion from overgrazing and poor cultivation
+ methods (including slash-and-burn agriculture); desertification; loss
+ of biodiversity; industrial pollution of water supplies used for
+ drinking and irrigation
+ natural hazards: cold, thin air of high plateau is obstacle to
+ efficient fuel combustion, as well as to physical activity by those
+ unaccustomed to it from birth; flooding in the northeast (March to
+ April)
+ international agreements: party to - Biodiversity, Climate Change,
+ Endangered Species, Nuclear Test Ban, Tropical Timber 83, Wetlands;
+ signed, but not ratified - Desertification, Environmental
+ Modification, Hazardous Wastes, Law of the Sea, Marine Dumping, Marine
+ Life Conservation, Ozone Layer Protection
+
+ Note: landlocked; shares control of Lago Titicaca, world's highest
+ navigable lake (elevation 3,805 m), with Peru
+
+@Bolivia:People
+
+ Population: 7,896,254 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 39% (female 1,542,931; male 1,565,624)
+ 15-64 years: 57% (female 2,276,308; male 2,188,100)
+ 65 years and over: 4% (female 174,419; male 148,872) (July 1995 est.)
+
+ Population growth rate: 2.25% (1995 est.)
+
+ Birth rate: 31.61 births/1,000 population (1995 est.)
+
+ Death rate: 8.12 deaths/1,000 population (1995 est.)
+
+ Net migration rate: -1.01 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 70.6 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 63.85 years
+ male: 61.39 years
+ female: 66.43 years (1995 est.)
+
+ Total fertility rate: 4.1 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Bolivian(s)
+ adjective: Bolivian
+
+ Ethnic divisions: Quechua 30%, Aymara 25%, mestizo (mixed European and
+ Indian ancestry) 25%-30%, European 5%-15%
+
+ Religions: Roman Catholic 95%, Protestant (Evangelical Methodist)
+
+ Languages: Spanish (official), Quechua (official), Aymara (official)
+
+ Literacy: age 15 and over can read and write (1992)
+ total population: 80%
+ male: 88%
+ female: 72%
+
+ Labor force: 3.54 million
+ by occupation: agriculture NA, services and utilities 20%,
+ manufacturing, mining and construction 7% (1993)
+
+@Bolivia:Government
+
+ Names:
+ conventional long form: Republic of Bolivia
+ conventional short form: Bolivia
+ local long form: Republica de Bolivia
+ local short form: Bolivia
+
+ Digraph: BL
+
+ Type: republic
+
+ Capital: La Paz (seat of government); Sucre (legal capital and seat of
+ judiciary)
+
+ Administrative divisions: 9 departments (departamentos, singular -
+ departamento); Chuquisaca, Cochabamba, Beni, La Paz, Oruro, Pando,
+ Potosi, Santa Cruz, Tarija
+
+ Independence: 6 August 1825 (from Spain)
+
+ National holiday: Independence Day, 6 August (1825)
+
+ Constitution: 2 February 1967
+
+ Legal system: based on Spanish law and Code Napoleon; has not accepted
+ compulsory ICJ jurisdiction
+
+ Suffrage: 18 years of age, universal and compulsory (married); 21
+ years of age, universal and compulsory (single)
+
+ Executive branch:
+ chief of state and head of government: President Gonzalo SANCHEZ DE
+ LOZADA Bustamente (since 6 August 1993); Vice President Victor Hugo
+ CARDENAS Conde (since 6 August 1993); election last held 6 June 1993
+ (next to be held May 1997); results - Gonzalo SANCHEZ DE LOZADA (MNR)
+ 34%, Hugo BANZER Suarez (ADN/MIR alliance) 20%, Carlos PALENQUE Aviles
+ (CONDEPA) 14%, Max FERNANDEZ Rojas (UCS) 13%, Antonio ARANIBAR Quiroga
+ (MBL) 5%; no candidate received a majority of the popular vote;
+ Gonzalo SANCHEZ DE LOZADA won a congressional runoff election on 4
+ August 1993 after forming a coalition with Max FERNANDEZ and Antonio
+ ARANIBAR; FERNANDEZ left the coalition in 1994
+ cabinet: Cabinet; appointed by the president from panel proposed by
+ the Senate
+
+ Legislative branch: bicameral National Congress (Congreso Nacional)
+ Chamber of Deputies (Camara de Diputados): elections last held 6 June
+ 1993 (next to be held May 1997); results - percent of vote by party
+ NA; seats - (130 total) MNR 52, UCS 20, ADN 17, MIR 17, CONDEPA 13,
+ MBL 7, ARBOL 1, ASD 1, EJE 1, PCD 1
+ Chamber of Senators (Camara de Senadores): elections last held 6 June
+ 1993 (next to be held May 1997); results - percent of vote by party
+ NA; seats - (27 total) MNR 17, ADN 4, MIR 4, CONDEPA 1, UCS 1
+
+ Judicial branch: Supreme Court (Corte Suprema)
+
+ Political parties and leaders:
+ Left parties: Free Bolivia Movement (MBL), Antonio ARANIBAR; April 9
+ Revolutionary Vanguard (VR-9), Carlos SERRATE; Alternative of
+ Democratic Socialism (ASD), Jerjes JUSTIANO; Revolutionary Front of
+ the Left (FRI), Oscar ZAMORA; Bolivian Socialist Falange (FSB);
+ Socialist Unzaguista Movement (MAS); Socialist Party One (PS-1);
+ Bolivian Communist Party (PCB)
+ Center-Left parties: Nationalist Revolutionary Movement (MNR), Gonzalo
+ SANCHEZ DE LOZADA; Movement of the Revolutionary Left (MIR), Jaime PAZ
+ Zamora, Oscar EID; Christian Democrat (PCD), Jorge AGREDA
+ Center-Right party: Nationalist Democratic Action (ADN), Jorge
+ LANDIVAR, Hugo BANZER
+ populist parties: Civic Solidarity Union (UCS), Max FERNANDEZ Rojas;
+ Conscience of the Fatherland (CONDEPA), Carlos PALENQUE Aviles;
+ Popular Patriotic Movement (MPP), Julio MANTILLA; Unity and Progress
+ Movement (MUP), Ivo KULJIS
+ Evangelical: Bolivian Renovating Alliance (ARBOL), Hugo VILLEGAS
+ indigenous: Tupac Katari Revolutionary Liberation Movement (MRTK-L),
+ Victor Hugo CARDENAS Conde; Patriotic Axis of Convergence (EJE-P),
+ Ramiro BARRANCHEA; National Katarista Movement (MKN), Fernando UNTOJA
+
+ Member of: AG, ECLAC, FAO, G-11, G-77, GATT, IADB, IAEA, IBRD, ICAO,
+ ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, INTELSAT, INTERPOL, IOC,
+ IOM, ITU, LAES, LAIA, NAM, OAS, OPANAL, PCA, RG, UN, UNCTAD, UNESCO,
+ UNIDO, UPU, WCL, WFTU, WHO, WIPO, WMO, WTO
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Andres PETRICEVIC Raznatovic
+ chancery: 3014 Massachusetts Avenue NW, Washington, DC 20008
+ telephone: [1] (202) 483-4410 through 4412
+ FAX: [1] (202) 328-3712
+ consulate(s) general: Miami, New York, and San Francisco
+
+ US diplomatic representation:
+ chief of mission: Ambassador Curt Warren KAMMAN
+ embassy: Avenida Arce 2780, San Jorge, La Paz
+ mailing address: P. O. Box 425, La Paz; APO AA 34032
+ telephone: [591] (2) 430251
+ FAX: [591] (2) 4339000
+
+ Flag: three equal horizontal bands of red (top), yellow, and green
+ with the coat of arms centered on the yellow band; similar to the flag
+ of Ghana, which has a large black five-pointed star centered in the
+ yellow band
+
+@Bolivia:Economy
+
+ Overview: With its long history of semifeudal social controls,
+ dependence on volatile prices for its mineral exports, and bouts of
+ hyperinflation, Bolivia has remained one of the poorest and least
+ developed Latin American countries. However, Bolivia has experienced
+ generally improving economic conditions since the PAZ Estenssoro
+ administration (1985-89) introduced market-oriented policies which
+ reduced inflation from 11,700% in 1985 to about 20% in 1988. PAZ
+ Estenssoro was followed as President by Jaime PAZ Zamora (1989-93) who
+ continued the free-market policies of his predecessor, despite
+ opposition from his own party and from Bolivia's once powerful labor
+ movement. By maintaining fiscal discipline, PAZ Zamora helped reduce
+ inflation to 9.3% in 1993, while GDP grew by an annual average of
+ 3.25% during his tenure. Inaugurated in August 1993, President SANCHEZ
+ DE LOZADA has vowed to advance the market-oriented economic reforms he
+ helped launch as PAZ Estenssoro's planning minister. His successes so
+ far have included an inflation rate that continues to decrease - the
+ 1994 rate of 8.5% was the lowest in ten years - the signing of a free
+ trade agreement with Mexico, and progress on his unique privatization
+ plan. The main privatization bill was passed by the Bolivian
+ legislature in late March 1994. Related laws - one that establishes
+ SIRESE, the regulatory agency that will oversee the privatizations,
+ and another that outlines the rules for privatization in the
+ electricity sector - were approved later in the year.
+
+ National product: GDP - purchasing power parity - $18.3 billion (1994
+ est.)
+
+ National product real growth rate: 4.2% (1994 est.)
+
+ National product per capita: $2,370 (1994 est.)
+
+ Inflation rate (consumer prices): 8.5% (1994 est.)
+
+ Unemployment rate: 6.2% (1994 est.)
+
+ Budget:
+ revenues: $3.75 billion
+ expenditures: $3.75 billion, including capital expenditures of $556.2
+ million (1995 est.)
+
+ Exports: $1.1 billion (f.o.b., 1994 est.)
+ commodities: metals 39%, natural gas 9%, soybeans 11%, jewelry 11%,
+ wood 8%
+ partners: US 26%, Argentina 15% (1993 est.)
+
+ Imports: $1.21 billion (c.i.f., 1994 est.)
+ commodities: capital goods 48%, chemicals 11%, petroleum 5%, food 5%
+ (1993 est.)
+ partners: US 24%, Argentina 13%, Brazil 11%, Japan 11% (1993 est.)
+
+ External debt: $4.2 billion (January 1995)
+
+ Industrial production: growth rate 5% (1994 est.)
+
+ Electricity:
+ capacity: 756,200 kW
+ production: 2.116 billion kWh
+ consumption per capita: 367 kWh (1994)
+
+ Industries: mining, smelting, petroleum, food and beverage, tobacco,
+ handicrafts, clothing; illicit drug industry reportedly produces 15%
+ of its revenues
+
+ Agriculture: accounts for about 21% of GDP (including forestry and
+ fisheries); principal commodities - coffee, coca, cotton, corn,
+ sugarcane, rice, potatoes, timber; self-sufficient in food
+
+ Illicit drugs: world's second-largest producer of coca (after Peru)
+ with an estimated 48,100 hectares under cultivation in 1994; voluntary
+ and forced eradication programs unable to prevent production from
+ rising to 89,800 metric tons in 1994 from 84,400 tons in 1993;
+ government considers all but 12,000 hectares illicit; intermediate
+ coca products and cocaine exported to or through Colombia and Brazil
+ to the US and other international drug markets; alternative crop
+ program aims to reduce illicit coca cultivation
+
+ Economic aid:
+ recipient: US commitments, including Ex-Im (FY70-89), $990 million;
+ Western (non-US) countries, ODA and OOF bilateral commitments
+ (1970-89), $2.025 billion; Communist countries (1970-89), $340 million
+
+ Currency: 1 boliviano ($B) = 100 centavos
+
+ Exchange rates: bolivianos ($B) per US$1 - 4.72 (January 1995), 4.6205
+ (1994), 4.2651 (1993), 3.9005 (1992), 3.5806 (1991), 3.1727 (1990)
+
+ Fiscal year: calendar year
+
+@Bolivia:Transportation
+
+ Railroads:
+ total: 3,684 km (single track)
+ narrow gauge: 3,652 km 1.000-m gauge; 32 km 0.760-m gauge
+
+ Highways:
+ total: 42,815 km
+ paved: 1,865 km
+ unpaved: gravel 12,000 km; improved/unimproved earth 28,950 km
+
+ Inland waterways: 10,000 km of commercially navigable waterways
+
+ Pipelines: crude oil 1,800 km; petroleum products 580 km; natural gas
+ 1,495 km
+
+ Ports: none; however, Bolivia has free port privileges in the maritime
+ ports of Argentina, Brazil, Chile, and Paraguay
+
+ Merchant marine:
+ total: 1 cargo ship (1,000 GRT or over) totaling 4,214 GRT/6,390 DWT
+
+ Airports:
+ total: 1,382
+ with paved runways over 3,047 m: 3
+ with paved runways 2,438 to 3,047 m: 3
+ with paved runways 1,524 to 2,437 m: 3
+ with paved runways under 914 m: 1,016
+ with unpaved runways 2,438 to 3,047 m: 5
+ with unpaved runways 1,524 to 2,438 m: 77
+ with unpaved runways 914 to 1,523 m: 275
+
+@Bolivia:Communications
+
+ Telephone system: about 150,000 telephones; about 2.0 telephones/100
+ persons; new subscribers face bureaucratic difficulties; most
+ telephones in La Paz and other cities; microwave radio relay system
+ being expanded; improved international services
+ local: NA
+ intercity: microwave radio relay system
+ international: 1 INTELSAT (Atlantic Ocean) earth station
+
+ Radio:
+ broadcast stations: AM 129, FM 0, shortwave 68
+ radios: NA
+
+ Television:
+ broadcast stations: 43
+ televisions: NA
+
+@Bolivia:Defense Forces
+
+ Branches: Army (Ejercito Boliviano), Navy (Fuerza Naval Boliviana,
+ includes Marines), Air Force (Fuerza Aerea Boliviana), National Police
+ Force (Policia Nacional de Bolivia)
+
+ Manpower availability: males age 15-49 1,885,485; males fit for
+ military service 1,226,218; males reach military age (19) annually
+ 81,065 (1995 est.)
+
+ Defense expenditures: exchange rate conversion - $134 million; 1.9% of
+ GDP (1994)
+
+
+________________________________________________________________________
+
+BOSNIA AND HERZEGOVINA
+
+ Note--Bosnia and Herzegovina is set to enter its third year of
+ interethnic civil strife which began in the spring of 1992 after the
+ Government of Bosnia and Herzegovina held a referendum on
+ independence. Bosnia's Serbs - supported by neighboring Serbia -
+ responded with armed resistance aimed at partitioning the republic
+ along ethnic lines and joining Serb-held areas to 'greater Serbia'. In
+ March 1994, Bosnia's Muslims and Croats reduced the number of warring
+ factions from three to two by signing an agreement in Washington, DC,
+ creating the Federation of Bosnia and Herzegovina. A group of rebel
+ Muslims, however, continues to battle government forces in the
+ northwest enclave of Bihac. A Contact Group of countries, the US, UK,
+ France, Germany, and Russia, continues to seek a resolution between
+ the Federation and the Bosnian Serbs. In July of 1994 the Contact
+ Group presented a plan to the warring parties that roughly equally
+ divides the country between the two, while maintaining Bosnia in its
+ current internationally recognized borders. The Federation agreed to
+ the plan almost immediately, while the Bosnian Serbs rejected it. 
+
+@Bosnia And Herzegovina:Geography
+
+ Location: Southeastern Europe, bordering the Adriatic Sea and Croatia
+
+ Map references: Ethnic Groups in Eastern Europe, Europe
+
+ Area:
+ total area: 51,233 sq km
+ land area: 51,233 sq km
+ comparative area: slightly larger than Tennessee
+
+ Land boundaries: total 1,459 km, Croatia 932 km, Serbia and Montenegro
+ 527 km (312 km with Serbia; 215 km with Montenegro)
+
+ Coastline: 20 km
+
+ Maritime claims: NA
+
+ International disputes: as of January 1995, Bosnian Government and
+ Bosnian Serb leaders remain far apart on territorial and
+ constitutional solutions for Bosnia; the two sides did, however, sign
+ a four-month cessation of hostilities agreement effective January 1;
+ the Bosnian Serbs continue to reject the Contact Group Plan submitted
+ by the United States, United Kingdom, France, Germany, and Russia, and
+ accepted by the Bosnian Government, which stands firm in its desire to
+ regain lost territory and preserve Bosnia as a multiethnic state
+ within its current borders; Bosnian Serb forces control approximately
+ 70% of Bosnian territory
+
+ Climate: hot summers and cold winters; areas of high elevation have
+ short, cool summers and long, severe winters; mild, rainy winters
+ along coast
+
+ Terrain: mountains and valleys
+
+ Natural resources: coal, iron, bauxite, manganese, timber, wood
+ products, copper, chromium, lead, zinc
+
+ Land use:
+ arable land: 20%
+ permanent crops: 2%
+ meadows and pastures: 25%
+ forest and woodland: 36%
+ other: 17%
+
+ Irrigated land: NA sq km
+
+ Environment:
+ current issues: air pollution from metallurgical plants; sites for
+ disposing of urban waste are limited; widespread casualties, water
+ shortages, and destruction of infrastructure because of civil strife
+ natural hazards: frequent and destructive earthquakes
+ international agreements: party to - Air Pollution, Law of the Sea,
+ Marine Dumping, Marine Life Conservation, Nuclear Test Ban, Ozone
+ Layer Protection
+
+@Bosnia And Herzegovina:People
+
+ Population: 3,201,823 (July 1995 est.)
+ note: all data dealing with population is subject to considerable
+ error because of the dislocations caused by military action and ethnic
+ cleansing
+
+ Age structure:
+ 0-14 years: 22% (female 337,787; male 370,966)
+ 15-64 years: 68% (female 1,082,357; male 1,085,610)
+ 65 years and over: 10% (female 190,992; male 134,111) (July 1995 est.)
+
+ Population growth rate: 0.65% (1995 est.)
+
+ Birth rate: 11.29 births/1,000 population (1995 est.)
+
+ Death rate: 7.51 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 2.72 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 11.6 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 75.47 years
+ male: 72.75 years
+ female: 78.37 years (1995 est.)
+
+ Total fertility rate: 1.65 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Bosnian(s), Herzegovinian(s)
+ adjective: Bosnian, Herzegovinian
+
+ Ethnic divisions: Muslim 38%, Serb 40%, Croat 22% (est.)
+
+ Religions: Muslim 40%, Orthodox 31%, Catholic 15%, Protestant 4%,
+ other 10%
+
+ Languages: Serbo-Croatian 99%
+
+ Literacy: NA%
+
+ Labor force: 1,026,254
+ by occupation: NA%
+
+@Bosnia And Herzegovina:Government
+
+ Note: The US recognizes the Republic of Bosnia and Herzegovina. The
+ Federation of Bosnia and Herzegovina, formed by the Muslims and Croats
+ in March 1994, remains in the implementation stages.
+
+ Names:
+ conventional long form: Republic of Bosnia and Herzegovina
+ conventional short form: Bosnia and Herzegovina
+ local long form: Republika Bosna i Hercegovina
+ local short form: Bosna i Hercegovina
+
+ Digraph: BK
+
+ Type: emerging democracy
+
+ Capital: Sarajevo
+
+ Administrative divisions: 109 districts (opstinas, singular - opstina)
+ Banovici, Banja Luka, Bihac, Bijeljina, Bileca, Bosanska Dubica,
+ Bosanska Gradiska, Bosanska Krupa, Bosanski Brod, Bosanski Novi,
+ Bosanski Petrovac, Bosanski Samac, Bosansko Grahovo, Bratunac, Brcko,
+ Breza, Bugojno, Busovaca, Cazin, Cajnice, Capljina, Celinac, Citluk,
+ Derventa, Doboj, Donji Vakuf, Foca, Fojnica, Gacko, Glamoc, Gorazde,
+ Gornji Vakuf, Gracanica, Gradacac, Grude, Han Pijesak, Jablanica,
+ Jajce, Kakanj, Kalesija, Kalinovik, Kiseljak, Kladanj, Kljuc, Konjic,
+ Kotor Varos, Kresevo, Kupres, Laktasi, Listica, Livno, Lopare,
+ Lukavac, Ljubinje, Ljubuski, Maglaj, Modrica, Mostar, Mrkonjic-Grad,
+ Neum, Nevesinje, Odzak, Olovo, Orasje, Posusje, Prijedor, Prnjavor,
+ Prozor, (Pucarevo) Novi Travnik, Rogatica, Rudo, Sanski Most,
+ Sarajevo-Centar, Sarajevo-Hadzici, Sarajevo-Ilidza, Sarajevo-Ilijas,
+ Sarajevo-Novi Grad, Sarajevo-Novo, Sarajevo-Pale, Sarajevo-Stari Grad,
+ Sarajevo-Trnovo, Sarajevo-Vogosca, Skender Vakuf, Sokolac, Srbac,
+ Srebrenica, Srebrenik, Stolac, Sekovici, Sipovo, Teslic, Tesanj,
+ Drvar, Duvno, Travnik, Trebinje, Tuzla, Ugljevik, Vares, Velika
+ Kladusa, Visoko, Visegrad, Vitez, Vlasenica, Zavidovici, Zenica,
+ Zvornik, Zepce, Zivinice
+ note: currently under negotiation with the assistance of international
+ mediators
+
+ Independence: NA April 1992 (from Yugoslavia)
+
+ National holiday: NA
+
+ Constitution: promulgated in 1974 (under the Communists), amended
+ 1989, 1990, and 1991; the Assembly planned to draft a new constitution
+ in 1991, before conditions deteriorated; constitution of Federation of
+ Bosnia and Herzegovina (including Muslim and Croatian controlled parts
+ of Republic) ratified April 1994
+
+ Legal system: based on civil law system
+
+ Suffrage: 16 years of age, if employed; 18 years of age, universal
+
+ Executive branch:
+ chief of state: President Alija IZETBEGOVIC (since 20 December 1990),
+ other members of the collective presidency: Ejup GANIC (since NA
+ November 1990), Nijaz DURAKOVIC (since NA October 1993), Stjepan
+ KLJUJIC (since NA October 1993), Ivo KOMSIC (since NA October 1993),
+ Mirko PEJANOVIC (since NA June 1992), Tatjana LJUJIC-MIJATOVIC (since
+ NA December 1992)
+ head of government: Prime Minister Haris SILAJDZIC (since NA October
+ 1993)
+ cabinet: executive body of ministers; members of, and responsible to,
+ the National Assembly
+ note: the president of the Federation of Bosnia and Herzegovina is
+ Kresimir ZUBAK (since 31 May 1994); Vice President Ejup GANIC (since
+ 31 May 1994)
+
+ Legislative branch: bicameral National Assembly
+ Chamber of Municipalities (Vijece Opeina): elections last held
+ November-December 1990 (next to be held NA); percent of vote by party
+ NA; seats - (110 total) SDA 43, SDS BiH 38, HDZ BiH 23, Party of
+ Democratic Changes 4, DSS 1, SPO 1
+ Chamber of Citizens (Vijece Gradanstvo): elections last held
+ November-December 1990 (next to be held NA); percent of vote by party
+ NA; seats - (130 total) SDA 43, SDS BiH 34, HDZ BiH 21, Party of
+ Democratic Changes 15, SRSJ BiH 12, LBO 2, DSS 1, DSZ 1, LS 1
+ note: legislative elections for Federation of Bosnia and Herzegovina
+ are slated for late 1994
+
+ Judicial branch: Supreme Court, Constitutional Court
+
+ Political parties and leaders: Party of Democratic Action (SDA), Alija
+ IZETBEGOVIC; Croatian Democratic Union of Bosnia and Herzegovina (HDZ
+ BiH), Dario KORDIC; Serbian Democratic Party of Bosnia and Herzegovina
+ (SDS BiH), Radovan KARADZIC, president; Liberal Bosnian Organization
+ (LBO), Adil ZULFIKARPASIC, president; Democratic Party of Socialists
+ (DSS), Nijaz DURAKOVIC, president; Party of Democratic Changes, leader
+ NA; Serbian Movement for Renewal (SPO), Milan TRIVUNCIC; Alliance of
+ Reform Forces of Yugoslavia for Bosnia and Herzegovina (SRSJ BiH), Dr.
+ Nenad KECMANOVIC, president; Democratic League of Greens (DSZ), Drazen
+ PETROVIC; Liberal Party (LS), Rasim KADIC, president
+
+ Other political or pressure groups: NA
+
+ Member of: CE (guest), CEI, ECE, FAO, ICAO, IFAD, ILO, IMO, INTELSAT
+ (nonsignatory user), INTERPOL, IOC, IOM (observer), ITU, NAM (guest),
+ OSCE, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WTO
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Sven ALKALAJ
+ chancery: Suite 760, 1707 L Street NW, Washington, DC 20036
+ telephone: [1] (202) 833-3612, 3613, 3615
+ FAX: [1] (202) 833-2061
+ consulate(s) general: New York
+
+ US diplomatic representation:
+ chief of mission: Ambassador Victor JACKOVICH
+ embassy: address NA
+ mailing address: American Embassy Bosnia, c/o AmEmbassy Vienna
+ Boltzmangasse 16, A-1091, Vienna, Austria; APO: (Bosnia) Vienna,
+ Department of State, Washington, DC 20521-9900
+ telephone: [43] (1) 313-39
+ FAX: [43] (1) 310-0682
+
+ Flag: white with a large blue shield; the shield contains white Roman
+ crosses with a white diagonal band running from the upper hoist corner
+ to the lower fly side
+
+@Bosnia And Herzegovina:Economy
+
+ Overview: Bosnia and Herzegovina ranked next to The Former Yugoslav
+ Republic of Macedonia as the poorest republic in the old Yugoslav
+ federation. Although agriculture has been almost all in private hands,
+ farms have been small and inefficient, and the republic traditionally
+ has been a net importer of food. Industry has been greatly
+ overstaffed, one reflection of the rigidities of Communist central
+ planning and management. TITO had pushed the development of military
+ industries in the republic with the result that Bosnia hosted a large
+ share of Yugoslavia's defense plants. As of February 1995, Bosnia and
+ Herzegovina was being torn apart by the continued bitter interethnic
+ warfare that has caused production to plummet, unemployment and
+ inflation to soar, and human misery to multiply. No economic
+ statistics for 1992-94 are available, although output clearly has
+ fallen substantially below the levels of earlier years and almost
+ certainly is well below $1,000 per head. The country receives
+ substantial amounts of humanitarian aid from the international
+ community.
+
+ National product: GDP - purchasing power parity - $NA
+
+ National product real growth rate: NA%
+
+ National product per capita: $NA
+
+ Inflation rate (consumer prices): NA%
+
+ Unemployment rate: NA%
+
+ Budget:
+ revenues: $NA
+ expenditures: $NA, including capital expenditures of $NA
+
+ Exports: $NA
+ commodities: NA
+ partners: NA
+
+ Imports: $NA
+ commodities: NA
+ partners: NA
+
+ External debt: $NA
+
+ Industrial production: growth rate NA%; production is sharply down
+ because of interethnic and interrepublic warfare (1991-94)
+
+ Electricity:
+ capacity: 3,800,000 kW
+ production: NA kWh
+ consumption per capita: NA kWh (1993)
+
+ Industries: steel production, mining (coal, iron ore, lead, zinc,
+ manganese, and bauxite), manufacturing (vehicle assembly, textiles,
+ tobacco products, wooden furniture, 40% of former Yugoslavia's
+ armaments including tank and aircraft assembly, domestic appliances),
+ oil refining (1991)
+
+ Agriculture: accounted for 9.0% of GDP in 1989; regularly produces
+ less than 50% of food needs; the foothills of northern Bosnia support
+ orchards, vineyards, livestock, and some wheat and corn; long winters
+ and heavy precipitation leach soil fertility reducing agricultural
+ output in the mountains; farms are mostly privately held, small, and
+ not very productive (1991)
+
+ Illicit drugs: NA
+
+ Economic aid: $NA
+
+ Currency: 1 dinar = 100 para; Croatian dinar used in Croat-held area,
+ presumably to be replaced by new Croatian kuna; old and new Serbian
+ dinars used in Serb-held area; hard currencies probably supplanting
+ local currencies in areas held by Bosnian government
+
+ Exchange rates: NA
+
+ Fiscal year: calendar year
+
+@Bosnia And Herzegovina:Transportation
+
+ Railroads:
+ total: 1,021 km (electrified 795 km)
+ standard gauge: 1,021 km 1.435-m gauge (1994)
+
+ Highways:
+ total: 21,168 km
+ paved: 11,436 km
+ unpaved: gravel 8,146 km; earth 1,586 km (1991)
+
+ Inland waterways: NA km
+
+ Pipelines: crude oil 174 km; natural gas 90 km (1992); note -
+ pipelines now disrupted
+
+ Ports: Bosanski Brod
+
+ Merchant marine: none
+
+ Airports:
+ total: 27
+ with paved runways 2,438 to 3,047 m: 4
+ with paved runways 1,524 to 2,437 m: 3
+ with paved runways under 914 m: 11
+ with unpaved runways 1,524 to 2,438 m: 1
+ with unpaved runways 914 to 1,523 m: 8
+
+@Bosnia And Herzegovina:Communications
+
+ Telephone system: 727,000 telephones; telephone and telegraph network
+ is in need of modernization and expansion; many urban areas are below
+ average when compared with services in other former Yugoslav republics
+
+Back to Full Books

@@ -1,0 +1,2003 @@
+The 1995 CIA World Factbook
+
+ Type: overseas territory of France since 1955; governed by High
+ Administrator Bernard de GOUTTES (since May 1990), who is assisted by
+ a 7-member Consultative Council and a 12-member Scientific Council
+
+ Capital: none; administered from Paris, France
+
+ Administrative divisions: none (overseas territory of France); there
+ are no first-order administrative divisions as defined by the US
+ Government, but there are 3 districts named Ile Crozet, Iles
+ Kerguelen, and Iles Saint-Paul et Amsterdam; excludes "Terre Adelie"
+ claim in Antarctica that is not recognized by the US
+
+ Independence: none (overseas territory of France)
+
+ Flag: the flag of France is used
+
+@French Southern And Antarctic Lands:Economy
+
+ Overview: Economic activity is limited to servicing meteorological and
+ geophysical research stations and French and other fishing fleets. The
+ fish catches landed on Iles Kerguelen by foreign ships are exported to
+ France and Reunion.
+
+ Budget:
+ revenues: $17.5 million
+ expenditures: $NA, including capital expenditures of $NA (1992)
+
+@French Southern And Antarctic Lands:Transportation
+
+ Highways:
+ total: NA
+ paved: NA
+ unpaved: NA
+
+ Ports: none; offshore anchorage only
+
+ Merchant marine:
+ total: 48 ships (1,000 GRT or over) totaling 1,290,975 GRT/2,403,050
+ DWT
+ ships by type: bulk 5, cargo 6, chemical tanker 4, container 1,
+ liquefied gas tanker 3, multifunction large-load carrier 1, oil tanker
+ 15, refrigerated cargo 4, roll-on/roll-off cargo 8, specialized
+ liquefied tanker 1
+ note: a subset of the French register allowing French-owned ships to
+ operate under more liberal taxation and manning regulations than
+ permissable under the main French register
+
+ Airports: none
+
+@French Southern And Antarctic Lands:Communications
+
+ Telephone system: NA telephones
+ local: NA
+ intercity: NA
+ international: NA
+
+ Radio:
+ broadcast stations: AM NA, FM NA, shortwave NA
+ radios: NA
+
+ Television:
+ broadcast stations: NA
+ televisions: NA
+
+@French Southern And Antarctic Lands:Defense Forces
+
+ Note: defense is the responsibility of France
+
+
+________________________________________________________________________
+
+GABON
+
+@Gabon:Geography
+
+ Location: Western Africa, bordering the Atlantic Ocean at the Equator,
+ between Congo and Equatorial Guinea
+
+ Map references: Africa
+
+ Area:
+ total area: 267,670 sq km
+ land area: 257,670 sq km
+ comparative area: slightly smaller than Colorado
+
+ Land boundaries: total 2,551 km, Cameroon 298 km, Congo 1,903 km,
+ Equatorial Guinea 350 km
+
+ Coastline: 885 km
+
+ Maritime claims:
+ contiguous zone: 24 nm
+ exclusive economic zone: 200 nm
+ territorial sea: 12 nm
+
+ International disputes: maritime boundary dispute with Equatorial
+ Guinea because of disputed sovereignty over islands in Corisco Bay
+
+ Climate: tropical; always hot, humid
+
+ Terrain: narrow coastal plain; hilly interior; savanna in east and
+ south
+
+ Natural resources: petroleum, manganese, uranium, gold, timber, iron
+ ore
+
+ Land use:
+ arable land: 1%
+ permanent crops: 1%
+ meadows and pastures: 18%
+ forest and woodland: 78%
+ other: 2%
+
+ Irrigated land: NA sq km
+
+ Environment:
+ current issues: deforestation; poaching
+ natural hazards: NA
+ international agreements: party to - Endangered Species, Marine
+ Dumping, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution,
+ Tropical Timber 83, Wetlands; signed, but not ratified - Biodiversity,
+ Climate Change, Law of the Sea, Tropical Timber 94
+
+@Gabon:People
+
+ Population: 1,155,749 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 34% (female 193,859; male 194,761)
+ 15-64 years: 61% (female 347,839; male 359,997)
+ 65 years and over: 5% (female 30,218; male 29,075) (July 1995 est.)
+
+ Population growth rate: 1.46% (1995 est.)
+
+ Birth rate: 28.34 births/1,000 population (1995 est.)
+
+ Death rate: 13.72 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 0 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 92.4 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 55.14 years
+ male: 52.31 years
+ female: 58.06 years (1995 est.)
+
+ Total fertility rate: 3.93 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Gabonese (singular and plural)
+ adjective: Gabonese
+
+ Ethnic divisions: Bantu tribes including four major tribal groupings
+ (Fang, Eshira, Bapounou, Bateke), other Africans and Europeans
+ 100,000, including 27,000 French
+
+ Religions: Christian 55%-75%, Muslim less than 1%, animist
+
+ Languages: French (official), Fang, Myene, Bateke, Bapounou/Eschira,
+ Bandjabi
+
+ Literacy: age 15 and over can read and write (1990 est.)
+ total population: 61%
+ male: 74%
+ female: 48%
+
+ Labor force: 120,000 salaried
+ by occupation: agriculture 65.0%, industry and commerce 30.0%,
+ services 2.5%, government 2.5%
+
+@Gabon:Government
+
+ Names:
+ conventional long form: Gabonese Republic
+ conventional short form: Gabon
+ local long form: Republique Gabonaise
+ local short form: Gabon
+
+ Digraph: GB
+
+ Type: republic; multiparty presidential regime (opposition parties
+ legalized 1990)
+
+ Capital: Libreville
+
+ Administrative divisions: 9 provinces; Estuaire, Haut-Ogooue,
+ Moyen-Ogooue, Ngounie, Nyanga, Ogooue-Ivindo, Ogooue-Lolo,
+ Ogooue-Maritime, Woleu-Ntem
+
+ Independence: 17 August 1960 (from France)
+
+ National holiday: Renovation Day, 12 March (1968) (Gabonese Democratic
+ Party established)
+
+ Constitution: adopted 14 March 1991
+
+ Legal system: based on French civil law system and customary law;
+ judicial review of legislative acts in Constitutional Chamber of the
+ Supreme Court; compulsory ICJ jurisdiction not accepted
+
+ Suffrage: 21 years of age; universal
+
+ Executive branch:
+ chief of state: President El Hadj Omar BONGO (since 2 December 1967);
+ election last held on 5 December 1993 (next to be held 1998); results
+ - President Omar BONGO was reelected with 51% of the vote
+ head of government: Prime Minister Paulin OBAME Nguema (since 9
+ December 1994)
+ cabinet: Council of Ministers; appointed by the prime minister in
+ consultation with the president
+
+ Legislative branch: unicameral
+ National Assembly (Assemblee Nationale): elections last held on 5
+ December 1993 (next to be held by 1998); results - percent of vote by
+ party NA; seats - (120 total) PDG 62, Morena-Bucherons/RNB 19, PGP 18,
+ National Recovery Movement (Morena-Original) 7, APSG 6, USG 4, CRP 1,
+ independents 3
+
+ Judicial branch: Supreme Court (Cour Supreme)
+
+ Political parties and leaders: Gabonese Democratic Party (PDG, former
+ sole party), Jaques ADIAHENOT, Secretary General; National Recovery
+ Movement - Lumberjacks (Morena-Bucherons/RNB), Fr. Paul M'BA-ABESSOLE,
+ leader; Gabonese Party for Progress (PGP), Pierre-Louis AGONDHO-OKAWE,
+ President; National Recovery Movement (Morena-Original), Pierre
+ ZONGUE-NGUEMA, Chairman; Association for Socialism in Gabon (APSG),
+ leader NA; Gabonese Socialist Union (USG), leader NA; Circle for
+ Renewal and Progress (CRP), leader NA; Union for Democracy and
+ Development (UDD), leader NA; Rally of Democrats (RD), leader NA;
+ Forces of Change for Democratic Union, leader NA
+
+ Member of: ACCT, ACP, AfDB, BDEAC, CCC, CEEAC, ECA, FAO, FZ, G-24,
+ G-77, GATT, IAEA, IBRD, ICAO, ICC, ICFTU, IDA, IDB, IFAD, IFC, IFRCS
+ (associate), ILO, IMF, IMO, INMARSAT, INTELSAT, INTERPOL, IOC, ITU,
+ NAM, OAU, OIC, OPEC, UDEAC, UN, UNCTAD, UNESCO, UNIDO, UPU, WCL, WHO,
+ WIPO, WMO, WTO
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Paul BOUNDOUKOU-LATHA
+ chancery: 2233 Wisconsin Avenue NW, Washington, DC 20007, Suite 200
+ telephone: [1] (202) 797-1000
+
+ US diplomatic representation:
+ chief of mission: Ambassador Joseph C. WILSON IV
+ embassy: Boulevard de la Mer, Libreville
+ mailing address: B. P. 4000, Libreville
+ telephone: [241] 76 20 03 through 76 20 04, 74 34 92
+ FAX: [241] 74 55 07
+
+ Flag: three equal horizontal bands of green (top), yellow, and blue
+
+@Gabon:Economy
+
+ Overview: Notwithstanding its serious ongoing economic problems, Gabon
+ enjoys a per capita income more than twice that of most nations of
+ sub-Saharan Africa. Gabon depended on timber and manganese until oil
+ was discovered offshore in the early 1970s. The oil sector now
+ accounts for 50% of GDP. Real growth was feeble in 1992 and Gabon
+ continues to face the problem of fluctuating prices for its oil,
+ timber, manganese, and uranium exports. Despite an abundance of
+ natural wealth, and a manageable rate of population growth, the
+ economy is hobbled by poor fiscal management. In 1992, the fiscal
+ deficit widened to 2.4% of GDP, and Gabon failed to settle arrears on
+ its bilateral debt, leading to a cancellation of rescheduling
+ agreements with official and private creditors. Devaluation of its
+ Francophone currency by 50% in January 1994 did not set off an
+ expected inflationary spiral but the government must continue to keep
+ a tight reign on spending and wage increases.
+
+ National product: GDP - purchasing power parity - $5.6 billion (1994
+ est.)
+
+ National product real growth rate: 1.9% (1994 est.)
+
+ National product per capita: $4,900 (1994 est.)
+
+ Inflation rate (consumer prices): 35% (1994 est.)
+
+ Unemployment rate: NA%
+
+ Budget:
+ revenues: $1.3 billion
+ expenditures: $1.6 billion, including capital expenditures of $311
+ million (1993 est.)
+
+ Exports: $2.1 billion (f.o.b., 1993 est)
+ commodities: crude oil 80%, timber 10%, manganese 6%, uranium 2%
+ partners: US 38%, France 26%, Japan, Germany
+
+ Imports: $832 million (c.i.f., 1993 est.)
+ commodities: foodstuffs, chemical products, petroleum products,
+ construction materials, manufactures, machinery
+ partners: France 42%, African countries 23%, US, Japan
+
+ External debt: $3.3 billion (1993 est.)
+
+ Industrial production: growth rate -3% (1991)
+
+ Electricity:
+ capacity: 315,000 kW
+ production: 910 million kWh
+ consumption per capita: 757 kWh (1993)
+
+ Industries: food and beverages, lumbering and plywood, textiles,
+ cement, petroleum refining, mining - manganese, uranium, gold,
+ petroleum
+
+ Agriculture: cash crops - cocoa, coffee, palm oil; livestock raising
+ not developed; importer of food; small fishing operations provide a
+ catch of about 20,000 metric tons; okoume (a tropical softwood) is the
+ most important timber product
+
+ Economic aid:
+ recipient: US commitments, including Ex-Im (FY70-90), $68 million;
+ Western (non-US) countries, ODA and OOF bilateral commitments
+ (1970-90), $2.342 billion; Communist countries (1970-89), $27 million
+
+ Currency: 1 CFA franc (CFAF) = 100 centimes
+
+ Exchange rates: Communaute Financiere Africaine francs (CFAF) per US$1
+ - 529.43 (January 1995), 555.20 (1994), 283.16 (1993), 264.69 (1992),
+ 282.11 (1991), 272.26 (1990)
+ note: beginning 12 January 1994, the CFA franc was devalued to CFAF
+ 100 per French franc from CFAF 50 at which it had been fixed since
+ 1948
+
+ Fiscal year: calendar year
+
+@Gabon:Transportation
+
+ Railroads:
+ total: 649 km single track (Transgabonese Railroad)
+ standard gauge: 649 km 1.437-m gauge
+
+ Highways:
+ total: 7,500 km
+ paved: 560 km
+ unpaved: crushed stone 960 km; earth 5,980 km
+
+ Inland waterways: 1,600 km perennially navigable
+
+ Pipelines: crude oil 270 km; petroleum products 14 km
+
+ Ports: Cape Lopez, Kango, Lambarene, Libreville, Owendo, Port-Gentil
+
+ Merchant marine:
+ total: 1 cargo ships (1,000 GRT or over) totaling 9,281 GRT/12,665 DWT
+
+ Airports:
+ total: 69
+ with paved runways over 3,047 m: 1
+ with paved runways 2,438 to 3,047 m: 1
+ with paved runways 1,524 to 2,437 m: 7
+ with paved runways 914 to 1,523 m: 1
+ with paved runways under 914 m: 28
+ with unpaved runways 1,524 to 2,438 m: 8
+ with unpaved runways 914 to 1,523 m: 23
+
+@Gabon:Communications
+
+ Telephone system: 15,000 telephones; telephone density - 13/1,000
+ persons
+ local: NA
+ intercity: adequate system, comprising cable, microwave radio relay,
+ tropospheric scatter, radiocommunication stations, and 12 domestic
+ satellite links
+ international: 3 Atlantic Ocean INTELSAT earth stations
+
+ Radio:
+ broadcast stations: AM 6, FM 6, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 3 (repeaters 5)
+ televisions: NA
+
+@Gabon:Defense Forces
+
+ Branches: Army, Navy, Air Force, Presidential Guard, National
+ Gendarmerie, National Police
+
+ Manpower availability: males age 15-49 272,025; males fit for military
+ service 138,197; males reach military age (20) annually 10,516 (1995
+ est.)
+
+ Defense expenditures: exchange rate conversion - $154 million, 2.4% of
+ GDP (1993)
+
+
+________________________________________________________________________
+
+THE GAMBIA
+
+@The Gambia:Geography
+
+ Location: Western Africa, bordering the North Atlantic Ocean and
+ Senegal
+
+ Map references: Africa
+
+ Area:
+ total area: 11,300 sq km
+ land area: 10,000 sq km
+ comparative area: slightly more than twice the size of Delaware
+
+ Land boundaries: total 740 km, Senegal 740 km
+
+ Coastline: 80 km
+
+ Maritime claims:
+ contiguous zone: 18 nm
+ continental shelf: not specified
+ exclusive fishing zone: 200 nm
+ territorial sea: 12 nm
+
+ International disputes: short section of boundary with Senegal is
+ indefinite
+
+ Climate: tropical; hot, rainy season (June to November); cooler, dry
+ season (November to May)
+
+ Terrain: flood plain of the Gambia River flanked by some low hills
+
+ Natural resources: fish
+
+ Land use:
+ arable land: 16%
+ permanent crops: 0%
+ meadows and pastures: 9%
+ forest and woodland: 20%
+ other: 55%
+
+ Irrigated land: 120 sq km (1989 est.)
+
+ Environment:
+ current issues: deforestation; desertification; water-borne diseases
+ prevalent
+ natural hazards: rainfall has dropped by 30% in the last thirty years
+ international agreements: party to - Biodiversity, Climate Change,
+ Endangered Species, Law of the Sea, Nuclear Test Ban, Ozone Layer
+ Protection, Ship Pollution; signed, but not ratified - Desertification
+
+ Note: almost an enclave of Senegal; smallest country on the continent
+ of Africa
+
+@The Gambia:People
+
+ Population: 989,273 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 47% (female 231,636; male 231,053)
+ 15-64 years: 51% (female 257,329; male 244,947)
+ 65 years and over: 2% (female 11,850; male 12,458) (July 1995 est.)
+
+ Population growth rate: 3.08% (1995 est.)
+
+ Birth rate: 45.97 births/1,000 population (1995 est.)
+
+ Death rate: 15.19 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 0 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 120.8 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 50.55 years
+ male: 48.25 years
+ female: 52.92 years (1995 est.)
+
+ Total fertility rate: 6.23 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Gambian(s)
+ adjective: Gambian
+
+ Ethnic divisions: African 99% (Mandinka 42%, Fula 18%, Wolof 16%, Jola
+ 10%, Serahuli 9%, other 4%), non-Gambian 1%
+
+ Religions: Muslim 90%, Christian 9%, indigenous beliefs 1%
+
+ Languages: English (official), Mandinka, Wolof, Fula, other indigenous
+ vernaculars
+
+ Literacy: age 15 and over can read and write (1990 est.)
+ total population: 27%
+ male: 39%
+ female: 16%
+
+ Labor force: 400,000 (1986 est.)
+ by occupation: agriculture 75.0%, industry, commerce, and services
+ 18.9%, government 6.1%
+
+@The Gambia:Government
+
+ Names:
+ conventional long form: Republic of The Gambia
+ conventional short form: The Gambia
+
+ Digraph: GA
+
+ Type: republic under multiparty democratic rule
+
+ Capital: Banjul
+
+ Administrative divisions: 5 divisions and 1 city*; Banjul*, Lower
+ River, MacCarthy Island, North Bank, Upper River, Western
+
+ Independence: 18 February 1965 (from UK; The Gambia and Senegal signed
+ an agreement on 12 December 1981 that called for the creation of a
+ loose confederation to be known as Senegambia, but the agreement was
+ dissolved on 30 September 1989)
+
+ National holiday: Independence Day, 18 February (1965)
+
+ Constitution: 24 April 1970
+
+ Legal system: based on a composite of English common law, Koranic law,
+ and customary law; accepts compulsory ICJ jurisdiction, with
+ reservations
+
+ Suffrage: 21 years of age; universal
+
+ Executive branch:
+ chief of state and head of government: Chairman of the Armed Forces
+ Provisional Ruling Council Capt. Yahya A. J. J. JAMMEH (since the
+ military coup of 22 July 1994); Vice Chairman of the Armed Forces
+ Provisional Ruling Council Capt. Edward SINGHATEH (since March 1995);
+ election last held on 29 April 1992; results - Sir Dawda JAWARA (PPP)
+ 58.5%, Sherif Mustapha DIBBA (NCP) 22.2%, Assan Musa CAMARA (GPP) 8.0%
+ (prior to the 22 July 1994 coup, next election was scheduled for April
+ 1997)
+ cabinet: Cabinet; appointed by the president from members of the House
+ of Representatives (present cabinet appointed by Chairman of the Armed
+ Forces Provisional Ruling Council)
+
+ Legislative branch: unicameral
+ House of Representatives: elections last held on 29 April 1992 (next
+ to be held April 1997); results - PPP 58.1%; seats - (43 total, 36
+ elected) PPP 30, NCP 6
+
+ Judicial branch: Supreme Court
+
+ Political parties and leaders: People's Progressive Party (PPP), Dawda
+ K. JAWARA (in exile), secretary general; National Convention Party
+ (NCP), Sheriff DIBBA (in exile); Gambian People's Party (GPP), Hassan
+ Musa CAMARA; United Party (UP), leader NA; People's Democratic
+ Organization of Independence and Socialism (PDOIS), leader NA;
+ People's Democratic Party (PDP), Jabel SALLAH
+
+ Member of: ACP, AfDB, C, CCC, ECA, ECOWAS, FAO, G-77, GATT, IBRD,
+ ICAO, ICFTU, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IMF, IMO, INTELSAT
+ (nonsignatory user), INTERPOL, IOC, ITU, NAM, OAU, OIC, UN, UNCTAD,
+ UNESCO, UNIDO, UPU, WCL, WFTU, WHO, WIPO, WMO, WTO
+
+ Diplomatic representation in US:
+ chief of mission: (vacant); Charge d'Affaires Aminatta DIBBA
+ chancery: Suite 1000, 1155 15th Street NW, Washington, DC 20005
+ telephone: [1] (202) 785-1399, 1379, 1425
+ FAX: [1] (202) 785-1430
+
+ US diplomatic representation:
+ chief of mission: Ambassador Andrew J. WINTER
+ embassy: Fajara, Kairaba Avenue, Banjul
+ mailing address: P. M. B. No. 19, Banjul
+ telephone: [220] 392856, 392858, 391970, 391971
+ FAX: [220] 392475
+
+ Flag: three equal horizontal bands of red (top), blue with white
+ edges, and green
+
+@The Gambia:Economy
+
+ Overview: The Gambia has no important mineral or other natural
+ resources and has a limited agricultural base. About 75% of the
+ population is engaged in crop production and livestock raising, which
+ contribute 30% to GDP. Small-scale manufacturing activity - processing
+ peanuts, fish, and hides - accounts for less than 10% of GDP. A
+ sustained structural adjustment program, including a liberalized trade
+ policy, had fostered a respectable 4% rate of growth in recent years.
+ Reexport trade constitutes one-third of economic activity; however,
+ border closures associated with Senegal's monetary crisis in late 1993
+ led to a halving of reexport trade, reducing government revenues in
+ turn. The 50% devaluation of the CFA franc in January 1994 has made
+ Senegalese goods more competitive and apparently prompted a relaxation
+ of Senegalese controls, paving the way for a comeback in reexports.
+ But overwhelming these developments were the devastating effects of
+ the military's takeover in July 1994. By October, traffic at the Port
+ of Banjul had fallen precipitously as importers nervously scaled back
+ their activities with the commencement of the anticorruption drive by
+ the new regime. Concerned with the growing potential for serious
+ unrest after a countercoup attempt was bloodily put down by the
+ regime, the United Kingdom and the EU in November issued a travelers
+ advisory for The Gambia, which brought a halt to tourism almost
+ immediately. The Gambia faces additional problems in 1995 if, as is
+ likely, economic sanctions by Western governments remain in effect in
+ response to indications that the military regime intends to stay in
+ power far longer than expected by the donors.
+
+ National product: GDP - purchasing power parity - $1 billion (1993
+ est.)
+
+ National product real growth rate: NA%
+
+ National product per capita: $1,050 (1993 est.)
+
+ Inflation rate (consumer prices): 6.5% (1993)
+
+ Unemployment rate: NA%
+
+ Budget:
+ revenues: $94 million
+ expenditures: $89 million, including capital expenditures of $24
+ million (FY92/93 est.)
+
+ Exports: $81 million (f.o.b., FY92/93 est.)
+ commodities: peanuts and peanut products, fish, cotton lint, palm
+ kernels
+ partners: Japan 60%, Europe 29%, Africa 5%, US 1%, other 5% (1989)
+
+ Imports: $154 million (f.o.b., FY92/93 est.)
+ commodities: foodstuffs, manufactures, raw materials, fuel, machinery
+ and transport equipment
+ partners: Europe 57%, Asia 25%, USSR and Eastern Europe 9%, US 6%,
+ other 3% (1989)
+
+ External debt: $286 million (FY92/93 est.)
+
+ Industrial production: growth rate 6.7%
+
+ Electricity:
+ capacity: 30,000 kW
+ production: 70 million kWh
+ consumption per capita: 64 kWh (1993)
+
+ Industries: peanut processing, tourism, beverages, agricultural
+ machinery assembly, woodworking, metalworking, clothing
+
+ Agriculture: accounts for 30% of GDP; one-third of food requirements
+ is imported; major export crop is peanuts; other principal crops -
+ millet, sorghum, rice, corn, cassava, palm kernels; livestock -
+ cattle, sheep, goats; forestry and fishing resources not fully
+ exploited
+
+ Economic aid:
+ recipient: US commitments, including Ex-Im (FY70-89), $93 million;
+ Western (non-US) countries, ODA and OOF bilateral commitments
+ (1970-89), $535 million; Communist countries (1970-89), $39 million
+
+ Currency: 1 dalasi (D) = 100 butut
+
+ Exchange rates: dalasi (D) per US$1 - 9.565 (January 1995), 9.576
+ (1994), 9.129 (1993), 8.888 (1992), 8.803 (1991), 7.883 (1990)
+
+ Fiscal year: 1 July - 30 June
+
+@The Gambia:Transportation
+
+ Railroads: 0 km
+
+ Highways:
+ total: 3,083 km
+ paved: 431 km
+ unpaved: gravel, crushed stone 501 km; unimproved earth 2,151 km
+
+ Inland waterways: 400 km
+
+ Ports: Banjul
+
+ Merchant marine:
+ total: 1 bulk ship (1,000 GRT or over) totaling 11,194 GRT/19,394 DWT
+
+ Airports:
+ total: 1
+ with paved runways over 3,047 m: 1
+
+@The Gambia:Communications
+
+ Telephone system: 3,500 telephones; telephone density - 4
+ telephones/1,000 persons
+ local: NA
+ intercity: adequate network of radio relay and wire
+ international: 1 Atlantic Ocean INTELSAT earth station
+
+ Radio:
+ broadcast stations: AM 3, FM 2, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: NA
+ televisions: NA
+
+@The Gambia:Defense Forces
+
+ Branches: Army, Navy, National Police
+
+ Manpower availability: males age 15-49 214,680; males fit for military
+ service 108,659 (1995 est.)
+
+ Defense expenditures: exchange rate conversion - $14 million, 3.8% of
+ GDP (FY93/94)
+
+
+________________________________________________________________________
+
+GAZA STRIP
+
+ Note--The Israel-PLO Declaration of Principles on Interim
+ Self-Government Arrangements ("the DOP"), signed in Washington on 13
+ September 1993, provides for a transitional period not exceeding five
+ years of Palestinian interim self-government in the Gaza Strip and the
+ West Bank. Under the DOP, final status negotiations are to begin no
+ later than the beginning of the third year of the transitional period.
+
+@Gaza Strip:Geography
+
+ Location: Middle East, bordering the Mediterranean Sea, between Egypt
+ and Israel
+
+ Map references: Middle East
+
+ Area:
+ total area: 360 sq km
+ land area: 360 sq km
+ comparative area: slightly more than twice the size of Washington, DC
+
+ Land boundaries: total 62 km, Egypt 11 km, Israel 51 km
+
+ Coastline: 40 km
+
+ Maritime claims: Israeli occupied with interim status subject to
+ Israeli/Palestinian negotiations - final status to be determined
+
+ International disputes: West Bank and Gaza Strip are Israeli occupied
+ with interim status subject to Israeli/Palestinian negotiations -
+ final status to be determined
+
+ Climate: temperate, mild winters, dry and warm to hot summers
+
+ Terrain: flat to rolling, sand- and dune-covered coastal plain
+
+ Natural resources: negligible
+
+ Land use:
+ arable land: 13%
+ permanent crops: 32%
+ meadows and pastures: 0%
+ forest and woodland: 0%
+ other: 55%
+
+ Irrigated land: 115 sq km (1992 est.)
+
+ Environment:
+ current issues: desertification
+ natural hazards: NA
+ international agreements: NA
+
+ Note: there are 24 Jewish settlements and civilian land use sites in
+ the Gaza Strip (August 1994 est.)
+
+@Gaza Strip:People
+
+ Population: 813,322 (July 1995 est.)
+ note: in addition, there are 4,800 Jewish settlers in the Gaza Strip
+ (August 1994 est.)
+
+ Age structure:
+ 0-14 years: 52% (female 205,192; male 215,158)
+ 15-64 years: 45% (female 185,748; male 183,886)
+ 65 years and over: 3% (female 13,106; male 10,232) (July 1995 est.)
+
+ Population growth rate: 4.55% (1995 est.)
+
+ Birth rate: 50.24 births/1,000 population (1995 est.)
+
+ Death rate: 4.75 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 0 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 30.6 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 71.09 years
+ male: 69.56 years
+ female: 72.69 years (1995 est.)
+
+ Total fertility rate: 7.74 children born/woman (1995 est.)
+
+ Nationality:
+ noun: NA
+ adjective: NA
+
+ Ethnic divisions: Palestinian Arab and other 99.4%, Jewish 0.6%
+
+ Religions: Muslim (predominantly Sunni) 98.7%, Christian 0.7%, Jewish
+ 0.6%
+
+ Languages: Arabic, Hebrew (spoken by Israeli settlers), English
+ (widely understood)
+
+ Literacy: NA%
+
+ Labor force: NA
+ by occupation: construction 33.4%, agriculture 20.0%, commerce,
+ restaurants, and hotels 14.9%, industry 10.0%, other services 21.7%
+ (1991)
+ note: excluding Jewish settlers
+
+@Gaza Strip:Government
+
+ Note: Under the Israeli-PLO Declaration of Principles on Interim
+ Self-Government Arrangements ("the DOP"), Israel agreed to transfer
+ certain powers and responsibilities to the Palestinian Authority, and
+ subsequently to an elected Palestinian Council, as part of interim
+ self-governing arrangements in the West Bank and Gaza Strip. A
+ transfer of powers and responsibilities for the Gaza Strip and Jericho
+ has taken place pursuant to the Israel-PLO 4 May 1994 Cairo Agreement
+ on the Gaza Strip and the Jericho Area. The DOP provides that Israel
+ will retain responsibility during the transitional period for external
+ security and for internal security and public order of settlements and
+ Israelis. Final status is to be determined through direct negotiations
+ within five years.
+
+ Names:
+ conventional long form: none
+ conventional short form: Gaza Strip
+ local long form: none
+ local short form: Qita Ghazzah
+
+ Digraph: GZ
+
+@Gaza Strip:Economy
+
+ Overview: In 1991 roughly 40% of Gaza Strip workers were employed
+ across the border by Israeli industrial, construction, and
+ agricultural enterprises, with worker remittances supplementing GDP by
+ roughly 50%. Gaza depends upon Israel for nearly 90% of its external
+ trade. Aggravating the impact of Israeli military administration,
+ unrest in the territory since 1988 (intifadah) has raised unemployment
+ and lowered the standard of living of Gazans. The Persian Gulf crisis
+ and its aftershocks also have dealt blows to Gaza since August 1990.
+ Worker remittances from the Gulf states have dropped, unemployment has
+ increased, and exports have fallen. The withdrawal of Israel from the
+ Gaza Strip in May 1994 brings a new set of adjustment problems.
+
+ National product: GDP - purchasing power parity - $1.7 billion (1993
+ est.)
+
+ National product real growth rate: NA%
+
+ National product per capita: $2,400 (1993 est.)
+
+ Inflation rate (consumer prices): 5.7% (1993)
+
+ Unemployment rate: 45% (1994 est.)
+
+ Budget:
+ revenues: $33.6 million
+ expenditures: $34.5 million, including capital expenditures of $NA
+ (FY89/90)
+
+ Exports: $83 million (f.o.b., 1992)
+ commodities: citrus
+ partners: Israel, Egypt
+
+ Imports: $365 million (c.i.f., 1992)
+ commodities: food, consumer goods, construction materials
+ partners: Israel, Egypt
+
+ External debt: $NA
+
+ Industrial production: growth rate 11% (1991 est.)
+
+ Electricity: power supplied by Israel
+
+ Industries: generally small family businesses that produce textiles,
+ soap, olive-wood carvings, and mother-of-pearl souvenirs; the Israelis
+ have established some small-scale modern industries in an industrial
+ center
+
+ Agriculture: olives, citrus and other fruits; vegetables; beef and
+ dairy products
+
+ Economic aid: $240 million disbursed from international aid pledges in
+ 1994
+
+ Currency: 1 new Israeli shekel (NIS) = 100 new agorot
+
+ Exchange rates: new Israeli shekels (NIS) per US$1 - 3.0270 (December
+ 1994), 3.0111 (1994), 2.8301 (1993), 2.4591 (1992), 2.2791 (1991),
+ 2.0162 (1990)
+
+ Fiscal year: calendar year (since 1 January 1992)
+
+@Gaza Strip:Transportation
+
+ Railroads:
+ total: NA km; note - one line, abandoned and in disrepair, little
+ trackage remains
+
+ Highways:
+ total: NA
+ paved: NA
+ unpaved: NA
+ note: small, poorly developed road network
+
+ Ports: Gaza
+
+ Airports:
+ total: 1
+ with paved runways under 914 m: 1
+
+@Gaza Strip:Communications
+
+ Telephone system: NA; note - 10% of Palestinian households have
+ telephones (1992 est.)
+ local: NA
+ intercity: NA
+ international: NA
+
+ Radio:
+ broadcast stations: AM 0, FM 0, shortwave 0
+ radios: NA; note - 95% of Palestinian households have radios (1992
+ est.)
+
+ Television:
+ broadcast stations: 0
+ televisions: NA; note - 59% of Palestinian households have televisions
+ (1992 est.)
+
+@Gaza Strip:Defense Forces
+
+ Branches: NA
+
+ Defense expenditures: $NA, NA% of GDP
+
+
+________________________________________________________________________
+
+GEORGIA
+
+ Note--Georgia has been beset by ethnic and civil strife since
+ independence. In late 1991, the country's first elected president,
+ Zviad GAMSAKHURDIA was ousted in an armed coup. In October 1993,
+ GAMSAKHURDIA, and his supporters sponsored a failed attempt to retake
+ power from the current government led by former Soviet Foreign
+ Minister Eduard SHEVARDNADZE. The Georgian government has also faced
+ armed separatist conflicts in the Abkhazia and South Ossetia regions.
+ A cease-fire went into effect in South Ossetia in June 1992 and a
+ joint Georgian-Ossetian-Russian peacekeeping force has been in place
+ since that time. Georgian forces were driven out of the Abkhaz region
+ in September 1993 after a yearlong war with Abkhaz separatists. Nearly
+ 200,000 Georgian refugees have since fled Abkhazia, adding
+ substantially to the estimated 100,000 internally displaced persons
+ already in Georgia. Russian peacekeepers are deployed along the border
+ of Abkhazia and the rest of Georgia. 
+
+@Georgia:Geography
+
+ Location: Southwestern Asia, bordering the Black Sea, between Turkey
+ and Russia
+
+ Map references: Middle East
+
+ Area:
+ total area: 69,700 sq km
+ land area: 69,700 sq km
+ comparative area: slightly larger than South Carolina
+
+ Land boundaries: total 1,461 km, Armenia 164 km, Azerbaijan 322 km,
+ Russia 723 km, Turkey 252 km
+
+ Coastline: 310 km
+
+ Maritime claims: NA
+
+ International disputes: none
+
+ Climate: warm and pleasant; Mediterranean-like on Black Sea coast
+
+ Terrain: largely mountainous with Great Caucasus Mountains in the
+ north and Lesser Caucasus Mountains in the south; Kolkhida Lowland
+ opens to the Black Sea in the west; Mtkvari River Basin in the east;
+ good soils in river valley flood plains, foothills of Kolkhida Lowland
+
+ Natural resources: forest lands, hydropower, manganese deposits, iron
+ ores, copper, minor coal and oil deposits; coastal climate and soils
+ allow for important tea and citrus growth
+
+ Land use:
+ arable land: 11%
+ permanent crops: 4%
+ meadows and pastures: 29%
+ forest and woodland: 38%
+ other: 18%
+
+ Irrigated land: 4,660 sq km (1990)
+
+ Environment:
+ current issues: air pollution, particularly in Rust'avi; heavy
+ pollution of Mtkvari River and the Black Sea; inadequate supplies of
+ potable water; soil pollution from toxic chemicals
+ natural hazards: NA
+ international agreements: party to - Biodiversity, Climate Change,
+ Ship Pollution; signed, but not ratified - Desertification
+
+@Georgia:People
+
+ Population: 5,725,972 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 24% (female 674,331; male 707,355)
+ 15-64 years: 64% (female 1,894,681; male 1,791,847)
+ 65 years and over: 12% (female 410,703; male 247,055) (July 1995 est.)
+
+ Population growth rate: 0.77% (1995 est.)
+
+ Birth rate: 15.77 births/1,000 population (1995 est.)
+
+ Death rate: 8.73 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 0.66 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 22.6 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 73.1 years
+ male: 69.43 years
+ female: 76.95 years (1995 est.)
+
+ Total fertility rate: 2.16 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Georgian(s)
+ adjective: Georgian
+
+ Ethnic divisions: Georgian 70.1%, Armenian 8.1%, Russian 6.3%, Azeri
+ 5.7%, Ossetian 3%, Abkhaz 1.8%, other 5%
+
+ Religions: Georgian Orthodox 65%, Russian Orthodox 10%, Muslim 11%,
+ Armenian Orthodox 8%, unknown 6%
+
+ Languages: Armenian 7%, Azeri 6%, Georgian 71% (official), Russian 9%,
+ other 7%
+
+ Literacy: age 15 and over can read and write (1989)
+ total population: 99%
+ male: 100%
+ female: 98%
+
+ Labor force: 2.763 million
+ by occupation: industry and construction 31%, agriculture and forestry
+ 25%, other 44% (1990)
+
+@Georgia:Government
+
+ Names:
+ conventional long form: Republic of Georgia
+ conventional short form: Georgia
+ local long form: Sak'art'velos Respublika
+ local short form: Sak'art'velo
+ former: Georgian Soviet Socialist Republic
+
+ Digraph: GG
+
+ Type: republic
+
+ Capital: T'bilisi
+
+ Administrative divisions: 2 autonomous republics (avtomnoy respubliki,
+ singular - avtom respublika); Abkhazia (Sokhumi), Ajaria (Bat'umi)
+ note: the administrative centers of the autonomous republics are
+ included in parentheses; there are no oblasts - the rayons around
+ T'bilisi are under direct republic jurisdiction
+
+ Independence: 9 April 1991 (from Soviet Union)
+
+ National holiday: Independence Day, 26 May (1991)
+
+ Constitution: adopted 21 February 1921; currently amending
+ constitution for Parliamentary and popular review by late 1995
+
+ Legal system: based on civil law system
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch:
+ chief of state: Chairman of Parliament Eduard Amvrosiyevich
+ SHEVARDNADZE (Chairman of the Government Council since 10 March 1992;
+ elected Chairman of Parliament in 11 October 1992; note - the
+ Government Council has since been disbanded); election last held 11
+ October 1992 (next to be held October 1995); results - Eduard
+ SHEVARDNADZE 95%
+ head of government: Prime Minister Otar PATSATSIA (since September
+ 1993); Deputy Prime Ministers Avtandil MARGIANI, Zurab KERVALISHVILI
+ (since 25 November 1992), Tamaz NADAREISHVILI (since September 1993),
+ Temur BASILIA (since 17 March 1994), Bakur GULA (since NA)
+ cabinet: Council of Ministers
+
+ Legislative branch: unicameral
+ Georgian Parliament (Supreme Soviet): elections last held 11 October
+ 1992 (next to be held October 1995); results - percent of vote by
+ party NA; seats - (225 total) number of seats by party NA
+
+ Judicial branch: Supreme Court
+
+ Political parties and leaders: Citizens Union (CU), Eduard
+ SHEVARDNADZE, Zurab SHVANIA, general secretary; National Democratic
+ Party (NDP), Georgi (Gia) CHANTURIA, Ivane GIORGADZE; United
+ Republican Party, umbrella organization for parties including the GPF
+ and the Charter 1991 Party, cochairmen Bakhtand DZABIRADZE, Notar
+ NATADZE, and Theodor PAATASHVILI; Georgian Popular Front (GPF), Nodar
+ NATADZE, chairman; Charter 1991 Party, Thedor PAATASHVILI; Georgian
+ Social Democratic Party (GSDP), Guram MUCHAIDZE, secretary general;
+ National Reconstruction and Rebirth of Georgia Union, Valerian
+ ADVADZE; Christian Democratic Union (CDU), Irakli SHENGELAYA;
+ Democratic Georgia Union (DGU), El'dar SHENGELAYA; National
+ Independence Party (NIP), Irakliy TSERETELI, chairman; Georgian
+ Monarchists' Party (GMP), Temur ZHORZHOLIANI; Green Party, Zurab
+ ZHVANIA; Republican Party (RP), Ivliane KHAINDRAVA; Workers' Union of
+ Georgia (WUG), Vakhtang GABUNIA; Agrarian Party of Georgia (APG), Roin
+ LIPARTELIANI; Choice Society (Archevani), Jaba IOSELIANI, chairman;
+ Georgian Workers Communist Party, Panteleimon GIORGADZE, chairman;
+ National Liberation Front, Tengiz SIGULA, chairman
+
+ Other political or pressure groups: supporters of ousted President
+ Zviad GAMSAKHURDIA (deceased 1 January 1994) boycotted the October
+ elections and remain a source of opposition
+
+ Member of: BSEC, CCC, CIS, EBRD, ECE, IBRD, ICAO, IDA, ILO, IMF, IMO,
+ INMARSAT, INTERPOL, IOC, IOM (observer), ITU, NACC, OSCE, PFP, UN,
+ UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WMO, WTO
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Tedo JAPARIDZE
+ chancery: (temporary) Suite 424, 1511 K Street NW, Washington, DC
+ 20005
+ telephone: [1] (202) 393-6060, 5959
+
+ US diplomatic representation:
+ chief of mission: Ambassador Kent N. BROWN
+ embassy: #25 Antoneli Street, T'bilisi 380026
+ mailing address: use embassy street address
+ telephone: [7] (8832) 98-99-67, 93-38-03
+ FAX: [7] (8832) 93-37-59
+
+ Flag: maroon field with small rectangle in upper hoist side corner;
+ rectangle divided horizontally with black on top, white below
+
+@Georgia:Economy
+
+ Overview: Georgia's economy has traditionally revolved around Black
+ Sea tourism; cultivation of citrus fruits, tea, and grapes; mining of
+ manganese and copper; and a small industrial sector producing wine,
+ metals, machinery, chemicals, and textiles. The country imports the
+ bulk of its energy needs, including natural gas and oil products. Its
+ only sizable domestic energy resource is hydropower. Since 1990,
+ widespread conflicts, e.g., in Abkhazia, South Ossetia, and
+ Mingreliya, have severely aggravated the economic crisis resulting
+ from the disintegration of the Soviet command economy in December
+ 1991. Throughout 1993 and 1994, much of industry was functioning at
+ only 20% of capacity; heavy disruptions in agricultural cultivation
+ were reported; and tourism was shut down. The country is precariously
+ dependent on US and EU humanitarian grain shipments, as most other
+ foods are priced beyond reach of the average citizen. Georgia is also
+ suffering from an acute energy crisis, as it is having problems paying
+ for even minimal imports. Georgia is pinning its hopes for recovery on
+ reestablishing trade ties with Russia and on developing international
+ transportation through the key Black Sea ports of P'ot'i and Bat'umi.
+ The government began a tenuous program in 1994 aiming to stabilize
+ prices and reduce large consumer subsidies.
+
+ National product: GDP - purchasing power parity - $6 billion (1994
+ estimate as extrapolated from World Bank estimate for 1992)
+
+ National product real growth rate: -30% (1994 est.)
+
+ National product per capita: $1,060 (1994 est.)
+
+ Inflation rate (consumer prices): 40.5% per month (2nd half 1993 est.)
+
+ Unemployment rate: officially less than 5% but real unemployment may
+ be more than 20%, with even larger numbers of underemployed workers
+
+ Budget:
+ revenues: $NA
+ expenditures: $NA, including capital expenditures of $NA
+
+ Exports: $NA
+ commodities: citrus fruits, tea, wine, other agricultural products;
+ diverse types of machinery; ferrous and nonferrous metals; textiles;
+ chemicals; fuel re-exports
+ partners: Russia, Turkey, Armenia, Azerbaijan (1992)
+
+ Imports: $NA
+ commodities: fuel, grain and other foods, machinery and parts,
+ transport equipment
+ partners: Russia, Azerbaijan, Turkey (1993); note - EU and US sent
+ humanitarian food shipments
+
+ External debt: NA (T'bilisi owes about $400 million to Turkmenistan
+ for natural gas as of January 1995)
+
+ Industrial production: growth rate -27% (1993); accounts for 36% of
+ GDP
+
+ Electricity:
+ capacity: 4,410,000 kW
+ production: 9.1 billion kWh
+ consumption per capita: 1,526 kWh (1993)
+
+ Industries: heavy industrial products include raw steel, rolled steel,
+ airplanes; machine tools, foundry equipment, electric locomotives,
+ tower cranes, electric welding equipment, machinery for food
+ preparation and meat packing, electric motors, process control
+ equipment, instruments; trucks, tractors, and other farm machinery;
+ light industrial products, including cloth, hosiery, and shoes;
+ chemicals; wood-working industries; the most important food industry
+ is wine
+
+ Agriculture: accounted for 97% of former USSR citrus fruits and 93% of
+ former USSR tea; important producer of grapes; also cultivates
+ vegetables and potatoes; dependent on imports for grain, dairy
+ products, sugar; small livestock sector
+
+ Illicit drugs: illicit cultivator of cannabis and opium poppy; mostly
+ for domestic consumption; used as transshipment point for illicit
+ drugs to Western Europe
+
+ Economic aid:
+ recipient: heavily dependent on US and EU for humanitarian grain
+ shipments; EC granted around $70 million in trade credits in 1992 and
+ another $40 million in 1993; Turkey granted $50 million in 1993;
+ smaller scale credits granted by Russia and China
+
+ Currency: coupons introduced in April 1993 to be followed by
+ introduction of the lari at undetermined future date; in July 1993 use
+ of the Russian ruble was banned
+
+ Exchange rates: coupons per $US1 - 1,280,000 (end December 1994)
+
+ Fiscal year: calendar year
+
+@Georgia:Transportation
+
+ Railroads:
+ total: 1,570 km in common carrier service; does not include industrial
+ lines
+ broad gauge: 1,570 km 1.520-m gauge (1990)
+
+ Highways:
+ total: 33,900 km
+ paved and graveled: 29,500 km
+ unpaved: earth 4,400 km (1990)
+
+ Pipelines: crude oil 370 km; refined products 300 km; natural gas 440
+ km (1992)
+
+ Ports: Bat'umi, P'ot'i, Sokhumi
+
+ Merchant marine:
+ total: 32 ships (1,000 GRT or over) totaling 419,416 GRT/640,897 DWT
+ ships by type: bulk 11, cargo 1, oil tanker 19, short-sea passenger 1
+
+ Airports:
+ total: 28
+ with paved runways over 3,047 m: 1
+ with paved runways 2,438 to 3,047 m: 7
+ with paved runways 1,524 to 2,437 m: 4
+ with paved runways 914 to 1,523 m: 1
+ with paved runways under 914 m: 1
+ with unpaved runways over 3,047 m: 1
+ with unpaved runways 2,438 to 3,047 m: 1
+ with unpaved runways 1,524 to 2,438 m: 1
+ with unpaved runways 914 to 1,523 m: 5
+ with unpaved runways under 914 m: 6
+
+ Note: transportation network is in poor condition and disrupted by
+ ethnic conflict, criminal activities, and fuel shortages; network
+ lacks maintenance and repair
+
+@Georgia:Communications
+
+ Telephone system: 672,000 telephones (mid-1993); 117 telephones/1,000
+ persons; poor telephone service; 339,000 unsatisfied applications for
+ telephones (December 1990)
+ local: NA
+ intercity: NA
+ international: links via landline to CIS members and Turkey;
+ low-capacity satellite link and leased international connections via
+ the Moscow international gateway switch with other countries;
+ international electronic mail and telex service available
+
+ Radio:
+ broadcast stations: AM NA, FM NA, shortwave NA
+ radios: NA
+
+ Television:
+ broadcast stations: NA
+ televisions: NA
+
+@Georgia:Defense Forces
+
+ Branches: Army, Navy, Air Force, Interior Ministry Troops, Border
+ Guards/National Guard
+
+ Manpower availability: males age 15-49 1,385,593; males fit for
+ military service 1,095,835; males reach military age (18) annually
+ 42,207 (1995 est.)
+
+ Defense expenditures: exchange rate conversion - $85 million, NA% of
+ GDP (1992)
+
+ Note: Georgian forces are poorly organized and not fully under the
+ government's control
+
+
+________________________________________________________________________
+
+GERMANY
+
+@Germany:Geography
+
+ Location: Central Europe, bordering the Baltic Sea and the North Sea,
+ between the Netherlands and Poland, south of Denmark
+
+ Map references: Europe
+
+ Area:
+ total area: 356,910 sq km
+ land area: 349,520 sq km
+ comparative area: slightly smaller than Montana
+ note: includes the formerly separate Federal Republic of Germany, the
+ German Democratic Republic, and Berlin following formal unification on
+ 3 October 1990
+
+ Land boundaries: total 3,621 km, Austria 784 km, Belgium 167 km, Czech
+ Republic 646 km, Denmark 68 km, France 451 km, Luxembourg 138 km,
+ Netherlands 577 km, Poland 456 km, Switzerland 334 km
+
+ Coastline: 2,389 km
+
+ Maritime claims:
+ continental shelf: 200-m depth or to the depth of exploitation
+ exclusive economic zone: 200 nm
+ territorial sea: 12 nm
+
+ International disputes: none
+
+ Climate: temperate and marine; cool, cloudy, wet winters and summers;
+ occasional warm, tropical foehn wind; high relative humidity
+
+ Terrain: lowlands in north, uplands in center, Bavarian Alps in south
+
+ Natural resources: iron ore, coal, potash, timber, lignite, uranium,
+ copper, natural gas, salt, nickel
+
+ Land use:
+ arable land: 34%
+ permanent crops: 1%
+ meadows and pastures: 16%
+ forest and woodland: 30%
+ other: 19%
+
+ Irrigated land: 4,800 sq km (1989 est.)
+
+ Environment:
+ current issues: emissions from coal-burning utilities and industries
+ and lead emissions from vehicle exhausts (the result of continued use
+ of leaded fuels) contribute to air pollution; acid rain, resulting
+ from sulfur dioxide emissions, is damaging forests; heavy pollution in
+ the Baltic Sea from raw sewage and industrial effluents from rivers in
+ eastern Germany
+ natural hazards: NA
+ international agreements: party to - Air Pollution, Air
+ Pollution-Nitrogen Oxides, Air Pollution-Sulphur 85, Air
+ Pollution-Volatile Organic Compounds, Antarctic-Environmental
+ Protocol, Antarctic Treaty, Biodiversity, Climate Change, Endangered
+ Species, Environmental Modification, Law of the Sea, Marine Dumping,
+ Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical
+ Timber 83, Wetlands, Whaling; signed, but not ratified - Air
+ Pollution-Sulphur 94, Desertification, Hazardous Wastes
+
+ Note: strategic location on North European Plain and along the
+ entrance to the Baltic Sea
+
+@Germany:People
+
+ Population: 81,337,541 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 16% (female 6,518,108; male 6,857,577)
+ 15-64 years: 68% (female 27,167,824; male 28,130,083)
+ 65 years and over: 16% (female 8,127,938; male 4,536,011) (July 1995
+ est.)
+
+ Population growth rate: 0.26% (1995 est.)
+
+ Birth rate: 10.98 births/1,000 population (1995 est.)
+
+ Death rate: 10.83 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 2.46 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 6.3 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 76.62 years
+ male: 73.5 years
+ female: 79.92 years (1995 est.)
+
+ Total fertility rate: 1.5 children born/woman (1995 est.)
+
+ Nationality:
+ noun: German(s)
+ adjective: German
+
+ Ethnic divisions: German 95.1%, Turkish 2.3%, Italians 0.7%, Greeks
+ 0.4%, Poles 0.4%, other 1.1% (made up largely of people fleeing the
+ war in the former Yugoslavia)
+
+ Religions: Protestant 45%, Roman Catholic 37%, unaffiliated or other
+ 18%
+
+ Languages: German
+
+ Literacy: age 15 and over can read and write (1991 est.)
+ total population: 99%
+
+ Labor force: 36.75 million
+ by occupation: industry 41%, agriculture 6%, other 53% (1987)
+
+@Germany:Government
+
+ Names:
+ conventional long form: Federal Republic of Germany
+ conventional short form: Germany
+ local long form: Bundesrepublik Deutschland
+ local short form: Deutschland
+
+ Digraph: GM
+
+ Type: federal republic
+
+ Capital: Berlin
+ note: the shift from Bonn to Berlin will take place over a period of
+ years with Bonn retaining many administrative functions and several
+ ministries
+
+ Administrative divisions: 16 states (laender, singular - land);
+ Baden-Wuerttemberg, Bayern, Berlin, Brandenburg, Bremen, Hamburg,
+ Hessen, Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen,
+ Rheinland-Pfalz, Saarland, Sachsen, Sachsen-Anhalt,
+ Schleswig-Holstein, Thueringen
+
+ Independence: 18 January 1871 (German Empire unification); divided
+ into four zones of occupation (UK, US, USSR, and later, France) in
+ 1945 following World War II; Federal Republic of Germany (FRG or West
+ Germany) proclaimed 23 May 1949 and included the former UK, US, and
+ French zones; German Democratic Republic (GDR or East Germany)
+ proclaimed 7 October 1949 and included the former USSR zone;
+ unification of West Germany and East Germany took place 3 October
+ 1990; all four power rights formally relinquished 15 March 1991
+
+ National holiday: German Unity Day (Day of Unity), 3 October (1990)
+
+ Constitution: 23 May 1949, known as Basic Law; became constitution of
+ the united German people 3 October 1990
+
+ Legal system: civil law system with indigenous concepts; judicial
+ review of legislative acts in the Federal Constitutional Court; has
+ not accepted compulsory ICJ jurisdiction
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch:
+ chief of state: President Roman HERZOG (since 1 July 1994)
+ head of government: Chancellor Dr. Helmut KOHL (since 4 October 1982)
+ cabinet: Cabinet; appointed by the president upon the proposal of the
+ chancellor
+
+ Legislative branch: bicameral chamber (no official name for the two
+ chambers as a whole)
+ Federal Assembly (Bundestag): last held 16 October 1994 (next to be
+ held by NA 1998); results - CDU 34.2%, SPD 36.4%, Alliance 90/Greens
+ 7.3%, CSU 7.3%, FDP 6.9%, PDS 4.4%, Republicans 1.9% ; seats - (662
+ total, but number can vary) CDU 244, SPD 252, Alliance 90/Greens 49,
+ CSU 50, FDP 47, PDS 30; elected by direct popular vote under a system
+ combining direct and proportional representation; a party must win 5%
+ of the national vote or 3 direct mandates to gain representation
+ Federal Council (Bundesrat): State governments are directly
+ represented by votes; each has 3 to 6 votes depending on size and are
+ required to vote as a block; current composition: votes - (68 total)
+ SPD-led states 37, CDU-led states 31
+
+ Judicial branch: Federal Constitutional Court
+ (Bundesverfassungsgericht)
+
+ Political parties and leaders: Christian Democratic Union (CDU),
+ Helmut KOHL, chairman; Christian Social Union (CSU), Theo WAIGEL,
+ chairman; Free Democratic Party (FDP), Klaus KINKEL, chairman; Social
+ Democratic Party (SPD), Rudolf SCHARPING, chairman; Alliance
+ '90/Greens, Krista SAGER, Juergen TRITTIN, cochairpersons; Party of
+ Democratic Socialism (PDS), Lothar BISKY, chairman; Republikaner, Rolf
+ SCHLIERER, chairman; National Democratic Party (NPD), Guenter DECKERT;
+ Communist Party (DKP), Rolf PRIEMER
+
+ Other political or pressure groups: expellee, refugee, and veterans
+ groups
+
+ Member of: AfDB, AG (observer), AsDB, Australia Group, BDEAC, BIS,
+ CBSS, CCC, CDB (non-regional), CE, CERN, EBRD, EC, ECE, EIB, ESA, FAO,
+ G- 5, G- 7, G-10, GATT, IADB, IAEA, IBRD, ICAO, ICC, ICFTU, ICRM, IDA,
+ IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, INMARSAT, INTELSAT, INTERPOL,
+ IOC, IOM, ISO, ITU, MINURSO, MTCR, NACC, NAM (guest), NATO, NEA, NSG,
+ OAS (observer), OECD, OSCE, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO,
+ UNITAR, UNOMIG, UPU, WEU, WHO, WIPO, WMO, WTO, ZC
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Juergen CHROBOG
+ chancery: 4645 Reservoir Road NW, Washington, DC 20007
+ telephone: [1] (202) 298-4000
+ FAX: [1] (202) 298-4249
+ consulate(s) general: Atlanta, Boston, Chicago, Detroit, Houston, Los
+ Angeles, Miami, New York, San Francisco, Seattle
+ consulate(s): Manila (Trust Territories of the Pacific Islands) and
+ Wellington (America Samoa)
+
+ US diplomatic representation:
+ chief of mission: Ambassador Charles E. REDMAN
+ embassy: Deichmanns Aue 29, 53170 Bonn
+ mailing address: Unit 21701, Bonn; APO AE 09080
+ telephone: [49] (228) 3391
+ FAX: [49] (228) 339-2663
+ branch office: Berlin
+ consulate(s) general: Frankfurt, Hamburg, Leipzig, Munich, and
+ Stuttgart
+
+ Flag: three equal horizontal bands of black (top), red, and yellow
+
+@Germany:Economy
+
+ Overview: Five years after the fall of the Berlin Wall, progress
+ towards economic integration between eastern and western Germany is
+ clearly visible, yet the eastern region almost certainly will remain
+ dependent on subsidies funded by western Germany until well into the
+ next century. The staggering $390 billion in western German assistance
+ that the eastern states have received since 1990 - 40 times the amount
+ in real terms of US Marshall Fund aid sent to West Germany after World
+ War II - is just beginning to have an impact on the eastern German
+ standard of living, which plummeted after unification. Assistance to
+ the east continues to run at roughly $100 billion annually. Although
+ the growth rate in the east was much greater than in the west in
+ 1993-94, eastern GDP per capita nonetheless remains well below
+ preunification levels; it will take 10-15 years for the eastern states
+ to match western Germany's living standards. The economic recovery in
+ the east is led by the construction industries which account for
+ one-third of industrial output, with growth increasingly supported by
+ the service sectors and light manufacturing industries. Eastern
+ Germany's economy is changing from one anchored on manufacturing to a
+ more service-oriented economy. Western Germany, with three times the
+ per capita output of the eastern states, has an advanced market
+ economy and is a world leader in exports. The strong recovery in 1994
+ from recession began in the export sector and spread to the investment
+ and consumption sectors in response to falling interest rates. Western
+ Germany has a highly urbanized and skilled population that enjoys
+ excellent living standards, abundant leisure time, and comprehensive
+ social welfare benefits. It is relatively poor in natural resources,
+ coal being the most important mineral. Western Germany's world-class
+ companies manufacture technologically advanced goods. The region's
+ economy is mature: services and manufacturing account for the dominant
+ share of economic activities, and raw materials and semimanufactured
+ goods constitute a large portion of imports.
+
+ National product:
+ Germany: GDP - purchasing power parity - $1.3446 trillion (1994 est.)
+ western: GDP - purchasing power parity - $1.2363 trillion (1994 est.)
+ eastern: GDP - purchasing power parity - $108.3 billion (1994 est.)
+
+ National product real growth rate:
+ Germany: 2.9% (1994 est.)
+ western: 2.3% (1994 est.)
+ eastern: 9.2% (1994 est.)
+
+ National product per capita:
+ Germany: $16,580 (1994 est.)
+ western: $19,660 (1994 est.)
+ eastern: $5,950 (1994 est.)
+
+ Inflation rate (consumer prices):
+ western: 3% (1994)
+ eastern: 3.2% (1994 est.)
+
+ Unemployment rate:
+ western: 8.2% (December 1994)
+ eastern: 13.5% (December 1994)
+
+ Budget:
+ revenues: $690 billion
+ expenditures: $780 billion, including capital expenditures of $96.5
+ billion (1994)
+
+ Exports: $437 billion (f.o.b., 1994)
+ commodities: manufactures 89.3% (including machines and machine tools,
+ chemicals, motor vehicles, iron and steel products), agricultural
+ products 5.5%, raw materials 2.7%, fuels 1.3% (1993)
+ partners: EC 47.9% (France 11.7%, Netherlands 7.4%, Italy 7.5%, UK
+ 7.7%, Belgium-Luxembourg 6.6%), EFTA 15.5%, US 7.7%, Eastern Europe
+ 5.2%, OPEC 3.0% (1993)
+
+ Imports: $362 billion (f.o.b., 1994)
+ commodities: manufactures 75.1%, agricultural products 10.0%, fuels
+ 8.3%, raw materials 5.0% (1993)
+ partners: EC 46.4% (France 11.3%, Netherlands 8.4%, Italy 8.1%, UK
+ 6.0%, Belgium-Luxembourg 5.7%), EFTA 14.3%, US 7.3%, Japan 6.3%,
+ Eastern Europe 5.1%, OPEC 2.6% (1993)
+
+ External debt: $NA
+
+ Industrial production:
+ western: growth rate 2.8% (1994)
+ eastern: growth rate $NA
+
+ Electricity:
+ capacity: 115,430,000 kW
+ production: 493 billion kWh
+ consumption per capita: 5,683 kWh (1993)
+
+ Industries:
+ western: among world's largest and technologically advanced producers
+ of iron, steel, coal, cement, chemicals, machinery, vehicles, machine
+ tools, electronics; food and beverages
+ eastern: metal fabrication, chemicals, brown coal, shipbuilding,
+ machine building, food and beverages, textiles, petroleum refining
+
+ Agriculture:
+ western: accounts for about 1% of GDP (including fishing and
+ forestry); diversified crop and livestock farming; principal crops and
+ livestock include potatoes, wheat, barley, sugar beets, fruit,
+ cabbage, cattle, pigs, poultry; net importer of food
+ eastern: accounts for about 10% of GDP (including fishing and
+ forestry); principal crops - wheat, rye, barley, potatoes, sugar
+ beets, fruit; livestock products include pork, beef, chicken, milk,
+ hides and skins; net importer of food
+
+ Illicit drugs: source of precursor chemicals for South American
+ cocaine processors; transshipment point for Southwest Asian heroin and
+ Latin American cocaine for West European markets
+
+ Economic aid:
+ western-donor: ODA and OOF commitments (1970-89), $75.5 billion
+ eastern-donor: bilateral to non-Communist less developed countries
+ (1956-89) $4 billion
+
+ Currency: 1 deutsche mark (DM) = 100 pfennige
+
+ Exchange rates: deutsche marks (DM) per US$1 - 1.5313 (January 1995),
+ 1.6228 (1994), 1.6533 (1993), 1.5617 (1992), 1.6595 (1991), 1.6157
+ (1990)
+
+ Fiscal year: calendar year
+
+@Germany:Transportation
+
+ Railroads:
+ total: 43,457 km
+ standard gauge: 43,190 km (electrified 16,694 km)
+ narrow gauge: 267 km (1994)
+
+ Highways:
+ total: 636,282 km
+ paved: 501,282 km (10,955 km of autobahn)
+ unpaved: 135,000 km (1991)
+
+ Inland waterways:
+ western: 5,222 km, of which almost 70% are usable by craft of
+ 1,000-metric-ton capacity or larger; major rivers include the Rhine
+ and Elbe; Kiel Canal is an important connection between the Baltic Sea
+ and North Sea
+ eastern: 2,319 km (1988)
+
+ Pipelines: crude oil 3,644 km; petroleum products 3,946 km; natural
+ gas 97,564 km (1988)
+
+ Ports: Berlin, Bonn, Brake, Bremen, Bremerhaven, Cologne, Dresden,
+ Duisburg, Emden, Hamburg, Karlsruhe, Kiel, Lubeck, Magdeburg,
+ Mannheim, Rostock, Stuttgart
+
+ Merchant marine:
+ total: 481 ships (1,000 GRT or over) totaling 5,065,074 GRT/6,409,198
+ DWT
+ ships by type: barge carrier 6, bulk 8, cargo 224, chemical tanker 16,
+ combination bulk 4, combination ore/oil 5, container 158, liquefied
+ gas tanker 13, oil tanker 10, passenger 3, railcar carrier 4,
+ refrigerated cargo 7, roll-on/roll-off cargo 18, short-sea passenger 5
+
+ note: the German register includes ships of the former East and West
+ Germany
+
+ Airports:
+ total: 660
+ with paved runways over 3,047 m: 13
+ with paved runways 2,438 to 3,047 m: 64
+ with paved runways 1,524 to 2,437 m: 68
+ with paved runways 914 to 1,523 m: 53
+ with paved runways under 914 m: 381
+ with unpaved runways over 3,047 m: 2
+ with unpaved runways 2,438 to 3,047 m: 8
+ with unpaved runways 1,524 to 2,438 m: 9
+ with unpaved runways 914 to 1,523 m: 62
+
+@Germany:Communications
+
+ Telephone system:
+ western: 40,300,000 telephones; highly developed, modern
+ telecommunication service to all parts of the country; fully adequate
+ in all respects; intensively developed, highly redundant cable and
+ microwave radio relay networks, all completely automatic
+ local: very modern
+ intercity: domestic satellite, microwave radio relay, and cable
+ systems
+ international: 12 INTELSAT (Atlantic Ocean), 2 INTELSAT (Indian
+ Ocean), and 1 EUTELSAT earth station; 2 HF radiocommunication centers;
+ tropospheric scatter links
+ eastern: 3,970,000 telephones; badly needs modernization
+ local: NA
+ intercity: NA
+ international: 1 INTELSAT earth station and 1 Intersputnik system
+
+ Radio:
+ western: NA
+ broadcast stations: AM 80, FM 470, shortwave 0
+ radios: NA
+ eastern: NA
+ broadcast stations: AM 23, FM 17, shortwave 0
+ radios: 67 million
+
+ Television:
+ broadcast stations: 246 (repeaters 6,000); note - there are 15 Russian
+ repeaters in eastern Germany
+ televisions: 25 million in western Germany, 6 million in eastern
+ Germany
+
+@Germany:Defense Forces
+
+ Branches: Army, Navy (includes Naval Air Arm), Air Force, Border
+ Police, Coast Guard
+
+ Manpower availability: males 15-49 20,274,127; males fit for military
+ service 17,472,940; males reach military age (18) annually 428,082
+ (1995 est.)
+
+ Defense expenditures: exchange rate conversion - $40 billion, 1.8% of
+ GNP (1995)
+
+
+________________________________________________________________________
+
+GHANA
+
+@Ghana:Geography
+
+ Location: Western Africa, bordering the North Atlantic Ocean, between
+ Cote d'Ivoire and Togo
+
+ Map references: Africa
+
+ Area:
+ total area: 238,540 sq km
+ land area: 230,020 sq km
+ comparative area: slightly smaller than Oregon
+
+ Land boundaries: total 2,093 km, Burkina 548 km, Cote d'Ivoire 668 km,
+ Togo 877 km
+
+ Coastline: 539 km
+
+ Maritime claims:
+ contiguous zone: 24 nm
+ continental shelf: 200 nm
+ exclusive economic zone: 200 nm
+ territorial sea: 12 nm
+
+ International disputes: none
+
+ Climate: tropical; warm and comparatively dry along southeast coast;
+ hot and humid in southwest; hot and dry in north
+
+ Terrain: mostly low plains with dissected plateau in south-central
+ area
+
+ Natural resources: gold, timber, industrial diamonds, bauxite,
+ manganese, fish, rubber
+
+ Land use:
+ arable land: 5%
+ permanent crops: 7%
+ meadows and pastures: 15%
+ forest and woodland: 37%
+ other: 36%
+
+ Irrigated land: 80 sq km (1989)
+
+ Environment:
+ current issues: recent drought in north severely affecting
+ agricultural activities; deforestation; overgrazing; soil erosion;
+ poaching and habitat destruction threatens wildlife populations; water
+ pollution; inadequate supplies of potable water
+ natural hazards: dry, dusty, harmattan winds occur from January to
+ March; droughts
+ international agreements: party to - Biodiversity, Endangered Species,
+ Environmental Modification, Law of the Sea, Nuclear Test Ban, Ozone
+ Layer Protection, Ship Pollution, Tropical Timber 83, Wetlands;
+ signed, but not ratified - Climate Change, Desertification, Marine
+ Life Conservation
+
+ Note: Lake Volta is the world's largest artificial lake; northeasterly
+ harmattan wind (January to March)
+
+@Ghana:People
+
+ Population: 17,763,138 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 46% (female 4,030,154; male 4,069,945)
+ 15-64 years: 51% (female 4,638,451; male 4,494,533)
+ 65 years and over: 3% (female 276,186; male 253,869) (July 1995 est.)
+
+ Population growth rate: 3.06% (1995 est.)
+
+ Birth rate: 43.57 births/1,000 population (1995 est.)
+
+ Death rate: 12.02 deaths/1,000 population (1995 est.)
+
+ Net migration rate: -0.94 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 81.7 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 55.85 years
+ male: 53.88 years
+ female: 57.88 years (1995 est.)
+
+ Total fertility rate: 6.09 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Ghanaian(s)
+ adjective: Ghanaian
+
+ Ethnic divisions: black African 99.8% (major tribes - Akan 44%,
+ Moshi-Dagomba 16%, Ewe 13%, Ga 8%), European and other 0.2%
+
+ Religions: indigenous beliefs 38%, Muslim 30%, Christian 24%, other 8%
+
+ Languages: English (official), African languages (including Akan,
+ Moshi-Dagomba, Ewe, and Ga)
+
+ Literacy: age 15 and over can read and write (1990 est.)
+ total population: 60%
+ male: 70%
+ female: 51%
+
+ Labor force: 3.7 million
+ by occupation: agriculture and fishing 54.7%, industry 18.7%, sales
+ and clerical 15.2%, services, transportation, and communications 7.7%,
+ professional 3.7%
+
+@Ghana:Government
+
+ Names:
+ conventional long form: Republic of Ghana
+ conventional short form: Ghana
+ former: Gold Coast
+
+ Digraph: GH
+
+ Type: constitutional democracy
+
+ Capital: Accra
+
+ Administrative divisions: 10 regions; Ashanti, Brong-Ahafo, Central,
+ Eastern, Greater Accra, Northern, Upper East, Upper West, Volta,
+ Western
+
+ Independence: 6 March 1957 (from UK)
+
+ National holiday: Independence Day, 6 March (1957)
+
+ Constitution: new constitution approved 28 April 1992
+
+ Legal system: based on English common law and customary law; has not
+ accepted compulsory ICJ jurisdiction
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch:
+ chief of state and head of government: President Jerry John RAWLINGS
+ (since 3 November 1992) election last held 3 November 1992 (next to be
+ held November 1996); results - opposition boycotted the election, the
+ National Democratic Congress won 198 of the total 200 seats and 2
+ seats were won by independents
+ cabinet: Cabinet; president nominates members subject to approval by
+ the Parliament
+
+ Legislative branch: unicameral
+ National Assembly: elections last held 29 December 1992 (next to be
+ held December 1996); results - opposition boycotted the election; the
+ National Democratic Congress won 198 0f 200 total seats and
+ independents won 2
+
+ Judicial branch: Supreme Court
+
+ Political parties and leaders: National Democratic Congress, Jerry
+ John RAWLINGS; New Patriotic Party, Albert Adu BOAHEN; People's
+ Heritage Party, Alex ERSKINE; various other smaller parties
+
+ Member of: ACP, AfDB, C, CCC, ECA, ECOWAS, FAO, G-24, G-77, GATT,
+ IAEA, IBRD, ICAO, ICFTU, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO,
+ INTELSAT, INTERPOL, IOC, IOM (observer), ITU, MINURSO, NAM, OAU, UN,
+ UNAMIR, UNCTAD, UNESCO, UNIDO, UNIFIL, UNIKOM, UNPROFOR, UNU, UPU,
+ WCL, WFTU, WHO, WIPO, WMO, WTO
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Ekwow SPIO-GARBRAH
+ chancery: 3512 International Drive NW, Washington, DC 20008
+ telephone: [1] (202) 686-4520
+ FAX: [1] (202) 686-4527
+ consulate(s) general: New York
+
+ US diplomatic representation:
+ chief of mission: Ambassador Kenneth L. BROWN (scheduled to leave in
+ June 1995)
+ embassy: Ring Road East, East of Danquah Circle, Accra
+ mailing address: P. O. Box 194, Accra
+ telephone: [233] (21) 775348, 775349, 775297, 775298
+ FAX: [233] (21) 776008
+
+ Flag: three equal horizontal bands of red (top), yellow, and green
+ with a large black five-pointed star centered in the gold band; uses
+ the popular pan-African colors of Ethiopia; similar to the flag of
+ Bolivia, which has a coat of arms centered in the yellow band
+
+@Ghana:Economy
+
+ Overview: Well endowed with natural resources, Ghana is relatively
+ well off, having twice the per capita output of the poorer countries
+ in West Africa. Heavily reliant on international assistance, Ghana has
+ made steady progress in liberalizing its economy since 1983. Overall
+ growth continued at a rate of approximately 5% in 1994, due largely to
+ increased gold, timber, and cocoa production - major sources of
+ foreign exchange. The economy, however, continues to revolve around
+ subsistence agriculture, which accounts for 45% of GDP and employs 55%
+ of the work force, mainly small landholders. Public sector wage
+ increases, regional peacekeeping commitments, and the containment of
+ internal unrest in the underdeveloped north have placed substantial
+ demands on the government's budget and have led to inflationary
+ deficit financing and a 27% depreciation of the cedi in 1994.
+
+ National product: GDP - purchasing power parity - $22.6 billion (1994
+ est.)
+
+ National product real growth rate: 5% (1994 est.)
+
+ National product per capita: $1,310 (1994 est.)
+
+ Inflation rate (consumer prices): 25% (1993 est.)
+
+ Unemployment rate: 10% (1991)
+
+ Budget:
+ revenues: $1.05 billion
+ expenditures: $1.2 billion, including capital expenditures of $178
+ million (1993)
+
+ Exports: $1 billion (f.o.b., 1993 est.)
+ commodities: cocoa 40%, gold, timber, tuna, bauxite, and aluminum
+ partners: Germany 31%, US 12%, UK 11%, Netherlands 6%, Japan 5% (1991)
+
+ Imports: $1.7 billion (c.i.f., 1993 est.)
+ commodities: petroleum 16%, consumer goods, foods, intermediate goods,
+ capital equipment
+ partners: UK 22%, US 11%, Germany 9%, Japan 6%
+
+ External debt: $4.6 billion (December 1993 est.)
+
+ Industrial production: growth rate 3.4% in manufacturing (1993);
+ accounts for almost 15% of GDP
+
+ Electricity:
+ capacity: 1,180,000 kW
+ production: 6.1 billion kWh
+ consumption per capita: 323 kWh (1993)
+
+ Industries: mining, lumbering, light manufacturing, aluminum, food
+ processing
+
+ Agriculture: accounts for almost 50% of GDP (including fishing and
+ forestry); the major cash crop is cocoa; other principal crops - rice,
+ coffee, cassava, peanuts, corn, shea nuts, timber; normally
+
+Back to Full Books

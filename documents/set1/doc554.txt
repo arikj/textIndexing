@@ -1,0 +1,2003 @@
+The Aeroplane SpeaksbyH. Barber
+
+``Ah! my boy. You do a bit more flying and you'll
+discover that things are not always as they appear from a
+distance!''
+
+``There she is, sir!'' cries the Flight-Sergeant. ``Just a
+speck over the silvery corner of that cloud.''
+
+A tiny speck it looks, some six miles distant and three
+thousand feet high; but, racing along, it rapidly appears
+larger and soon its outlines can be traced and the sunlight
+be seen playing upon the whirling propeller.
+
+Now the distant drone of the engine can be heard,
+but not for long, for suddenly it ceases and, the nose of
+the Aeroplane sinking, the craft commences gliding downwards.
+
+``Surely too far away,'' says a subaltern. It will be
+a wonderful machine if, from that distance and height, it
+can glide into the Aerodrome.'' And more than one express
+the opinion that it cannot be done; but the Designer smiles
+to himself, yet with a little anxiety, for his reputation is
+at stake, and Efficiency, the main reward he desires, is perhaps,
+or perhaps not, at last within his grasp!
+
+Swiftly the machine glides downwards towards them,
+and it can now be seen how surprisingly little it is affected
+by the rough weather and gusts; so much so that a little
+chorus of approval is heard.
+
+``Jolly good gliding angle,'' says someone; and another,
+``Beautifully quick controls, what?'' and from yet another,
+``By Jove! The Pilot must be sure of the machine. Look,
+he's stopped the engine entirely.''
+
+Then the Aeroplane with noiseless engine glides over
+the boundary of the Aerodrome, and, with just a soft soughing
+sound from the air it cleaves, lands gently not fifty yards from
+the onlookers.
+
+``Glad to see you,'' says the Squadron Commander to
+the Pilot. ``How do you like the machine?'' And the
+Pilot replies:
+
+``I never want a better one, sir. It almost flies itself!''
+
+And the Designer turns his face homewards and towards
+his beloved drawing-office; well satisfied, but still dreaming
+dreams of the future and . . . looking far ahead whom should
+he see but Efficiency at last coming towards him! And to
+him she is all things. In her hair is the morning sunshine;
+her eyes hold the blue of the sky, and on her cheeks is the
+pearly tint of the clouds as seen from above. The passion
+of speed, the lure of space, the sense of power, and the
+wonder of the future . . . all these things she holds for him.
+
+``Ah!'' he cries. ``You'll never leave me now, when
+at last there is no one between us?''
+
+And Efficiency, smiling and blushing, but practical as
+ever, says:
+
+``And you will never throw those Compromises in my
+face?''
+
+``My dear, I love you for them! Haven't they been
+my life ever since I began striving for you ten long years
+ago?''
+
+And so they walked off very happily, arm-in-arm together;
+and if this hasn't bored you and you'd like some more of the
+same sort of thing, I'd just love to tell you some day of the
+wonderful things they accomplish together, and of what
+they dream the future holds in store.
+
+And that's the end of the Prologue.
+
+
+
+CHAPTER I
+
+FLIGHT
+
+Air has weight (about 13 cubic feet = 1 lb.), inertia, and
+momentum. It therefore obeys Newton's laws[[14]] and resists
+movement. It is that resistance or reaction which makes
+flight possible.
+
+
+[[14]] See Newton's laws in the Glossary at the end of the book.
+
+
+Flight is secured by driving through the air a surface[[15]]
+inclined upwards and towards the direction of motion.
+
+
+[[15]] See ``Aerofoil'' in the Glossary.
+
+
+S = Side view of surface.
+
+M = Direction of motion.
+
+CHORD.--The Chord is, for practical purposes, taken to
+be a straight line from the leading edge of the surface to its
+trailing edge.
+
+N = A line through the surface starting from its trailing
+edge. The position of this line, which I call the Neutral
+Lift Line, is found by means of wind-tunnel research, and it
+varies with differences in the camber (curvature) of surfaces.
+In order to secure flight, the inclination of the surface must
+be such that the neutral lift line makes an angle with and
+ABOVE the line of motion. If it is coincident with M, there is
+no lift. If it makes an angle with M and BELOW it, then
+there is a pressure tending to force the surface down.
+
+I = Angle of Incidence. This angle is generally defined
+as the angle the chord makes with the direction of motion,
+but that is a bad definition, as it leads to misconception.
+The angle of incidence is best described as the angle the
+neutral lift line makes with the direction of motion relative
+to the air. You will, however, find that in nearly all rigging
+specifications the angle of incidence is taken to mean the
+angle the chord makes with a line parallel to the propeller
+thrust. This is necessary from the point of view of the
+practical mechanic who has to rig the aeroplane, for he could
+not find the neutral lift line, whereas he can easily find the
+chord. Again, he would certainly be in doubt as to ``the
+direction of motion relative to the air,'' whereas he can
+easily find a line parallel to the propeller thrust. It is a
+pity, however, that these practical considerations have
+resulted in a bad definition of the angle of incidence becoming
+prevalent, a consequence of which has been the widespread
+fallacy that flight may be secured with a negative
+inclination of the surface. Flight may conceivably be
+secured with a negative angle of chord, but never with a
+negative inclination of the surface. All this is only applicable
+to cambered surfaces. In the case of flat surfaces the neutral
+lift line coincides with the chord and the definition I have
+criticised adversely is then applicable. Flat lifting surfaces
+are, however, never used.
+
+The surface acts upon the air in the following manner:
+
+
+As the bottom of the surface meets the air, it compresses
+it and accelerates it DOWNWARDS. As a result of this definite
+action there is, of course, an equal and opposite reaction
+UPWARDS.
+
+The top surface, in moving forward, tends to leave the
+air behind it, thus creating a semi-vacuum or rarefied area
+over the top of the surface. Consequently the pressure of
+air on the top of the surface is decreased, thus assisting the
+reaction below to lift the surface UPWARDS.
+
+The reaction increases approximately as the square of
+the velocity. It is the result of (1) the mass of air engaged,
+and (2) the velocity and consequent force with which the
+surface engages the air. If the reaction was produced by
+only one of those factors it would increase in direct proportion
+to the velocity, but, since it is the product of both factors,
+it increases as V<2S>.
+
+Approximately three-fifths of the reaction is due to the
+decrease of density (and consequent decrease of downward
+pressure) on the top of the surface; and only some two-
+fifths is due to the upward reaction secured by the action
+of the bottom surface upon the air. A practical point in
+respect of this is that, in the event of the fabric covering the
+surface getting into bad condition, it is more likely to strip
+off the top than off the bottom.
+
+The direction of the reaction is approximately at right-
+angles to the chord of the surface, as illustrated above; and
+it is, in considering flight, convenient to divide it into two
+component parts or values, thus:
+
+1. The vertical component of the reaction, i.e., Lift,
+which is opposed to Gravity, i.e., the weight of the
+aeroplane.
+
+2. The horizontal component, i.e., Drift (sometimes
+called Resistance), to which is opposed the thrust of the
+propeller.
+
+The direction of the reaction is, of course, the resultant
+of the forces Lift and Drift.
+
+The Lift is the useful part of the reaction, for it lifts the
+weight of the aeroplane.
+
+The Drift is the villain of the piece, and must be overcome
+by the Thrust in order to secure the necessary velocity to
+produce the requisite Lift for flight.
+
+DRIFT.--The drift of the whole aeroplane (we have considered
+only the lifting surface heretofore) may be conveniently
+divided into three parts, as follows:
+
+Active Drift, which is the drift produced by the lifting
+surfaces.
+
+Passive Drift, which is the drift produced by all the rest
+of the aeroplane--the struts, wires, fuselage, under-carriage,
+etc., all of which is known as ``detrimental surface.''
+
+Skin Friction, which is the drift produced by the friction
+of the air with roughnesses of surface. The latter is practically
+negligible having regard to the smooth surface of the
+modern aeroplane, and its comparatively slow velocity
+compared with, for instance, the velocity of a propeller
+blade.
+
+LIFT-DRIFT RATIO.--The proportion of lift to drift is
+known as the lift-drift ratio, and is of paramount importance,
+for it expresses the efficiency of the aeroplane (as distinct
+from engine and propeller). A knowledge of the factors
+governing the lift-drift ratio is, as will be seen later, an
+absolute necessity to anyone responsible for the rigging of an
+aeroplane, and the maintenance of it in an efficient and safe
+condition.
+
+Those factors are as follows:
+
+1. Velocity.--The greater the velocity the greater the
+proportion of drift to lift, and consequently the
+less the efficiency. Considering the lifting surfaces
+alone, both the lift and the (active) drift, being
+component parts of the reaction, increase as the
+square of the velocity, and the efficiency remains
+the same at all speeds. But, considering the
+whole aeroplane, we must remember the passive
+drift. It also increases as the square of the
+velocity (with no attendant lift), and, adding
+itself to the active drift, results in increasing
+the proportion of total drift (active + passive) to
+lift.
+
+But for the increase in passive drift the efficiency
+of the aeroplane would not fall with increasing
+velocity, and it would be possible, by doubling
+the thrust, to approximately double the speed
+or lift--a happy state of affairs which can never
+be, but which we may, in a measure, approach
+by doing everything possible to diminish the passive
+drift.
+
+Every effort is then made to decrease it by
+``stream-lining,'' i.e., by giving all ``detrimental''
+parts of the aeroplane a form by which they will
+pass through the air with the least possible drift.
+Even the wires bracing the aeroplane together are,
+in many cases, stream-lined, and with a markedly
+good effect upon the lift-drift ratio. In the case
+of a certain well-known type of aeroplane the
+replacing of the ordinary wires by stream-lined
+wires added over five miles an hour to the flight
+speed.
+
+Head-resistance is a term often applied to passive
+drift, but it is apt to convey a wrong impression,
+as the drift is not nearly so much the result of
+the head or forward part of struts, wires, etc.,
+as it is of the rarefied area behind.
+
+Above is illustrated the flow of air round two
+objects moving in the direction of the arrow M.
+
+In the case of A, you will note that the rarefied
+area DD is of very considerable extent; whereas
+in the case of B, the air flows round it in such a
+way as to meet very closely to the rear of the
+object, thus DECREASING DD.
+
+The greater the rarefied area DD. then, the less
+the density, and, consequently, the less the pressure
+of air upon the rear of the object. The less such
+pressure, then, the better is head-resistance D
+able to get its work in, and the more thrust will
+be required to overcome it.
+
+The ``fineness'' of the stream-line shape, i.e.,
+the proportion of length to width, is determined
+by the velocity--the greater the velocity, the
+greater the fineness. The best degree of fineness
+for any given velocity is found by means of wind-
+tunnel research.
+
+The practical application of all this is, from a
+rigging point of view, the importance of adjusting
+all stream-line parts to be dead-on in the line of
+flight, but more of that later on.
+
+2. Angle of Incidence.--The most efficient angle of
+incidence varies with the thrust at the disposal
+of the designer, the weight to be carried, and the
+climb-velocity ratio desired.
+
+The best angles of incidence for these varying
+factors are found by means of wind-tunnel research
+and practical trial and error. Generally
+speaking, the greater the velocity the smaller
+should be the angle of incidence, in order to preserve
+a clean, stream-line shape of rarefied area
+and freedom from eddies. Should the angle be
+too great for the velocity, then the rarefied area
+becomes of irregular shape with attendant turbulent
+eddies. Such eddies possess no lift value,
+and since it has taken power to produce them,
+they represent drift and adversely affect the lift-
+drift ratio.
+
+From a rigging point of view, one must presume
+that every standard aeroplane has its lifting
+surface set at the most efficient angle, and the
+practical application of all this is in taking the
+greatest possible care to rig the surface at the
+correct angle and to maintain it at such angle.
+Any deviation will adversely affect the lift-drift
+ratio, i.e., the efficiency.
+
+3. Camber.--(Refer to the second illustration in this
+chapter.) The lifting surfaces are cambered, i.e.,
+curved, in order to decrease the horizontal component
+of the reaction, i.e., the drift.
+
+The bottom camber: If the bottom of the surface
+was flat, every particle of air meeting it would do
+so with a shock, and such shock would produce a
+very considerable horizontal reaction or drift. By
+curving it such shock is diminished, and the curve
+should be such as to produce a uniform (not
+necessarily constant) acceleration and compression
+of the air from the leading edge to the trailing
+edge. Any unevenness in the acceleration and
+compression of the air produces drift.
+
+The top camber: If this was flat it would produce
+a rarefied area of irregular shape. I have already
+explained the bad effect this has upon the lift-
+drift ratio. The top surface is then curved to
+produce a rarefied area the shape of which shall
+be as stream-line and free from attendant eddies
+as possible.
+
+The camber varies with the angle of incidence,
+the velocity, and the thickness of the surface.
+Generally speaking, the greater the velocity, the
+less the camber and angle of incidence. With
+infinite velocity the surface would be set at no
+angle of incidence (the neutral lift line coincident
+with the direction of motion relative to the air),
+and would be, top and bottom, of pure streamline
+form--i.e., of infinite fineness. This is, of
+course, carrying theory to absurdity as the surface
+would then cease to exist.
+
+The best cambers for varying velocities, angles
+of incidence, and thicknesses of surface, are found
+by means of wind-tunnel research. The practical
+application of all this is in taking the greatest
+care to prevent the surface from becoming distorted
+and thus spoiling the camber and consequently
+the lift-drift ratio.
+
+4. Aspect Ratio.--This is the proportion of span to
+chord. Thus, if the span is, for instance, 50 feet
+and the chord 5 feet, the surface would be said to
+have an aspect ratio of 10 to 1.
+
+For A GIVEN VELOCITY and A GIVEN AREA of surface,
+the greater the aspect ratio, the greater the reaction.
+It is obvious, I think, that the greater
+the span, the greater the mass of air engaged,
+and, as already explained, the reaction is partly
+the result of the mass of air engaged.
+
+Not only that, but, PROVIDED the chord is not
+decreased to an extent making it impossible to
+secure the best camber owing to the thickness of
+the surface, the greater the aspect ratio, the better
+the lift-drift ratio. The reason of this is rather
+obscure. It is sometimes advanced that it is
+owing to the ``spill'' of air from under the wing-
+tips. With a high aspect ratio the chord is less
+than would otherwise be the case. Less chord
+results in smaller wing-tips and consequently less
+``spill.'' This, however, appears to be a rather
+inadequate reason for the high aspect ratio producing
+the high lift-drift ratio. Other reasons
+are also advanced, but they are of such a contentious
+nature I do not think it well to go into them
+here. They are of interest to designers, but this
+is written for the practical pilot and rigger.
+
+5. Stagger.--This is the advancement of the top surface
+relative to the bottom surface, and is not, of course,
+applicable to a single surface, i.e., a monoplane.
+In the case of a biplane having no stagger, there
+will be ``interference'' and consequent loss of
+Efficiency unless the gap between the top and bottom
+surfaces is equal to not less than 1 1/2  times the
+chord. If less than that, the air engaged by the
+bottom of the top surface will have a tendency
+to be drawn into the rarefied area over the top
+of the bottom surface, with the result that the
+surfaces will not secure as good a reaction as would
+otherwise be the case.
+
+It is not practicable to have a gap of much
+more than a distance equal to the chord, owing
+to the drift produced by the great length of struts
+and wires such a large gap would necessitate.
+By staggering the top surface forward, however,
+
+it is removed from the action of the lower surface
+and engages undisturbed air, with the result that
+the efficiency can in this way be increased by
+about 5 per cent. Theoretically the top plane
+should be staggered forward for a distance equal
+to about 30 per cent. of the chord, the exact
+distance depending upon the velocity and angle
+of incidence; but this is not always possible to
+arrange in designing an aeroplane, owing to difficulties
+of balance, desired position, and view of
+pilot, observer, etc.
+
+6. Horizontal Equivalent.--The vertical component of
+the reaction, i.e., lift, varies as the horizontal
+equivalent (H.E.) of the surface, but the drift
+remains the same. Then it follows that if H.E. grows
+less, the ratio of lift to drift must do the same.
+
+A, B, and C are front views of three surfaces.
+
+A has its full H.E., and therefore, from the point
+of view from which we are at the moment considering
+efficiency, it has its best lift-drift ratio.
+
+B and C both possess the same surface as A,
+but one is inclined upwards from its centre and
+the other is straight but tilted. For these reasons
+their H.E.'s are, as illustrated, less than in the
+case of A. That means less vertical lift, and,
+the drift remaining the same (for there is the
+same amount of surface as in A to produce it),
+the lift-drift ratio falls.
+
+THE MARGIN OF POWER is the power available above
+that necessary to maintain horizontal flight.
+
+THE MARGIN OF LIFT is the height an aeroplane can gain
+in a given time and starting from a given altitude.
+As an example, thus: 1,000 feet the first minute,
+and starting from an altitude of 500 feet above
+sea-level.
+
+The margin of lift decreases with altitude, owing
+to the decrease in the density of the air, which
+adversely affects the engine. Provided the engine
+maintained its impulse with altitude, then, if we
+ignore the problem of the propeller, which I will
+go into later on, the margin of lift would not
+disappear. Moreover, greater velocity for a given
+power would be secured at a greater altitude, owing
+to the decreased density of air to be overcome.
+After reading that, you may like to light your pipe
+and indulge in dreams of the wonderful possibilities
+which may become realities if some brilliant genius
+shows us some day how to secure a constant power
+with increasing altitude. I am afraid, however,
+that will always remain impossible; but it is probable
+that some very interesting steps may be taken in
+that direction.
+
+THE MINIMUM ANGLE OF INCIDENCE is the smallest
+angle at which, for a given power, surface (including
+detrimental surface), and weight, horizontal flight
+can be maintained.
+
+THE MAXIMUM ANGLE OF INCIDENCE is the greatest
+angle at which, for a given power, surface (including
+detrimental surface), and weight, horizontal flight
+can be maintained.
+
+THE OPTIMUM ANGLE OF INCIDENCE is the angle at
+which the lift-drift ratio is highest. In modern
+aeroplanes it is that angle of incidence possessed by the
+surface when the axis of the propeller is horizontal.
+
+THE BEST CLIMBING ANGLE is approximately half-way
+between the maximum and the optimum angles.
+
+All present-day aeroplanes are a compromise between
+Climb and horizontal Velocity. We will compare
+the essentials for two aeroplanes, one designed for
+maximum climb, and the other for maximum velocity.
+
+ESSENTIALS FOR MAXIMUM CLIMB:
+
+1. Low velocity, in order to secure the best lift-drift
+ratio.
+
+2. Having a low velocity, a large surface will be
+necessary in order to engage the necessary mass
+of air to secure the requisite lift.
+
+3. Since (1) such a climbing machine will move
+along an upward sloping path, and (2) will climb
+with its propeller thrust horizontal, then a large
+angle relative to the direction of the thrust will be
+necessary in order to secure the requisite angle
+relative to the direction of motion.
+
+The propeller thrust should be always horizontal, because
+the most efficient flying-machine (having regard to climb OR
+velocity) has, so far, been found to be an arrangement of an
+inclined surface driven by a HORIZONTAL thrust--the surface
+lifting the weight, and the thrust overcoming the drift.
+This is, in practice, a far more efficient arrangement than
+the helicopter, i.e., the air-screw revolving about a vertical
+axis and producing a thrust opposed to gravity. If, when
+climbing, the propeller thrust is at such an angle as to tend
+to haul the aeroplane upwards, then it is, in a measure,
+acting as a helicopter, and that means inefficiency. The
+reason of a helicopter being inefficient in practice is due to
+the fact that, owing to mechanical difficulties, it is impossible
+to construct within a reasonable weight an air-screw of the
+requisite dimensions. That being so, it would be necessary,
+in order to absorb the power of the engine, to revolve the
+comparatively small-surfaced air screw at an immensely
+greater velocity than that of the aeroplane's surface. As
+already explained, the lift-drift ratio falls with velocity on
+account of the increase in passive drift. This applies to a
+blade of a propeller or air-screw, which is nothing but a
+revolving surface set at angle of incidence, and which it is
+impossible to construct without a good deal of detrimental
+surface near the central boss.
+
+4. The velocity being low, then it follows that for
+that reason also the angle of incidence should be
+comparatively large.
+
+5. Camber.--Since such an aeroplane would be of
+low velocity, and therefore possess a large angle
+of incidence, a large camber would be necessary.
+
+Let us now consider the essentials for an aeroplane of
+maximum velocity for its power, and possessing merely
+enough lift to get off the ground, but no margin of lift.
+
+1. Comparatively HIGH VELOCITY.
+
+2. A comparatively SMALL SURFACE, because, being
+of greater velocity than the maximum climber,
+a greater mass of air will be engaged for a given
+surface and time, and therefore a smaller surface
+will be sufficient to secure the requisit lift.
+
+3. A small angle relative to the propeller thrust, since
+the latter coincides with the direction of motion.
+
+4. A comparatively small angle of incidence by reason
+of the high velocity.
+
+5. A comparatively small camber follows as a result
+of the small angle of incidence.
+
+
+SUMMARY.
+
+Essentials for Maximum            Essentials for Maximum
+        Climb.                            Velocity
+
+1. Low velocity.                  High velocity.
+2. Large surface.                 Small surface.
+3. Large angle relative to        Small angle relative to
+   propeller thrust.                 propeller thrust.
+4. Large angle relative to        Small angle relative to direction
+   direction of motion.              of motion.
+5. Large camber.                  Small camber.
+
+
+It is mechanically impossible to construct an aeroplane
+of reasonable weight of which it would be possible to very
+the above opposing essentials. Therefore, all aeroplanes
+are designed as a compromise between Climb and Velocity.
+
+As a rule aeroplanes are designed to have at low altitude
+a slight margin of lift when the propeller thrust is horizontal.
+
+
+ANGLES OF INCIDENCE (INDICATED APPROXIMATELY) OF AN AEROPLANE
+DESIGNED AS A COMPROMISE BETWEEN
+VELOCITY AND CLIMB, AND POSSESSING A SLIGHT MARGIN OF LIFT AT A LOW
+ALTITUDE AND WHEN THE THRUST IS HORIZONTAL
+
+MINIMUM ANGLE.
+
+This gives the greatest velocity
+during horizontal flight at a low
+altitude. Greater velocity would
+be secured if the surface, angle,
+and camber were smaller and designed
+to just maintain horizontal
+flight with a horizontal thrust.
+Also, in such case, the propeller
+would not be thrusting downwards,
+but along a horizontal line
+which is obviously a more efficient
+arrangement if we regard
+the aeroplane merely from one
+point of view, i.e., either with
+reference to velocity OR climb.
+
+OPTIMUM ANGLE
+(Thrust horizontal)
+
+The velocity is less than at the
+smaller minimum angle, and, as
+aeroplanes are designed to-day, the
+area and angle of incidence of the
+surface is such as to secure a
+slight ascent at a low altitude. The
+camber of the surface is designed
+for this angle of incidence and
+velocity. The lift-drift ratio is
+best at this angle.
+
+BEST CLIMBING ANGLE
+
+The velocity is now still less by
+reason of the increased angle
+producing increase of drift. Less
+velocity at A GIVEN ANGLE produces
+less lift, but the increased angle
+more or less offsets the loss of lift
+due to the decreased velocity, and
+in addition, the thrust is now hauling
+the aeroplane upwards.
+
+MAXIMUM ANGLE
+
+The greater angle has now produced
+so much drift as to lessen
+the velocity to a point where the
+combined lifts from the surface
+and from the thrust are only just
+able to maintain horizontal flight.
+Any greater angle will result in a
+still lower lift-drift ratio. The lift
+will then become less than the
+weight and the aeroplane will
+consequently fall. Such a fall is
+known as ``stalling'' or ``pancaking.''
+
+NOTE.--The golden rule for beginners: Never exceed the Best Climbing Angle.
+Always maintain the flying speed of the aeroplane.
+
+
+By this means, when the altitude is reached where the margin
+of lift disappears (on account of loss of engine power), and
+which is, consequently, the altitude where it is just possible
+to maintain horizontal flight, the aeroplane is flying with
+its thrust horizontal and with maximum efficiency (as distinct
+from engine and propeller efficiency).
+
+The margin of lift at low altitude, and when the thrust
+is horizontal, should then be such that the higher altitude at
+which the margin of lift is lost is that altitude at which most
+of the aeroplane's horizontal flight work is done. That
+ensures maximum velocity when most required.
+
+Unfortunately, where aeroplanes designed for fighting
+are concerned, the altitude where most of the work is done
+is that at which both maximum velocity and maximum
+margin of lift for power are required.
+
+Perhaps some day a brilliant inventor will design an
+aeroplane of reasonable weight and drift of which it will be
+possible for the pilot to vary at will the above-mentioned
+opposing essentials. Then we shall get maximum velocity,
+or maximum margin of lift, for power as required. Until
+then the design of the aeroplane must remain a compromise
+between Velocity and Climb.
+
+
+
+CHAPTER II
+
+STABILITY AND CONTROL
+
+STABILITY is a condition whereby an object disturbed
+has a natural tendency to return to its first and normal
+position. Example: a weight suspended by a cord.
+
+INSTABILITY is a condition whereby an object disturbed
+has a natural tendency to move as far as possible away from
+its first position, with no tendency to return. Example:
+a stick balanced vertically upon your finger.
+
+NEUTRAL INSTABILITY is a condition whereby an object
+disturbed has no tendency to move farther than displaced
+by the force of the disturbance, and no tendency to return
+to its first position.
+
+In order that an aeroplane may be reasonably controllable,
+it is necessary for it to possess some degree of stability
+longitudinally, laterally, and directionally.
+
+LONGITUDINAL STABILITY in an aeroplane is its stability
+about an axis transverse to the direction of normal horizontal
+flight, and without which it would pitch and toss.
+
+LATERAL STABILITY is its stability about its longitudinal
+axis, and without which it would roll sideways.
+
+DIRECTIONAL STABILITY is its stability about its vertical
+axis, and without which it would have no tendency to keep
+its course.
+
+For such directional stability to exist there must be,
+in effect,[[16]] more ``keel-surface'' behind the vertical axis
+than there is in front of it. By keel-surface I mean every-
+thing to be seen when looking at an aeroplane from the side
+of it--the sides of the body, undercarriage, struts, wires, etc.
+The same thing applies to a weathercock. You know what
+would happen if there was insufficient keel-surface behind
+the vertical axis upon which it is pivoted. It would turn
+off its proper course, which is opposite to the direction of
+the wind. It is very much the same in the case of an aeroplane.
+
+[[16]] ``In effect'' because, although there may be actually the greatest proportion
+of keel-surface In front of the vertical axis, such surface may be much nearer to
+the axis than is the keel-surface towards the tail. The latter may then be actually
+less than the surface in front, but, being farther from the axis, it has a greater
+leverage, and consequently is greater in effect than the surface in front.
+
+The above illustration represents an aeroplane (directionally
+stable) flying along the course B. A gust striking it
+as indicated acts upon the greater proportion of keel-surface
+behind the turning axis and throws it into the new course.
+It does not, however, travel along the new course, owing to
+its momentum in the direction B. It travels, as long as
+such momentum lasts, in a direction which is the resultant
+of the two forces Thrust and Momentum. But the centre
+line of the aeroplane is pointing in the direction of the new
+course. Therefore its attitude, relative to the direction of
+motion, is more or less sideways, and it consequently receives
+an air pressure in the direction C. Such pressure, acting
+upon the keel-surface, presses the tail back towards its first
+position in which the aeroplane is upon its course B.
+
+What I have described is continually going on during
+flight, but in a well-designed aeroplane such stabilizing
+movements are, most of the time, so slight as to be imperceptible
+to the pilot.
+
+If an aeroplane was not stabilized in this way, it would
+not only be continually trying to leave its course, but it would
+also possess a dangerous tendency to ``nose away'' from the
+direction of the side gusts. In such case the gust shown in
+the above illustration would turn the aeroplane round the
+opposite way a very considerable distance; and the right
+wing, being on the outside of the turn, would travel with
+greater velocity than the left wing. Increased velocity
+means increased lift; and so, the right wing lifting, the
+aeroplane would turn over sideways very quickly.
+
+LONGITUDINAL STABILITY.--Flat surfaces are longitudinally
+stable owing to the fact that with decreasing angles of
+incidence the centre line of pressure (C.P.) moves forward.
+
+The C.P. is a line taken across the surface, transverse
+to the direction of motion, and about which all the air forces
+may be said to balance, or through which they may be said
+to act.
+
+
+Imagine A to be a flat surface, attitude vertical, travelling
+through the air in the direction of motion M. Its C.P. is
+then obviously along the exact centre line of the surface
+as illustrated.
+
+In B, C, and D the surfaces are shown with angles of
+incidence decreasing to nothing, and you will note that the
+C.P. moves forward with the decreasing angle.
+
+Now, should some gust or eddy tend to make the surface
+decrease the angle, i.e., dive, then the C.P. moves forward
+and pushes the front of the surface up. Should the surface
+tend to assume too large an angle, then the reverse
+happens--the C.P. moves back and pushes the rear of the
+surface up.
+
+Flat surfaces are, then, theoretically stable longitudinally.
+They are not, however, used, on account of their poor
+lift-drift ratio.
+
+As already explained, cambered surfaces are used, and
+these are longitudinally unstable at those angles of incidence
+producing a reasonable lift-drift ratio, i.e., at angles below:
+about 12 degrees.
+
+A is a cambered surface, attitude approximately vertical,
+moving through the air in the direction M. Obviously the C. P.
+coincides with the transverse centre line of the surface.
+
+With decreasing angles, down to angles of about 30 degrees,
+the C.P. moves forward as in the case of flat surfaces (see B),
+but angles above 30 degrees do not interest us, since they produce
+a very low ratio of lift to drift.
+
+Below angles of about 30 degrees (see C) the dipping front part
+of the surface assumes a negative angle of incidence resulting
+in the DOWNWARD air pressure D, and the more the angle of
+incidence is decreased, the greater such negative angle and its
+resultant pressure D. Since the C.P. is the resultant of all
+the air forces, its position is naturally affected by D, which
+causes it to move backwards. Now, should some gust or
+eddy tend to make the surface decrease its angle of incidence,
+i.e., dive, then the C.P. moves backwards, and, pushing up
+the rear of the surface, causes it to dive the more. Should
+the surface tend to assume too large an angle, then the reverse
+happens; the pressure D decreases, with the result
+that C.P. moves forward and pushes up the front of the surface,
+thus increasing the angle still further, the final result
+being a ``tail-slide.''
+
+It is therefore necessary to find a means of stabilizing
+the naturally unstable cambered surface. This is usually
+secured by means of a stabilizing surface fixed some distance
+in the rear of the main surface, and it is a necessary condition
+that the neutral lift lines of the two surfaces, when projected
+to meet each other, make a dihedral angle. In other words,
+the rear stabilizing surface must have a lesser angle of
+incidence than the main surface--certainly not more than
+one-third of that of the main surface. This is known as the
+longitudinal dihedral.
+
+I may add that the tail-plane is sometimes mounted upon
+the aeroplane at the same angle as the main surface, but,
+in such cases, it attacks air which has received a downward
+deflection from the main surface, thus:
+
+{illust.}
+
+
+The angle at which the tail surface attacks the air (the.
+angle of incidence) is therefore less than the angle of incidence
+of the main surface.
+
+I will now, by means of the following illustration, try
+to explain how the longitudinal dihedral secures stability:
+
+First, imagine the aeroplane travelling in the direction
+of motion, which coincides with the direction of thrust T.
+The weight is, of course, balanced about a C.P., the resultant
+of the C.P. of the main surface and the C.P. of the stabilizing
+surface. For the sake of illustration, the stabilizing surface
+has been given an angle of incidence, and therefore has a
+lift and C.P. In practice the stabilizer is often set at no
+angle of incidence. In such case the proposition remains
+the same, but it is, perhaps, a little easier to illustrate it
+as above.
+
+Now, we will suppose that a gust or eddy throws the
+machine into the lower position. It no longer travels in
+the direction of T, since the momentum in the old direction
+pulls it off that course. M is now the resultant of the Thrust
+and the Momentum, and you will note that this results in a
+decrease in the angle our old friend the neutral lift line makes
+with M, i.e., a decrease in the angle of incidence and therefore
+a decrease in lift.
+
+We will suppose that this decrease is 2 degrees. Such decrease
+applies to both main surface and stabilizer, since both are
+fixed rigidly to the aeroplane.
+
+The main surface, which had 12 degrees angle, has now only
+10 degrees, i.e., a loss of ONE-SIXTH.
+
+The stabilizer, which had 4 degrees angle, has now only 2 degrees,
+i.e., a loss of ONE-HALF.
+
+The latter has therefore lost a greater PROPORTION of its
+angle of incidence, and consequently its lift, than has the
+main surface. It must then fall relative to the main surface.
+The tail falling, the aeroplane then assumes its first position,
+though at a slightly less altitude.
+
+Should a gust throw the nose of the aeroplane up, then
+the reverse happens. Both main surface and stabilizer
+increase their angles of incidence in the same amount, but
+the angle, and therefore the lift, of the stabilizer increases
+in greater proportion than does the lift of the main surface,
+with the result that it lifts the tail. The aeroplane then
+assumes its first position, though at a slightly greater
+altitude.
+
+Do not fall into the widespread error that the angle of
+incidence varies as the angle of the aeroplane to the horizontal.
+It varies with such angle, but not as anything approaching it.
+Remember that the stabilizing effect of the longitudinal
+dihedral lasts only as long as there is momentum in the direction
+of the first course.
+
+These stabilizing movements are taking place all the
+time, even though imperceptible to the pilot.
+
+Aeroplanes have, in the past, been built with a stabilizing
+surface in front of the main surface instead of at the rear of
+it. In such design the main surface (which is then the tail
+surface as well as the principal lifting surface) must be set
+at a less angle than the forward stabilizing surface, in order
+to secure a longitudinal dihedral. The defect of such design
+lies in the fact that the main surface must have a certain angle
+to lift the weight--say 5 degrees. Then, in order to secure a
+sufficiency of longitudinal stability, it is necessary to set the
+forward stabilizer at about 15 degrees. Such a large angle of incidence
+results in a very poor lift-drift ratio (and consequently great
+loss of efficiency), except at very low velocities compared with
+the speed of modern aeroplanes. At the time such aeroplanes
+were built velocities were comparatively low, and this defect
+was; for that reason, not sufficiently appreciated. In the end
+it killed the ``canard'' or ``tail-first'' design.
+
+Aeroplanes of the Dunne and similar types possess no
+stabilizing surface distinct from the main surface, but they
+have a longitudinal dihedral which renders them stable.
+
+The main surface towards the wing-tips is given a
+decreasing angle of incidence and corresponding camber. The
+wing-tips then act as longitudinal stabilizers.
+
+This design of aeroplane, while very interesting, has
+not proved very practicable, owing to the following
+disadvantages: (1) The plan design is not, from a mechanical
+point of view, so sound as that of the ordinary aeroplane
+surface, which is, in plan, a parallelogram. It is, then,
+necessary to make the strength of construction greater than
+would otherwise be the case. That means extra weight.
+(2) The plan of the surface area is such that the aspect ratio
+is not so high as if the surface was arranged with its leading
+edges at right angles to the direction of motion. The lower
+the aspect ratio, then, the less the lift. This design, then,
+produces less lift for weight of surface than would the same
+surface if arranged as a parallelogram. (3) In order to secure
+the longitudinal dihedral, the angle of incidence has to be
+very much decreased towards the wing-tips. Then, in order
+that the lift-drift ratio may be preserved, there must be a
+corresponding decrease in the camber. That calls for surface
+ribs of varying cambers, and results in an expensive and
+lengthy job for the builder. (4) In order to secure directional
+stability, the surface is, in the centre, arranged to dip down
+in the form of a V, pointing towards the direction of motion.
+Should the aeroplane turn off its course, then its momentum
+in the direction of its first course causes it to move in a
+direction the resultant of the thrust and the momentum. It
+then moves in a more or less sideways attitude, which results
+in an air pressure upon one side of the V, and which tends to
+turn the aeroplane back to its first course. This arrangement
+of the surface results in a bad drift. Vertical surfaces at
+the wing-tips may also be set at an angle producing the same
+stabilizing effect, but they also increase the drift.
+
+The gyroscopic action of a rotary engine will affect the
+longitudinal stability when an aeroplane is turned to right
+or left. In the case of a Gnome engine, such gyroscopic
+action will tend to depress the nose of the aeroplane when it
+is turned to the left, and to elevate it when it is turned to
+the right. In modern aeroplanes this tendency is not sufficiently
+important to bother about. In the old days of crudely
+designed and under-powered aeroplanes this gyroscopic action
+was very marked, and led the majority of pilots to dislike
+turning an aeroplane to the right, since, in doing so, there
+was some danger of ``stalling.''
+
+
+LATERAL STABILITY is far more difficult for the designer
+to secure than is longitudinal or directional stability. Some
+degree of lateral stability may be secured by means of the
+``lateral dihedral,'' i.e., the upward inclination of the surface
+towards its wing-tips thus:
+
+Imagine the top V, illustrated opposite, to be the front
+view of a surface flying towards you. The horizontal equivalent
+(H.E.) of the left wing is the same as that of the right
+wing. Therefore, the lift of one wing is equal to the lift
+of the other, and the weight, being situated always in the
+centre, is balanced.
+
+If some movement of the air causes the surface to tilt
+sideways, as in the lower illustration, then you will note that
+the H.E. of the left wing increases, and the H.E. of the right
+wing decreases. The left wing then, having the greatest
+lift, rises; and the surface assumes its first and normal
+position.
+
+Unfortunately however, the righting effect is not proportional
+to the difference between the right and left H.E.'s.
+
+
+
+In the case of A, the resultant direction of the reaction
+of both wings is opposed to the direction of gravity or weight.
+The two forces R R and gravity are then evenly balanced,
+and the surface is in a state of equilibrium.
+
+In the case of B, you will note that the R R is not directly
+opposed to gravity. This results in the appearance of M,
+and so the resultant direction of motion of the aeroplane
+is no longer directly forward, but is along a line the resultant
+of the thrust and M. In other words, it is, while flying
+forward, at the same time moving sideways in the direction M.
+
+In moving sideways, the keel-surface receives, of course,
+a pressure from the air equal and opposite to M. Since
+such surface is greatest in effect towards the tail, then the
+latter must be pushed sideways. That causes the aeroplane
+to turn; and, the highest wing being on the outside of the
+turn, it has a greater velocity than the lower wing. That
+produces greater lift, and tends to tilt the aeroplane over
+still more. Such tilting tendency is, however, opposed by
+the difference in the H.E.'s of the two wings.
+
+It then follows that, for the lateral dihedral angle to
+be effective, such angle must be large enough to produce,
+when the aeroplane tilts, a difference in the H.E.'s of the
+two wings, which difference must be sufficient to not only
+oppose the tilting tendency due to the aeroplane turning,
+but sufficient to also force the aeroplane back to its original
+position of equilibrium.
+
+It is now, I hope, clear to the reader that the lateral
+dihedral is not quite so effective as would appear at first
+sight. Some designers, indeed, prefer not to use it, since its
+effect is not very great, and since it must be paid for in loss
+of H.E. and consequently loss of lift, thus decreasing the lift-
+drift ratio, i.e., the efficiency. Also, it is sometimes advanced
+that the lateral dihedral increases the ``spill'' of air from the
+wing-tips and that this adversely affects the lift-drift ratio.
+
+The disposition of the keel-surface affects the lateral
+stability. It should be, in effect, equally divided by the
+longitudinal turning axis of the aeroplane. If there is an
+excess of keel-surface above or below such axis, then a side
+gust striking it will tend to turn the aeroplane over sideways.
+
+The position of the centre of gravity affects lateral stability.
+If too low, it produces a pendulum effect and causes the
+aeroplane to roll sideways.
+
+If too high, it acts as a stick balanced vertically would
+act. If disturbed, it tends to travel to a position as far as
+possible from its original position. It would then tend,
+when moved, to turn the aeroplane over sideways and into
+an upside-down position.
+
+From the point of view of lateral stability, the best
+position for the centre of gravity is one a little below the
+centre of drift.
+
+Propeller torque affects lateral stability. An aeroplane
+tends to turn over sideways in the opposite direction to which
+the propeller revolves.
+
+This tendency is offset by increasing the angle of incidence
+(and consequently the lift) of the side tending to fall; and it
+is always advisable, if practical considerations allow it, to
+also decrease the angle upon the other side. In that way
+it is not necessary to depart so far from the normal angle
+of incidence at which the lift-drift ratio is highest.
+
+Wash-in is the term applied to the increased angle.
+
+Wash-out is the term applied to the decreased angle.
+
+Both lateral and directional stability may be improved
+by washing out the angle of incidence on both sides of the
+surface, thus:
+
+The decreased angle decreases the drift and therefore the
+effect of gusts upon the wing-tips which is just where they
+have the most effect upon the aeroplane, owing to the distance
+from the turning axis.
+
+The wash-out also renders the ailerons (lateral controlling
+services) more effective, as, in order to operate them, it is
+not then necessary to give them such a large angle of incidence
+as would otherwise be required.
+
+
+
+The less the angle of incidence of the ailerons, the better
+their lift-drift ratio, i.e., their efficiency. You will note
+that, while the aileron attached to the surface with washed-out
+angle is operated to the same extent as the aileron illustrated
+above it, its angle of incidence is considerably less. Its efficiency
+is therefore greater.
+
+The advantages of the wash-in must, of course be paid for
+in some loss of lift, as the lift decreases with the decreased angle.
+
+In order to secure all the above described advantages,
+a combination is sometimes effected, thus:
+
+BANKING.--An aeroplane turned off its course to right
+or left does not at once proceed along its new course. Its
+momentum in the direction of its first course causes it to
+travel along a line the resultant of such momentum and the
+thrust. In other words, it more or less skids sideways and
+away from the centre of the turn. Its lifting surfaces do
+not then meet the air in their correct attitude, and the lift
+may fall to such an extent as to become less than the weight,
+in which case the aeroplane must fall. This bad effect is
+minimized by ``banking,'' i.e., tilting the aeroplane sideways.
+The bottom of the lifting surface is in that way opposed to
+the air through which it is moving in the direction of the
+momentum and receives an opposite air pressure. The
+rarefied area over the top of the surface is rendered still more
+rare, and this, of course, assists the air pressure in opposing
+the momentum.
+
+The velocity of the ``skid,'' or sideways movement, is
+then only such as is necessary to secure an air pressure equal
+and opposite to the centrifugal force of the turn.
+
+The sharper the turn, the greater the effect of the centrifugal
+force, and therefore the steeper should be the ``bank.''
+Experentia docet.
+
+The position of the centre of gravity affects banking. A low
+C.G. will tend to swing outward from the centre of the turn,
+and will cause the aeroplane to bank--perhaps too much, in
+which case the pilot must remedy matters by operating the
+ailerons.
+
+A high C.G. also tends to swing outward from the centre
+of the turn. It will tend to make the aeroplane bank the
+wrong way, and such effect must be remedied by means of
+the ailerons.
+
+The pleasantest machine from a banking point of view is
+one in which the C.G. is a little below the centre of drift.
+It tends to bank the aeroplane the right way for the turn,
+and the pilot can, if necessary, perfect the bank by means
+of the ailerons.
+
+The disposition of the keel-surface affects banking. It
+should be, in effect, evenly divided by the longitudinal axis.
+An excess of keel-surface above the longitudinal axis will,
+when banking, receive an air pressure causing the aeroplane
+to bank, perhaps too much. An excess of keel-surface below
+the axis has the reverse effect.
+
+
+SIDE-SLIPPING.--This usually occurs as a result of over-
+banking. It is always the result of the aeroplane tilting
+sideways and thus decreasing the horizontal equivalent, and
+therefore the lift, of the surface. An excessive ``bank,''
+or sideways tilt, results in the H.E., and therefore the lift,
+becoming less than the weight, when, of course, the aeroplane
+must fall, i.e., side-slip.
+
+
+When making a very sharp turn it is necessary to bank
+very steeply indeed. If, at the same time, the longitudinal
+axis of the aeroplane remains approximately horizontal,
+then there must be a fall, and the direction of motion will be
+the resultant of the thrust and the fall as illustrated above
+in sketch A. The lifting surfaces and the controlling surfaces
+are not then meeting the air in the correct attitude,
+with the result that, in addition to falling, the aeroplane
+will probably become quite unmanageable.
+
+The Pilot, however, prevents such a state of affairs from
+happening by ``nosing-down,'' i.e., by operating the rudder
+to turn the nose of the aeroplane downward and towards
+the direction of motion as illustrated in sketch B. This
+results in the higher wing, which is on the outside of the turn,
+travelling with greater velocity, and therefore securing a
+greater reaction than the lower wing, thus tending to tilt
+the aeroplane over still more. The aeroplane is now almost
+upside-down, but its attitude relative to the direction of
+motion is correct and the controlling surfaces are all of them
+working efficiently. The recovery of a normal attitude
+relative to the Earth is then made as illustrated in sketch C.
+
+The Pilot must then learn to know just the angle of bank
+at which the margin of lift is lost, and, if a sharp turn
+necessitates banking beyond that angle, he must ``nose-down.''
+
+In this matter of banking and nosing-down, and, indeed,
+regarding stability and control generally, the golden rule
+for all but very experienced pilots should be: Keep the
+aeroplane in such an attitude that the air pressure is always
+directly in the pilot's face. The aeroplane is then always
+engaging the air as designed to do so, and both lifting and
+controlling surfaces are acting efficiently. The only exception
+to this rule is a vertical dive, and I think that is
+obviously not an attitude for any but very experienced
+pilots to hanker after.
+
+SPINNING.--This is the worst of all predicaments the
+pilot can find himself in. Fortunately it rarely happens.
+
+It is due to the combination of (1) a very steep spiral
+descent of small radius, and (2) insufficiency of keel-surface
+behind the vertical axis, or the jamming of the rudder
+end or elevator into a position by which the aeroplane is forced
+into an increasingly steep and small spiral.
+
+Owing to the small radius of such a spiral, the mass of
+the aeroplane may gain a rotary momentum greater, in effect,
+than the air pressure of the keel-surface or controlling surfaces
+opposed to it; and, when once such a condition occurs,
+it is difficult to see what can be done by the pilot to remedy
+it. The sensible pilot will not go beyond reasonable limits
+of steepness and radius when executing spiral descents.
+
+GLIDING DESCENT WITHOUT PROPELLER THRUST.--All
+aeroplanes are, or should be, designed to assume their gliding
+angle when the power and thrust is cut off. This relieves
+the pilot of work, worry, and danger should he find himself
+in a fog or cloud. The Pilot, although he may not realize
+it, maintains the correct attitude of the aeroplane by observing
+its position relative to the horizon. Flying into a
+fog or cloud the horizon is lost to view, and he must then rely
+upon his instruments--(1) the compass for direction; (2) an
+inclinometer (arched spirit-level) mounted transversely to
+the longitudinal axis, for lateral stability; and (3) an inclinometer
+mounted parallel to the longitudinal axis, or the airspeed
+indicator, which will indicate a nose-down position
+by increase in air speed, and a tail-down position by decrease
+in air speed.
+
+The pilot is then under the necessity of watching three
+instruments and manipulating his three controls to keep the
+instruments indicating longitudinal, lateral, and directional
+stability. That is a feat beyond the capacity of the ordinary
+man. If, however, by the simple movement of throttling
+down the power and thrust, he can be relieved of looking
+after the longitudinal stability, he then has only two instruments
+to watch. That is no small job in itself, but it is,
+at any rate, fairly practicable.
+
+Aeroplanes are, then, designed, or should be, so that the
+centre of gravity is slightly forward of centre of lift. The
+aeroplane is then, as a glider, nose-heavy--and the distance
+the C.G. is placed in advance of the C.L. should be such as
+to ensure a gliding angle producing a velocity the same as
+the normal flying speed (for which the strength of construction
+has been designed).
+
+In order that this nose-heavy tendency should not exist
+when the thrust is working and descent not required, the
+centre of thrust is placed a little below the centre of drift
+or resistance, and thus tends to pull up the nose of the
+aeroplane.
+
+The distance the centre of thrust is placed below the
+centre of drift should be such as to produce a force equal
+and opposite to that due to the C.G. being forward of the
+C.L.
+
+LOOPING AND UPSIDE DOWN FLYING.--If a loop is desired,
+it is best to throttle the engine down at point A. The C.G.
+being forward of the C.P., then causes the aeroplane to nose-
+down, and assists the pilot in making a reasonably small
+loop along the course C and in securing a quick recovery.
+If the engine is not throttled down, then the aeroplane may
+be expected to follow the course D, which results in a longer
+nose dive than in the case of the course C.
+
+A steady, gentle movement of the elevator is necessary.
+A jerky movement may change the direction of motion so
+suddenly as to produce dangerous air stresses upon the surfaces,
+in which case there is a possibility of collapse.
+
+If an upside-down flight is desired, the engine may, or
+may not, be throttled down at point A. If not throttled
+down, then the elevator must be operated to secure a course
+approximately in the direction B. If it is throttled down,
+then the course must be one of a steeper angle than B, or
+there will be danger of stalling.
+
+
+Diagram p. 88.--This is not set at quite
+the correct angle. Path B should slope
+slightly downwards from Position A.
+
+
+
+CHAPTER III
+
+RIGGING
+
+In order to rig an aeroplane intelligently, and to maintain
+it in an efficient and safe condition, it is necessary to possess
+a knowledge of the stresses it is called upon to endure, and
+the strains likely to appear.
+
+
+STRESS is the load or burden a body is called upon to
+bear. It is usually expressed by the result found by dividing
+the load by the number of superficial square inches contained
+in the cross-sectional area of the body.
+
+Thus, if, for instance, the object illustrated above contains
+4 square inches of cross-sectional area, and the total load
+it is called upon to endure is 10 tons, the stress would be
+expressed as 2 1/2 tons.
+
+
+STRAIN is the deformation produced by stress.
+
+
+THE FACTOR OF SAFETY is usually expressed by the result
+found by dividing the stress at which it is known the body
+will collapse, by the maximum stress it will be called upon to
+endure. For instance, if a control wire be called upon to endure
+a maximum stress of 2 cwts., and the known stress at which
+it will collapse is 10 cwts., the factor of safety is then 5.
+
+[cwts. = centerweights = 100 pound units as in cent & century.
+Interestinly enough, this word only exists today in abbreviation
+form, probably of centreweights, but the dictionary entries, even
+from a hundred years ago do not list this as a word, but do list
+c. or C. as the previous popular abbreviation as in Roman Numerals]
+The word listed is "hundredweight.  Michael S. Hart, 1997]
+
+
+COMPRESSION.--The simple stress of compression tends
+to produce a crushing strain. Example: the interplane and
+fuselage struts.
+
+
+TENSION.--The simple stress of tension tends to produce
+the strain of elongation. Example: all the wires.
+
+
+BENDING.--The compound stress of bending is a combination
+of compression and tension.
+
+The above sketch illustrates a straight piece of wood of
+which the top, centre, and bottom lines are of equal length.
+We will now imagine it bent to form a circle, thus:
+
+The centre line is still the same length as before being
+bent; but the top line, being farther from the centre of the
+circle, is now longer than the centre line. That can be due
+only to the strain of elongation produced by the stress of
+tension. The wood between the centre line and the top
+line is then in tension; and the farther from the centre,
+the greater the strain, and consequently the greater the
+tension.
+
+The bottom line, being nearest to the centre of the circle,
+is now shorter than the centre line. That can be due only
+to the strain of crushing produced by the stress of compression.
+The wood between the centre and bottom lines is
+then in compression; and the nearer the centre of the circle,
+the greater the strain, and consequently the greater the
+compression.
+
+It then follows that there is neither tension nor compression,
+i.e., no stress, at the centre line, and that the wood
+immediately surrounding it is under considerably less stress
+than the wood farther away. This being so, the wood in
+the centre may be hollowed out without unduly weakening
+struts and spars. In this way 25 to 33 per cent. is saved in
+the weight of wood in an aeroplane.
+
+The strength of wood is in its fibres, which should, as far
+as possible, run without break from one end of a strut or
+spar to the other end. A point to remember is that the
+outside fibres, being farthest removed from the centre line,
+are doing by far the greatest work.
+
+
+SHEAR STRESS IS such that, when material collapses under it,
+one part slides over the other. Example: all the locking pins.
+
+Some of the bolts are also in shear or ``sideways'' stress,
+owing to lugs under their heads and from which wires are
+taken. Such a wire, exerting a sideways pull upon a bolt,
+tries to break it in such a way as to make one piece of the bolt
+slide over the other piece.
+
+TORSION.--This is a twisting stress compounded of compression,
+tension, and shear stresses. Example: the propeller shaft.
+
+
+NATURE OF WOOD UNDER STRESS.--Wood, for its weight,
+takes the stress of compression far better than any other
+stress. For instance: a walking-stick of less than 1 lb. in
+weight will, if kept perfectly straight, probably stand up to
+a compression stress of a ton or more before crushing; whereas,
+if the same stick is put under a bending stress, it will probably
+collapse to a stress of not more than about 50 lb. That is
+a very great difference, and, since weight is of the greatest
+importance, the design of an aeroplane is always such as to,
+as far as possible, keep the various wooden parts of its
+construction in direct compression. Weight being of such vital
+importance, and designers all trying to outdo each other in
+saving weight, it follows that the factor of safety is rather
+low in an aeroplane. The parts in direct compression will,
+however, take the stresses safely provided the following
+conditions are carefully observed.
+
+CONDITIONS TO BE OBSERVED:
+
+
+1. All the spars and struts must be perfectly straight.
+
+The above sketch illustrates a section through an
+interplane strut. If the strut is to be kept straight,
+i.e., prevented from bending, then the stress of
+compression must be equally disposed about the
+centre of strength. If it is not straight, then
+there will be more compression on one side of the
+centre of strength than on the other side. That
+is a step towards getting compression on one side
+and tension on the other side, in which case it
+may be forced to take a bending stress for which
+it is not designed. Even if it does not collapse
+it will, in effect, become shorter, and thus throw
+out of adjustment the gap and all the wires attached
+to the top and bottom of the strut, with the result
+that the flight efficiency of the aeroplane will be
+spoiled.
+
+The only exception to the above condition is
+what is known as the Arch. For instance, in the
+case of the Maurice Farman, the spars of the centre-
+section plane, which have to take the weight of
+the nacelle, are arched upwards. If this was not
+done, it is possible that rough landings might
+result in the weight causing the spars to become
+slightly distorted downwards. That would produce
+a dangerous bending stress, but, as long as
+the wood is arched, or, at any rate, kept from
+bending downwards, it will remain in direct
+compression and no danger can result.
+
+
+2. Struts and spars must be symmetrical. By that I mean
+that the cross-sectional dimensions must be correct,
+as otherwise there will be bulging places on the
+outside, with the result that the stress will not be
+evenly disposed about the centre of strength, and
+a bending stress may be produced.
+
+
+3. Struts, spars, etc., must be undamaged. Remember
+that, from what I have already explained about
+bending stresses, the outside fibres of the wood are
+doing by far the most work. If these get bruised
+or scored, then the strut or spar suffers in strength
+much more than one might think at first sight;
+and, if it ever gets a tendency to bend, it is likely
+to collapse at that point.
+
+
+4. The wood must have a good, clear grain with no cross-
+grain, knots, or shakes. Such blemishes produce
+weak places and, if a tendency to bend appears,
+then it may collapse at such a point.
+
+5. The struts, spars, etc., must be properly bedded into
+their sockets or fittings. To begin with, they must
+be of good pushing or gentle tapping fit. They
+must never be driven in with a heavy hammer.
+Then again, a strut must bed well down all over its
+cross-sectional area as illustrated above; otherwise
+the stress of compression will not be evenly disposed
+about the centre of strength, and that may
+produce a bending stress. The bottom of the strut
+or spar should be covered with some sort of
+paint, bedded into the socket or fitting, and then
+withdrawn to see if the paint has stuck all over the
+bed.
+
+
+6. The atmosphere is sometimes much damper than at
+other times, and this causes wood to expand and
+contract appreciably. This would not matter but
+for the fact that it does not expand and contract
+uniformly, but becomes unsymmetrical, i.e., distorted.
+I have already explained the danger of that in
+condition 2. This should be minimized by WELL
+VARNISHING THE WOOD to keep the moisture out of it.
+
+
+FUNCTION OF INTERPLANE STRUTS.--These struts have to
+keep the lifting surfaces or ``planes'' apart, but this is only
+part of their work. They must keep the planes apart, so
+that the latter are in their correct attitude. That is only so
+when the spars of the bottom plane are parallel with those of
+the top plane. Also, the chord of the top plane must be
+parallel with the chord of the bottom plane. If that is not
+so, then one plane will not have the same angle of incidence
+as the other one. At first sight one might think that all
+that is necessary is to cut all the struts to be the same length,
+but that is not the case.
+
+Sometimes, as illustrated above, the rear spar is not so
+thick as the main spar, and it is then necessary to make
+up for that difference by making the rear struts correspondingly
+longer. If that is not done, then the top and
+bottom chords will not be parallel, and the top and bottom
+planes will have different angles of incidence. Also, the
+sockets or fittings, or even the spars upon which they are
+placed, sometimes vary in thickness owing to faulty manufacture.
+This must be offset by altering the length of the
+struts. The best way to proceed is to measure the distance
+between the top and bottom spars by the side of each strut,
+and if that distance, or ``gap'' as it is called, is not as stated
+in the aeroplane's specifications, then make it correct by
+changing the length of the strut. This applies to both front
+and rear interplane struts. When measuring the gap, always
+be careful to measure from the centre of the spar, as it may
+be set at an angle, and the rear of it may be considerably
+lower than its front.
+
+
+BORING HOLES IN WOOD.--It should be a strict rule that
+no spar be used which has an unnecessary hole in it. Before
+boring a hole, its position should be confirmed by whoever
+is in charge of the workshop. A bolt-hole should be of a size
+to enable the bolt to be pushed in, or, at any rate, not more
+than gently tapped in. Bolts should not be hammered in, as
+that may split the spar. On the other hand, a bolt should not
+be slack in its hole, as, in such a case, it may work sideways and
+split the spar, not to speak of throwing out of adjustment
+the wires leading from the lug or socket under the bolt-head.
+
+
+WASHERS.--Under the bolt-head, and also under the nut,
+a washer must be placed--a very large washer compared
+with the size which would be used in all-metal construction.
+This is to disperse the stress over a large area; otherwise
+the washer may be pulled into the wood and weaken it,
+besides possibly throwing out of adjustment the wires
+attached to the bolt or the fitting it is holding to the spar.
+
+
+LOCKING.--Now as regards locking the bolts. If split
+pins are used, be sure to see that they are used in such a way
+that the nut cannot possibly unscrew at all. The split pin
+should be passed through the bolt as near as possible to the
+nut. It should not be passed through both nut and bolt.
+
+If it is locked by burring over the edge of the bolt, do not
+use a heavy hammer and try to spread the whole head of
+the bolt. That might damage the woodwork inside the
+fabric-covered surface. Use a small, light hammer, and gently
+tap round the edge of the bolt until it is burred over.
+
+
+TURNBUCKLES.--A turnbuckle is composed of a central
+barrel into each end of which is screwed an eye-bolt. Wires
+are taken from the eyes of the eye-bolt, and so, by turning
+the barrel, they can be adjusted to their proper tension.
+Eye-bolts must be a good fit in the barrel; that is to say,
+not slack and not very tight. Theoretically it is not neces-
+sary to screw the eye-bolt into the barrel for a distance
+greater than the diameter of the bolt, but, in practice, it is
+better to screw it in for a considerably greater distance than
+that if a reasonable degree of safety is to be secured.
+
+Now about turning the barrel to secure the right adjustment.
+The barrel looks solid, but, as a matter of fact, it
+is hollow and much more frail than it appears. For that
+reason it should not be turned by seizing it with pliers, as
+that may distort it and spoil the bore within it. The best
+method is to pass a piece of wire through the hole in its centre,
+and to use that as a lever. When the correct adjustment
+has been secured, the turnbuckle must be locked to prevent
+it from unscrewing. It is quite possible to lock it in such a
+way as to allow it to unscrew a quarter or a half turn, and
+that would throw the wires out of the very fine adjustment
+necessary. The proper way is to use the locking wire so
+that its direction is such as to oppose the tendency of the
+barrel to unscrew, thus:
+
+
+WIRES.--The following points should be carefully observed
+where wire is concerned:
+
+1. Quality.--It must not be too hard or too soft. An
+easy practical way of learning to know the approximate
+quality of wire is as follows:
+
+Take three pieces, all of the same gauge, and each about a
+foot in length. One piece should be too soft, another too hard,
+and the third piece of the right quality. Fix them in a vice,
+about an inch apart and in a vertical position, and with the light
+from a window shining upon them. Burnish them if necessary,
+and you will see a band of light reflected from each
+wire.
+
+Now bend the wires over as far as possible and away from
+the light. Where the soft wire is concerned, it will squash
+out at the bend, and this will be indicated by the band of
+light, which will broaden at that point. In the case of the
+wire which is too hard, the band of light will broaden very
+little at the turn, but, if you look carefully, you will see some
+little roughnesses of surface. In the case of the wire of the
+right quality, the band of light may broaden a very little
+at the turn, but there will be no roughnesses of surface.
+
+By making this experiment two or three times one can
+soon learn to know really bad wire from good, and also learn
+to know the strength of hand necessary to bend the right
+quality.
+
+2. It must not be damaged. That is to say, it must be
+unkinked, rustless, and unscored.
+
+3. Now as regards keeping wire in good condition. Where
+outside wires are concerned, they should be kept WELL GREASED
+OR OILED, especially where bent over at the ends. Internal
+bracing wires cannot be reached for the purpose of regreasing
+them, as they are inside fabric-covered surfaces. They should
+be prevented from rusting by being painted with an anti-rust
+mixture. Great care should be taken to see that the wire
+is perfectly clean and dry before being painted. A greasy
+finger-mark is sufficient to stop the paint from sticking to
+the wire. In such a case there will be a little space between
+the paint and the wire. Air may enter there and cause the
+wire to rust.
+
+4. Tension of Wires.--The tension to which the wires are
+adjusted is of the greatest importance. All the wires should
+be of the same tension when the aeroplane is supported in
+such a way as to throw no stress upon them. If some wires
+are in greater tension than others, the aeroplane will quickly
+become distorted and lose its efficiency.
+
+In order to secure the same tension of all wires, the aeroplane,
+when being rigged, should be supported by packing
+underneath the lower surfaces as well as by packing underneath
+the fuselage or nacelle. In this way the anti-lift wires
+are relieved of the weight, and there is no stress upon any
+of the wires.
+
+As a general rule the wires of an aeroplane are tensioned
+too much. The tension should be sufficient to keep the
+framework rigid. Anything more than that lowers the factor
+of safety, throws various parts of the framework into undue
+compression, pulls the fittings into the wood, and will, in
+the end, distort the whole framework of the aeroplane.
+
+Only experience will teach the rigger what tension to
+employ. Much may be done by learning the construction
+of the various types of aeroplanes, the work the various
+parts do, and in cultivating a touch for tensioning wires by
+constantly handling them.
+
+5. Wires with no Opposition Wires.--In some few cases
+wires will be found which have no opposition wires pulling
+in the opposite direction. For instance, an auxiliary lift
+wire may run from the bottom of a strut to a spar in the top
+plane at a point between struts. In such a case great care
+should be taken not to tighten the wire beyond barely taking
+up the slack.
+
+Such a wire must be a little slack, or, as illustrated above,
+it will distort the framework. That, in the example given,
+will spoil the camber (curvature) of the surface, and result
+in changing both the lift and the drift at that part of the surface.
+Such a condition will cause the aeroplane to lose its
+directional stability and also to fly one wing down.
+
+I cannot impress this matter of tension upon the reader
+too strongly. It is of the utmost importance. When this,
+and also accuracy in securing the various adjustments, has
+been learned, one is on the way to becoming a good
+rigger.
+
+6. Wire Loops.--Wire is often bent over at its end in the
+form of a loop, in order to connect with a turnbuckle or
+fitting. These loops, even when made as perfectly as possible,
+have a tendency to elongate, thus spoiling the adjustment
+of the wires Great care should be taken to minimize this
+as far as possible. The rules to be observed are as
+follows:
+
+(a) The size of the loop should be as small as possible
+within reason. By that I mean it should not be
+so small as to create the possibility of the wire
+breaking.
+
+
+(b) The shape of the loop should be symmetrical.
+
+
+(c) It should have well-defined shoulders in order to
+prevent the ferrule from slipping up. At the same
+time, a shoulder should not have an angular place.
+
+
+(d) When the loop is finished it should be undamaged,
+and it should not be, as is often the case, badly scored.
+
+
+7. Stranded Wire Cable.--No splice should be served with
+twine until it has been inspected by whoever is in charge of
+the workshop. The serving may cover bad work.
+
+Should a strand become broken, then the cable should be
+replaced at once by another one.
+
+Control cables have a way of wearing out and fraying
+wherever they pass round pulleys. Every time an aeroplane
+comes down from flight the rigger should carefully examine
+the cables, especially where they pass round pulleys. If
+he finds a strand broken, he should replace the cable.
+
+The ailerons' balance cable on the top of the top plane
+is often forgotten, since it is necessary to fetch a high pair
+of steps in order to examine it. Don't slack this, or some
+gusty day the pilot may unexpectedly find himself minus the
+aileron control.
+
+CONTROLLING SURFACES.--The greatest care should be
+exercised in rigging the aileron, rudder, and elevator properly,
+for the pilot entirely depends upon them in managing the
+aeroplane.
+
+The ailerons and elevator should be rigged so that, when
+the aeroplane is in flight, they are in a fair true line with the
+surface in front and to which they are hinged.
+
+If the surface to which they are hinged is not a lifting
+surface, then they should be rigged to be in a fair true line
+with it as illustrated above.
+
+If the controlling surface is, as illustrated, hinged to the
+back of a lifting surface, then it should be rigged a little below
+the position it would occupy if in a fair true line with the
+surface in front. This is because, in such a case, it is set
+at an angle of incidence. This angle will, during flight,
+cause it to lift a little above the position in which it has been
+rigged. It is able to lift owing to a certain amount of slack
+in the control wire holding it--and one cannot adjust the
+control wire to have no slack, because that would cause it
+to bind against the pulleys and make the operation of it too
+hard for the pilot. It is therefore necessary to rig it a little
+below the position it would occupy if it was rigged in a fair
+true line with the surface in front. Remember that this
+only applies when it is hinged to a lifting surface. The
+greater the angle of incidence (and therefore the lift) of the
+surface in front, then the more the controlling surface will
+have to be rigged down.
+
+As a general rule it is safe to rig it down so that its trailing
+
+edge is 1/2 to 3/4 inch below the position it would occupy if in
+a fair line with the surface in front; or about 1/2 inch down for
+every 18 inches of chord of the controlling surface.
+
+When making these adjustments the pilot's control levers
+should be in their neutral positions. It is not sufficient
+to lash them. They should be rigidly blocked into position
+with wood packing.
+
+The surfaces must not be distorted in any way. If
+they are held true by bracing wires, then such wires must be
+carefully adjusted. If they are distorted and there are no
+bracing wires with which to true them, then some of the
+internal framework will probably have to be replaced.
+
+The controlling surfaces should never be adjusted with
+a view to altering the stability of the aeroplane. Nothing
+can be accomplished in that way. The only result will be
+to spoil the control of the aeroplane.
+
+
+FABRIC-COVERED SURFACES.--First of all make sure
+that there is no distortion of spars or ribs, and that they are
+perfectly sound. Then adjust the internal bracing wires
+so that the ribs are parallel to the direction of flight. The
+ribs usually cause the fabric to make a ridge where they occur,
+and, if such ridge is not parallel to the direction of flight,
+it will produce excessive drift. As a rule the ribs are at
+right angles to both main and rear spars.
+
+The tension of the internal bracing wires should be just
+sufficient to give rigidity to the framework. They should
+not be tensioned above that unless the wires are, at their
+ends, bent to form loops. In that case a little extra tension
+may be given to offset the probable elongation of the
+loops.
+
+The turnbuckles must now be generously greased, and
+served round with adhesive tape. The wires must be rendered
+perfectly dry and clean, and then painted with an anti-rust
+mixture. The woodwork must be well varnished.
+
+If it is necessary to bore holes in the spars for the purpose
+of receiving, for instance, socket bolts, then their places
+should be marked before being bored and their positions
+confirmed by whoever is in charge of the workshop. All is
+now ready for the sail-maker to cover the surface with
+fabric.
+
+
+ADJUSTMENT OF CONTROL CABLES.--The adjustment of
+the control cables is quite an art, and upon it will depend to
+a large degree the quick and easy control of the aeroplane
+by the pilot.
+
+The method is as follows:
+
+After having rigged the controlling surfaces, and as far
+as possible secured the correct adjustment of the control
+cables, then remove the packing which has kept the control
+levers rigid. Then, sitting in the pilot's seat, move the
+control levers SMARTLY. Tension the control cables so that
+when the levers are smartly moved there is no perceptible
+snatch or lag. Be careful not to tension the cables more than
+necessary to take out the snatch. If tensioned too much
+they will (1) bind round the pulleys and result in hard work
+for the pilot; (2) throw dangerous stresses upon the controlling
+surfaces, which are of rather flimsy construction; and (3)
+cause the cables to fray round the pulleys quicker than would
+otherwise be the case.
+
+Now, after having tensioned the cables sufficiently to
+take out the snatch, place the levers in their neutral positions,
+and move them to and fro about 1/8 inch either side of such
+positions. If the adjustment is correct, it should be possible
+to see the controlling surfaces move. If they do not move,
+then the control cables are too slack.
+
+
+FLYING POSITION.--Before rigging an aeroplane or making
+any adjustments it is necessary to place it in what is known
+as its ``flying position.'' I may add that it would be better
+termed its ``rigging position.''
+
+In the case of an aeroplane fitted with a stationary engine
+this is secured by packing up the machine so that the engine
+foundations are perfectly horizontal both longitudinally and
+laterally. This position is found by placing a straight-edge
+and a spirit-level across the engine foundations (both
+longitudinally and laterally), and great care should be taken to
+see that the bubble is exactly in the centre of the level. The
+slightest error will assume magnitude towards the extremities
+of the aeroplane. Great care should be taken to block up
+the aeroplane rigidly. In case it gets accidentally disturbed
+while the work is going on, it is well to constantly verify the
+flying position by running the straight-edge and spirit-level
+over the engine foundations. The straight-edge should be
+carefully tested before being used, as, being generally made of
+wood, it will not remain true long. Place it lightly in a vice,
+and in such a position that a spirit-level on top shows the
+bubble exactly in the centre. Now slowly move the level
+along the straight-edge, and the bubble should remain exactly
+in the centre. If it does not do so, then the straight-edge
+is not true and must be corrected. THIS SHOULD NEVER BE
+OMITTED.
+
+In the case of aeroplanes fitted with engines of the rotary
+type, the ``flying position'' is some special attitude laid
+down in the aeroplane's specifications, and great care should
+be taken to secure accuracy.
+
+
+ANGLE OF INCIDENCE.--One method of finding the angle
+of incidence is as follows:
+
+First place the aeroplane in its flying position. The
+corner of the straight-edge must be placed underneath and
+against the CENTRE of the rear spar, and held in a horizontal
+position parallel to the ribs. This is secured by using a
+spirit-level. The set measurement will then be from the
+top of the straight-edge to the centre of the bottom surface
+of the main spar, or it may be from the top of the straight-
+edge to the lowest part of the leading edge. Care should be
+taken to measure from the centre of the spar and to see that
+the bubble is exactly in the centre of the level. Remember
+that all this will be useless if the aeroplane has not been placed
+accurately in its flying position.
+
+This method of finding the angle of incidence must be
+used under every part of the lower surface where struts
+occur. It should not be used between the struts, because,
+in such places, the spars may have taken a slight permanent
+set up or down; not, perhaps, sufficiently bad to make any
+material difference to the flying of the machine, but quite bad
+enough to throw out the angle of incidence, which cannot
+be corrected at such a place.
+
+If the angle is wrong, it should then be corrected as follows:
+
+If it is too great, then the rear spar must be warped up
+until it is right, and this is done by slackening ALL the wires
+going to the top of the strut, and then tightening ALL the
+wires going to the bottom of the strut.
+
+If the angle is too small, then slacken ALL the wires going
+to the bottom of the strut, and tighten ALL the wires going to
+the top of the strut, until the correct adjustment is secured.
+
+Never attempt to adjust the angle by warping the main spar.
+
+The set measurement, which is of course stated in the
+aeroplane's specifications, should be accurate to 1/16 inch.
+
+
+LATERAL DIHEDRAL ANGLE.--One method of securing
+this is as follows, and this method will, at the same time,
+secure the correct angle of incidence:
+
+The strings, drawn very tight, must be taken over both
+the main and rear spars of the top surface. They must run
+between points on the spars just inside the outer struts.
+The set measurement (which should be accurate to 1/16 inch
+or less) is then from the strings down to four points on the
+main and rear spars of the centre-section surface. These
+points should be just inside the four centre-section struts;
+that is to say, as far as possible away from the centre of the
+centre-section. Do not attempt to take the set measurement
+near the centre of the centre-section.
+
+The strings should be as tight as possible, and, if it can
+be arranged, the best way to accomplish that is as shown in
+the above illustration, i.e., by weighting the strings down to
+the spars by means of weights and tying each end of the strings
+to a strut. This will give a tight and motionless string.
+
+However carefully the above adjustment is made, there is
+sure to be some slight error. This is of no great importance,
+provided it is divided equally between the left- and right-
+hand wings. In order to make sure of this, certain check
+measurements should be taken as follows:
+
+Each bay must be diagonally measured, and such measurements
+must be the same to within 1/16 inch on each side of
+the aeroplane. As a rule such diagonal measurements are
+taken from the bottom socket of one strut to the top socket
+of another strut, but this is bad practice, because of possible
+inaccuracies due to faulty manufacture.
+
+The points between which the diagonal measurements
+are taken should be at fixed distances from the butts of the
+spars, such distances being the same on each side of the
+aeroplane, thus:
+
+
+It would be better to use the centre line of the aeroplane
+rather than the butts of the spars. It is not practicable
+to do so, however, as the centre line probably runs through
+the petrol tanks, etc.
+
+
+THE DIHEDRAL BOARD.--Another method of securing
+the dihedral angle, and also the angle of incidence, is by
+means of the dihedral board. It is a light handy thing to
+use, but leads to many errors, and should not be used unless
+necessary. The reasons are as follows:
+
+The dihedral board is probably not true. If it must be
+used, then it should be very carefully tested for truth before-
+hand. Another reason against its use is that it has to be
+placed on the spars in a position between the struts, and
+that is just where the spars may have a little permanent
+set up or down, or some inaccuracy of surface which will,
+of course, throw out the accuracy of the adjustment. The
+method of using it is as follows:
+
+The board is cut to the same angle as that specified for
+the upward inclination of the surface towards its wing-
+tips. It is placed on the spar as indicated above, and it
+is provided with two short legs to raise it above the flanges
+of the ribs (which cross over the spars), as they may vary
+in depth. A spirit-level is then placed on the board, and the
+wires must be adjusted to give the surface such an inclination
+as to result in the bubble being in the centre of the level.
+This operation must be performed in respect of each bay
+both front and rear. The bays must then be diagonally
+measured as already explained.
+
+
+YET ANOTHER METHOD of finding the dihedral angle,
+and at the same time the angle of incidence, is as follows:
+
+A horizontal line is taken from underneath the butt of
+each spar, and the set measurement is either the angle it makes
+with the spar, or a fixed measurement from the line to the
+spar taken at a specified distance from the butt. This operation
+must be performed in respect of both main and rear
+spars, and all the bays must be measured diagonally afterwards.
+
+
+Back to Full Books

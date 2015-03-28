@@ -1,0 +1,2003 @@
+The Aeroplane SpeaksbyH. Barber
+
+
+
+
+
+Scanned by Charles Keller with OmniPage Professional OCR software
+
+
+
+
+
+THE AEROPLANE SPEAKS
+
+BY H. BARBER
+(CAPTAIN, ROYAL FLYING CORPS)
+
+
+
+DEDICATED TO THE SUBALTERN FLYING OFFICER
+
+
+
+
+MOTIVE
+
+The reasons impelling me to write this book, the maiden
+effort of my pen, are, firstly, a strong desire to help the
+ordinary man to understand the Aeroplane and the joys
+and troubles of its Pilot; and, secondly, to produce something
+of PRACTICAL assistance to the Pilot and his invaluable assistant
+the Rigger. Having had some eight years' experience in
+designing, building, and flying aeroplanes, I have hopes
+that the practical knowledge I have gained may offset the
+disadvantage of a hand more used to managing the ``joy-
+stick'' than the dreadful haltings, the many side-slips, the
+irregular speed, and, in short, the altogether disconcerting
+ways of a pen.
+
+The matter contained in the Prologue appeared in the
+Field of May 6th, 13th, 20th, and 27th, 1916, and is now
+reprinted by the kind permission of the editor, Sir Theodore
+Cook.
+
+I have much pleasure in also acknowledging the kindness
+of Mr. C. G. Grey, editor of the Aeroplane, to whom I am
+indebted for the valuable illustrations reproduced at the
+end of this book.
+
+
+
+CONTENTS
+
+PROLOGUE
+
+PART
+I.   THE ELEMENTARY PRINCIPLES AIR THEIR GRIEVANCES
+II.  THE PRINCIPLES, HAVING SETTLED THEIR DIFFERENCES, FINISH THE JOB
+III. THE GREAT TEST
+IV.  CROSS COUNTRY 
+
+
+
+CHAPTER
+I.   FLIGHT
+II.  STABILITY AND CONTROL
+III. RIGGING
+IV.  PROPELLERS 
+V.   MAINTENANCE
+
+
+
+TYPES OF AEROPLANES
+
+GLOSSARY
+
+
+
+
+THE AEROPLANE SPEAKS
+
+PROLOGUE
+
+PART I
+
+THE ELEMENTARY PRINCIPLES AIR THEIR GRIEVANCES
+
+The Lecture Hall at the Royal Flying Corps School for
+Officers was deserted. The pupils had dispersed, and the
+Officer Instructor, more fagged than any pupil, was out on
+the aerodrome watching the test of a new machine.
+
+Deserted, did I say? But not so. The lecture that day
+had been upon the Elementary Principles of Flight, and
+they lingered yet. Upon the Blackboard was the illustration
+you see in the frontispiece.
+
+``I am the side view of a Surface,'' it said, mimicking
+the tones of the lecturer. ``Flight is secured by driving me
+through the air at an angle inclined to the direction of
+motion.''
+
+``Quite right,'' said the Angle. ``That's me, and I'm
+the famous Angle of Incidence.''
+
+``And,'' continued the Surface, ``my action is to deflect
+the air downwards, and also, by fleeing from the air behind,
+to create a semi-vacuum or rarefied area over most of the
+top of my surface.''
+
+``This is where I come in,'' a thick, gruff voice was
+heard, and went on: ``I'm the Reaction. You can't have
+action without me. I'm a very considerable force, and my
+direction is at right-angles to you,'' and he looked heavily
+at the Surface. ``Like this,'' said he, picking up the chalk
+with his Lift, and drifting to the Blackboard.
+
+``I act in the direction of the arrow R, that is, more or
+less, for the direction varies somewhat with the Angle of
+Incidence and the curvature of the Surface; and, strange
+but true, I'm stronger on the top of the Surface than at
+the bottom of it. The Wind Tunnel has proved that by
+exhaustive research--and don't forget how quickly I can
+grow! As the speed through the air increases my strength
+increases more rapidly than you might think--approximately,
+as the Square of the Speed; so you see that if the Speed of
+the Surface through the air is, for instance, doubled, then
+I am a good deal more than doubled. That's because I
+am the result of not only the mass of air displaced, but also
+the result of the Speed with which the Surface engages
+the Air. I am a product of those two factors, and at the
+speeds at which Aeroplanes fly to-day, and at the altitudes
+and consequent density of air they at present experience,
+I increase at about the Square of the Speed.
+
+``Oh, I'm a most complex and interesting personality, I
+assure you--in fact, a dual personality, a sort of aeronautical
+Dr. Jekyll and Mr. Hyde. There's Lift, my vertical part or
+COMPONENT, as those who prefer long words would say; he
+always acts vertically upwards, and hates Gravity like poison.
+He's the useful and admirable part of me. Then there's Drift,
+my horizontal component, sometimes, though rather erroneously,
+called Head Resistance; he's a villain of the deepest
+dye, and must be overcome before flight can be secured.''
+
+``And I,'' said the Propeller, ``I screw through the air and
+produce the Thrust. I thrust the Aeroplane through the air
+and overcome the Drift; and the Lift increases with the Speed
+and when it equals the Gravity of Weight, then--there you
+are--Flight! And nothing mysterious about it at all.''
+
+``I hope you'll excuse me interrupting,'' said a very
+beautiful young lady, ``my name is Efficiency, and, while
+no doubt, all you have said is quite true, and that, as my
+young man the Designer says, `You can make a tea-tray
+fly if you slap on Power enough,' I can assure you that I'm
+not to be won quite so easily.''
+
+``Well,'' eagerly replied the Lift and the Thrust, ``let's
+be friends. Do tell us what we can do to help you to overcome
+Gravity and Drift with the least possible Power. That
+obviously seems the game to play, for more Power means
+heavier engines, and that in a way plays into the hands of
+our enemy, Gravity, besides necessitating a larger Surface
+or Angle to lift the Weight, and that increases the Drift.''
+
+``Very well,'' from Efficiency, ``I'll do my best, though
+I'm so shy, and I've just had such a bad time at the Factory,
+and I'm terribly afraid you'll find it awefully dry.''
+
+``Buck up, old dear!'' This from several new-comers,
+who had just appeared. ``We'll help you,'' and one of
+them, so lean and long that he took up the whole height of
+the lecture room, introduced himself.
+
+``I'm the High Aspect Ratio,'' he said, ``and what we
+have got to do to help this young lady is to improve the
+proportion of Lift to Drift. The more Lift we can get for a
+certain area of Surface, the greater the Weight the latter
+can carry; and the less the Drift, then the less Thrust and
+Power required to overcome it. Now it is a fact that, if
+the Surface is shaped to have the greatest possible span,
+i.e., distance from wing-tip to wing-tip, it then engages more
+air and produces both a maximum Reaction and a better
+proportion of Lift to Drift.
+
+``That being so, we can then well afford to lose a little
+Reaction by reducing the Angle of Incidence to a degree
+giving a still better proportion of Lift to Drift than would
+otherwise be the case; for you must understand that the
+Lift-Drift Ratio depends very much upon the size of the
+Angle of Incidence, which should be as small as possible
+within certain limits. So what I say is, make the surface of
+Infinite Span with no width or chord, as they call it. That's
+all I require, I assure you, to make me quite perfect and of
+infinite service to Miss Efficiency.''
+
+``That's not practical politics,'' said the Surface. ``The
+way you talk one would think you were drawing L400 a
+year at Westminster, and working up a reputation as an
+Aeronautical Expert. I must have some depth and chord
+to take my Spars and Ribs, and again, I must have a certain
+chord to make it possible for my Camber (that's curvature)
+to be just right for the Angle of Incidence. If that's not
+right the air won't get a nice uniform compression and
+downward acceleration from my underside, and the rarefied
+`suction' area over the top of me will not be as even and clean
+in effect as it might be. That would spoil the Lift-Drift Ratio
+more than you can help it. Just thrust that chalk along, will
+you? and the Blackboard will show you what I mean.''
+
+``Well,'' said the Aspect Ratio, ``have it your own way,
+though I'm sorry to see a pretty young lady like Efficiency
+compromised so early in the game.''
+
+``Look here,'' exclaimed a number of Struts, ``we have
+got a brilliant idea for improving the Aspect Ratio,'' and
+with that they hopped up on to the Spars. ``Now,'' excitedly,
+``place another Surface on top of us. Now do you
+see? There is double the Surface, and that being so, the
+proportion of Weight to Surface area is halved. That's
+less burden of work for the Surface, and so the Spars need
+not be so strong and so deep, which results in not so thick
+a Surface. That means the Chord can be proportionately
+decreased without adversely affecting the Camber. With
+the Chord decreased, the Span becomes relatively greater,
+and so produces a splendid Aspect Ratio, and an excellent
+proportion of Lift to Drift.''
+
+``I don't deny that they have rather got me there,''
+said the Drift, ``but all the same, don't forget my increase
+due to the drift of the Struts and their bracing wires.''
+
+``Yes, I dare say,'' replied the Surface, ``but remember
+that my Spars are less deep than before, and consequently I
+am not so thick now, and shall for that reason also be able
+to go through the air with a less proportion of Drift to Lift.''
+
+``Remember me also, please,'' croaked the Angle of
+Incidence. ``Since the Surface has now less weight to carry
+for its area, I may be set at a still lesser and finer Angle.
+That means less Drift again. We are certainly getting on
+splendidly! Show us how it looks now, Blackboard.'' And
+the Blackboard obligingly showed them as follows:
+
+``Well, what do you think of that?'' they all cried to the
+Drift.
+
+``You think you are very clever,'' sneered the Drift.
+``But you are not helping Efficiency as much as you think.
+The suction effect on the top of the lower Surface will give
+a downward motion to the air above it and the result will
+be that the bottom of the top Surface will not secure as good
+a Reaction from the air as would otherwise be the case,
+and that means loss of Lift; and you can't help matters
+by increasing the gap between the surfaces because that
+means longer Struts and Wires, and that in itself would
+help me, not to speak of increasing the Weight. You see
+it's not quite so easy as you thought.''
+
+At this moment a hiccough was heard, and a rather fast
+and rakish-looking chap, named Stagger, spoke up. ``How
+d'ye do, miss,'' he said politely to Efficiency, with a side
+glance out of his wicked old eye. ``I'm a bit of a knut,
+and without the slightest trouble I can easily minimize
+the disadvantage that old reprobate Drift has been frightening
+you with. I just stagger the top Surface a bit forward,
+and no longer is that suction effect dead under it. At the
+same time I'm sure the top Surface will kindly extend its
+Span for such distance as its Spars will support it without
+the aid of Struts. Such extension will be quite useful, as
+there will be no Surface at all underneath it to interfere
+with the Reaction above.'' And the Stagger leaned
+forward and picked up the Chalk, and this is the picture
+he drew:
+
+Said the Blackboard, ``That's not half bad! It really
+begins to look something like the real thing, eh?''
+
+``The real thing, is it?'' grumbled Drift. ``Just consider
+that contraption in the light of any one Principle, and I
+warrant you will not find one of them applied to perfection.
+The whole thing is nothing but a Compromise.'' And he
+glared fixedly at poor Efficiency.
+
+``Oh, dear! Oh, dear!'' she cried. ``I'm always getting
+into trouble. What WILL the Designer say?''
+
+``Never mind, my dear,'' said the Lift-Drift Ratio,
+consolingly. ``You are improving rapidly, and quite useful
+enough now to think of doing a job of work.''
+
+``Well, that's good news,'' and Efficiency wiped her eyes
+with her Fabric and became almost cheerful. ``Suppose
+we think about finishing it now? There will have to be an
+Engine and Propeller, won't there? And a body to fix
+them in, and tanks for oil and petrol, and a tail, and,'' archly,
+``one of those dashing young Pilots, what?''
+
+``Well, we are getting within sight of those interesting
+Factors,'' said the Lift-Drift Ratio, ``but first of all we
+had better decide upon the Area of the Surfaces, their Angle
+of Incidence and Camber. If we are to ascend as quickly
+as possible the Aeroplane must be SLOW in order to secure
+the best possible Lift-Drift Ratio, for the drift of the struts
+wires, body, etc., increases approximately as the square
+of the speed, but it carries with it no lift as it does in the
+case of the Surface. The less speed then, the less such
+drift, and the better the Aeroplane's proportion of lift to
+drift; and, being slow, we shall require a LARGE SURFACE in
+order to secure a large lift relative to the weight to be carried.
+We shall also require a LARGE ANGLE OF INCIDENCE relative to
+the horizontal, in order to secure a proper inclination of
+the Surface to the direction of motion, for you must remember
+that, while we shall fly upon an even keel and with
+the propeller thrust horizontal (which is its most efficient
+attitude), our flight path, which is our direction of motion,
+will be sloping upwards, and it will therefore be necessary
+to fix the Surface to the Aeroplane at a very considerable
+angle relative to the horizontal Propeller Thrust in order to
+secure a proper angle to the upwards direction of motion.
+Apart from that, we shall require a larger Angle of Incidence
+than in the case of a machine designed purely for speed,
+and that means a correspondingly LARGE CAMBER.
+
+``On the other hand, if we are thinking merely of Speed,
+then a SMALL SURFACE, just enough to lift the weight off the
+ground, will be best, also a SMALL ANGLE to cut the Drift down
+and that, of course, means a relatively SMALL CAMBER.
+
+``So you see the essentials for CLIMB or quick ascent and
+for SPEED are diametrically opposed. Now which is it to be?''
+
+``Nothing but perfection for me,'' said Efficiency. ``What
+I want is Maximum Climb and Maximum Speed for the
+Power the Engine produces.''
+
+And each Principle fully agreed with her beautiful
+sentiments, but work together they would not.
+
+The Aspect Ratio wanted infinite Span, and hang the
+Chord.
+
+The Angle of Incidence would have two Angles and two
+Cambers in one, which was manifestly absurd; the Surface
+insisted upon no thickness whatever, and would not hear
+of such things as Spars and Ribs; and the Thrust objected
+to anything at all likely to produce Drift, and very nearly
+wiped the whole thing off the Blackboard.
+
+There was, indeed, the makings of a very pretty quarrel
+when the Letter arrived. It was about a mile long, and
+began to talk at once.
+
+``I'm from the Inventor,'' he said, and hope rose in the
+heart of each heated Principle. ``It's really absurdly simple.
+All the Pilot has to do is to touch a button, and at his will,
+VARY the area of the Surface, the Angle of Incidence,
+and the Camber! And there you are--Maximum Climb or
+Maximum Speed as required! How does that suit you?''
+
+``That suits us very well,'' said the Surface, ``but, excuse
+me asking, how is it done without apparatus increasing the
+Drift and the Weight out of all reason? You won't mind
+showing us your Calculations, Working Drawings, Stress
+Diagrams, etc., will you?''
+
+Said the Letter with dignity, ``I come from an Inventor
+so brilliantly clever as to be far above the unimportant
+matters you mention. He is no common working man,
+sir! He leaves such things to Mechanics. The point is, you
+press a button and----''
+
+``Look here,'' said a Strut, rather pointedly, ``where do
+you think you are going, anyway?''
+
+``Well,'' from the Letter, ``as a matter of fact, I'm not
+addressed yet, but, of course, there's no doubt I shall reach
+the very highest quarters and absolutely revolutionize Flight
+when I get there.''
+
+Said the Chalk, ``I'll address you, if that's all you want;
+now drift along quickly!'' And off went the Letter to The
+Technical Editor, ``Daily Mauler,'' London.
+
+And a League was formed, and there were Directors with
+Fees, and several out-of-service Tin Hats, and the Man-who-
+takes-the-credit, and a fine fat Guinea-pig, and all the rest
+of them. And the Inventor paid his Tailor and had a Hair-
+Cut, and is now a recognized Press Expert--but he is still
+waiting for those Mechanics!
+
+``I'm afraid,'' said the Slide-rule, who had been busy
+making those lightning-like automatic calculations for which
+he is so famous, ``it's quite impossible to fully satisfy all of
+you, and it is perfectly plain to me that we shall have to effect
+a Compromise and sacrifice some of the Lift for Speed.''
+
+Thud! What was that?
+
+Efficiency had fainted dead away! The last blow had
+been too much for her. And the Principles gathered mournfully
+round, but with the aid of the Propeller Slip[[1]] and a
+friendly lift from the Surface she was at length revived and
+regained a more normal aspect.
+
+
+[[1]] Propeller Slip: As the propeller screws through the air,
+the latter to a certain extent gives back to the thrust of the
+propellor blades, just as the shingle on the beach slips back
+as you ascend it. Such ``give-back'' is known as ``slip,''
+and anyone behind the propellor will feel the slip as a
+strong draught of air.
+
+
+Said the Stagger with a raffish air, ``My dear young lady,
+I assure you that from the experiences of a varied career,
+I have learned that perfection is impossible, and I am sure
+the Designer will be quite satisfied if you become the Most
+Efficient Compromise.''
+
+``Well, that sounds so common sense,'' sighed Efficiency,
+``I suppose it must be true, and if the Designer is satisfied,
+that's all I really care about. Now do let's get on with the job.''
+
+So the Chalk drew a nice long slim body to hold the
+Engine and the tanks, etc., with room for the Pilot's and
+Passenger's seats, and placed it exactly in the middle of the
+Biplane. And he was careful to make its position such that
+the Centre of Gravity was a little in advance of the Centre
+of Lift, so that when the Engine was not running and there
+was consequently no Thrust, the Aeroplane should be ``nose-
+heavy'' just to the right degree, and so take up a natural
+glide to Earth--and this was to help the Pilot and relieve
+him of work and worry, should he find himself in a fog or
+a cloud. And so that this tendency to glide downwards
+should not be in evidence when the Engine was running and
+descent not desired, the Thrust was placed a little below
+the Centre of Drift or Resistance. In this way it would in
+a measure pull the nose of the Aeroplane up and counterbalance
+the ``nose-heavy'' tendency.
+
+And the Engine was so mounted that when the Propeller-
+Thrust was horizontal, which is its most efficient position,
+the Angle of Incidence and the Area of the surfaces were
+just sufficient to give a Lift a little in excess of the Weight.
+And the Camber was such that, as far as it was concerned,
+the Lift-Drift Ratio should be the best possible for that Angle
+of Incidence. And a beautifully simple under-carriage was
+added, the outstanding features of which were simplicity,
+strength, light-weight, and minimum drift. And, last of
+all, there was the Elevator, of which you will hear more
+by-and-by. And this is what it looked like then:
+
+And Efficiency, smiling, thought that it was not such a
+bad compromise after all and that the Designer might well
+be satisfied.
+
+``Now,'' said she, ``there's just one or two points I'm
+a bit hazy about. It appears that when the Propeller shaft
+is horizontal and so working in its most efficient attitude,
+I shall have a Lift from the Surfaces slightly in excess of the
+Weight. That means I shall ascend slightly, at the same time
+making nearly maximum speed for the power and thrust.
+Can't I do better than that?''
+
+``Yes, indeed,'' spoke up the Propeller, ``though it means
+that I must assume a most undignified attitude, for helicopters[[2]]
+I never approved of. In order to ascend more
+quickly the Pilot will deflect the Elevator, which, by the
+way, you see hinged to the Tail. By that means he will
+force the whole Aeroplane to assume a greater Angle of
+Incidence. And with greater Angle, the Lift will increase,
+though I'm sorry to say the Drift will increase also. Owing
+to the greater Drift, the Speed through the air will lessen,
+and I'm afraid that won't be helpful to the Lift; but I shall
+now be pointing upwards, and besides overcoming the Drift
+in a forward direction I shall be doing my best to haul
+the Aeroplane skywards. At a certain angle known as the
+Best Climbing Angle, we shall have our Maximum Margin
+of Lift, and I'm hoping that may be as much as almost a
+thousand feet altitude a minute.''
+
+
+[[2]] Helicopter. An air-screw revolving upon a vertical axis.
+If driven with sufficient power, it will lift vertically,
+but having regard to the mechanical difficulties of such construction,
+it is a most inefficient way of securing lift compared with the
+arrangement of an inclined surface driven by a propeller
+revolving about a horizontal axis.
+
+
+``Then, if the Pilot is green, my chance will come,'' said
+the Maximum Angle of Incidence. ``For if the Angle is
+increased over the Best Climbing Angle, the Drift will rush
+up; and the Speed, and with it the Lift, will, when my
+Angle is reached, drop to a point when the latter will be no
+more than the Weight. The Margin of Lift will have
+entirely disappeared, and there we shall be, staggering
+along at my tremendous angle, and only just maintaining
+horizontal flight.''
+
+``And then with luck I'll get my chance,'' said the Drift.
+``If he is a bit worse than green, he'll perhaps still further
+increase the Angle. Then the Drift, largely increasing, the
+Speed, and consequently the Lift, will become still less,
+i.e., less than the Weight, and then--what price pancakes,[[3]]
+eh?''
+
+
+[[3]] Pancakes: Pilot's slang for stalling an aeroplane
+and dropping like a pancake.
+
+
+``Thank you,'' from Efficiency, ``that was all most
+informing. And now will you tell me, please, how the
+greatest Speed may be secured?''
+
+``Certainly, now it's my turn,'' piped the Minimum Angle
+of Incidence. ``By means of the Elevator, the Pilot places
+the Aeroplane at my small Angle, at which the Lift only
+just equals the Weight, and, also, at which we shall make
+greater speed with no more Drift than before. Then we get
+our greatest Speed, just maintaining horizontal flight.''
+
+``Yes; though I'm out of the horizontal and thrusting
+downwards,'' grumbled the Propeller, ``and that's not
+efficient, though I suppose it's the best we can do until that
+Inventor fellow finds his Mechanics.''
+
+``Thank you so much,'' said Efficiency. ``I think I have
+now at any rate an idea of the Elementary Principles of
+Flight, and I don't know that I care to delve much deeper,
+for sums always give me a headache; but isn't there something
+about Stability and Control? Don't you think I ought
+to have a glimmering of them too?''
+
+``Well, I should smile,'' said a spruce Spar, who had come
+all the way from America. ``And that, as the Lecturer
+says, `will be the subject of our next lecture,' so be here
+again to-morrow, and you will be glad to hear that it will be
+distinctly more lively than the subject we have covered
+to-day.''
+
+
+
+PART II
+
+THE PRINCIPLES, HAVING SETTLED THEIR DIFFERENCES,
+FINISH THE JOB
+
+Another day had passed, and the Flight Folk had again
+gathered together and were awaiting the arrival of Efficiency
+who, as usual, was rather late in making an appearance.
+
+The crowd was larger than ever, and among the newcomers
+some of the most important were the three Stabilities,
+named Directional, Longitudinal, and Lateral, with
+their assistants, the Rudder, Elevator, and Ailerons. There
+was Centrifugal Force, too, who would not sit still and
+created a most unfavourable impression, and Keel-Surface,
+ the Dihedral Angle, and several other lesser fry.
+
+``Well,'' said Centrifugal Force, ``I wish this Efficiency
+I've heard so much about would get a move on. Sitting
+still doesn't agree with me at all. Motion I believe in.
+There's nothing like motion--the more the better.''
+
+``We are entirely opposed to that,'' objected the three
+Stabilities, all in a breath. ``Unless it's in a perfectly
+straight line or a perfect circle. Nothing but perfectly
+straight lines or, upon occasion, perfect circles satisfy us,
+and we are strongly suspicious of your tendencies.''
+
+``Well, we shall see what we shall see,'' said the Force
+darkly. ``But who in the name of blue sky is this?''
+
+And in tripped Efficiency, in a beautifully ``doped''
+dress of the latest fashionable shade of khaki-coloured
+fabric, a perfectly stream-lined bonnet, and a bewitching
+little Morane parasol,[[4]] smiling as usual, and airily exclaiming,
+``I'm so sorry I'm late, but you see the Designer's
+such a funny man. He objects to skin friction,[[5]] and insisted
+upon me changing my fabric for one of a smoother
+surface, and that delayed me. Dear me, there are a lot
+more of us to-day, aren't there? I think I had better meet
+one at a time.'' And turning to Directional Stability, she
+politely asked him what he preferred to do.
+
+
+[[4]] Morane parasol: A type of Morane monoplane in which the
+lifting surfaces are raised above the pilot in order to afford
+him a good view of the earth.
+
+[[5]] Skin friction is that part of the drift due to the friction
+of the air with roughnesses upon the surface of the aeroplane.
+
+
+``My purpose in life, miss,'' said he, ``is to keep the Aeroplane
+on its course, and to achieve that there must be, in
+effect, more Keel-Surface behind the Vertical Turning Axis
+than there is in front of it.''
+
+Efficiency looking a little puzzled, he added: ``Just like
+a weathercock, and by Keel-Surface I mean everything
+you can see when you view the Aeroplane from the side of
+it--the sides of the body, struts, wires, etc.''
+
+``Oh, now I begin to see light,'' said she: ``but just
+exactly how does it work?''
+
+``I'll answer that,'' said Momentum. ``When perhaps
+by a gust of air the Aeroplane is blown out of its course
+and points in another direction, it doesn't immediately
+fly off on that new course. I'm so strong I pull it off the
+new course to a certain extent, and towards the direction
+of the old course. And so it travels, as long as my strength
+lasts, in a more or less sideways position.''
+
+``Then,'' said the Keel-Surface, ``I get a pressure of
+air all on one side, and as there is, in effect, most of me
+towards the tail, the latter gets pressed sideways, and the
+Aeroplane thus tends to assume its first position and course.''
+
+``I see,'' said Efficiency, and, daintily holding the Chalk,
+she approached the Blackboard. ``Is this what you mean?''
+
+``Yes, that's right enough,'' said the Keel-Surface, ``and
+you might remember, too, that I always make the Aeroplane
+nose into the gusts rather than away from them.''
+
+``If that was not the case,'' broke in Lateral Stability,
+and affecting the fashionable Flying Corps stammer, ``it
+would be a h-h-h-o-r-rible affair! If there were too much
+Keel-Surface in front, then that gust would blow the Aeroplane
+round the other way a very considerable distance.
+And the right-hand Surface being on the outside of the turn
+would have more speed, and consequently more Lift, than
+the Surface on the other side. That means a greater proportion
+of the Lift on that side, and before you could say
+Warp to the Ailerons over the Aeroplane would go--probable
+result a bad side-slip''
+
+``And what can the Pilot do to save such a situation as
+that?'' said Efficiency.
+
+``Well,'' replied Lateral Stability, ``he will try to turn
+the Aeroplane sideways and back to an even keel by means
+of warping the Ailerons or little wings which are hinged
+on to the Wing-tips, and about which you will hear more
+later on; but if the side-slip is very bad he may not be able
+to right the Aeroplane by means of the Ailerons, and then
+the only thing for him to do is to use the Rudder and to turn
+the nose of the Aeroplane down and head-on to the direction
+of motion. The Aeroplane will then be meeting the air in
+the direction it is designed to do so, and the Surfaces and
+also the controls (the Rudder, Ailerons, and Elevator) will
+be working efficiently; but its attitude relative to the earth
+will probably be more or less upside-down, for the action
+of turning the Aeroplane's nose down results, as you will
+see by the illustration B, in the right wing, which is on the
+outside of the circle. travelling through the air with greater
+speed than the left-hand wing. More Speed means more
+Lift, so that results in overturning the Aeroplane still more;
+but now it is, at any rate, meeting the air as it is designed
+to meet it, and everything is working properly. It is then
+only necessary to warp the Elevator, as shown in illustration
+C, in order to bring the Aeroplane into a proper attitude
+relative to the earth.''
+
+``Ah!'' said the Rudder, looking wise, ``it's in a case
+like that when I become the Elevator and the Elevator
+becomes me.''
+
+``That's absurd nonsense,'' said the Blackboard, ``due
+to looseness of thought and expression.''
+
+``Well,'' replied the Rudder, ``when 'the Aeroplane is
+in position A and I am used, then I depress or ELEVATE the nose
+of the machine; and, if the Elevator is used, then it turns
+the Aeroplane to right or left, which is normally my function.
+Surely our roles have changed one with the other, and I'm
+then the Elevator and the Elevator is me!''
+
+Said Lateral Stability to the Rudder, ``That's altogether
+the wrong way of looking at it, though I admit''--and
+this rather sarcastically--``that the way you put it sounds
+rather fine when you are talking of your experiences in
+the air to those `interested in aviation' but knowing little
+about it; but it won't go down here! You are a Controlling
+Surface designed to turn the Aeroplane about its vertical
+axis, and the Elevator is a Controlling Surface designed to
+turn the Aeroplane about its lateral axis. Those are your
+respective jobs, and you can't possibly change them about.
+Such talk only leads to confusion, and I hope we shall hear
+no more of it.''
+
+``Thanks,'' said Efficiency to Lateral Stability. ``And
+now, please, will you explain your duties?''
+
+``My duty is to keep the Aeroplane horizontal from
+Wing-tip to Wing-tip. First of all, I sometimes arrange
+with the Rigger to wash-out, that is decrease, the Angle
+of Incidence on one side of the Aeroplane, and to effect
+the reverse condition, if it is not too much trouble, on the
+other side.''
+
+``But,'' objected Efficiency, ``the Lift varies with the
+Angle of Incidence, and surely such a condition will result in
+one side of the Aeroplane lifting more than the other side?'
+
+``That's all right,'' said the Propeller, ``it's meant to
+off-set the tendency of the Aeroplane to turn over sideways
+in the opposite direction to which I revolve.''
+
+``That's quite clear, though rather unexpected; but how
+do you counteract the effect of the gusts when they try to
+overturn the Aeroplane sideways?'' said she, turning to
+Lateral Stability again.
+
+``Well,'' he replied, rather miserably, ``I'm not nearly
+so perfect as the Longitudinal and Directional Stabilities.
+The Dihedral Angle--that is, the upward inclination of the
+Surfaces towards their wing-tips--does what it can for me,
+but, in my opinion, it's a more or less futile effort. The
+Blackboard will show you the argument.'' And he at once
+showed them two Surfaces, each set at a Dihedral Angle
+like this:
+
+``Please imagine,'' said the Blackboard, ``that the top
+V is the front view of a Surface flying towards you. Now
+if a gust blows it into the position of the lower V you see
+that the horizontal equivalent of the Surface on one side
+becomes larger, and on the other side it becomes smaller.
+That results in more Lift on the lower side and less on the
+higher side, and if the V is large enough it should produce
+such a difference in the Lift of one side to the other as to
+quickly turn the Aeroplane back to its former and normal
+position.''
+
+``Yes,'' said the Dihedral Angle, ``that's what would
+happen if they would only make me large enough; but
+they won't do it because it would too greatly decrease the
+horizontal equivalent, and therefore the Lift, and incidentally
+it would, as Aeroplanes are built to-day, produce
+an excess of Keel Surface above the turning axis, and that
+in itself would spoil the Lateral Stability. The Keel Surface
+should be equally divided above and below the longitudinal
+turning axis (upon which the Aeroplane rolls sideways),
+or the side upon which there is an excess will get
+blown over by the gusts. It strikes me that my future
+isn't very promising, and about my only chance is when
+the Junior Draughtsman makes a mistake, as he did the
+other day. And just think of it, they call him a Designer
+now that he's got a job at the Factory! What did he do?
+Why, he calculated the weights wrong and got the Centre
+of Gravity too high, and they didn't discover it until the
+machine was built. Then all they could do was to give
+me a larger Angle. That dropped the bottom of the V
+lower down, and as that's the centre of the machine, where
+all the Weight is, of course that put the Centre of Gravity
+in its right place. But now there is too much Keel Surface
+above, and the whole thing's a Bad Compromise, not at all
+like Our Efficiency.''
+
+And Efficiency, blushing very prettily at the compliment,
+then asked, ``And how does the Centre of Gravity affect
+matters?''
+
+``That's easy,'' said Grandfather Gravity. ``I'm so
+heavy that if I am too low down I act like a pendulum
+and cause the Aeroplane to roll about sideways, and if I
+am too high I'm like a stick balanced on your finger, and
+then if I'm disturbed, over I go and the Aeroplane with
+me; and, in addition to that, there are the tricks I play
+with the Aeroplane when it's banked up,[[6]] i.e., tilted sideways
+for a turn, and Centrifugal Force sets me going the
+way I'm not wanted to go. No; I get on best with Lateral
+Stability when my Centre is right on the centre of Drift,
+or, at any rate, not much below it.'' And with that he
+settled back into the Lecturer's Chair and went sound
+asleep again, for he was so very, very old, in fact the father
+of all the Principles.
+
+
+[[6]] Banking: When an aeroplane is turned to the left or
+the right the centrifugal force of its momentum causes it to
+skid sideways and outwards away from the centre of the turn.
+To minimize such action the pilot banks, i.e., tilts, the aeroplane
+sideways in order to oppose the underside of the planes to the air.
+The aeroplane will not then skid outwards beyond the slight skid
+necessary to secure a sufficient pressure of air to balance the
+centrifugal force.
+
+
+And the Blackboard had been busy, and now showed
+them a picture of the Aeroplane as far as they knew it, and
+you will see that there is a slight Dihedral Angle, and
+also, fixed to the tail, a vertical Keel Surface or fin, as
+is very often the case in order to ensure the greater effect
+of such surface being behind the vertical turning axis.
+
+But Efficiency, growing rather critical with her newly
+gained knowledge, cried out: ``But where's the horizontal
+Tail Surface? It doesn't look right like that!''
+
+``This is when I have the pleasure of meeting you, my
+dear,'' said Longitudinal Stability. ``Here's the Tail Surface,''
+he said, ``and in order to help me it must be set IN
+EFFECT at a much less Angle of Incidence than the Main Surface.
+To explain we must trouble the Blackboard again,'' and
+this was his effort:
+
+``I have tried to make that as clear as possible,'' he
+said. ``It may appear a bit complicated at first, but if
+you will take the trouble to look at it for a minute you will find
+it quite simple. A is the normal and proper direction of
+motion of the Aeroplane, but, owing to a gust of air, it takes
+up the new nose-down position. Owing to Momentum,
+however, it does not fly straight along in that direction, but
+moves more or less in the direction B, which is the resultant
+of the two forces, Momentum and Thrust. And so you will
+note that the Angle of Incidence, which is the inclination
+of the Surfaces to the Direction of Motion, has decreased,
+and of course the Lift decreases with it. You will also see,
+and this is the point, that the Tail Surface has lost a higher
+proportion of its Angle, and consequently its Lift, than has
+the Main Surface. Then, such being the case, the Tail must
+fall and the Aeroplane assume its normal position again,
+though probably at a slightly lower altitude.''
+
+``I'm afraid I'm very stupid,'' said Efficiency, ``but
+please tell me why you lay stress upon the words `IN
+EFFECT.' ''
+
+``Ah! I was wondering if you would spot that,'' he
+replied. ``And there is a very good reason for it. You see,
+in some Aeroplanes the Tail Surface may be actually set
+at the same Angle on the machine as the Main Surface, but
+owing to the air being deflected downwards by the front
+Main Surface it meets the Tail Surface at a lesser angle,
+and indeed in some cases at no angle at all. The Tail is then
+for its surface getting less Lift than the Main Surface, although
+set at the same angle on the machine. It may then be
+said to have IN EFFECT a less Angle of Incidence. I'll just
+show you on the Blackboard.''
+
+``And now,'' said Efficiency, ``I have only to meet the
+Ailerons and the Rudder, haven't I?''
+
+``Here we are,'' replied the Ailerons, or little wings.
+``Please hinge us on to the back of the Main Surfaces, one
+of us at each Wing-tip, and join us up to the Pilot's joystick
+by means of the control cables. When the Pilot wishes to
+tilt the Aeroplane sideways, he will move the stick and depress
+us upon one side, thus giving us a larger Angle of Incidence
+and so creating more Lift on that side of the Aeroplane;
+and, by means of a cable connecting us with the Ailerons on
+the other side of the Aeroplane, we shall, as we are depressed,
+pull them up and give them a reverse or negative Angle of
+Incidence, and that side will then get a reverse Lift or downward
+thrust, and so we are able to tilt the Aeroplane sideways.
+
+``And we work best when the Angle of Incidence of the
+Surface in front of us is very small, for which reason it is
+sometimes decreased or washed-out towards the Wing-tips.
+The reason of that is that by the time the air reaches us
+it has been deflected downwards--the greater the Angle
+of Incidence the more it is driven downwards--and in order
+for us to secure a Reaction from it, we have to take such a
+large Angle of Incidence that we produce a poor proportion
+of Lift to Drift; but the smaller the Angle of the Surface in
+front of us the less the air is deflected downwards, and
+consequently the less Angle is required of us, and the better our
+proportion of Lift to Drift, which, of course, makes us much
+more effective Controls.''
+
+``Yes,'' said the Lateral and Directional Stabilities in
+one voice, ``that's so, and the wash-out helps us also, for
+then the Surfaces towards their Wing-tips have less Drift
+or `Head-Resistance,' and consequently the gusts will affect
+them and us less; but such decreased Angle of Incidence
+means decreased Lift as well as Drift, and the Designer does
+not always care to pay the price.''
+
+``Well,'' said the Ailerons, ``if it's not done it will mean
+more work for the Rudder, and that won't please the Pilot.''
+
+``Whatever do you mean?'' asked Efficiency. ``What
+can the Rudder have to do with you?''
+
+``It's like this,'' they replied: ``when we are deflected
+downwards we gain a larger Angle of Incidence and also
+enter an area of compressed air, and so produce more Drift
+than those of us on the other side of the Aeroplane, which
+are deflected upwards into an area of rarefied air due to
+the SUCTION effect (though that term is not academically
+correct) on the top of the Surface. If there is more Drift,
+i.e., Resistance, on one side of the Aeroplane than on the other
+side, then of course it will turn off its course, and if that
+difference in Drift is serious, as it will very likely be if there
+is no wash-out, then it will mean a good deal of work for the
+Rudder in keeping the Aeroplane on its course, besides
+creating extra Drift in doing so.''
+
+``I think, then,'' said Efficiency, ``I should prefer to
+have that wash-out,[[7]] and my friend the Designer is so clever
+at producing strength of construction for light weight, I'm
+pretty sure he won't mind paying the price in Lift. And
+now let me see if I can sketch the completed Aeroplane.''
+
+
+[[7]] An explanation of the way in which the wash-out is combined
+with a wash-in to offset propellor torque will be found on p. 82.
+
+
+``Well, I hope that's all as it should be,'' she concluded,
+``for to-morrow the Great Test in the air is due.''
+
+
+
+PART III
+
+THE GREAT TEST
+
+It is five o'clock of a fine calm morning, when the Aeroplane
+is wheeled out of its shed on to the greensward of the Military
+Aerodrome. There is every promise of a good flying day,
+and, although the sun has not yet risen, it is light enough to
+discern the motionless layer of fleecy clouds some five thousand
+feet high, and far, far above that a few filmy mottled streaks
+of vapour. Just the kind of morning beloved of pilots.
+
+A brand new, rakish, up-to-date machine it is, of highly
+polished, beautifully finished wood, fabric as tight as a
+drum, polished metal, and every part so perfectly ``streamlined''
+to minimize Drift, which is the resistance of the air
+to the passage of the machine, that to the veriest tyro the
+remark of the Pilot is obviously justified.
+
+``Clean looking 'bus, looks almost alive and impatient
+to be off. Ought to have a turn for speed with those
+lines.''
+
+``Yes,'' replies the Flight-Commander, ``it's the latest
+of its type and looks a beauty. Give it a good test. A
+special report is required on this machine.''
+
+The A.M.'s[[8]] have now placed the Aeroplane in position
+facing the gentle air that is just beginning to make itself
+evident; the engine Fitter, having made sure of a sufficiency
+of oil and petrol in the tanks, is standing by the Propeller;
+the Rigger, satisfied with a job well done, is critically ``vetting''
+the machine by eye, four A.M.'s are at their posts,
+ready to hold the Aeroplane from jumping the blocks which
+have been placed in front of the wheels; and the Flight-
+Sergeant is awaiting the Pilot's orders.
+
+
+[[8]] A.M.'s: Air Mechanics.
+
+
+As the Pilot approaches the Aeroplane the Rigger springs
+to attention and reports, ``All correct, sir,'' but the Fitter
+does not this morning report the condition of the Engine,
+for well he knows that this Pilot always personally looks
+after the preliminary engine test. The latter, in leathern
+kit, warm flying boots and goggled, climbs into his seat,
+and now, even more than before, has the Aeroplane an almost
+living appearance, as if straining to be off and away. First
+he moves the Controls to see that everything is clear, for
+sometimes when the Aeroplane is on the ground the control
+lever or ``joy-stick'' is lashed fast to prevent the wind
+from blowing the controlling surfaces about and possibly
+damaging them.
+
+The air of this early dawn is distinctly chilly, and the
+A.M.'s are beginning to stamp their cold feet upon the dewy
+grass, but very careful and circumspect is the Pilot, as he
+mutters to himself, ``Don't worry and flurry, or you'll die
+in a hurry.''
+
+At last he fumbles for his safety belt, but with a start
+remembers the Pilot Air Speed Indicator, and, adjusting
+it to zero, smiles as he hears the Pilot-head's gruff voice,
+``Well, I should think so, twenty miles an hour I was registering.
+That's likely to cause a green pilot to stall the Aeroplane.
+Pancake, they call it.'' And the Pilot, who is an
+old hand and has learned a lot of things in the air that mere
+earth-dwellers know nothing about, distinctly heard the
+Pilot Tube, whose mouth is open to the air to receive its
+pressure, stammer. ``Oh Lor! I've got an earwig already--
+hope to goodness the Rigger blows me out when I come
+down--and this morning air simply fills me with moisture;
+I'll never keep the Liquid steady in the Gauge. I'm not
+sure of my rubber connections either.''
+
+``Oh, shut up!'' cry all the Wires in unison, ``haven't
+we got our troubles too? We're in the most horrible state
+of tension. It's simply murdering our Factor of Safety,
+and how we can possibly stand it when we get the Lift only
+the Designer knows.''
+
+``That's all right,'' squeak all the little Wire loops,
+``we're that accommodating, we're sure to elongate a bit
+and so relieve your tension.'' For the whole Aeroplane is
+braced together with innumerable wires, many of which
+are at their ends bent over in the form of loops in order to
+connect with the metal fittings on the spars and elsewhere--
+cheap and easy way of making connection.
+
+``Elongate, you little devils, would you?'' fairly shout
+the Angles of Incidence, Dihedral and Stagger, amid a chorus
+of groans from all parts of the Aeroplane. ``What's going
+to happen to us then? How are we going to keep our
+adjustments upon which good flying depends?''
+
+``Butt us and screw us,''[[9]] wail the Wires. ``Butt us
+and screw us, and death to the Loops. That's what we
+sang to the Designer, but he only looked sad and scowled
+at the Directors.''
+
+
+[[9]] Butt means to thicken at the end. Screw means to machine a thread
+on the butt-end of the wire, and in this way the wire can make connection
+with the desired place by being screwed into a metal fitting,
+thus eliminating the disadvantage of the unsatisfactory loop.
+
+
+``And who on earth are they?'' asked the Loops, trembling
+for their troublesome little lives.
+
+``Oh earth indeed,'' sniffed Efficiency, who had not
+spoken before, having been rendered rather shy by being
+badly compromised in the Drawing Office. ``I'd like to
+get some of them up between Heaven and Earth, I would.
+I'd give 'em something to think of besides their Debits
+and Credits--but all the same the Designer will get his
+way in the end. I'm his Best Girl, you know, and if we
+could only get rid of the Directors, the little Tin god, and
+the Man-who-takes-the-credit, we should be quite happy.''
+Then she abruptly subsides, feeling that perhaps the less
+said the better until she has made a reputation in the Air.
+The matter of that Compromise still rankled, and indeed
+it does seem hardly fit that a bold bad Tin god should flirt
+with Efficiency. You see there was a little Tin god, and he
+said ``Boom, Boom BOOM! Nonsense! It MUST be done,''
+and things like that in a very loud voice, and the Designer
+tore his hair and was furious, but the Directors, who were
+thinking of nothing but Orders and Dividends, had the
+whip-hand of HIM, and so there you are, and so poor beautiful
+Miss Efficiency was compromised.
+
+All this time the Pilot is carefully buckling his belt and
+making himself perfectly easy and comfortable, as all good
+pilots do. As he straightens himself up from a careful
+inspection of the Deviation Curve[[10]] of the Compass and takes
+command of the Controls, the Throttle and the Ignition,
+the voices grow fainter and fainter until there is nothing
+but a trembling of the Lift and Drift wires to indicate to his
+understanding eye their state of tension in expectancy of
+the Great Test.
+
+
+[[10]] Deviation curve: A curved line indicating any errors in the compass.
+
+
+``Petrol on?'' shouts the Fitter to the Pilot.
+
+``Petrol on,'' replies the Pilot.
+
+``Ignition off?''
+
+``Ignition off.''
+
+Round goes the Propeller, the Engine sucking in the
+Petrol Vapour with satisfied gulps. And then--
+
+``Contact?'' from the Fitter.
+
+``Contact,'' says the Pilot.
+
+Now one swing of the Propeller by the Fitter, and the
+Engine is awake and working. Slowly at first though, and
+in a weak voice demanding, ``Not too much Throttle, please.
+I'm very cold and mustn't run fast until my Oil has thinned
+and is circulating freely. Three minutes slowly, as you love
+me, Pilot.''
+
+Faster and faster turn the Engine and Propeller, and
+the Aeroplane, trembling in all its parts, strains to jump
+the blocks and be off. Carefully the Pilot listens to what the
+Engine Revolution Indicator says. At last, ``Steady
+at 1,500 revs. and I'll pick up the rest in the Air.'' Then
+does he throttle down the Engine, carefully putting the
+lever back to the last notch to make sure that in such position
+the Throttle is still sufficiently open for the Engine to continue
+working, as otherwise it might lead to him ``losing'' his
+Engine in the air when throttling down the power for descent.
+Then, giving the official signal, he sees the blocks removed
+from the wheels, and the Flight-Sergeant saluting he knows
+that all is clear to ascend. One more signal, and all the
+A.M.'s run clear of the Aeroplane.
+
+Then gently, gently mind you, with none of the ``crashing
+on'' bad Pilots think so fine, he opens the Throttle
+and, the Propeller Thrust overcoming its enemy the Drift,
+the Aeroplane moves forward.
+
+``Ah!'' says the Wind-screen, ``that's Discipline, that
+is. Through my little window I see most things, and don't
+I just know that poor discipline always results in poor work
+in the air, and don't you forget it.''
+
+``Discipline is it?'' complains the Under-carriage, as
+its wheels roll swiftly over the rather rough ground. ``I'm
+bump getting it; and bump, bump, all I want, bang, bump,
+rattle, too!'' But, as the Lift increases with the Speed,
+the complaints of the Under-carriage are stilled, and then,
+the friendly Lift becoming greater than the Weight, the
+Aeroplane swiftly and easily takes to the air.
+
+Below is left the Earth with all its bumps and troubles.
+Up into the clean clear Air moves with incredible speed
+and steadiness this triumph of the Designer, the result of
+how much mental effort, imagination, trials and errors,
+failures and successes, and many a life lost in high
+endeavour.
+
+Now is the mighty voice of the Engine heard as he turns
+the Propeller nine hundred times a minute. Now does the
+Thrust fight the Drift for all it's worth, and the Air Speed
+Indicator gasps with delight, ``One hundred miles an hour!''
+
+And now does the burden of work fall upon the Lift and
+Drift Wires, and they scream to the Turnbuckles whose
+business it is to hold them in tension, ``This is the limit!
+the Limit! THE LIMIT! Release us, if only a quarter
+turn.'' But the Turnbuckles are locked too fast to turn
+their eyes or utter a word. Only the Locking Wires thus:
+``Ha! ha! the Rigger knew his job. He knew the trick, and
+there's no release here.'' For an expert rigger will always
+use the locking wire in such a way as to oppose the slightest
+tendency of the turnbuckle to unscrew. The other kind of
+rigger will often use the wire in such a way as to allow the
+turnbuckle, to the ``eyes'' of which the wires are attached,
+to unscrew a quarter of a turn or more, with the result that
+the correct adjustment of the wires may be lost; and upon
+their fine adjustment much depends.
+
+And the Struts and the Spars groan in compression and
+pray to keep straight, for once ``out of truth'' there is, in
+addition to possible collapse, the certainty that in bending
+they will throw many wires out of adjustment.
+
+And the Fabric's quite mixed in its mind, and ejaculates,
+``Now, who would have thought I got more Lift from the
+top of the Surface than its bottom?'' And then truculently
+to the Distance Pieces, which run from rib to rib, ``Just
+keep the Ribs from rolling, will you? or you'll see me strip.
+I'm an Irishman, I am, and if my coat comes off---- Yes,
+Irish, I said. I used to come from Egypt, but I've got
+naturalized since the War began.''
+
+Then the Air Speed Indicator catches the eye of the
+Pilot. ``Good enough,'' he says as he gently deflects the
+Elevator and points the nose of the Aeroplane upwards in
+search of the elusive Best Climbing Angle.
+
+``Ha! ha!'' shouts the Drift, growing stronger with the
+increased Angle of Incidence. ``Ha! ha!'' he laughs to
+the Thrust. ``Now I've got you. Now who's Master?''
+
+And the Propeller shrieks hysterically, ``Oh! look at
+me. I'm a helicopter. That's not fair. Where's Efficiency?''
+And she can only sadly reply, ``Yes, indeed, but
+you see we're a Compromise.''
+
+And the Drift has hopes of reaching the Maximum Angle
+of Incidence and vanquishing the Thrust and the Lift. And
+he grows very bold as he strangles the Thrust; but the situation
+is saved by the Propeller, who is now bravely helicopting
+skywards, somewhat to the chagrin of Efficiency.
+
+``Much ado about nothing,'' quotes the Aeroplane
+learnedly. ``Compromise or not, I'm climbing a thousand
+feet a minute. Ask the Altimeter. He'll confirm it.''
+
+And so indeed it was. The vacuum box of the Altimeter
+was steadily expanding under the decreased pressure of
+the rarefied air, and by means of its little levers and its
+wonderful chain no larger than a hair it was moving the
+needle round the gauge and indicating the ascent at the
+rate of a thousand feet a minute.
+
+And lo! the Aeroplane has almost reached the clouds!
+But what's this? A sudden gust, and down sinks one wing
+and up goes the other. ``Oh, my Horizontal Equivalent!''
+despairingly call the Planes: ``it's eloping with the Lift,
+and what in the name of Gravity will happen? Surely
+there was enough scandal in the Factory without this, too!''
+For the lift varies with the horizontal equivalent of the
+planes, so that if the aeroplane tilts sideways beyond a certain
+angle, the lift becomes less than the weight of the machine,
+which must then fall. A fall in such a position is known as
+a ``side-slip.''
+
+But the ever-watchful Pilot instantly depresses one aileron,
+elevating the other, with just a touch of the rudder to keep
+on the course, and the Planes welcome back their precious
+Lift as the Aeroplane flicks back to its normal position.
+
+``Bit bumpy here under these clouds,'' is all the Pilot
+says as he heads for a gap between them, and the next minute
+the Aeroplane shoots up into a new world of space.
+
+``My eye!'' ejaculates the Wind-screen, ``talk about a
+view!'' And indeed mere words will always fail to express
+the wonder of it. Six thousand feet up now, and look!
+The sun is rising quicker than ever mortal on earth witnessed
+its ascent. Far below is Mother Earth, wrapt in mists and
+deep blue shadows, and far above are those light, filmy,
+ethereal clouds now faintly tinged with pink And all
+about great mountains of cloud, lazily floating in space.
+The sun rises and they take on all colours, blending one
+with the other, from dazzling white to crimson and deep
+violet-blue. Lakes and rivers here and there in the enormous
+expanse of country below refract the level rays of the sun
+and, like so many immense diamonds, send dazzling shafts
+of light far upwards. The tops of the hills now laugh to the
+light of the sun, but the valleys are still mysterious dark
+blue caverns, clowned with white filmy lace-like streaks of
+vapour. And withal the increasing sense with altitude of
+vast, clean, silent solitudes of space.
+
+Lives there the man who can adequately describe this
+Wonder? ``Never,'' says the Pilot, who has seen it many
+times, but to whom it is ever new and more wonderful.
+
+Up, up, up, and still up, unfalteringly speeds the Pilot
+and his mount. Sweet the drone of the Engine and steady
+the Thrust as the Propeller exultingly battles with the Drift.
+
+And look! What is that bright silver streak all along
+the horizon? It puzzled the Pilot when first he saw it,
+but now he knows it for the Sea, full fifty miles away!
+
+And on his right is the brightness of the Morn and the
+smiling Earth unveiling itself to the ardent rays of the Sun;
+and on his left, so high is he, there is yet black Night, hiding
+innumerable Cities, Towns, Villages and all those places
+where soon teeming multitudes of men shall awake, and by
+their unceasing toil and the spirit within them produce
+marvels of which the Aeroplane is but the harbinger.
+
+And the Pilot's soul is refreshed, and his vision, now
+exalted, sees the Earth a very garden, even as it appears
+at that height, with discord banished and a happy time
+come, when the Designer shall have at last captured Efficiency,
+and the Man-who-takes-the-credit is he who has earned it,
+and when kisses are the only things that go by favour.
+
+Now the Pilot anxiously scans the Barograph, which is
+an instrument much the same as the Altimeter; but in this
+case the expansion of the vacuum box causes a pen to trace
+a line upon a roll of paper. This paper is made by clockwork
+to pass over the point of the pen, and so a curved line is
+made which accurately registers the speed of the ascent in
+feet per minute. No longer is the ascent at the rate of a
+thousand feet a minute, and the Propeller complains to the
+Engine, ``I'm losing my Revs. and the Thrust. Buck up
+with the Power, for the Lift is decreasing, though the Weight
+remains much the same.''
+
+Quoth the Engine: ``I strangle for Air. A certain proportion,
+and that of right density, I must have to one part
+of Petrol, in order to give me full power and compression,
+and here at an altitude of ten thousand feet the Air is only
+two-thirds as dense as at sea-level. Oh, where is he who
+will invent a contrivance to keep me supplied with Air of
+right density and quality? It should not be impossible
+within certain limits.''
+
+``We fully agree,'' said the dying Power and Thrust. ``Only
+maintain Us and you shall be surprised at the result. For
+our enemy Drift decreases in respect of distance with the increase
+of altitude and rarity of air, and there is no limit to the
+speed through space if only our strength remains. And
+with oxygen for Pilot and Passengers and a steeper pitch[[11]]
+for the Propeller we may then circle the Earth in a day!''
+
+
+[[11]] A propeller screws through the air, and the distance it advances
+during one revolution, supposing the air to be solid, is known as the pitch.
+The pitch, which depends upon the angle of the propeller blades, must be equal
+to the speed of the aeroplane, plus the slip, and if, on account of the rarity
+of the air the speed of the aeroplane increases, then the angle and pitch
+should be correspondingly increased. Propellers with a pitch capable of being
+varied by the pilot are the dream of propeller designers. For explanation of
+``slip'' see Chapter IV. on propellers.
+
+
+Ah, Reader, smile not unbelievingly, as you smiled but
+a few years past. There may be greater wonders yet. Consider
+that as the speed increases, so does the momentum
+or stored-up force in the mass of the aeroplane become
+terrific. And, bearing that in mind, remember that with
+altitude gravity decreases. There may yet be literally other
+worlds to conquer.[[12]]
+
+
+[[12]] Getting out of my depth? Invading the realms of fancy? Well,
+perhaps so, but at any rate it is possible that extraordinary speed through
+space may be secured if means are found to maintain the impulse of the engine
+and the thrust-drift efficiency of the propeller at great altitude.
+
+
+Now at fifteen thousand feet the conditions are chilly
+and rare, and the Pilot, with thoughts of breakfast far below,
+exclaims, ``High enough! I had better get on with the
+Test.'' And then, as he depresses the Elevator, the Aeroplane
+with relief assumes its normal horizontal position.
+Then, almost closing the Throttle, the Thrust dies away.
+Now, the nose of the Aeroplane should sink of its own volition,
+and the craft glide downward at flying speed, which is in
+this case a hundred miles an hour. That is what should
+happen if the Designer has carefully calculated the weight
+of every part and arranged for the centre of gravity to be just
+the right distance in front of the centre of lift. Thus is the
+Aeroplane ``nose-heavy'' as a glider, and just so to a degree
+ensuring a speed of glide equal to its flying speed. And the
+Air Speed Indicator is steady at one hundred miles an hour,
+and ``That's all right!'' exclaims the Pilot. ``And very
+useful, too, in a fog or a cloud,'' he reflects, for then he can
+safely leave the angle of the glide to itself, and give all his
+attention, and he will need it all, to keeping the Aeroplane
+horizontal from wing-tip to wing-tip, and to keeping it
+straight on its course. The latter he will manage with the
+rudder, controlled by his feet, and the Compass will tell him
+whether a straight course is kept. The former he will control
+by the Ailerons, or little wings hinged to the tips of the planes,
+and the bubble in the Inclinometer in front of him must be
+kept in the middle.
+
+A Pilot, being only human, may be able to do two things
+at once, but three is a tall order, so was this Pilot relieved
+to find the Design not at fault and his craft a ``natural
+glider.'' To correct this nose-heavy tendency when the
+Engine is running, and descent not required, the centre
+of Thrust is arranged to be a little below the centre of Drift
+or Resistance, and thus acts as a counter-balance.
+
+But what is this stream of bad language from the Exhaust
+Pipe, accompanied by gouts of smoke and vapour?
+The Engine, now revolving at no more than one-tenth its
+normal speed, has upset the proportion of petrol to air,
+and combustion is taking place intermittently or in the
+Exhaust Pipe, where it has no business to be.
+
+``Crash, Bang, Rattle----!----!----!'' and worse than
+that, yells the Exhaust, and the Aeroplane, who is a gentleman
+and not a box kite,[[13]] remonstrates with the severity
+of a Senior Officer. ``See the Medical Officer, you young
+Hun. Go and see a doctor. Vocal diarrhoea, that's your
+complaint, and a very nasty one too. Bad form, bad for
+discipline, and a nuisance in the Mess. What's your Regiment?
+Special Reserve, you say? Humph! Sounds like
+Secondhand Bicycle Trade to me!''
+
+
+[[13]] Box-kite. The first crude form of biplane.
+
+
+Now the Pilot decides to change the straight gliding
+descent to a spiral one, and, obedient to the Rudder, the
+Aeroplane turns to the left. But the Momentum (two tons
+at 100 miles per hour is no small affair) heavily resents this
+change of direction, and tries its level best to prevent it
+and to pull the machine sideways and outwards from its
+spiral course--that is, to make it ``side-skid'' outwards.
+But the Pilot deflects the Ailerons and ``banks'' up the planes
+to the correct angle, and, the Aeroplane skidding sideways
+and outwards, the lowest surfaces of the planes press up against
+the air until the pressure equals the centrifugal force of
+the Momentum, and the Aeroplane spirals steadily downwards.
+
+Down, down, down, and the air grows denser, and the
+Pilot gulps largely, filling his lungs with the heavier air to
+counteract the increasing pressure from without. Down
+through a gap in the clouds, and the Aerodrome springs
+into view, appearing no larger than a saucer, and the Pilot,
+having by now got the ``feel'' of the Controls, proceeds
+to put the Aeroplane through its paces. First at its Maximum
+Angle, staggering along tail-down and just maintaining
+horizontal flight; then a dive at far over flying speed, finishing
+with a perfect loop; then sharp turns with attendant
+vertical ``banks'' and then a wonderful switchback flight,
+speeding down at a hundred and fifty miles an hour with
+short, exhilarating ascents at the rate of two thousand feet
+a minute!
+
+All the parts are now working well together. Such
+wires as were before in undue tension have secured relief
+by slightly elongating their loops, and each one is now doing
+its bit, and all are sharing the burden of work together.
+
+The Struts and the Spars, which felt so awkward at first,
+have bedded themselves in their sockets, and are taking
+the compression stresses uncomplainingly.
+
+The Control Cables of twisted wire, a bit tight before,
+have slightly lengthened by perhaps the eighth of an inch,
+and, the Controls instantly responding to the delicate touch
+of the Pilot, the Aeroplane, at the will of its Master, darts
+this way and that way, dives, loops, spirals, and at last, in
+one long, magnificent glide, lands gently in front of its shed.
+
+``Well, what result?'' calls the Flight-Commander to
+the Pilot.
+
+``A hundred miles an hour and a thousand feet a minute,''
+he briefly replies.
+
+``And a very good result too,'' says the Aeroplane, complacently,
+as he is carefully wheeled into his shed.
+
+
+
+That is the way Aeroplanes speak to those who love them
+and understand them. Lots of Pilots know all about it,
+and can spin you wonderful yarns, much better than this
+one, if you catch them in a confidential mood--on leave,
+for instance, and after a good dinner.
+
+
+
+PART IV
+
+'CROSS COUNTRY
+
+The Aeroplane had been designed and built, and tested in
+the air, and now stood on the Aerodrome ready for its first
+'cross-country flight.
+
+It had run the gauntlet of pseudo-designers, crank inventors,
+press ``experts,'' and politicians; of manufacturers
+keen on cheap work and large profits; of poor pilots who had
+funked it, and good pilots who had expected too much of
+it. Thousands of pounds had been wasted on it, many had
+gone bankrupt over it, and others it had provided with safe
+fat jobs.
+
+Somehow, and despite every conceivable obstacle, it had
+managed to muddle through, and now it was ready for its
+work. It was not perfect, for there were fifty different
+ways in which it might be improved, some of them shamefully
+obvious. But it was fairly sound mechanically, had a little
+inherent stability, was easily controlled, could climb a thousand
+feet a minute, and its speed was a hundred miles an
+hour. In short, quite a creditable machine, though of course
+the right man had not got the credit.
+
+It is rough, unsettled weather with a thirty mile an
+hour wind on the ground, and that means fifty more or
+less aloft. Lots of clouds at different altitudes to bother
+the Pilot, and the air none to clear for the observation of
+landmarks.
+
+As the Pilot and Observer approach the Aeroplane the
+former is clearly not in the best of tempers. ``It's rotten
+luck,'' he is saying, ``a blank shame that I should have
+to take this blessed 'bus and join X Reserve Squadron,
+stationed a hundred and fifty miles from anywhere; and
+just as I have licked my Flight into shape. Now some
+slack blighter will, I suppose, command it and get the credit
+of all my work!''
+
+``Shut up, you grouser,'' said the Observer. ``Do you
+think you're the only one with troubles? Haven't I been
+through it too? Oh! I know all about it! You're from
+the Special Reserve and your C.O. doesn't like your style
+of beauty, and you won't lick his boots, and you were a bit
+of a technical knut in civil life, but now you've jolly well
+got to know less than those senior to you. Well! It's a
+jolly good experience for most of us. Perhaps conceit won't
+be at quite such a premium after this war. And what's
+the use of grousing? That never helped anyone. So buck
+up, old chap. Your day will come yet. Here's our machine,
+and I must say it looks a beauty!''
+
+And, as the Pilot approaches the Aeroplane, his face
+brightens and he soon forgets his troubles as he critically
+inspects the craft which is to transport him and the Observer
+over the hills and far away. Turning to the Flight-Sergeant
+he inquires, ``Tank full of petrol and oil?''
+
+``Yes, sir,'' he replies, ``and everything else all correct.
+Propeller, engine, and body covers on board, sir; tool kit
+checked over and in the locker; engine and Aeroplane logbooks
+written up, signed, and under your seat; engine revs.
+up to mark, and all the control cables in perfect condition
+and tension.''
+
+``Very good,'' said the Pilot; and then turning to the
+Observer, ``Before we start you had better have a look
+at the course I have mapped out.
+
+``A is where we stand and we have to reach B, a hundred
+and fifty miles due North. I judge that, at the altitude
+we shall fly, there will be an East wind, for although it is
+not quite East on the ground it is probably about twenty
+degrees different aloft, the wind usually moving round clockways
+to about that extent. I think that it is blowing at the
+rate of about fifty miles an hour, and I therefore take a line
+on the map to C, fifty miles due West of A. The Aeroplane's
+speed is a hundred miles an hour, and so I take a line of one
+hundred miles from C to D. Our compass course will then
+be in the direction A--E, which is always a line parallel to
+C--D. That is, to be exact, it will be fourteen degrees off
+the C--D course, as, in this part of the globe, there is that
+much difference between the North and South lines on the
+map and the magnetic North to which the compass needle
+points. If the compass has an error, as it may have of a
+few degrees, that, too, must be taken into account, and the
+deviation or error curve on the dashboard will indicate it.
+
+``The Aeroplane will then always be pointing in a direction
+parallel to A--E, but, owing to the side wind, it will be actually
+travelling over the course A--B, though in a rather
+sideways attitude to that course.
+
+``The distance we shall travel over the A--B course
+in one hour is A--D. That is nearly eighty-seven miles,
+so we ought to accomplish our journey of a hundred and
+fifty miles in about one and three-quarter hours.
+
+``I hope that's quite clear to you. It's a very simple
+way of calculating the compass course, and I always do it
+like that.''
+
+``Yes, that's plain enough. You have drafted what
+engineers call `a parallelogram of forces'; but suppose you
+have miscalculated the velocity of the wind, or that it should
+change in velocity or direction?''
+
+``Well, that of course will more or less alter matters,''
+replies the Pilot. ``But there are any number of good
+landmarks such as lakes, rivers, towns, and railway lines.
+They will help to keep us on the right course, and the compass
+will, at any rate, prevent us from going far astray when
+between them.''
+
+``Well, we'd better be off, old chap. Hop aboard.''
+This from the Observer as he climbs into the front seat
+from which he will command a good view over the lower
+plane; and the Pilot takes his place in the rear seat, and,
+after making himself perfectly comfortable, fixing his safety
+belt, and moving the control levers to make sure that they
+are working freely, he gives the signal to the Engine Fitter
+to turn the propeller and so start the engine.
+
+Round buzzes the Propeller, and the Pilot, giving the
+official signal, the Aeroplane is released and rolls swiftly
+over the ground in the teeth of the gusty wind.
+
+In less than fifty yards it takes to the air and begins
+to climb rapidly upwards, but how different are the conditions
+to the calm morning of yesterday! If the air were
+visible it would be seen to be acting in the most extraordinary
+manner; crazily swirling, lifting and dropping, gusts viciously
+colliding--a mad phantasmagoria of forces!
+
+Wickedly it seizes and shakes the Aeroplane; then tries
+to turn it over sideways; then instantly changes its mind
+and in a second drops it into a hole a hundred feet deep,
+and if it were not for his safety belt the Pilot might find
+his seat sinking away from beneath him.
+
+Gusts strike the front of the craft like so many slaps in
+the face; and others, with the motion of mountainous waves,
+sometimes lift it hundreds of feet in a few seconds, hoping
+to see it plunge over the summit in a death-dive--and so it
+goes on, but the Pilot, perfectly at one with his mount and
+instantly alert to its slightest motion, is skilfully and naturally
+making perhaps fifty movements a minute of hand and feet;
+the former lightly grasping the ``joy-stick'' which controls
+the Elevator hinged to the tail, and also the Ailerons or little
+wings hinged to the wing-tips; and the latter moving the
+Rudder control-bar.
+
+A strain on the Pilot? Not a bit of it, for this is his
+Work which he loves and excels in; and given a cool head,
+alert eye, and a sensitive touch for the controls, what
+sport can compare with these ever-changing battles of
+the air?
+
+The Aeroplane has all this time been climbing in great
+wide circles, and is now some three thousand feet above
+the Aerodrome which from such height looks absurdly
+small. The buildings below now seem quite squat; the
+hills appear to have sunk away into the ground, and the
+whole country below, cut up into diminutive fields, has
+the appearance of having been lately tidied and thoroughly
+spring-cleaned! A doll's country it looks, with tiny horses
+and cows ornamenting the fields and little model motor-cars
+and carts stuck on the roads, the latter stretching away
+across the country like ribbons accidentally dropped.
+
+At three thousand feet altitude the Pilot is satisfied
+that he is now sufficiently high to secure, in the event of
+engine failure, a long enough glide to earth to enable him
+to choose and reach a good landing-place; and, being furthermore
+content with the steady running of the engine, he
+decides to climb no more but to follow the course he has
+mapped out. Consulting the compass, he places the Aeroplane
+on the A--E course and, using the Elevator, he gives
+his craft its minimum angle of incidence at which it will
+just maintain horizontal flight and secure its maximum
+speed.
+
+Swiftly he speeds away, and few thoughts he has now
+for the changing panorama of country, cloud, and colour.
+Ever present in his mind are the three great 'cross-country
+queries. ``Am I on my right course? Can I see a good
+landing-ground within gliding distance?'' And ``How is
+the Engine running?''
+
+Keenly both he and the Observer compare their maps
+with the country below. The roads, khaki-coloured ribbons,
+are easily seen but are not of much use, for there are so many
+of them and they all look alike from such an altitude.
+
+Now where can that lake be which the map shows so
+plainly? He feels that surely he should see it by now,
+and has an uncomfortable feeling that he is flying too far
+West. What pilot is there indeed who has not many times
+experienced such unpleasant sensation? Few things in the
+air can create greater anxiety. Wisely, however, he sticks
+to his compass course, and the next minute he is rewarded
+by the sight of the lake, though indeed he now sees that the
+direction of his travel will not take him over it, as should
+be the case if he were flying over the shortest route to his
+destination. He must have slightly miscalculated the velocity
+or direction of the side-wind.
+
+``About ten degrees off,'' he mutters, and, using the
+Rudder, corrects his course accordingly.
+
+Now he feels happier and that he is well on his way.
+The gusts, too, have ceased to trouble him as, at this altitude,
+they are not nearly so bad as they were near the ground
+the broken surface of which does much to produce them;
+and sometimes for miles he makes but a movement or two
+of the controls.
+
+The clouds just above race by with dizzy and uniform
+speed; the country below slowly unrolls, and the steady
+drone of the Engine is almost hypnotic in effect. ``Sleep,
+sleep, sleep,'' it insidiously suggests. ``Listen to me and
+watch the clouds; there's nothing else to do. Dream,
+dream, dream of speeding through space for ever, and ever,
+and ever; and rest, rest, rest to the sound of my rhythmical
+hum. Droning on and on, nothing whatever matters. All
+things now are merged into speed through space and a sleepy
+monotonous d-d-r-r-o-o-n-n-e - - - - -.'' But the Pilot pulls
+himself together with a start and peers far ahead in search
+of the next landmark. This time it is a little country town.
+red-roofed his map tells him, and roughly of cruciform shape;
+and, sure enough, there in the right direction are the broken
+outlines of a few red roofs peeping out from between the trees.
+
+Another minute and he can see this little town, a fairy
+town it appears, nestling down between the hills with its
+red roofs and picturesque shape, a glowing and lovely contrast
+with the dark green of the surrounding moors.
+
+So extraordinarily clean and tidy it looks from such a
+height, and laid out in such orderly fashion with perfectly
+defined squares, parks, avenues, and public buildings, it
+indeed appears hardly real, but rather as if it has this very
+day materialized from some delightful children's book!
+
+Every city and town you must know has its distinct
+individuality to the Pilot's eye. Some are not fairy places
+at all, but great dark ugly blots upon the fair countryside,
+and with tall shafts belching forth murky columns of smoke
+to defile clean space. Others, melancholy-looking masses
+of grey, slate-roofed houses, are always sad and dispirited;
+never welcoming the glad sunshine, but ever calling for leaden
+skies and a weeping Heaven. Others again, little coquettes
+with village green, white palings everywhere, bright gravel
+roads, and an irrepressible air of brightness and gaiety.
+
+Then there are the rivers, silvery streaks peacefully
+winding far, far away to the distant horizon; they and the
+lakes the finest landmarks the Pilot can have. And the
+forests. How can I describe them? The trees cannot be
+seen separately, but merge altogether into enormous irregular
+dark green masses sprawling over the country, and sometimes
+with great ungainly arms half encircling some town or village;
+and the wind passing over the foliage at times gives the forest
+an almost living appearance, as of some great dragon of olden
+times rousing itself from slumber to devour the peaceful
+villages which its arms encircle.
+
+And the Pilot and Observer fly on and on, seeing these
+things and many others which baffle my poor skill to describe--
+things, dear Reader, that you shall see, and poets sing of,
+and great artists paint in the days to come when the Designer
+has captured Efficiency. Then, and the time is near, shall
+you see this beautiful world as you have never seen it before,
+the garden it is, the peace it breathes, and the wonder of it.
+
+The Pilot, flying on, is now anxiously looking for the
+railway line which midway on his journey should point
+the course. Ah! There it is at last, but suddenly (and
+the map at fault) it plunges into the earth! Well the writer
+remembers when that happened to him on a long 'cross-
+country flight in the early days of aviation. Anxiously
+he wondered ``Are tunnels always straight?'' and with what
+relief, keeping on a straight course, he picked up the line
+again some three miles farther on!
+
+Now at last the Pilot sees the sea, just a streak on the
+north-eastern horizon, and he knows that his flight is two-
+thirds over. Indeed, he should have seen it before, but
+the air is none too clear, and he is not yet able to discern
+the river which soon should cross his path. As he swiftly
+speeds on the air becomes denser and denser with what he
+fears must be the beginning of a sea-fog, perhaps drifting
+inland along the course of the river. Now does he feel real
+anxiety, for it is the DUTY of a Pilot to fear fog, his deadliest
+enemy. Fog not only hides the landmarks by which he
+keeps his course, but makes the control of the Aeroplane
+a matter of the greatest difficulty. He may not realize
+it, but, in keeping his machine on an even keel, he is
+unconsciously balancing it against the horizon, and with the
+horizon gone he is lost indeed. Not only that, but it also
+prevents him from choosing his landing-place, and the
+chances are that, landing in a fog, he will smash into a tree,
+hedge, or building, with disastrous results. The best and
+boldest pilot 'wares a fog, and so this one, finding the
+conditions becoming worse and yet worse, and being forced to
+descend lower and lower in order to keep the earth within
+view, wisely decides to choose a landing-place while there is
+yet time to do so.
+
+Throttling down the power of the engine he spirals downwards,
+keenly observing the country below. There are
+plenty of green fields to lure him, and his great object is to
+avoid one in which the grass is long, for that would bring
+his machine to a stop so suddenly as to turn it over; or one
+of rough surface likely to break the under-carriage. Now
+is perfect eyesight and a cool head indispensable. He sees
+and decides upon a field and, knowing his job, he sticks to
+that field with no change of mind to confuse him. It is none
+too large, and gliding just over the trees and head on to the
+wind he skilfully ``stalls'' his machine; that is, the speed
+having decreased sufficiently to avoid such a manoeuvre
+resulting in ascent, he, by means of the Elevator, gives the
+Aeroplane as large an angle of incidence as possible. and the
+undersides of the planes meeting the air at such a large
+angle act as an air-brake, and the Aeroplane, skimming
+over the ground, lessens its speed and finally stops just at
+the farther end of the field.
+
+Then, after driving the Aeroplane up to and under the
+lee of the hedge, he stops the engine, and quickly lashing
+the joy-stick fast in order to prevent the wind from blowing
+the controlling surfaces about and possibly damaging them,
+he hurriedly alights. Now running to the tail he lifts it up
+on to his shoulder, for the wind has become rough indeed
+and there is danger of the Aeroplane becoming unmanageable.
+By this action he decreases the angle at which the planes
+are inclined to the wind and so minimizes the latter's effect
+upon them. Then to the Observer, ``Hurry up, old fellow,
+and try to find some rope, wire, or anything with which to
+picket the machine. The wind is rising and I shan't be able
+to hold the 'bus steady for long. Don't forget the wire-
+cutters. They're in the tool kit.'' And the Observer rushes
+off in frantic haste, before long triumphantly returning with
+a long length of wire from a neighbouring fence. Blocking
+up the tail with some debris at hand, they soon succeed,
+with the aid of the wire, in stoutly picketing the Aeroplane
+to the roots of the high hedge in front of it; done with much
+care, too, so that the wire shall not fray the fabric or set up
+dangerous bending-stresses in the woodwork. Their work
+is not done yet, for the Observer remarking, ``I don't like
+the look of this thick weather and rather fear a heavy rain-
+storm,'' the Pilot replies, ``Well, it's a fearful bore, but the
+first rule of our game is never to take an unnecessary risk,
+so out with the engine and body covers.''
+
+Working with a will they soon have the engine and the
+open part of the body which contains the seats, controls,
+and instruments snugly housed with their waterproof covers,
+and the Aeroplane is ready to weather the possible storm.
+
+Says the Observer, ``I'm remarkably peckish, and methinks
+I spy the towers of one of England's stately homes
+showing themselves just beyond that wood, less than a
+quarter of a mile away. What ho! for a raid. What do
+you say?''
+
+``All right, you cut along and I'll stop here, for the
+Aeroplane must not be left alone. Get back as quickly as
+possible.''
+
+And the Observer trots off, leaving the Pilot filling his
+pipe and anxiously scrutinizing the weather conditions.
+Very thick it is now, but the day is yet young, and he has
+hopes of the fog lifting sufficiently to enable the flight to be
+resumed. A little impatiently he awaits the return of his
+comrade, but with never a doubt of the result, for the hospi-
+tality of the country house is proverbial among pilots!
+What old hand among them is there who cannot instance
+many a forced landing made pleasant by such hospitality?
+Never too late or too early to help with food, petrol, oil,
+tools, and assistants. Many a grateful thought has the
+writer for such kind help given in the days before the war
+(how long ago they seem!), when aeroplanes were still more
+imperfect than they are now, and involuntary descents
+often a part of 'cross-country flying.
+
+Ah! those early days! How fresh and inspiring they
+were! As one started off on one's first 'cross-country flight,
+on a machine the first of its design, and with everything
+yet to learn, and the wonders of the air yet to explore; then
+the joy of accomplishment, the dreams of Efficiency, the
+hard work and long hours better than leisure; and what a
+field of endeavour--the realms of space to conquer! And
+the battle still goes on with ever-increasing success. Who
+is bold enough to say what its limits shall be?
+
+So ruminates this Pilot-Designer, as he puffs at his pipe,
+until his reverie is abruptly disturbed by the return of the
+Observer.
+
+``Wake up, you AIRMAN,'' the latter shouts. ``Here's
+the very thing the doctor ordered! A basket of first-class
+grub and something to keep the fog out, too.''
+
+``Well, that's splendid, but don't call me newspaper
+names or you'll spoil my appetite!''
+
+Then, with hunger such as only flying can produce, they
+appreciatively discuss their lunch, and with many a grateful
+thought for the donors--and they talk shop. They can't
+help it, and even golf is a poor second to flight talk. Says
+the Pilot, who must have his grievance, ``Just observe
+where I managed to stop the machine. Not twenty feet
+from this hedge! A little more and we should have been
+through it and into Kingdom Come! I stalled as well as
+one could, but the tail touched the ground and so I could
+not give the Aeroplane any larger angle of incidence. Could
+I have given it a larger angle, then the planes would have
+become a much more effective air-brake, and we should
+have come to rest in a much shorter distance. It's all the
+fault of the tail. There's hardly a type of Aeroplane in
+existence in which the tail could not be raised several feet,
+and that would make all the difference. High tails mean
+a large angle of incidence when the machine touches ground
+and, with enough angle, I'll guarantee to safely land the
+fastest machine in a five-acre field. You can, I am sure,
+imagine what a difference that would make where forced
+landings are concerned!'' Then rapidly sketching in his
+notebook, he shows the Observer the following illustration:
+
+``That's very pretty,'' said the Observer, ``but how
+about Mechanical Difficulties, and Efficiency in respect of
+Flight? And, anyway, why hasn't such an obvious thing
+been done already?''
+
+``As regards the first part of your question I assure
+you that there's nothing in it, and I'll prove it to you as
+follows----''
+
+``Oh! That's all right, old chap. I'll take your word
+for it,'' hurriedly replies the Observer, whose soul isn't tuned
+to a technical key.
+
+``As regards the latter part of your inquiry,'' went on
+the Pilot, a little nettled at having such a poor listener,
+``it's very simple. Aeroplanes have `just growed' like
+Topsy, and they consequently contain this and many another
+relic of early day design when Aeroplanes were more or less
+thrown together and anything was good enough that could
+get off the ground.''
+
+``By Jove,'' interrupts the Observer, ``I do believe the
+fog is lifting. Hadn't we better get the engine and body
+covers off, just in case it's really so?''
+
+``I believe you're right. I am sure those hills over there
+could not be seen a few minutes ago, and look--there's
+sunshine over there. We'd better hurry up.''
+
+Ten minutes' hard work and the covers are off, neatly
+folded and stowed aboard; the picketing wires are cast adrift,
+and the Pilot is once more in his seat. The Aeroplane has
+been turned to face the other end of the field, and, the Observer
+swinging round the propeller, the engine is awake
+again and slowly ticking over. Quickly the Observer climbs
+into his seat in front of the Pilot, and, the latter slightly
+opening the throttle, the Aeroplane leisurely rolls over the
+ground towards the other end of the field, from which the
+ascent will be made.
+
+Arriving there the Pilot turns the Aeroplane in order to
+face the wind and thus secure a quick ``get-off.'' Then he
+opens the throttle fully and the mighty voice of the Engine
+roars out ``Now see me clear that hedge!'' and the Aeroplane
+races forward at its minimum angle of incidence. Tail
+up, and with ever-increasing speed, it rushes towards the
+hedge under the lee of which it has lately been at rest; and
+then, just as the Observer involuntarily pulls back an imaginary
+``joy-stick,'' the Pilot moves the real one and places the
+machine at its best climbing angle. Like a living thing it
+responds, and instantly leaves the ground, clearing the hedge
+like a--well, like an Aeroplane with an excellent margin of
+lift. Upwards it climbs with even and powerful lift, and the
+familiar scenes below again gladden the eyes of the Pilot.
+Smaller and more and more squat grow the houses and hills;
+more and more doll-like appear the fields which are clearly
+outlined by the hedges; and soon the country below is easily
+identified with the map. Now they can see the river before
+them and a bay of the sea which must be crossed or skirted.
+The fog still lingers along the course of the river and between
+the hills, but is fast rolling away in grey, ghost-like masses.
+Out to sea it obscures the horizon, making it difficult to be
+sure where water ends and fog begins, and creating a strange,
+rather weird effect by which ships at a certain distance appear
+to be floating in space.
+
+Now the Aeroplane is almost over the river, and the
+next instant it suddenly drops into a ``hole in the air.''
+With great suddenness it happens, and for some two hundred
+feet it drops nose-down and tilted over sideways; but the
+Pilot is prepared and has put his craft on an even keel in
+less time than it takes to tell you about it; for well he knows
+that he must expect such conditions when passing over a
+shore or, indeed, any well-defined change in the composition
+of the earth's surface. Especially is this so on a hot and
+sunny day, for then the warm surface of the earth creates
+columns of ascending air, the speed of the ascent depending
+upon the composition of the surface. Sandy soil, for instance,
+such as borders this river produces a quickly ascending
+column of air, whereas water and forests have not such a
+marked effect. Thus, when our Aeroplane passed over the
+shore of the river, it suddenly lost the lift due to the ascending
+air produced by the warm sandy soil, and it consequently
+dropped just as if it had fallen into a hole.
+
+Now the Aeroplane is over the bay and, the sea being
+calm, the Pilot looks down, down through the water, and
+clearly sees the bottom, hundreds of feet below the surface.
+Down through the reflection of the blue sky and clouds,
+and one might think that is all, but it isn't. Only those
+who fly know the beauties of the sea as viewed from above;
+its dappled pearly tints; its soft dark blue shadows; the beautiful
+contrasts of unusual shades of colour which are always
+differing and shifting with the changing sunshine and the
+ever moving position of the aerial observer. Ah! for some
+better pen than mine to describe these things! One with
+glowing words and a magic rhythm to express the wonders
+of the air and the beauty of the garden beneath--the immensity
+of the sea--the sense of space and of one's littleness
+there--the realization of the Power moving the multitudes
+below--the exaltation of spirit altitude produces--the joy of
+speed. A new world of sensation!
+
+Now the bay is almost crossed and the Aerodrome at B
+can be distinguished.
+
+On the Aerodrome is a little crowd waiting and watching
+for the arrival of the Aeroplane, for it is of a new and improved
+type and its first 'cross-country performance is of
+keen interest to these men; men who really know something
+about flight.
+
+There is the Squadron Commander who has done some
+real flying in his time; several well-seasoned Flight-
+Commanders; a dozen or more Flight-Lieutenants; a
+knowledgeable Flight-Sergeant; a number of Air Mechanics,
+and, a little on one side and almost unnoticed, the
+Designer.
+
+``I hope they are all right,'' said someone, ``and that
+they haven't had difficulties with the fog. It rolled up very
+quickly, you know.''
+
+``Never fear,'' remarked a Flight-Commander. ``I know
+the Pilot well and he's a good 'un; far too good to carry on
+into a fog.''
+
+``They say the machine is really something out of the
+ordinary,'' said another, ``and that, for once, the Designer
+has been allowed full play; that he hasn't been forced to
+unduly standardize ribs, spars, struts, etc., and has more
+or less had his own way. I wonder who he is. It seems
+strange we hear so little of him.''
+
+Back to Full Books

@@ -1,0 +1,2004 @@
+The 1995 CIA World Factbook
+
+ Currency: 1 CFP franc (CFPF) = 100 centimes
+
+ Exchange rates: Comptoirs Francais du Pacifique francs (CFPF) per US$1
+ - 96.25 (January 1995), 100.94 (1994), 102.96 (1993), 96.24 (1992),
+ 102.57 (1991), 99.0 (1990); note - linked at the rate of 18.18 to the
+ French franc
+
+ Fiscal year: NA
+
+@Wallis And Futuna:Transportation
+
+ Railroads: 0 km
+
+ Highways:
+ total: 120 km (Ile Uvea 100 km, Ile Futuna 20km)
+ paved: 16 km (on Il Uvea)
+ unpaved: 104 km (Ile Uvea 84 km, Ile Futuna 20 km)
+
+ Inland waterways: none
+
+ Ports: Leava, Mata-Utu
+
+ Merchant marine:
+ total: 1 oil tanker (1,000 GRT or over) totaling 26,000 GRT/40,000 DWT
+
+ Airports:
+ total: 2
+ with paved runways 1,524 to 2,437 m: 1
+ with unpaved runways 914 to 1,523 m: 1
+
+@Wallis And Futuna:Communications
+
+ Telephone system: 225 telephones
+ local: NA
+ intercity: NA
+ international: NA
+
+ Radio:
+ broadcast stations: AM 1, FM 0, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 0
+ televisions: NA
+
+@Wallis And Futuna:Defense Forces
+
+ Note: defense is the responsibility of France
+
+
+________________________________________________________________________
+
+WEST BANK
+
+ Note--The Israel-PLO Declaration of Principles on Interim
+ Self-Government Arrangements ("the DOP"), signed in Washington on 13
+ September 1993, provides for a transitional period not exceeding five
+ years of Palestinian interim self-government in the Gaza Strip and the
+ West Bank. Under the DOP, final status negotiations are to begin no
+ later than the beginning of the third year of the transitional period.
+
+@West Bank:Geography
+
+ Location: Middle East, west of Jordan
+
+ Map references: Middle East
+
+ Area:
+ total area: 5,860 sq km
+ land area: 5,640 sq km
+ comparative area: slightly larger than Delaware
+ note: includes West Bank, Latrun Salient, and the northwest quarter of
+ the Dead Sea, but excludes Mt. Scopus; East Jerusalem and Jerusalem No
+ Man's Land are also included only as a means of depicting the entire
+ area occupied by Israel in 1967
+
+ Land boundaries: total 404 km, Israel 307 km, Jordan 97 km
+
+ Coastline: 0 km (landlocked)
+
+ Maritime claims: none; landlocked
+
+ International disputes: West Bank and Gaza Strip are Israeli occupied
+ with interim status subject to Israeli/Palestinian negotiations -
+ final status to be determined
+
+ Climate: temperate, temperature and precipitation vary with altitude,
+ warm to hot summers, cool to mild winters
+
+ Terrain: mostly rugged dissected upland, some vegetation in west, but
+ barren in east
+
+ Natural resources: negligible
+
+ Land use:
+ arable land: 27%
+ permanent crops: 0%
+ meadows and pastures: 32%
+ forest and woodland: 1%
+ other: 40%
+
+ Irrigated land: NA sq km
+
+ Environment:
+ current issues: NA
+ natural hazards: NA
+ international agreements: NA
+
+ Note: landlocked; highlands are main recharge area for Israel's
+ coastal aquifers; there are 199 Jewish settlements and civilian land
+ use sites in the West Bank and 25 in East Jerusalem (August 1994 est.)
+
+@West Bank:People
+
+ Population: 1,319,991 (July 1995 est.)
+ note: in addition, there are 122,000 Jewish settlers in the West Bank
+ and 149,000 in East Jerusalem (August 1994 est.)
+
+ Age structure:
+ 0-14 years: 46% (female 293,269; male 308,775)
+ 15-64 years: 51% (female 335,193; male 337,722)
+ 65 years and over: 3% (female 25,759; male 19,273) (July 1995 est.)
+
+ Population growth rate: 3.5% (1995 est.)
+
+ Birth rate: 39.83 births/1,000 population (1995 est.)
+
+ Death rate: 4.84 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 0 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 29.7 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 71.42 years
+ male: 69.91 years
+ female: 73 years (1995 est.)
+
+ Total fertility rate: 5.34 children born/woman (1995 est.)
+
+ Nationality:
+ noun: NA
+ adjective: NA
+
+ Ethnic divisions: Palestinian Arab and other 83%, Jewish 17%
+
+ Religions: Muslim 75% (predominantly Sunni), Jewish 17%, Christian and
+ other 8%
+
+ Languages: Arabic, Hebrew (spoken by Israeli settlers), English
+ (widely understood)
+
+ Literacy: NA%
+
+ Labor force: NA
+ by occupation: construction 28.2%, agriculture 21.8%, industry 14.5%,
+ commerce, restaurants, and hotels 12.6%, other services 22.9% (1991)
+ note: excluding Jewish settlers
+
+@West Bank:Government
+
+ Note: Under the Israeli-PLO Declaration of Principles on Interim
+ Self-Government Arragements ("the DOP"), Israel agreed to transfer
+ certain powers and responsibilities to the Palestinian Authority, and
+ subsequently to an elected Palestinian Council, as part of interim
+ self-governing arrangements in the West Bank and Gaza Strip. A
+ transfer of powers and responsibilities for the Gaza Strip and Jericho
+ has taken place pursuant to the Israel-PLO 4 May 1994 Cairo Agreement
+ on the Gaza Strip and the Jericho Area. A transfer of powers and
+ responsibilities in certain spheres for the rest of the West Bank has
+ taken place pursuant to the Israel-PLO 29 August 1994 Agreement on
+ Preparatory Transfer of Powers and Responsibilities. The DOP provides
+ that Israel will retain responsibility during the transitional period
+ for external security and for internal security and public order of
+ settlements and Israelis. Final status is to be determined through
+ direct negotiations within five years.
+
+ Names:
+ conventional long form: none
+ conventional short form: West Bank
+
+ Digraph: WE
+
+@West Bank:Economy
+
+ Overview: Economic progress in the West Bank has been hampered by
+ Israeli military administration and the effects of the Palestinian
+ uprising (intifadah). Industries using advanced technology or
+ requiring sizable investment have been discouraged by a lack of local
+ capital and restrictive Israeli policies. Capital investment consists
+ largely of residential housing, not productive assets that would
+ enable local Palestinian firms to compete with Israeli industry. GDP
+ has been substantially supplemented by remittances of workers employed
+ in Israel and Persian Gulf states. Such transfers from the Gulf
+ dropped after Iraq invaded Kuwait in August 1990. In the wake of the
+ Persian Gulf crisis, many Palestinians have returned to the West Bank,
+ increasing unemployment, and export revenues have dropped because of
+ the decline of markets in Jordan and the Gulf states. Israeli measures
+ to curtail the intifadah also have added to unemployment and lowered
+ living standards. The area's economic situation has worsened since
+ Israel's partial closure of the territories in 1993.
+
+ National product: GDP - purchasing power parity - $4 billion (1994
+ est.)
+
+ National product real growth rate: NA%
+
+ National product per capita: $2,800 (1994 est.)
+
+ Inflation rate (consumer prices): 6.8% (1993)
+
+ Unemployment rate: 35% (1994 est.)
+
+ Budget:
+ revenues: $43.4 million
+ expenditures: $43.7 million, including capital expenditures of $NA
+ (FY89/90)
+
+ Exports: $217 million (f.o.b., 1992)
+ commodities: olives, fruit, vegetables
+ partners: Jordan, Israel
+
+ Imports: $867 million (c.i.f., 1992)
+ commodities: food, consumer goods, construction materials
+ partners: Jordan, Israel
+
+ External debt: $NA
+
+ Industrial production: growth rate NA%
+
+ Electricity:
+ capacity: NA kW
+ production: NA kWh
+ consumption per capita: NA kWh
+ note: most electricity imported from Israel; East Jerusalem Electric
+ Company buys and distributes electricity to Palestinians in East
+ Jerusalem and its concession in the West Bank; the Israel Electric
+ Company directly supplies electricity to most Jewish residents and
+ military facilities; at the same time, some Palestinian
+ municipalities, such as Nabulus and Janin, generate their own
+ electricity from small power plants
+
+ Industries: generally small family businesses that produce cement,
+ textiles, soap, olive-wood carvings, and mother-of-pearl souvenirs;
+ the Israelis have established some small-scale modern industries in
+ the settlements and industrial centers
+
+ Agriculture: olives, citrus and other fruits, vegetables, beef, and
+ dairy products
+
+ Economic aid: $NA
+
+ Currency: 1 new Israeli shekel (NIS) = 100 new agorot; 1 Jordanian
+ dinar (JD) = 1,000 fils
+
+ Exchange rates: new Israeli shekels (NIS) per US$1 - 3.0270 (December
+ 1994), 3.0111 (1994), 2.8301 (1993), 2.4591 (1992), 2.2791 (1991),
+ 2.0162 (1990); Jordanian dinars (JD) per US$1 - 0.6995 (January 1995),
+ 0.6987 (1994), 0.6928 (1993), 0.6797 (1992), 0.6808 (1991), 0.6636
+ (1990)
+
+ Fiscal year: calendar year (since 1 January 1992)
+
+@West Bank:Transportation
+
+ Railroads: 0 km
+
+ Highways:
+ total: NA
+ paved: NA
+ unpaved: NA
+ note: small road network; Israelis have developed many highways to
+ service Jewish settlements
+
+ Ports: none
+
+ Airports:
+ total: 2
+ with paved runways 1,524 to 2,437 m: 1
+ with paved runways under 914 m: 1
+
+@West Bank:Communications
+
+ Telephone system: NA telephones; note - 8% of Palestinian households
+ have telephones (1992 est.)
+ local: NA
+ intercity: NA
+ international: NA
+ note: Israeli company BEZEK is responsible for communication services
+ in the West Bank
+
+ Radio:
+ broadcast stations: AM 1, FM 0, shortwave 0
+ radios: NA; note - 82% of Palestinian households have radios (1992
+ est.)
+
+ Television:
+ broadcast stations: 0; note - 1 planned for Jericho
+ televisions: NA; note - 54% of Palestinian households have televisions
+ (1992 est.)
+
+@West Bank:Defense Forces
+
+ Branches: NA
+
+ Defense expenditures: $NA, NA% of GDP
+
+
+________________________________________________________________________
+
+WESTERN SAHARA
+
+@Western Sahara:Geography
+
+ Location: Northern Africa, bordering the North Atlantic Ocean, between
+ Mauritania and Morocco
+
+ Map references: Africa
+
+ Area:
+ total area: 266,000 sq km
+ land area: 266,000 sq km
+ comparative area: slightly smaller than Colorado
+
+ Land boundaries: total 2,046 km, Algeria 42 km, Mauritania 1,561 km,
+ Morocco 443 km
+
+ Coastline: 1,110 km
+
+ Maritime claims: contingent upon resolution of sovereignty issue
+
+ International disputes: claimed and administered by Morocco, but
+ sovereignty is unresolved and the UN is attempting to hold a
+ referendum on the issue; the UN-administered cease-fire has been
+ currently in effect since September 1991
+
+ Climate: hot, dry desert; rain is rare; cold offshore air currents
+ produce fog and heavy dew
+
+ Terrain: mostly low, flat desert with large areas of rocky or sandy
+ surfaces rising to small mountains in south and northeast
+
+ Natural resources: phosphates, iron ore
+
+ Land use:
+ arable land: 0%
+ permanent crops: 0%
+ meadows and pastures: 19%
+ forest and woodland: 0%
+ other: 81%
+
+ Irrigated land: NA sq km
+
+ Environment:
+ current issues: sparse water and arable land
+ natural hazards: hot, dry, dust/sand-laden sirocco wind can occur
+ during winter and spring; widespread harmattan haze exists 60% of
+ time, often severely restricting visibility
+ international agreements: NA
+
+@Western Sahara:People
+
+ Population: 217,211 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: NA
+ 15-64 years: NA
+ 65 years and over: NA
+
+ Population growth rate: 2.48% (1995 est.)
+
+ Birth rate: 46.9 births/1,000 population (1995 est.)
+
+ Death rate: 18.52 deaths/1,000 population (1995 est.)
+
+ Net migration rate: -3.62 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 148.95 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 46.31 years
+ male: 45.34 years
+ female: 47.59 years (1995 est.)
+
+ Total fertility rate: 6.91 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Sahrawi(s), Sahraoui(s)
+ adjective: Sahrawian, Sahraouian
+
+ Ethnic divisions: Arab, Berber
+
+ Religions: Muslim
+
+ Languages: Hassaniya Arabic, Moroccan Arabic
+
+ Literacy: NA%
+
+ Labor force: 12,000
+ by occupation: animal husbandry and subsistence farming 50%
+
+@Western Sahara:Government
+
+ Names:
+ conventional long form: none
+ conventional short form: Western Sahara
+
+ Digraph: WI
+
+ Type: legal status of territory and question of sovereignty
+ unresolved; territory contested by Morocco and Polisario Front
+ (Popular Front for the Liberation of the Saguia el Hamra and Rio de
+ Oro), which in February 1976 formally proclaimed a government in exile
+ of the Sahrawi Arab Democratic Republic (SADR); territory partitioned
+ between Morocco and Mauritania in April 1976, with Morocco acquiring
+ northern two-thirds; Mauritania, under pressure from Polisario
+ guerrillas, abandoned all claims to its portion in August 1979;
+ Morocco moved to occupy that sector shortly thereafter and has since
+ asserted administrative control; the Polisario's government in exile
+ was seated as an OAU member in 1984; guerrilla activities continued
+ sporadically, until a UN-monitored cease-fire was implemented 6
+ September 1991
+
+ Capital: none
+
+ Administrative divisions: none (under de facto control of Morocco)
+
+ Executive branch: none
+
+ Member of: none
+
+ Diplomatic representation in US: none
+
+ US diplomatic representation: none
+
+@Western Sahara:Economy
+
+ Overview: Western Sahara, a territory poor in natural resources and
+ having little rainfall, depends on pastoral nomadism, fishing, and
+ phosphate mining as the principal sources of income for the
+ population. Most of the food for the urban population must be
+ imported. All trade and other economic activities are controlled by
+ the Moroccan Government. Incomes and standards of living are
+ substantially below the Moroccan level.
+
+ National product: GDP $NA
+
+ National product real growth rate: NA%
+
+ National product per capita: $NA
+
+ Inflation rate (consumer prices): NA%
+
+ Unemployment rate: NA%
+
+ Budget:
+ revenues: $NA
+ expenditures: $NA, including capital expenditures of $NA
+
+ Exports: $8 million (f.o.b., 1982 est.)
+ commodities: phosphates 62%
+ partners: Morocco claims and administers Western Sahara, so trade
+ partners are included in overall Moroccan accounts
+
+ Imports: $30 million (c.i.f., 1982 est.)
+ commodities: fuel for fishing fleet, foodstuffs
+ partners: Morocco claims and administers Western Sahara, so trade
+ partners are included in overall Moroccan accounts
+
+ External debt: $NA
+
+ Industrial production: growth rate NA%
+
+ Electricity:
+ capacity: 60,000 kW
+ production: 79 million kWh
+ consumption per capita: 339 kWh (1993)
+
+ Industries: phosphate mining, handicrafts
+
+ Agriculture: limited largely to subsistence agriculture and fishing;
+ some barley is grown in nondrought years; fruit and vegetables are
+ grown in the few oases; food imports are essential; camels, sheep, and
+ goats are kept by the nomadic natives; cash economy exists largely for
+ the garrison forces
+
+ Economic aid: $NA
+
+ Currency: 1 Moroccan dirham (DH) = 100 centimes
+
+ Exchange rates: Moroccan dirhams (DH) per US$1 - 8.892 (January 1995),
+ 9.203 (1994), 9.299 (1993), 8.538 (1992), 8.707 (1991), 8.242 (1990)
+
+ Fiscal year: NA
+
+@Western Sahara:Transportation
+
+ Railroads: 0 km
+
+ Highways:
+ total: 6,200 km
+ unpaved: gravel 1,450 km; improved, unimproved earth, tracks 4,750 km
+
+ Ports: Ad Dakhla, Cabo Bojador, El Aaiun
+
+ Airports:
+ total: 14
+ with paved runways 2,438 to 3,047 m: 3
+ with paved runways under 914 m: 3
+ with unpaved runways 1,524 to 2,438 m: 1
+ with unpaved runways 914 to 1,523 m: 7
+
+@Western Sahara:Communications
+
+ Telephone system: 2,000 telephones; sparse and limited system
+ local: NA
+ intercity: NA
+ international: tied into Morocco's system by microwave radio relay,
+ troposcatter, and 2 INTELSAT (Atlantic Ocean) earth stations linked to
+ Rabat, Morocco
+
+ Radio:
+ broadcast stations: AM 2, FM 0, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 2
+ televisions: NA
+
+@Western Sahara:Defense Forces
+
+ Branches: NA
+
+ Defense expenditures: $NA, NA% of GDP
+
+
+________________________________________________________________________
+
+WESTERN SAMOA
+
+@Western Samoa:Geography
+
+ Location: Oceania, group of islands in the South Pacific Ocean, about
+ one-half of the way from Hawaii to New Zealand
+
+ Map references: Oceania
+
+ Area:
+ total area: 2,860 sq km
+ land area: 2,850 sq km
+ comparative area: slightly smaller than Rhode Island
+
+ Land boundaries: 0 km
+
+ Coastline: 403 km
+
+ Maritime claims:
+ exclusive economic zone: 200 nm
+ territorial sea: 12 nm
+
+ International disputes: none
+
+ Climate: tropical; rainy season (October to March), dry season (May to
+ October)
+
+ Terrain: narrow coastal plain with volcanic, rocky, rugged mountains
+ in interior
+
+ Natural resources: hardwood forests, fish
+
+ Land use:
+ arable land: 19%
+ permanent crops: 24%
+ meadows and pastures: 0%
+ forest and woodland: 47%
+ other: 10%
+
+ Irrigated land: NA sq km
+
+ Environment:
+ current issues: soil erosion
+ natural hazards: occasional typhoons; active volcanism
+ international agreements: party to - Biodiversity, Climate Change,
+ Nuclear Test Ban, Ozone Layer Protection; signed, but not ratified -
+ Law of the Sea
+
+@Western Samoa:People
+
+ Population: 209,360 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 40% (female 41,503; male 42,844)
+ 15-64 years: 56% (female 55,683; male 61,065)
+ 65 years and over: 4% (female 4,323; male 3,942) (July 1995 est.)
+
+ Population growth rate: 2.37% (1995 est.)
+
+ Birth rate: 31.74 births/1,000 population (1995 est.)
+
+ Death rate: 5.88 deaths/1,000 population (1995 est.)
+
+ Net migration rate: -2.14 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 35.5 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 68.38 years
+ male: 65.99 years
+ female: 70.88 years (1995 est.)
+
+ Total fertility rate: 4.04 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Western Samoan(s)
+ adjective: Western Samoan
+
+ Ethnic divisions: Samoan 92.6%, Euronesians 7% (persons of European
+ and Polynesian blood), Europeans 0.4%
+
+ Religions: Christian 99.7% (about one-half of population associated
+ with the London Missionary Society; includes Congregational, Roman
+ Catholic, Methodist, Latter Day Saints, Seventh-Day Adventist)
+
+ Languages: Samoan (Polynesian), English
+
+ Literacy: age 15 and over can read and write (1971)
+ total population: 97%
+ male: 97%
+ female: 97%
+
+ Labor force: NA
+ by occupation: agriculture 60%
+
+@Western Samoa:Government
+
+ Names:
+ conventional long form: Independent State of Western Samoa
+ conventional short form: Western Samoa
+
+ Digraph: WS
+
+ Type: constitutional monarchy under native chief
+
+ Capital: Apia
+
+ Administrative divisions: 11 districts; A'ana, Aiga-i-le-Tai, Atua,
+ Fa'asaleleaga, Gaga'emauga, Gagaifomauga, Palauli, Satupa'itea,
+ Tuamasaga, Va'a-o-Fonoti, Vaisigano
+
+ Independence: 1 January 1962 (from UN trusteeship administered by New
+ Zealand)
+
+ National holiday: National Day, 1 June (1962)
+
+ Constitution: 1 January 1962
+
+ Legal system: based on English common law and local customs; judicial
+ review of legislative acts with respect to fundamental rights of the
+ citizen; has not accepted compulsory ICJ jurisdiction
+
+ Suffrage: 21 years of age; universal
+
+ Executive branch:
+ chief of state: Chief Susuga Malietoa TANUMAFILI II (Co-Chief of State
+ from 1 January 1962 until becoming sole Chief of State on 5 April
+ 1963)
+ head of government: Prime Minister TOFILAU Eti Alesana (since 7 April
+ 1988)
+ cabinet: Cabinet; appointed by the head of state with the prime
+ minister's advice
+
+ Legislative branch: unicameral
+ Legislative Assembly (Fono): elections last held 5 April 1991 (next to
+ be held by NA 1996); results - percent of vote by party NA; seats -
+ (47 total) HRPP 28, SNDP 18, independents 1
+ note: only matai (head of family) are able to run for the Legislative
+ Assembly
+
+ Judicial branch: Supreme Court, Court of Appeal
+
+ Political parties and leaders: Human Rights Protection Party (HRPP),
+ TOFILAU Eti Alesana, chairman; Samoan National Development Party
+ (SNDP), TAPUA Tamasese Efi, chairman
+
+ Member of: ACP, AsDB, C, ESCAP, FAO, G-77, IBRD, ICFTU, ICRM, IDA,
+ IFAD, IFC, IFRCS, IMF, INTELSAT (nonsignatory user), IOC, ITU,
+ SPARTECA, SPC, SPF, UN, UNCTAD, UNESCO, UPU, WHO
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Tuiloma Neroni SLADE
+ chancery: 820 Second Avenue, Suite 800, New York, NY 10017
+ telephone: [1] (212) 599-6196, 6197
+ FAX: [1] (212) 599-0797
+
+ US diplomatic representation:
+ chief of mission: the ambassador to New Zealand is accredited to
+ Western Samoa
+ embassy: 5th floor, Beach Road, Apia
+ mailing address: P.O. Box 3430, Apia
+ telephone: [685] 21631
+ FAX: [685] 22030
+
+ Flag: red with a blue rectangle in the upper hoist-side quadrant
+ bearing five white five-pointed stars representing the Southern Cross
+ constellation
+
+@Western Samoa:Economy
+
+ Overview: Agriculture employs more than half of the labor force,
+ contributes 50% to GDP, and furnishes 90% of exports. The bulk of
+ export earnings comes from the sale of coconut oil and copra. The
+ economy depends on emigrant remittances and foreign aid to support a
+ level of imports much greater than export earnings. Tourism has become
+ the most important growth industry. The economy continued to falter in
+ 1994, as remittances and tourist earnings remained low. Production of
+ taro, the primary food export crop, has dropped 97% since a fungal
+ disease struck the crop in 1993. The rapid growth in 1994 of the giant
+ African snail population in Western Samoa is also threatening the
+ country's basic food crops, such as bananas and coconuts.
+
+ National product: GDP - purchasing power parity - $400 million (1992
+ est.)
+
+ National product real growth rate: -4.3% (1992 est.)
+
+ National product per capita: $2,000 (1992 est.)
+
+ Inflation rate (consumer prices): 14% (1994 est.)
+
+ Unemployment rate: NA%
+
+ Budget:
+ revenues: $95.3 million
+ expenditures: $76.7 million, including capital expenditures of $NA
+ (1994 est.)
+
+ Exports: $6.4 million (f.o.b., 1993)
+ commodities: coconut oil and cream, taro, copra, cocoa
+ partners: New Zealand 34%, American Samoa 21%, Germany 18%, Australia
+ 11%
+
+ Imports: $11.5 million (c.i.f., 1992 est.)
+ commodities: intermediate goods 58%, food 17%, capital goods 12%
+ partners: New Zealand 37%, Australia 25%, Japan 11%, Fiji 9%
+
+ External debt: $141 million (June 1993)
+
+ Industrial production: growth rate -0.3% (1992 est.); accounts for 16%
+ of GDP
+
+ Electricity:
+ capacity: 29,000 kW
+ production: 50 million kWh
+ consumption per capita: 200 kWh (1993)
+
+ Industries: timber, tourism, food processing, fishing
+
+ Agriculture: accounts for about 50% of GDP; coconuts, fruit (including
+ bananas, taro, yams)
+
+ Economic aid:
+ recipient: US commitments, including Ex-Im (FY70-89), $18 million;
+ Western (non-US) countries, ODA and OOF bilateral commitments
+ (1970-89), $306 million; OPEC bilateral aid (1979-89), $4 million
+
+ Currency: 1 tala (WS$) = 100 sene
+
+ Exchange rates: tala (WS$) per US$1 - 2.4600 (January 1995), 2.5349
+ (1994), 2.5681 (1993), 2.4655 (1992), 2.3975 (1991), 2.3095 (1990)
+
+ Fiscal year: calendar year
+
+@Western Samoa:Transportation
+
+ Railroads: 0 km
+
+ Highways:
+ total: 2,042 km
+ paved: 375 km
+ unpaved: gravel, crushed stone, earth 1,667 km
+
+ Ports: Apia, Asau, Mulifanua, Salelologa
+
+ Merchant marine:
+ total: 1 roll-on/roll-off cargo ship (1,000 GRT or over) totaling
+ 3,838 GRT/5,536 DWT
+
+ Airports:
+ total: 3
+ with paved runways 2,438 to 3,047 m: 1
+ with paved runways under 914 m: 2
+
+@Western Samoa:Communications
+
+ Telephone system: 7,500 telephones
+ local: NA
+ intercity: NA
+ international: 1 INTELSAT (Pacific Ocean) earth station
+
+ Radio:
+ broadcast stations: AM 1, FM 0, shortwave 0
+ radios: 70,000
+
+ Television:
+ broadcast stations: 0
+ televisions: NA
+
+@Western Samoa:Defense Forces
+
+ Branches: no regular armed services; Western Samoa Police Force
+
+ Defense expenditures: $NA, NA% of GDP
+
+
+________________________________________________________________________
+
+WORLD
+
+@World:Geography
+
+ Map references: World, Time Zones
+
+ Area:
+ total area: 510.072 million sq km
+ land area: 148.94 million sq km
+ water area: 361.132 million sq km
+ comparative area: land area about 16 times the size of the US
+ note: 70.8% of the world is water, 29.2% is land
+
+ Land boundaries: the land boundaries in the world total 250,883.64 km
+ (not counting shared boundaries twice)
+
+ Coastline: 356,000 km
+
+ Maritime claims:
+ contiguous zone: 24 nm claimed by most but can vary
+ continental shelf: 200-m depth claimed by most or to depth of
+ exploitation, others claim 200 nm or to the edge of the continental
+ margin
+ exclusive fishing zone: 200 nm claimed by most but can vary
+ exclusive economic zone: 200 nm claimed by most but can vary
+ territorial sea: 12 nm claimed by most but can vary
+ note: boundary situations with neighboring states prevent many
+ countries from extending their fishing or economic zones to a full 200
+ nm; 43 nations and other areas that are landlocked include
+ Afghanistan, Andorra, Armenia, Austria, Azerbaijan, Belarus, Bhutan,
+ Bolivia, Botswana, Burkina, Burundi, Central African Republic, Chad,
+ Czech Republic, Ethiopia, Holy See (Vatican City), Hungary,
+ Kazakhstan, Kyrgyzstan, Laos, Lesotho, Liechtenstein, Luxembourg,
+ Malawi, Mali, Moldova, Mongolia, Nepal, Niger, Paraguay, Rwanda, San
+ Marino, Slovakia, Swaziland, Switzerland, Tajikistan, The Former
+ Yugoslav Republic of Macedonia, Turkmenistan, Uganda, Uzbekistan, West
+ Bank, Zambia, Zimbabwe
+
+ Climate: two large areas of polar climates separated by two rather
+ narrow temperate zones from a wide equatorial band of tropical to
+ subtropical climates
+
+ Terrain: highest elevation is Mt. Everest at 8,848 meters and lowest
+ depression is the Dead Sea at 392 meters below sea level; greatest
+ ocean depth is the Marianas Trench at 10,924 meters
+
+ Natural resources: the rapid using up of nonrenewable mineral
+ resources, the depletion of forest areas and wetlands, the extinction
+ of animal and plant species, and the deterioration in air and water
+ quality (especially in Eastern Europe and the former USSR) pose
+ serious long-term problems that governments and peoples are only
+ beginning to address
+
+ Land use:
+ arable land: 10%
+ permanent crops: 1%
+ meadows and pastures: 24%
+ forest and woodland: 31%
+ other: 34%
+
+ Irrigated land: NA sq km
+
+ Environment:
+ current issues: large areas subject to overpopulation, industrial
+ disasters, pollution (air, water, acid rain, toxic substances), loss
+ of vegetation (overgrazing, deforestation, desertification), loss of
+ wildlife, soil degradation, soil depletion, erosion
+ natural hazards: large areas subject to severe weather (tropical
+ cyclones), natural disasters (earthquakes, landslides, tsunamis,
+ volcanic eruptions)
+ international agreements: 23 selected international environmental
+ agreements included under the Environment entry for each country and
+ in Appendix E: Selected International Environmental Agreements
+
+@World:People
+
+ Population: 5,733,687,096 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 31.6% (female 882,809,689; male 928,121,801)
+ 15-64 years: 62% (female 1,752,393,539; male 1,802,004,124)
+ 65 years and over: 6.4% (female 209,437,234; male 158,246,581) (July
+ 1995 est.)
+
+ Population growth rate: 1.5% (1995 est.)
+
+ Birth rate: 24 births/1,000 population (1995 est.)
+
+ Death rate: 9 deaths/1,000 population (1995 est.)
+
+ Infant mortality rate: 64 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 62 years
+ male: 61 years
+ female: 64 years (1995 est.)
+
+ Total fertility rate: 3.1 children born/woman (1995 est.)
+
+ Labor force: 2.24 billion (1992)
+ by occupation: NA
+
+@World:Government
+
+ Digraph: XX
+
+ Administrative divisions: 265 nations, dependent areas, other, and
+ miscellaneous entries
+
+ Legal system: varies by individual country; 186 (note including
+ Yugoslavia) are parties to the United Nations International Court of
+ Justice (ICJ or World Court)
+
+@World:Economy
+
+ Overview: Led by recovery in Western Europe and strong performances by
+ the US, Canada, and key Third World countries, real global output -
+ gross world product (GWP) - rose 3% in 1994 compared with 2% in 1993.
+ Results varied widely among regions and countries. Average growth of
+ 3% in the GDP of industrialized countries (60% of GWP in 1994) and
+ average growth of 6% in the GDP of less developed countries (34% of
+ GWP) were partly offset by a further 11% drop in the GDP of the former
+ USSR/Eastern Europe area (now only 6% of GWP). With the notable
+ exception of Japan at 2.9%, unemployment was typically 5%-12% in the
+ industrial world. The US accounted for 22% of GWP in 1994; Western
+ Europe accounted for another 22%; and Japan accounted for 8%. These
+ are the three "economic superpowers" which are presumably destined to
+ compete for mastery in international markets on into the 21st century.
+ As for the less developed countries, China, India, and the Four
+ Dragons - South Korea, Taiwan, Hong Kong, and Singapore - once again
+ posted records of 5% growth or better; however, many other countries,
+ especially in Africa, continued to suffer from drought, rapid
+ population growth, inflation, and civil strife. Central Europe made
+ considerable progress in moving toward "market-friendly" economies,
+ whereas the 15 ex-Soviet countries (with the notable exceptions of the
+ three Baltic states) typically experienced further declines in output,
+ sometimes as high as 30%. Externally, the nation-state, as a bedrock
+ economic-political institution, is steadily losing control over
+ international flows of people, goods, funds, and technology.
+ Internally, the central government in a number of cases is losing
+ control over resources as separatist regional movements - typically
+ based on ethnicity - gain momentum, e.g., in the successor states of
+ the former Soviet Union, in the former Yugoslavia, and in India. In
+ Western Europe, governments face the difficult political problem of
+ channeling resources away from welfare programs in order to increase
+ investment and strengthen incentives to seek employment. The addition
+ of nearly 100 million people each year to an already overcrowded globe
+ is exacerbating the problems of pollution, desertification,
+ underemployment, epidemics, and famine. Because of their own internal
+ problems, the industrialized countries have inadequate resources to
+ deal effectively with the poorer areas of the world, which, at least
+ from the economic point of view, are becoming further marginalized.
+ (For the specific economic problems of each country, see the
+ individual country entries in this volume.)
+
+ National product: GWP (gross world product) - purchasing power parity
+ - $30.7 trillion (1994 est.)
+
+ National product real growth rate: 3.2% (1994 est.)
+
+ National product per capita: $5,400 (1994 est.)
+
+ Inflation rate (consumer prices):
+ all countries: 25%
+ developed countries: 5%
+ developing countries: 50% (1994 est.)
+ note: national inflation rates vary widely in individual cases, from
+ stable prices to hyperinflation
+
+ Unemployment rate: 30% combined unemployment and underemployment in
+ many non-industrialized countries; developed countries typically
+ 5%-12% unemployment
+
+ Exports: $4 trillion (f.o.b., 1994 est.)
+ commodities: the whole range of industrial and agricultural goods and
+ services
+ partners: in value, about 75% of exports from the developed countries
+
+ Imports: $4.1 trillion (c.i.f., 1994 est.)
+ commodities: the whole range of industrial and agricultural goods and
+ services
+ partners: in value, about 75% of imports by the developed countries
+
+ External debt: $1 trillion for less developed countries (1993 est.)
+
+ Industrial production: growth rate 5% (1994 est.)
+
+ Electricity:
+ capacity: 2,773,000,000 kW
+ production: 11.601 trillion kWh
+ consumption per capita: 1,937 kWh (1993)
+
+ Industries: industry worldwide is dominated by the onrush of
+ technology, especially in computers, robotics, telecommunications, and
+ medicines and medical equipment; most of these advances take place in
+ OECD nations; only a small portion of non-OECD countries have
+ succeeded in rapidly adjusting to these technological forces, and the
+ technological gap between the industrial nations and the
+ less-developed countries continues to widen; the rapid development of
+ new industrial (and agricultural) technology is complicating already
+ grim environmental problems
+
+ Agriculture: the production of major food crops has increased
+ substantially in the last 20 years; the annual production of cereals,
+ for instance, has risen by 50%, from about 1.2 billion metric tons to
+ about 1.8 billion metric tons; production increases have resulted
+ mainly from increased yields rather than increases in planted areas;
+ while global production is sufficient for aggregate demand, about
+ one-fifth of the world's population remains malnourished, primarily
+ because local production cannot adequately provide for large and
+ rapidly growing populations, which are too poor to pay for food
+ imports; conditions are especially bad in Africa where drought in
+ recent years has intensified the consequences of overpopulation
+
+ Economic aid: $NA
+
+@World:Transportation
+
+ Railroads:
+ total: 1,201,337 km includes about 190,000 to 195,000 km of
+ electrified routes of which 147,760 km are in Europe, 24,509 km in the
+ Far East, 11,050 km in Africa, 4,223 km in South America, and 4,160 km
+ in North America; note - fastest speed in daily service is 300 km/hr
+ attained by France's SNCF TGV-Atlantique line
+ broad gauge: 251,153 km
+ standard gauge: 710,754 km
+ narrow gauge: 239,430 km
+
+ Highways:
+ total: NA
+ paved: NA
+ unpaved: NA
+
+ Ports: Chiba, Houston, Kawasaki, Kobe, Marseille, Mina' al Ahmadi
+ (Kuwait), New Orleans, New York, Rotterdam, Yokohama
+
+ Merchant marine:
+ total: 25,364 ships (1,000 GRT or over) totaling 435,458,296
+ GRT/697,171,651 DWT
+ ships by type: barge carrier 39, bulk 5,202, cargo 8,121, chemical
+ tanker 911, combination bulk 293, combination ore/oil 290, container
+ 1,903, liquefied gas 675, livestock carrier 48, multifunction
+ large-load carrier 53, oil tanker 4,332, passenger 287,
+ passenger-cargo 114, railcar carrier 24, refrigerated cargo 1,023,
+ roll-on/roll-off cargo 1,047, short-sea passenger 465, specialized
+ tanker 77, vehicle carrier 460 (April 1995)
+
+@World:Communications
+
+ Telephone system:
+ local: NA
+ intercity: NA
+ international: NA
+
+ Radio:
+ broadcast stations: AM NA, FM NA, shortwave NA
+ radios: NA
+
+ Television:
+ broadcast stations: NA
+ televisions: NA
+
+@World:Defense Forces
+
+ Branches: ground, maritime, and air forces at all levels of technology
+
+ Defense expenditures: a further decline in 1994, by perhaps 5%-10%, to
+ roughly three-quarters of a trillion dollars, or 2.5% of gross world
+ product (1994 est.)
+
+
+________________________________________________________________________
+
+YEMEN
+
+@Yemen:Geography
+
+ Location: Middle East, bordering the Arabian Sea, Gulf of Aden, and
+ Red Sea, between Oman and Saudi Arabia
+
+ Map references: Middle East
+
+ Area:
+ total area: 527,970 sq km
+ land area: 527,970 sq km
+ comparative area: slightly larger than twice the size of Wyoming
+ note: includes Perim, Socotra, the former Yemen Arab Republic (YAR or
+ North Yemen), and the former People's Democratic Republic of Yemen
+ (PDRY or South Yemen)
+
+ Land boundaries: total 1,746 km, Oman 288 km, Saudi Arabia 1,458 km
+
+ Coastline: 1,906 km
+
+ Maritime claims:
+ contiguous zone: 18 nm in the North; 24 nm in the South
+ continental shelf: 200 nm or to the edge of the continental margin
+ exclusive economic zone: 200 nm
+ territorial sea: 12 nm
+
+ International disputes: undefined section of boundary with Saudi
+ Arabia; a treaty with Oman defining the Yemeni-Omani boundary was
+ ratified in December 1992
+
+ Climate: mostly desert; hot and humid along west coast; temperate in
+ western mountains affected by seasonal monsoon; extraordinarily hot,
+ dry, harsh desert in east
+
+ Terrain: narrow coastal plain backed by flat-topped hills and rugged
+ mountains; dissected upland desert plains in center slope into the
+ desert interior of the Arabian Peninsula
+
+ Natural resources: petroleum, fish, rock salt, marble, small deposits
+ of coal, gold, lead, nickel, and copper, fertile soil in west
+
+ Land use:
+ arable land: 6%
+ permanent crops: 0%
+ meadows and pastures: 30%
+ forest and woodland: 7%
+ other: 57%
+
+ Irrigated land: 3,100 sq km (1989 est.)
+
+ Environment:
+ current issues: very limited natural fresh water resources; inadequate
+ supplies of potable water; overgrazing; soil erosion; desertification
+ natural hazards: sandstorms and dust storms in summer
+ international agreements: party to - Environmental Modification, Law
+ of the Sea, Nuclear Test Ban; signed, but not ratified - Biodiversity,
+ Climate Change
+
+ Note: controls Bab el Mandeb, the strait linking the Red Sea and the
+ Gulf of Aden, one of world's most active shipping lanes
+
+@Yemen:People
+
+ Population: 14,728,474 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 50% (female 3,551,953; male 3,776,358)
+ 15-64 years: 48% (female 3,505,735; male 3,508,229)
+ 65 years and over: 2% (female 216,210; male 169,989) (July 1995 est.)
+
+ Population growth rate: 4.02% (1995 est.)
+
+ Birth rate: 44.85 births/1,000 population (1995 est.)
+
+ Death rate: 8.01 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 3.39 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 58.2 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 62.51 years
+ male: 61.57 years
+ female: 63.5 years (1995 est.)
+
+ Total fertility rate: 7.15 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Yemeni(s)
+ adjective: Yemeni
+
+ Ethnic divisions: predominantly Arab; Afro-Arab concentrations in
+ western coastal locations; South Asians in southern regions; small
+ European communities in major metropolitan areas
+
+ Religions: Muslim including Sha'fi (Sunni) and Zaydi (Shi'a), small
+ numbers of Jewish, Christian, and Hindu
+
+ Languages: Arabic
+
+ Literacy: age 15 and over can read and write (1990 est.)
+ total population: 38%
+ male: 53%
+ female: 26%
+
+ Labor force: no reliable estimates exist, most people are employed in
+ agriculture and herding or as expatriate laborers; services,
+ construction, industry, and commerce account for less than half of the
+ labor force
+
+@Yemen:Government
+
+ Names:
+ conventional long form: Republic of Yemen
+ conventional short form: Yemen
+ local long form: Al Jumhuriyah al Yamaniyah
+ local short form: Al Yaman
+
+ Digraph: YM
+
+ Type: republic
+
+ Capital: Sanaa
+
+ Administrative divisions: 17 governorates (muhafazat, singular -
+ muhafazah); Abyan, Adan, Al Bayda, Al Hudaydah, Al Jawf, Al Mahrah, Al
+ Mahwit, Dhamar, Hadramaut, Hajjah, Ibb, Lahij, Marib, Sadah, Sana,
+ Shabwah, Taizz
+ note: there may be a new governorate for the capital city of Sanaa
+
+ Independence: 22 May 1990 Republic of Yemen was established on 22 May
+ 1990 with the merger of the Yemen Arab Republic {Yemen (Sanaa) or
+ North Yemen} and the Marxist-dominated People's Democratic Republic of
+ Yemen {Yemen (Aden) or South Yemen}; previously North Yemen had become
+ independent on NA November 1918 (from the Ottoman Empire) and South
+ Yemen had become independent on 30 November 1967 (from the UK)
+
+ National holiday: Proclamation of the Republic, 22 May (1990)
+
+ Constitution: 16 May 1991
+
+ Legal system: based on Islamic law, Turkish law, English common law,
+ and local tribal customary law; does not accept compulsory ICJ
+ jurisdiction
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch:
+ chief of state: President Ali Abdallah SALIH (since 22 May 1990, the
+ former president of North Yemen); Vice President Abd al-Rab Mansur
+ al-HADI (since NA October 1994)
+ head of government: Prime Minister Abd al-Aziz ABD AL-GHANI (since NA
+ October 1994)
+ cabinet: Council of Ministers
+
+ Legislative branch: unicameral
+ House of Representatives: elections last held 27 April 1993 (next to
+ be held NA 1997); results - percent of vote by party NA; seats - (301
+ total) GPC 124, Islaah 61, YSP 55, others 13, independents 47,
+ election nullified 1
+
+ Judicial branch: Supreme Court
+
+ Political parties and leaders: over 40 political parties are active in
+ Yemen, but only three project significant influence; since the
+ May-July 1994 civil war, President SALIH's General People's Congress
+ (GPC) and Shaykh Abdallah bin Husayn al-AHMAR's Yemeni Grouping for
+ Reform, or Islaah, have joined to form a coalition government; the
+ Yemeni Socialist Party (YSP), headed by Ali Salih UBAYD, has regrouped
+ as a loyal opposition
+
+ Other political or pressure groups: NA
+
+ Member of: ACC, AFESD, AL, AMF, CAEU, CCC, ESCWA, FAO, G-77, IBRD,
+ ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, INTELSAT,
+ INTERPOL, IOC, ITU, NAM, OIC, UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU,
+ WHO, WIPO, WMO, WTO
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Muhsin Ahmad al-AYNI
+ chancery: Suite 705, 2600 Virginia Avenue NW, Washington, DC 20037
+ telephone: [1] (202) 965-4760, 4761
+ FAX: [1] (202) 337-2017
+
+ US diplomatic representation:
+ chief of mission: Ambassador David NEWTON
+ embassy: Dhahr Himyar Zone, Sheraton Hotel District, Sanaa
+ mailing address: P. O. Box 22347 Sanaa; Sanaa, Department of State,
+ Washington, DC 20521-6330
+ telephone: [967] (1) 238843 through 238852
+ FAX: [967] (1) 251563
+
+ Flag: three equal horizontal bands of red (top), white, and black;
+ similar to the flag of Syria which has two green stars and of Iraq
+ which has three green stars (plus an Arabic inscription) in a
+ horizontal line centered in the white band; also similar to the flag
+ of Egypt which has a symbolic eagle centered in the white band
+
+@Yemen:Economy
+
+ Overview: Whereas the northern city Sanaa is the political capital of
+ a united Yemen, the southern city Aden, with its refinery and port
+ facilities, is the economic and commercial capital. Future economic
+ development depends heavily on Western-assisted development of the
+ country's moderate oil resources. Former South Yemen's willingness to
+ merge stemmed partly from the steady decline in Soviet economic
+ support. The low level of domestic industry and agriculture has made
+ northern Yemen dependent on imports for practically all of its
+ essential needs. Once self-sufficient in food production, northern
+ Yemen has become a major importer. Land once used for export crops -
+ cotton, fruit, and vegetables - has been turned over to growing a
+ shrub called qat, whose leaves are chewed for their stimulant effect
+ by Yemenis and which has no significant export market. Economic growth
+ in former South Yemen has been constrained by a lack of incentives,
+ partly stemming from centralized control over production decisions,
+ investment allocation, and import choices. Yemen's large trade
+ deficits have been compensated for by remittances from Yemenis working
+ abroad and by foreign aid. Since the Gulf crisis, remittances have
+ dropped substantially. Growth in 1994-95 is constrained by low oil
+ prices, rapid inflation, and political deadlock that are causing a
+ lack of economic cooperation and leadership. However, a peace
+ agreement with Saudi Arabia in February 1995 and the expectation of a
+ rise in oil prices brighten Yemen's economic prospects.
+
+ National product: GDP - purchasing power parity - $23.4 billion (1994
+ est.)
+
+ National product real growth rate: -1.4% (1994 est.)
+
+ National product per capita: $1,955 (1994 est.)
+
+ Inflation rate (consumer prices): 145% (1994 est.)
+
+ Unemployment rate: 30% (December 1994)
+
+ Budget:
+ revenues: $NA
+ expenditures: $NA, including capital expenditures of $NA
+
+ Exports: $1.75 billion (f.o.b., 1994 est.)
+ commodities: crude oil, cotton, coffee, hides, vegetables, dried and
+ salted fish
+ partners: Germany 28%, Japan 15%, UK 9%, Austria 7%, China 7% (1992)
+
+ Imports: $2.65 billion (f.o.b., 1994 est.)
+ commodities: textiles and other manufactured consumer goods, petroleum
+ products, sugar, grain, flour, other foodstuffs, cement, machinery,
+ chemicals
+ partners: US 16%, UK 7%, Japan 6%, France 6%, Italy 6% (1992)
+
+ External debt: $7 billion (1993)
+
+ Industrial production: growth rate NA%, accounts for 18% of GDP
+
+ Electricity:
+ capacity: 810,000 kW
+ production: 1.8 billion kWh
+ consumption per capita: 149 kWh (1993)
+
+ Industries: crude oil production and petroleum refining; small-scale
+ production of cotton textiles and leather goods; food processing;
+ handicrafts; small aluminum products factory; cement
+
+ Agriculture: accounts for 26% of GDP; products - grain, fruits,
+ vegetables, qat (mildly narcotic shrub), coffee, cotton, dairy,
+ poultry, meat, fish; not self-sufficient in grain
+
+ Economic aid:
+ recipient: US commitments, including Ex-Im (FY70-89), $389 million;
+ Western (non-US) countries, ODA and OOF bilateral commitments
+ (1970-89), $2 billion; OPEC bilateral aid (1979-89), $3.2 billion;
+ Communist countries (1970-89), $2.4 billion
+
+ Currency: Yemeni rial (new currency); 1 North Yemeni riyal (YR) = 100
+ fils; 1 South Yemeni dinar (YD) = 1,000 fils
+ note: following the establishment of the Republic of Yemen on 22 May
+ 1990, the North Yemeni riyal and the South Yemeni dinar are to be
+ replaced with a new Yemeni rial
+
+ Exchange rates: Yemeni rials per US$1 - 12.0 (official); 90 (market
+ rate, December 1994)
+
+ Fiscal year: calendar year
+
+@Yemen:Transportation
+
+ Railroads: 0 km
+
+ Highways:
+ total: 51,390 km
+ paved: 4,830 km
+ unpaved: 46,560 km (1992 est.)
+
+ Pipelines: crude oil 644 km; petroleum products 32 km
+
+ Ports: Aden, Al Hudaydah, Al Mukalla, Mocha, Nishtun
+
+ Merchant marine:
+ total: 3 ships (1,000 GRT or over) totaling 12,059 GRT/18,563 DWT
+ ships by type: cargo 1, oil tanker 2
+
+ Airports:
+ total: 46
+ with paved runways over 3,047 m: 2
+ with paved runways 2,438 to 3,047 m: 6
+ with paved runways 1,524 to 2,437 m: 1
+ with paved runways 914 to 1,523 m: 1
+ with paved runways under 914 m: 4
+ with unpaved runways over 3,047 m: 2
+ with unpaved runways 2,438 to 3,047 m: 8
+ with unpaved runways 1,524 to 2,438 m: 10
+ with unpaved runways 914 to 1,523 m: 12
+
+@Yemen:Communications
+
+ Telephone system: 65,000 telephones; since unification in 1990,
+ efforts are still being made to create a national domestic civil
+ telecommunications network
+ local: NA
+ intercity: the network consists of microwave radio relay, cable, and
+ troposcatter
+ international: 3 INTELSAT (2 Indian Ocean and 1 Atlantic Ocean), 1
+ Intersputnik, and 2 ARABSAT earth stations; microwave radio relay to
+ Saudi Arabia and Djibouti
+
+ Radio:
+ broadcast stations: AM 4, FM 1, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 10
+ televisions: NA
+
+@Yemen:Defense Forces
+
+ Branches: Army, Navy, Air Force, paramilitary (includes Police)
+
+ Manpower availability: males age 15-49 3,135,649; males fit for
+ military service 1,771,226; males reach military age (14) annually
+ 181,057 (1995 est.)
+
+ Defense expenditures: exchange rate conversion - $1.65 billion, 7.1%
+ of GDP (1993)
+
+
+________________________________________________________________________
+
+ZAIRE
+
+@Zaire:Geography
+
+ Location: Central Africa, northeast of Angola
+
+ Map references: Africa
+
+ Area:
+ total area: 2,345,410 sq km
+ land area: 2,267,600 sq km
+ comparative area: slightly more than one-quarter the size of US
+
+ Land boundaries: total 10,271 km, Angola 2,511 km, Burundi 233 km,
+ Central African Republic 1,577 km, Congo 2,410 km, Rwanda 217 km,
+ Sudan 628 km, Uganda 765 km, Zambia 1,930 km
+
+ Coastline: 37 km
+
+ Maritime claims:
+ exclusive economic zone: boundaries with neighbors
+ territorial sea: 12 nm
+
+ International disputes: Tanzania-Zaire-Zambia tripoint in Lake
+ Tanganyika may no longer be indefinite since it is reported that the
+ indefinite section of the Zaire-Zambia boundary has been settled; long
+ section with Congo along the Congo River is indefinite (no division of
+ the river or its islands has been made)
+
+ Climate: tropical; hot and humid in equatorial river basin; cooler and
+ drier in southern highlands; cooler and wetter in eastern highlands;
+ north of Equator - wet season April to October, dry season December to
+ February; south of Equator - wet season November to March, dry season
+ April to October
+
+ Terrain: vast central basin is a low-lying plateau; mountains in east
+
+ Natural resources: cobalt, copper, cadmium, petroleum, industrial and
+ gem diamonds, gold, silver, zinc, manganese, tin, germanium, uranium,
+ radium, bauxite, iron ore, coal, hydropower potential
+
+ Land use:
+ arable land: 3%
+ permanent crops: 0%
+ meadows and pastures: 4%
+ forest and woodland: 78%
+ other: 15%
+
+ Irrigated land: 100 sq km (1989 est.)
+
+ Environment:
+ current issues: poaching threatens wildlife populations; water
+ pollution; deforestation; 1.2 million Rwandan refugees are responsible
+ for significant deforestation, soil erosion, and wildlife poaching in
+ eastern Zaire
+ natural hazards: periodic droughts in south; volcanic activity
+ international agreements: party to - Biodiversity, Climate Change,
+ Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping,
+ Nuclear Test Ban, Ozone Layer Protection, Tropical Timber 83; signed,
+ but not ratified - Desertification, Environmental Modification
+
+ Note: straddles Equator; very narrow strip of land that controls the
+ lower Congo River and is only outlet to South Atlantic Ocean; dense
+ tropical rain forest in central river basin and eastern highlands
+
+@Zaire:People
+
+ Population: 44,060,636 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 48% (female 10,522,368; male 10,527,451)
+ 15-64 years: 50% (female 11,211,353; male 10,630,118)
+ 65 years and over: 2% (female 647,307; male 522,039) (July 1995 est.)
+
+ Population growth rate: 3.18% (1995 est.)
+
+ Birth rate: 48.33 births/1,000 population (1995 est.)
+
+ Death rate: 16.57 deaths/1,000 population (1995 est.)
+
+ Net migration rate: NA migrant(s)/1,000 population (1995 est.)
+ note: in 1994, more than one million refugees fled into Zaire to
+ escape the fighting between the Hutus and the Tutsis in Rwanda and
+ Burundi; a small number of these are returning to their homes in 1995
+ despite fear of the ongoing violence; additionally, Zaire is host to
+ 105,000 Angolan, more than 250,000 Burundian and 100,000 Sudanese
+ refugees; repatriation of Angolan refugees was suspended in May 1994
+ because of the recurrence of fighting in Angola; if present peace
+ accords hold, repatriation of Angolans may recommence
+
+ Infant mortality rate: 108.7 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 47.54 years
+ male: 45.68 years
+ female: 49.46 years (1995 est.)
+
+ Total fertility rate: 6.7 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Zairian(s)
+ adjective: Zairian
+
+ Ethnic divisions: over 200 African ethnic groups, the majority are
+ Bantu; four largest tribes - Mongo, Luba, Kongo (all Bantu), and the
+ Mangbetu-Azande (Hamitic) make up about 45% of the population
+
+ Religions: Roman Catholic 50%, Protestant 20%, Kimbanguist 10%, Muslim
+ 10%, other syncretic sects and traditional beliefs 10%
+
+ Languages: French, Lingala, Swahili, Kingwana, Kikongo, Tshiluba
+
+ Literacy: age 15 and over can read and write (1990 est.)
+ total population: 72%
+ male: 84%
+ female: 61%
+
+ Labor force: 15 million (25% of the labor force comprises wage
+ earners)
+ by occupation: agriculture 75%, industry 13%, services 12% (1985)
+
+@Zaire:Government
+
+ Names:
+ conventional long form: Republic of Zaire
+ conventional short form: Zaire
+ local long form: Republique du Zaire
+ local short form: Zaire
+ former: Belgian Congo Congo/Leopoldville Congo/Kinshasa
+
+ Digraph: CG
+
+ Type: republic with a strong presidential system
+
+ Capital: Kinshasa
+
+ Administrative divisions: 10 regions (regions, singular - region) and
+ 1 town* (ville); Bandundu, Bas-Zaire, Equateur, Haut-Zaire,
+ Kasai-Occidental, Kasai-Oriental, Kinshasa*, Maniema, Nord-Kivu,
+ Shaba, Sud-Kivu
+
+ Independence: 30 June 1960 (from Belgium)
+
+ National holiday: Anniversary of the Regime (Second Republic), 24
+ November (1965)
+
+ Constitution: 24 June 1967, amended August 1974, revised 15 February
+ 1978; amended April 1990; new transitional constitution promulgated in
+ April 1994
+
+ Legal system: based on Belgian civil law system and tribal law; has
+ not accepted compulsory ICJ jurisdiction
+
+ Suffrage: 18 years of age; universal and compulsory
+
+ Executive branch:
+ chief of state: President Marshal MOBUTU Sese Seko Kuku Ngbendu wa Za
+ Banga (since 24 November 1965) election last held 29 July 1984 (next
+ to be held by 9 July 1995); results - President MOBUTU was reelected
+ without opposition
+ head of government: Prime Minister Leon KENGO wa Dondo (since 14 June
+ 1994)
+ cabinet: National Executive Council; appointed by mutual agreement of
+ the president and the prime minister
+
+ Legislative branch: unicameral
+ parliament: a single body consisting of the High Council of the
+ Republic and the Parliament of the Transition with membership equally
+ divided between presidential supporters and opponents
+
+ Judicial branch: Supreme Court (Cour Supreme)
+
+ Political parties and leaders: sole legal party until January 1991 -
+ Popular Movement of the Revolution (MPR); other parties include Union
+ for Democracy and Social Progress (UDPS), Etienne TSHISEKEDI wa
+ Mulumba; Democratic Social Christian Party (PDSC); Union of
+ Federalists and Independent Republicans (UFERI); Unified Lumumbast
+ Party (PALU), Antoine GIZENGA; Union of Independent Democrats (UDI),
+ Leon KENGO wa Dondo
+
+ Member of: ACCT, ACP, AfDB, CCC, CEEAC, CEPGL, ECA, FAO, G-19, G-24,
+ G-77, GATT, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IFAD, IFC, IFRCS, ILO,
+ IMF, IMO, INTELSAT, INTERPOL, IOC, ITU, NAM, OAU, PCA, UN, UNCTAD,
+ UNESCO, UNHCR, UNIDO, UPU, WCL, WFTU, WHO, WIPO, WMO, WTO
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador TATANENE Manata
+ chancery: 1800 New Hampshire Avenue NW, Washington, DC 20009
+ telephone: [1] (202) 234-7690, 7691
+
+ US diplomatic representation:
+ chief of mission: (vacant); Charge d'Affaires John M. YATES
+ embassy: 310 Avenue des Aviateurs, Kinshasa
+ mailing address: Unit 31550, Kinshasha; APO AE 09828
+ telephone: [243] (12) 21532, 21628
+ FAX: [243] (12) 21534 ext. 2308, 21535 ext. 2308; (88) 43805, 43467
+
+ Flag: light green with a yellow disk in the center bearing a black arm
+ holding a red flaming torch; the flames of the torch are blowing away
+ from the hoist side; uses the popular pan-African colors of Ethiopia
+
+@Zaire:Economy
+
+ Overview: Zaire's economy has continued to disintegrate although Prime
+ Minister KENGO has had some success in slowing the rate of economic
+ decline. While meaningful economic figures are difficult to come by,
+ Zaire's hyperinflation, chronic large government deficits, and
+ plunging mineral production have made the country one of the world's
+ poorest. Most formal transactions are conducted in hard currency as
+ indigenous bank notes have lost almost all value, and a barter economy
+ now flourishes in all but the largest cities. Most individuals and
+ families hang on grimly through subsistence farming and petty trade.
+ The government has not been able to meet its financial obligations to
+ the International Monetary Fund or put in place the financial measures
+ advocated by the IMF. Although short-term prospects for improvement
+ are dim, improved political stability would boost Zaire's long-term
+ potential to effectively exploit its vast wealth of mineral and
+ agricultural resources.
+
+ National product: GDP - purchasing power parity - $18.8 billion (1994
+ est.)
+
+ National product real growth rate: 4% (1994 est.)
+
+ National product per capita: $440 (1994 est.)
+
+ Inflation rate (consumer prices): 40% per month (1993 est.)
+
+ Unemployment rate: NA%
+
+ Budget:
+ revenues: $NA
+ expenditures: $NA, including capital expenditures of $NA
+
+ Exports: $362 million (f.o.b., 1993 est.)
+ commodities: copper, coffee, diamonds, cobalt, crude oil
+ partners: US, Belgium, France, Germany, Italy, UK, Japan, South Africa
+
+ Imports: $356 million (f.o.b., 1993 est.)
+ commodities: consumer goods, foodstuffs, mining and other machinery,
+ transport equipment, fuels
+ partners: South Africa, US, Belgium, France, Germany, Italy, Japan, UK
+
+ External debt: $9.2 billion (May 1992 est.)
+
+ Industrial production: growth rate -20% (1993); accounts for 16% of
+ GDP
+
+ Electricity:
+ capacity: 2,830,000 kW
+ production: 6.2 billion kWh
+ consumption per capita: 133 kWh (1993)
+
+ Industries: mining, mineral processing, consumer products (including
+ textiles, footwear, cigarettes, processed foods and beverages),
+ cement, diamonds
+
+ Agriculture: cash crops - coffee, palm oil, rubber, quinine; food
+ crops - cassava, bananas, root crops, corn
+
+ Illicit drugs: illicit producer of cannabis, mostly for domestic
+ consumption
+
+ Economic aid:
+ recipient: US commitments, including Ex-Im (FY70-89), $1.1 billion;
+ Western (non-US) countries, ODA and OOF bilateral commitments
+ (1970-89), $6.9 billion; OPEC bilateral aid (1979-89), $35 million;
+ Communist countries (1970-89), $263 million
+ note: except for humanitarian aid to private organizations, no US
+ assistance has been given to Zaire since 1992
+
+ Currency: 1 zaire (Z) = 100 makuta
+
+ Exchange rates: new zaires (Z) per US$1 - 3,275.71 (December 1994),
+ 1,194.12 (1994), 2.51 (1993); zaire (Z) per US$1 - 645,549 (1992),
+ 15,587 (1991), 719 (1990)
+ note: on 22 October 1993 the new zaire, equal to 3,000,000 old zaires,
+ was introduced
+
+ Fiscal year: calendar year
+
+@Zaire:Transportation
+
+ Railroads:
+ total: 5,138 km; note - severely reduced trackage in use because of
+ civil strife
+ narrow gauge: 3,987 km 1.067-m gauge (858 km electrified); 125 km
+ 1.000-m gauge; 1,026 km 0.600-m gauge
+
+ Highways:
+ total: 146,500 km
+ paved: 2,800 km
+ unpaved: gravel, improved earth 46,200 km; unimproved earth 97,500 km
+
+ Inland waterways: 15,000 km including the Congo, its tributaries, and
+ unconnected lakes
+
+ Pipelines: petroleum products 390 km
+
+ Ports: Banana, Boma, Bukavu, Bumba, Goma, Kalemie, Kindu, Kinshasa,
+ Kisangani, Matadi, Mbandaka
+
+ Merchant marine: none
+
+ Airports:
+ total: 270
+ with paved runways over 3,047 m: 4
+ with paved runways 2,438 to 3,047 m: 3
+ with paved runways 1,524 to 2,437 m: 15
+ with paved runways 914 to 1,523 m: 2
+ with paved runways under 914 m: 97
+ with unpaved runways 1,524 to 2,438 m: 22
+ with unpaved runways 914 to 1,523 m: 127
+
+@Zaire:Communications
+
+ Telephone system: NA telephones
+ local: NA
+ intercity: NA barely adequate wire and microwave service in and
+ between urban areas; 14 domestic earth stations
+ international: 1 INTELSAT (Atlantic Ocean) earth station
+
+ Radio:
+ broadcast stations: AM 10, FM 4, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 18
+ televisions: NA
+
+@Zaire:Defense Forces
+
+ Branches: Army, Navy, Air Force, National Gendarmerie, paramilitary
+ Civil Guard, Special Presidential Division
+
+ Manpower availability: males age 15-49 9,479,245; males fit for
+ military service 4,828,367 (1995 est.)
+
+ Defense expenditures: exchange rate conversion - $46 million, 1.5% of
+ GDP (1990)
+
+
+________________________________________________________________________
+
+ZAMBIA
+
+@Zambia:Geography
+
+ Location: Southern Africa, east of Angola
+
+ Map references: Africa
+
+ Area:
+ total area: 752,610 sq km
+ land area: 740,720 sq km
+ comparative area: slightly larger than Texas
+
+ Land boundaries: total 5,664 km, Angola 1,110 km, Malawi 837 km,
+ Mozambique 419 km, Namibia 233 km, Tanzania 338 km, Zaire 1,930 km,
+ Zimbabwe 797 km
+
+ Coastline: 0 km (landlocked)
+
+ Maritime claims: none; landlocked
+
+ International disputes: quadripoint with Botswana, Namibia, and
+ Zimbabwe is in disagreement; Tanzania-Zaire-Zambia tripoint in Lake
+ Tanganyika may no longer be indefinite since it is reported that the
+ indefinite section of the Zaire-Zambia boundary has been settled
+
+ Climate: tropical; modified by altitude; rainy season (October to
+ April)
+
+ Terrain: mostly high plateau with some hills and mountains
+
+ Natural resources: copper, cobalt, zinc, lead, coal, emeralds, gold,
+ silver, uranium, hydropower potential
+
+ Land use:
+ arable land: 7%
+ permanent crops: 0%
+ meadows and pastures: 47%
+ forest and woodland: 27%
+ other: 19%
+
+ Irrigated land: 320 sq km (1989 est.)
+
+ Environment:
+ current issues: air pollution and resulting acid rain in the mineral
+ extraction and refining region; poaching seriously threatens
+ rhinoceros and elephant populations; deforestation; soil erosion;
+ desertification; lack of adequate water treatment presents human
+ health risks
+ natural hazards: tropical storms (November to April)
+ international agreements: party to - Biodiversity, Climate Change,
+ Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test
+ Ban, Ozone Layer Protection, Wetlands; signed, but not ratified -
+ Desertification
+
+ Note: landlocked
+
+@Zambia:People
+
+ Population: 9,445,723 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 50% (female 2,331,820; male 2,363,319)
+ 15-64 years: 48% (female 2,332,798; male 2,193,363)
+ 65 years and over: 2% (female 112,484; male 111,939) (July 1995 est.)
+
+ Population growth rate: 2.7% (1995 est.)
+
+ Birth rate: 45.47 births/1,000 population (1995 est.)
+
+ Death rate: 18.42 deaths/1,000 population (1995 est.)
+
+ Net migration rate: -0.04 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 86 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 42.88 years
+ male: 42.74 years
+ female: 43.03 years (1995 est.)
+
+ Total fertility rate: 6.62 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Zambian(s)
+ adjective: Zambian
+
+ Ethnic divisions: African 98.7%, European 1.1%, other 0.2%
+
+ Religions: Christian 50%-75%, Muslim and Hindu 24%-49%, indigenous
+ beliefs 1%
+
+ Languages: English (official)
+ note: about 70 indigenous languages
+
+ Literacy: age 15 and over can read and write (1990 est.)
+ total population: 73%
+ male: 81%
+ female: 65%
+
+ Labor force: 3.4 million
+ by occupation: agriculture 85%, mining, manufacturing, and
+ construction 6%, transport and services 9%
+
+@Zambia:Government
+
+ Names:
+ conventional long form: Republic of Zambia
+ conventional short form: Zambia
+ former: Northern Rhodesia
+
+ Digraph: ZA
+
+ Type: republic
+
+ Capital: Lusaka
+
+ Administrative divisions: 9 provinces; Central, Copperbelt, Eastern,
+ Luapula, Lusaka, Northern, North-Western, Southern, Western
+
+ Independence: 24 October 1964 (from UK)
+
+ National holiday: Independence Day, 24 October (1964)
+
+ Constitution: 2 August 1991
+
+ Legal system: based on English common law and customary law; judicial
+ review of legislative acts in an ad hoc constitutional council; has
+ not accepted compulsory ICJ jurisdiction
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch:
+ chief of state and head of government: President Frederick CHILUBA
+ (since 31 October 1991); Vice President General Godfrey MIYANDA (since
+ NA August 1994; he replaced Levy MWANAWASA who was elected 31 October
+ 1991 and resigned in NA August 1994) election last held 31 October
+ 1991 (next to be held NA 1996); results - Frederick CHILUBA 84%,
+ Kenneth KAUNDA 16%
+ cabinet: Cabinet; appointed by the president from members of the
+ National Assembly
+
+ Legislative branch: unicameral
+ National Assembly: elections last held 31 October 1991 (next to be
+ held NA 1996); results - percent of vote by party NA; seats - (150
+ total) MMD 125, UNIP 25; note - the MMD's majority was weakened by the
+ defection of 13 of its parliamentary members during 1993 and the
+ defeat of its candidates in 4 of the resulting by-elections
+
+ Judicial branch: Supreme Court
+
+ Political parties and leaders: Movement for Multiparty Democracy
+ (MMD), Frederick CHILUBA; United National Independence Party (UNIP),
+ Kebby MUSOKATWANE; National Party (NP), Inonge MBIKUSITA-LEWANIKA;
+
+ Member of: ACP, AfDB, C, CCC, ECA, FAO, FLS, G-19, G-77, GATT, IAEA,
+ IBRD, ICAO, ICFTU, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, INTELSAT,
+ INTERPOL, IOC, IOM, ITU, NAM, OAU, SADC, UN, UNCTAD, UNESCO, UNIDO,
+ UNOMOZ, UPU, WCL, WHO, WIPO, WMO, WTO
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Dunstan Weston KAMANA
+ chancery: 2419 Massachusetts Avenue NW, Washington, DC 20008
+ telephone: [1] (202) 265-9717 through 9719
+ FAX: [1] (202) 332-0826
+
+ US diplomatic representation:
+ chief of mission: Ambassador Roland K. KUCHEL
+ embassy: corner of Independence Avenue and United Nations Avenue,
+ Lusaka
+ mailing address: P. O. Box 31617, Lusaka
+ telephone: [260] (1) 228595, 228601, 228602, 228603
+ FAX: [260] (1) 261538
+
+ Flag: green with a panel of three vertical bands of red (hoist side),
+ black, and orange below a soaring orange eagle, on the outer edge of
+ the flag
+
+@Zambia:Economy
+
+ Overview: Prior to 1993 the economy had been in decline for more than
+ a decade with falling imports and growing foreign debt. Economic
+ difficulties stemmed largely from a chronically depressed level of
+ copper production and weak copper prices, generally ineffective
+ economic policies, and high inflation. An annual population growth of
+ 3% brought a decline in per capita GDP of 50% over the decade.
+ However, economic reforms enacted since 1992 have helped reduce
+ inflation, have begun to strengthen the social safety net, and have
+ been accompanied by GDP growth at an estimated 6.8% in 1993 and 4% in
+ 1994. The huge external debt remains a key problem.
+
+ National product: GDP - purchasing power parity - $7.9 billion (1994
+ est.)
+
+ National product real growth rate: 4% (1994 est.)
+
+ National product per capita: $860 (1994 est.)
+
+ Inflation rate (consumer prices): 89% (1994 est.)
+
+ Unemployment rate: NA%
+
+ Budget:
+ revenues: $665 million
+ expenditures: $767 million, including capital expenditures of $300
+ million (1991 est.)
+
+ Exports: $1.01 billion (f.o.b., 1993 est.)
+ commodities: copper, zinc, cobalt, lead, tobacco
+ partners: EC countries, Japan, South Africa, US, India
+
+ Imports: $1.13 billion (c.i.f., 1993 est.)
+ commodities: machinery, transportation equipment, foodstuffs, fuels,
+ manufactures
+ partners: EC countries, Japan, Saudi Arabia, South Africa, US
+
+ External debt: $7.3 billion (1993)
+
+ Industrial production: growth rate -1% (1992); accounts for 42% of GDP
+
+Back to Full Books

@@ -1,0 +1,2003 @@
+The 1995 CIA World Factbook
+
+ local: NA
+ intercity: NA
+ international: no earth stations
+
+ Radio:
+ broadcast stations: AM 9, FM 2, shortwave 0
+ radios: 840,000
+
+ Television:
+ broadcast stations: 6
+ televisions: 1,012,094
+
+@Bosnia And Herzegovina:Defense Forces
+
+ Branches: Army
+
+ Manpower availability: males age 15-49 815,055; males fit for military
+ service 657,454; males reach military age (19) annually 38,201 (1995
+ est.)
+
+ Defense expenditures: $NA, NA% of GDP
+
+
+________________________________________________________________________
+
+BOTSWANA
+
+@Botswana:Geography
+
+ Location: Southern Africa, north of South Africa
+
+ Map references: Africa
+
+ Area:
+ total area: 600,370 sq km
+ land area: 585,370 sq km
+ comparative area: slightly smaller than Texas
+
+ Land boundaries: total 4,013 km, Namibia 1,360 km, South Africa 1,840
+ km, Zimbabwe 813 km
+
+ Coastline: 0 km (landlocked)
+
+ Maritime claims: none; landlocked
+
+ International disputes: short section of boundary with Namibia is
+ indefinite; quadripoint with Namibia, Zambia, and Zimbabwe is in
+ disagreement; dispute with Namibia over uninhabited Kasikili (Sidudu)
+ Island in Linyanti (Chobe) River remained unresolved in mid-February
+ 1995 and the parties agreed to refer the matter to the International
+ Court of Justice
+
+ Climate: semiarid; warm winters and hot summers
+
+ Terrain: predominately flat to gently rolling tableland; Kalahari
+ Desert in southwest
+
+ Natural resources: diamonds, copper, nickel, salt, soda ash, potash,
+ coal, iron ore, silver
+
+ Land use:
+ arable land: 2%
+ permanent crops: 0%
+ meadows and pastures: 75%
+ forest and woodland: 2%
+ other: 21%
+
+ Irrigated land: 20 sq km (1989 est.)
+
+ Environment:
+ current issues: overgrazing, primarily as a result of the expansion of
+ the cattle population; desertification; limited natural fresh water
+ resources
+ natural hazards: periodic droughts; seasonal August winds blow from
+ the west, carrying sand and dust across the country, which can obscure
+ visibility
+ international agreements: party to - Climate Change, Endangered
+ Species, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection;
+ signed, but not ratified - Biodiversity
+
+ Note: landlocked; population concentrated in eastern part of the
+ country
+
+@Botswana:People
+
+ Population: 1,392,414 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 43% (female 300,598; male 303,333)
+ 15-64 years: 53% (female 398,347; male 344,838)
+ 65 years and over: 4% (female 25,773; male 19,525) (July 1995 est.)
+
+ Population growth rate: 2.36% (1995 est.)
+
+ Birth rate: 31.01 births/1,000 population (1995 est.)
+
+ Death rate: 7.41 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 0 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 38 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 63.56 years
+ male: 60.54 years
+ female: 66.67 years (1995 est.)
+
+ Total fertility rate: 3.86 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Motswana (singular), Batswana (plural)
+ adjective: Motswana (singular), Batswana (plural)
+
+ Ethnic divisions: Batswana 95%, Kalanga, Basarwa, and Kgalagadi 4%,
+ white 1%
+
+ Religions: indigenous beliefs 50%, Christian 50%
+
+ Languages: English (official), Setswana
+
+ Literacy: age 15 and over can read and write (1990 est.)
+ total population: 23%
+ male: 32%
+ female: 16%
+
+ Labor force: 428,000 (1992)
+ by occupation: 220,000 formal sector employees, most others are
+ engaged in cattle raising and subsistence agriculture (1992 est.);
+ 14,300 are employed in various mines in South Africa (March 1992)
+
+@Botswana:Government
+
+ Names:
+ conventional long form: Republic of Botswana
+ conventional short form: Botswana
+ former: Bechuanaland
+
+ Digraph: BC
+
+ Type: parliamentary republic
+
+ Capital: Gaborone
+
+ Administrative divisions: 10 districts; Central, Chobe, Ghanzi,
+ Kgalagadi, Kgatleng, Kweneng, Ngamiland, North-East, South-East,
+ Southern; in addition, there are 4 town councils - Francistown,
+ Gaborone, Lobatse, Selebi-Phikwe
+
+ Independence: 30 September 1966 (from UK)
+
+ National holiday: Independence Day, 30 September (1966)
+
+ Constitution: March 1965, effective 30 September 1966
+
+ Legal system: based on Roman-Dutch law and local customary law;
+ judicial review limited to matters of interpretation; has not accepted
+ compulsory ICJ jurisdiction
+
+ Suffrage: 21 years of age; universal
+
+ Executive branch:
+ chief of state and head of government: President Sir Ketumile MASIRE
+ (since 13 July 1980); Vice President Festus MOGAE (since 9 March
+ 1992); election last held 15 October 1994 (next to be held October
+ 1999); results - President Sir Ketumile MASIRE was reelected by the
+ National Assembly
+ cabinet: Cabinet; appointed by the president
+
+ Legislative branch: bicameral Parliament
+ House of Chiefs: is a largely advisory 15-member body consisting of
+ chiefs of the 8 principal tribes, 4 elected subchiefs, and 3 members
+ selected by the other 12
+ National Assembly: elections last held 15 October 1994 (next to be
+ held October 1999); results - percent of vote by party NA; seats - (44
+ total of which 40 are elected and 4 are appointed) BDP 27, BNF 13
+
+ Judicial branch: High Court, Court of Appeal
+
+ Political parties and leaders: Botswana Democratic Party (BDP), Sir
+ Ketumile MASIRE; Botswana National Front (BNF), Kenneth KOMA; Botswana
+ People's Party (BPP), Knight MARIPE; Botswana Independence Party
+ (BIP), Motsamai MPHO
+
+ Member of: ACP, AfDB, C, CCC, ECA, FAO, FLS, G-77, GATT, IBRD, ICAO,
+ ICFTU, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, INTELSAT (nonsignatory
+ user), INTERPOL, IOC, ITU, NAM, OAU, SACU, SADC, UN, UNCTAD, UNESCO,
+ UNIDO, UNOMOZ, UNOMUR, UNOSOM, UPU, WCL, WFTU, WHO, WMO
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Botsweletse Kingsley SEBELE
+ chancery: Suite 7M, 3400 International Drive NW, Washington, DC 20008
+ telephone: [1] (202) 244-4990, 4991
+ FAX: [1] (202) 244-4164
+
+ US diplomatic representation:
+ chief of mission: Ambassador Howard F. JETER
+ embassy: address NA, Gaborone
+ mailing address: P. O. Box 90, Gaborone
+ telephone: [267] 353982
+ FAX: [267] 356947
+
+ Flag: light blue with a horizontal white-edged black stripe in the
+ center
+
+@Botswana:Economy
+
+ Overview: The economy has historically been based on cattle raising
+ and crops. Agriculture today provides a livelihood for more than 80%
+ of the population but supplies only about 50% of food needs and
+ accounts for only 5% of GDP. Subsistence farming and cattle raising
+ predominate. The driving force behind the rapid economic growth of the
+ 1970s and 1980s has been the mining industry. This sector, mostly on
+ the strength of diamonds, has gone from generating 25% of GDP in 1980
+ to 39% in 1994. No other sector has experienced such growth,
+ especially not agriculture, which is plagued by erratic rainfall and
+ poor soils. The unemployment rate remains a problem at 25%. Hampered
+ by a still sluggish diamond market in 1994, GDP grew by only 1%.
+
+ National product: GDP - purchasing power parity - $4.3 billion (1994
+ est.)
+
+ National product real growth rate: 1% (1994 est.)
+
+ National product per capita: $3,130 (1994 est.)
+
+ Inflation rate (consumer prices): 10% (1994 est.)
+
+ Unemployment rate: 25% (1994 est.)
+
+ Budget:
+ revenues: $1.7 billion
+ expenditures: $1.99 billion, including capital expenditures of $652
+ million (FY93/94)
+
+ Exports: $1.8 billion (f.o.b. 1994)
+ commodities: diamonds 78%, copper and nickel 6%, meat 5%
+ partners: Switzerland, UK, SACU (Southern African Customs Union)
+
+ Imports: $1.8 billion (c.i.f., 1992)
+ commodities: foodstuffs, vehicles and transport equipment, textiles,
+ petroleum products
+ partners: Switzerland, SACU (Southern African Customs Union), UK, US
+
+ External debt: $344 million (December 1991)
+
+ Industrial production: growth rate 4.6% (FY92/93); accounts for about
+ 43% of GDP, including mining
+
+ Electricity:
+ capacity: 220,000 kW
+ production: 900 million kWh
+ consumption per capita: 694 kWh (1993)
+
+ Industries: mining of diamonds, copper, nickel, coal, salt, soda ash,
+ potash; livestock processing
+
+ Agriculture: sorghum, maize, millet, pulses, groundnuts, beans,
+ cowpeas, sunflower seeds; livestock
+
+ Economic aid:
+ recipient: US aid (1992), $13 million; Norway (1992), $16 million;
+ Sweden (1992), $15.5 million; Germany (1992), $3.6 million; EC/Lome-IV
+ (1992), $3 million-$6 million in grants; $28.7 million in long-term
+ projects (1992)
+
+ Currency: 1 pula (P) = 100 thebe
+
+ Exchange rates: pula (P) per US$1 - 1.7086 (January 1995), 2.6976
+ (November 1994), 2.4190 (1993), 2.1327 (1992), 2.0173 (1991), 1.8601
+ (1990)
+
+ Fiscal year: 1 April - 31 March
+
+@Botswana:Transportation
+
+ Railroads:
+ total: 888 km
+ narrow gauge: 888 km 1.067-m gauge (1992)
+
+ Highways:
+ total: 11,514 km
+ paved: 1,600 km
+ unpaved: crushed stone, gravel 1,700 km; improved earth 5,177 km;
+ unimproved earth 3,037 km
+
+ Ports: none
+
+ Airports:
+ total: 100
+ with paved runways over 3,047 m: 1
+ with paved runways 2,438 to 3,047 m: 1
+ with paved runways 1,524 to 2,437 m: 6
+ with paved runways 914 to 1,523 m: 2
+ with paved runways under 914 m: 23
+ with unpaved runways 1,524 to 2,438 m: 5
+ with unpaved runways 914 to 1,523 m: 62
+
+@Botswana:Communications
+
+ Telephone system: 26,000 telephones; sparse system; telephone density
+ - 18.67 telephones/1,000 persons
+ local: NA
+ intercity: small system of open wire lines, microwave radio relay
+ links, and a few radio communication stations
+ international: 1 INTELSAT (Indian Ocean) earth station
+
+ Radio:
+ broadcast stations: AM 7, FM 13, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 0
+ televisions: NA
+
+@Botswana:Defense Forces
+
+ Branches: Botswana Defense Force (includes Army and Air Wing),
+ Botswana National Police
+
+ Manpower availability: males age 15-49 306,878; males fit for military
+ service 161,376; males reach military age (18) annually 15,403 (1995
+ est.)
+
+ Defense expenditures: exchange rate conversion - $198 million, 5.2% of
+ GDP (FY93/94)
+
+
+________________________________________________________________________
+
+BOUVET ISLAND
+
+ (territory of Norway) 
+
+@Bouvet Island:Geography
+
+ Location: Southern Africa, island in the South Atlantic Ocean,
+ south-southwest of the Cape of Good Hope (South Africa)
+
+ Map references: Antarctic Region
+
+ Area:
+ total area: 58 sq km
+ land area: 58 sq km
+ comparative area: about 0.3 times the size of Washington, DC
+
+ Land boundaries: 0 km
+
+ Coastline: 29.6 km
+
+ Maritime claims:
+ territorial sea: 4 nm
+
+ International disputes: none
+
+ Climate: antarctic
+
+ Terrain: volcanic; maximum elevation about 800 meters; coast is mostly
+ inaccessible
+
+ Natural resources: none
+
+ Land use:
+ arable land: 0%
+ permanent crops: 0%
+ meadows and pastures: 0%
+ forest and woodland: 0%
+ other: 100% (all ice)
+
+ Irrigated land: 0 sq km
+
+ Environment:
+ current issues: NA
+ natural hazards: NA
+ international agreements: NA
+
+ Note: covered by glacial ice
+
+@Bouvet Island:People
+
+ Population: uninhabited
+
+@Bouvet Island:Government
+
+ Names:
+ conventional long form: none
+ conventional short form: Bouvet Island
+
+ Digraph: BV
+
+ Type: territory of Norway
+
+ Capital: none; administered from Oslo, Norway
+
+ Independence: none (territory of Norway)
+
+@Bouvet Island:Economy
+
+ Overview: no economic activity
+
+@Bouvet Island:Transportation
+
+ Ports: none; offshore anchorage only
+
+@Bouvet Island:Communications
+
+ Telephone system: *** No data for this item ***
+
+ Note: automatic meteorological station
+
+@Bouvet Island:Defense Forces
+
+ Note: defense is the responsibility of Norway
+
+
+________________________________________________________________________
+
+BRAZIL
+
+@Brazil:Geography
+
+ Location: Eastern South America, bordering the Atlantic Ocean
+
+ Map references: South America
+
+ Area:
+ total area: 8,511,965 sq km
+ land area: 8,456,510 sq km
+ comparative area: slightly smaller than the US
+ note: includes Arquipelago de Fernando de Noronha, Atol das Rocas,
+ Ilha da Trindade, Ilhas Martin Vaz, and Penedos de Sao Pedro e Sao
+ Paulo
+
+ Land boundaries: total 14,691 km, Argentina 1,224 km, Bolivia 3,400
+ km, Colombia 1,643 km, French Guiana 673 km, Guyana 1,119 km, Paraguay
+ 1,290 km, Peru 1,560 km, Suriname 597 km, Uruguay 985 km, Venezuela
+ 2,200 km
+
+ Coastline: 7,491 km
+
+ Maritime claims:
+ contiguous zone: 24 nm
+ continental shelf: 200 nm
+ exclusive economic zone: 200 nm
+ territorial sea: 12 nm
+
+ International disputes: short section of the boundary with Paraguay,
+ just west of Salto das Sete Quedas (Guaira Falls) on the Rio Parana,
+ is in dispute; two short sections of boundary with Uruguay are in
+ dispute - Arroio Invernada (Arroyo de la Invernada) area of the Rio
+ Quarai (Rio Cuareim) and the islands at the confluence of the Rio
+ Quarai and the Uruguay River
+
+ Climate: mostly tropical, but temperate in south
+
+ Terrain: mostly flat to rolling lowlands in north; some plains, hills,
+ mountains, and narrow coastal belt
+
+ Natural resources: bauxite, gold, iron ore, manganese, nickel,
+ phosphates, platinum, tin, uranium, petroleum, hydropower, timber
+
+ Land use:
+ arable land: 7%
+ permanent crops: 1%
+ meadows and pastures: 19%
+ forest and woodland: 67%
+ other: 6%
+
+ Irrigated land: 27,000 sq km (1989 est.)
+
+ Environment:
+ current issues: deforestation in Amazon Basin destroys the habitat and
+ endangers the existence of a multitude of plant and animal species
+ indigenous to the area; air and water pollution in Rio de Janeiro, Sao
+ Paulo, and several other large cities; land degradation and water
+ pollution caused by improper mining activities
+ natural hazards: recurring droughts in northeast; floods and
+ occasional frost in south
+ international agreements: party to - Antarctic Treaty, Biodiversity,
+ Climate Change, Endangered Species, Environmental Modification,
+ Hazardous Wastes, Law of the Sea, Marine Dumping, Nuclear Test Ban,
+ Ozone Layer Protection, Ship Pollution, Tropical Timber 83, Wetlands,
+ Whaling; signed, but not ratified - Antarctic-Environmental Protocol,
+ Desertification
+
+ Note: largest country in South America; shares common boundaries with
+ every South American country except Chile and Ecuador
+
+@Brazil:People
+
+ Population: 160,737,489 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 31% (female 24,641,868; male 25,515,775)
+ 15-64 years: 64% (female 51,966,272; male 51,254,165)
+ 65 years and over: 5% (female 4,393,530; male 2,965,879) (July 1995
+ est.)
+
+ Population growth rate: 1.22% (1995 est.)
+
+ Birth rate: 21.16 births/1,000 population (1995 est.)
+
+ Death rate: 8.98 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 0 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 57.2 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 61.82 years
+ male: 56.57 years
+ female: 67.32 years (1995 est.)
+
+ Total fertility rate: 2.39 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Brazilian(s)
+ adjective: Brazilian
+
+ Ethnic divisions: Caucasion (includes Portuguese, German, Italian,
+ Spanish, Polish) 55%, mixed Caucasion and African 38%, African 6%,
+ other (includes Japanese, Arab, Amerindian) 1%
+
+ Religions: Roman Catholic (nominal) 70%
+
+ Languages: Portuguese (official), Spanish, English, French
+
+ Literacy: age 15 and over can read and write (1991)
+ total population: 80%
+ male: 80%
+ female: 80%
+
+ Labor force: 57 million (1989 est.)
+ by occupation: services 42%, agriculture 31%, industry 27%
+
+@Brazil:Government
+
+ Names:
+ conventional long form: Federative Republic of Brazil
+ conventional short form: Brazil
+ local long form: Republica Federativa do Brasil
+ local short form: Brasil
+
+ Digraph: BR
+
+ Type: federal republic
+
+ Capital: Brasilia
+
+ Administrative divisions: 26 states (estados, singular - estado) and 1
+ federal district* (distrito federal); Acre, Alagoas, Amapa, Amazonas,
+ Bahia, Ceara, Distrito Federal*, Espirito Santo, Goias, Maranhao, Mato
+ Grosso, Mato Grosso do Sul, Minas Gerais, Para, Paraiba, Parana,
+ Pernambuco, Piaui, Rio de Janeiro, Rio Grande do Norte, Rio Grande do
+ Sul, Rondonia, Roraima, Santa Catarina, Sao Paulo, Sergipe, Tocantins
+
+ Independence: 7 September 1822 (from Portugal)
+
+ National holiday: Independence Day, 7 September (1822)
+
+ Constitution: 5 October 1988
+
+ Legal system: based on Roman codes; has not accepted compulsory ICJ
+ jurisdiction
+
+ Suffrage: voluntary between 16 and 18 years of age and over 70;
+ compulsory over 18 and under 70 years of age
+
+ Executive branch:
+ chief of state and head of government: President Fernando Henrique
+ CARDOSO (since 1 January 1995) election last held 3 October 1994; next
+ to be held October 1998); results - Fernando Henrique CARDOSO 53%,
+ Luis Inacio LULA da Silva 26%, Eneas CARNEIRO 7%, Orestes QUERCIA 4%,
+ Leonel BRIZOLA 3%, Espiridiao AMIN 3%; note - second free, direct
+ presidential election since 1960
+ cabinet: Cabinet; appointed by the president
+
+ Legislative branch: bicameral National Congress (Congresso Nacional)
+ Federal Senate (Senado Federal): election last held 3 October 1994 for
+ two-thirds of Senate (next to be held October 1996 for one-third of
+ the Senate); results - PMBD 28%, PFL 22%, PSDB 12%, PPR 7%, PDT 7%, PT
+ 6%, PTB 6%, other 12%
+ Chamber of Deputies (Camara dos Deputados): election last held 3
+ October 1994 (next to be held October 1998); results - PMDB 21%, PFL
+ 18%, PDT 7%, PSDB 12%, PPR 10%, PTB 6%, PT 10%, other 16%
+
+ Judicial branch: Supreme Federal Tribunal
+
+ Political parties and leaders: National Reconstruction Party (PRN),
+ Daniel TOURINHO, president; Brazilian Democratic Movement Party
+ (PMDB), Luiz HENRIQUE da Silveira, president; Liberal Front Party
+ (PFL), Jorge BORNHAUSEN, president; Workers' Party (PT), Rui Goethe da
+ Costa FALCAO, president; Brazilian Workers' Party (PTB), Jose Eduardo
+ ANDRADE VIEIRA, president; Democratic Workers' Party (PDT), Anthony
+ GAROTINHO, president; Progressive Renewal Party (PPR), Espiridiao
+ AMIN, president; Brazilian Social Democracy Party (PSDB), Artur DA
+ TAVOLA, president; Popular Socialist Party (PPS), Roberto FREIRE,
+ president; Communist Party of Brazil (PCdoB), Joao AMAZONAS, secretary
+ general; Liberal Party (PL), Alvero VALLE, president
+
+ Other political or pressure groups: left wing of the Catholic Church
+ and labor unions allied to leftist Workers' Party are critical of
+ government's social and economic policies
+
+ Member of: AfDB, AG (observer), CCC, ECLAC, FAO, G-11, G-15, G-19,
+ G-24, G-77, GATT, IADB, IAEA, IBRD, ICAO, ICC, ICFTU, ICRM, IDA, IFAD,
+ IFC, IFRCS, ILO, IMF, IMO, INMARSAT, INTELSAT, INTERPOL, IOC, IOM
+ (observer), ISO, ITU, LAES, LAIA, MERCOSUR, NAM (observer), OAS,
+ ONUSAL, OPANAL, PCA, RG, UN, UNAVEM II, UNCTAD, UNESCO, UNHCR, UNIDO,
+ UNOMOZ, UNOMUR, UNPROFOR, UNU, UPU, WCL, WFTU, WHO, WIPO, WMO, WTO
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Paulo Tarso FLECHA de LIMA
+ chancery: 3006 Massachusetts Avenue NW, Washington, DC 20008
+ telephone: [1] (202) 745-2700
+ FAX: [1] (202) 745-2827
+ consulate(s) general: Boston, Chicago, Los Angeles, Miami, New York,
+ San Juan (Puerto Rico), and San Francisco
+ consulate(s): Houston
+
+ US diplomatic representation:
+ chief of mission: Ambassador Melvyn LEVITSKY
+ embassy: Avenida das Nacoes, Lote 3, Brasilia, Distrito Federal
+ mailing address: Unit 3500; APO AA 34030
+ telephone: [55] (61) 321-7272
+ FAX: [55] (61) 225-9136
+ consulate(s) general: Rio de Janeiro, Sao Paulo
+ consulate(s): Porto Alegre, Recife
+
+ Flag: green with a large yellow diamond in the center bearing a blue
+ celestial globe with 27 white five-pointed stars (one for each state
+ and the Federal District) arranged in the same pattern as the night
+ sky over Brazil; the globe has a white equatorial band with the motto
+ ORDEM E PROGRESSO (Order and Progress)
+
+@Brazil:Economy
+
+ Overview: The economy, with large agrarian, mining, and manufacturing
+ sectors, entered the 1990s with declining real growth, runaway
+ inflation, an unserviceable foreign debt of $122 billion, and a lack
+ of policy direction. In addition, the economy remained highly
+ regulated, inward-looking, and protected by substantial trade and
+ investment barriers. Ownership of major industrial and mining
+ facilities is divided among private interests - including several
+ multinationals - and the government. Most large agricultural holdings
+ are private, with the government channeling financing to this sector.
+ Conflicts between large landholders and landless peasants have
+ produced intermittent violence. The COLLOR government, which assumed
+ office in March 1990, launched an ambitious reform program that sought
+ to modernize and reinvigorate the economy by stabilizing prices,
+ deregulating the economy, and opening it to increased foreign
+ competition. Itamar FRANCO, who assumed the presidency following
+ President COLLOR's resignation in December 1992, was out of step with
+ COLLOR's reform agenda; initiatives to redress fiscal problems,
+ privatize state enterprises, and liberalize trade and investment
+ policies lost momentum. Galloping inflation - by June 1994 the monthly
+ rate had risen to nearly 50% - had undermined economic stability. In
+ response, the then finance minister, Fernando Henrique CARDOSO,
+ launched the third phase of his stabilization plan, known as Plano
+ Real, that called for a new currency, the real, which was introduced
+ on 1 July 1994. Inflation subsequently dropped to under 3% per month
+ through the end of 1994. The newly elected President CARDOSO has
+ called for the implementation of sweeping market-oriented reform,
+ including public sector and fiscal reform, privatization,
+ deregulation, and elimination of barriers to increased foreign
+ investment. Brazil's natural resources remain a major, long-term
+ economic strength.
+
+ National product: GDP - purchasing power parity - $886.3 billion (1994
+ est.)
+
+ National product real growth rate: 5.3% (1994 est.)
+
+ National product per capita: $5,580 (1994 est.)
+
+ Inflation rate (consumer prices): 1,094% (1994 est.)
+
+ Unemployment rate: 4.9% (1993)
+
+ Budget:
+ revenues: $113 billion
+ expenditures: $109 billion, including capital expenditures of $23
+ billion (1992)
+
+ Exports: $43.6 billion (f.o.b., 1994 est.)
+ commodities: iron ore, soybean bran, orange juice, footwear, coffee,
+ motor vehicle parts
+ partners: EC 27.6%, Latin America 21.8%, US 17.4%, Japan 6.3% (1993)
+
+ Imports: $33.2 billion (f.o.b., 1994 est.)
+ commodities: crude oil, capital goods, chemical products, foodstuffs,
+ coal
+ partners: US 23.3%, EC 22.5%, Middle East 13.0%, Latin America 11.8%,
+ Japan 6.5% (1993)
+
+ External debt: $134 billion (1994)
+
+ Industrial production: growth rate 9.5% (1993); accounts for 39% of
+ GDP
+
+ Electricity:
+ capacity: 55,130,000 kW
+ production: 241.4 billion kWh
+ consumption per capita: 1,589 kWh (1993)
+
+ Industries: textiles, shoes, chemicals, cement, lumber, mining (iron
+ ore, tin), steel making, machine building - including aircraft, motor
+ vehicles, motor vehicle parts and assemblies, and other machinery and
+ equipment
+
+ Agriculture: accounts for 11% of GDP; world's largest producer and
+ exporter of coffee and orange juice concentrate and second-largest
+ exporter of soybeans; other products - rice, corn, sugarcane, cocoa,
+ beef; self-sufficient in food, except for wheat
+
+ Illicit drugs: illicit producer of cannabis and coca, mostly for
+ domestic consumption; government has a small-scale eradication program
+ to control cannabis and coca cultivation; important transshipment
+ country for Bolivian and Colombian cocaine headed for the US and
+ Europe
+
+ Economic aid:
+ recipient: US commitments, including Ex-Im (FY70-89), $2.5 billion;
+ Western (non-US) countries, ODA and OOF bilateral commitments
+ (1970-89), $10.2 million; OPEC bilateral aid (1979-89), $284 million;
+ former Communist countries (1970-89), $1.3 billion
+
+ Currency: 1 real (R$) = 100 centavos
+
+ Exchange rates: R$ per US$1 - 0.85 (January 1995); CR$ per US$1 -
+ 390.845 (January 1994), 88.449 (1993), 4.513 (1992), 0.407 (1991),
+ 0.068 (1990)
+ note: on 1 August 1993 the cruzeiro real (CR$), equal to 1,000
+ cruzeiros, was introduced; another new currency, the real, was
+ introduced on 1 July 1994, equal to 2,750 cruzeiro reals
+
+ Fiscal year: calendar year
+
+@Brazil:Transportation
+
+ Railroads:
+ total: 30,612 km (1992)
+ broad gauge: 5,369 km 1.600-m gauge (1,108 km electrified)
+ standard gauge: 194 km 1.440-m gauge
+ narrow gauge: 24,739 km 1.000-m gauge (112 km electrified); 13 km
+ 0.760-m gauge
+ dual gauge: 310 km 1.600-m/1.000-m gauge (78 km electrified)
+
+ Highways:
+ total: 1,670,148 km
+ paved: 161,503 km
+ unpaved: gravel/earth 1,508,645 km (1990)
+
+ Inland waterways: 50,000 km navigable
+
+ Pipelines: crude oil 2,000 km; petroleum products 3,804 km; natural
+ gas 1,095 km
+
+ Ports: Belem, Fortaleza, Ilheus, Imbituba, Manaus, Paranagua, Porto
+ Alegre, Recife, Rio de Janeiro, Rio Grande, Salvador, Santos, Vitoria
+
+ Merchant marine:
+ total: 215 ships (1,000 GRT or over) totaling 5,128,654 GRT/8,664,776
+ DWT
+ ships by type: bulk 52, cargo 34, chemical tanker 13, combination
+ ore/oil 12, container 12, liquefied gas tanker 11, oil tanker 64,
+ passenger-cargo 5, refrigerated cargo 1, roll-on/roll-off cargo 11
+
+ Airports:
+ total: 3,467
+ with paved runways over 3,047 m: 5
+ with paved runways 2,438 to 3,047 m: 19
+ with paved runways 1,524 to 2,437 m: 126
+ with paved runways 914 to 1,523 m: 286
+ with paved runways under 914 m: 1,652
+ with unpaved runways 1,524 to 2,438 m: 76
+ with unpaved runways 914 to 1,523 m: 1,303
+
+@Brazil:Communications
+
+ Telephone system: 9.86 million telephones; telephone density -
+ 61/1,000 persons; good working system
+ local: NA
+ intercity: extensive microwave radio relay systems and 64 domestic
+ satellite earth stations
+ international: 3 coaxial submarine cables; 3 Atlantic Ocean INTELSAT
+ earth stations
+
+ Radio:
+ broadcast stations: AM 1,223, FM 0, shortwave 151
+ radios: NA
+
+ Television:
+ broadcast stations: 112 (Brazil has the world's fourth largest
+ television broadcasting system)
+ televisions: NA
+
+@Brazil:Defense Forces
+
+ Branches: Brazilian Army, Brazilian Navy (includes Marines), Brazilian
+ Air Force, Federal Police (paramilitary)
+
+ Manpower availability: males age 15-49 44,301,765; males fit for
+ military service 29,815,576; males reach military age (18) annually
+ 1,703,438 (1995 est.)
+
+ Defense expenditures: exchange rate conversion - $5.0 billion, 0.9% of
+ GDP (1994)
+
+
+________________________________________________________________________
+
+BRITISH INDIAN OCEAN TERRITORY
+
+ (dependent territory of the UK) 
+
+@British Indian Ocean Territory:Geography
+
+ Location: Southern Asia, archipelago in the Indian Ocean, about
+ one-half the way from Africa to Indonesia
+
+ Map references: World
+
+ Area:
+ total area: 60 sq km
+ land area: 60 sq km
+ comparative area: about 0.3 times the size of Washington, DC
+ note: includes the island of Diego Garcia
+
+ Land boundaries: 0 km
+
+ Coastline: 698 km
+
+ Maritime claims:
+ exclusive fishing zone: 200 nm
+ territorial sea: 3 nm
+
+ International disputes: the entire Chagos Archipelago is claimed by
+ Mauritius
+
+ Climate: tropical marine; hot, humid, moderated by trade winds
+
+ Terrain: flat and low (up to 4 meters in elevation)
+
+ Natural resources: coconuts, fish
+
+ Land use:
+ arable land: 0%
+ permanent crops: 0%
+ meadows and pastures: 0%
+ forest and woodland: 0%
+ other: 100%
+
+ Irrigated land: 0 sq km
+
+ Environment:
+ current issues: NA
+ natural hazards: NA
+ international agreements: NA
+
+ Note: archipelago of 2,300 islands; Diego Garcia, largest and
+ southernmost island, occupies strategic location in central Indian
+ Ocean; island is site of joint US-UK military facility
+
+@British Indian Ocean Territory:People
+
+ Population: no indigenous inhabitants
+ note: there are UK-US military personnel; civilian inhabitants, known
+ as the Ilois, evacuated to Mauritius before construction of UK-US
+ military facilities
+
+@British Indian Ocean Territory:Government
+
+ Names:
+ conventional long form: British Indian Ocean Territory
+ conventional short form: none
+
+ Abbreviation: BIOT
+
+ Digraph: IO
+
+ Type: dependent territory of the UK
+
+ Capital: none
+
+ Independence: none (dependent territory of the UK)
+
+ Executive branch:
+ chief of state: Queen ELIZABETH II (since 6 February 1952)
+ head of government: Commissioner Mr. D. R. MACLENNAN); Administrator
+ Mr. David Smith; note - both reside in the UK
+
+ Diplomatic representation in US: none (dependent territory of the UK)
+
+ US diplomatic representation: none (dependent territory of the UK)
+
+ Flag: white with the flag of the UK in the upper hoist-side quadrant
+ and six blue wavy horizontal stripes bearing a palm tree and yellow
+ crown centered on the outer half of the flag
+
+@British Indian Ocean Territory:Economy
+
+ Overview: All economic activity is concentrated on the largest island
+ of Diego Garcia, where joint UK-US defense facilities are located.
+ Construction projects and various services needed to support the
+ military installations are done by military and contract employees
+ from the UK, Mauritius, the Philippines, and the US. There are no
+ industrial or agricultural activities on the islands.
+
+ Electricity: provided by the US military
+
+@British Indian Ocean Territory:Transportation
+
+ Railroads: 0 km
+
+ Highways:
+ total: NA
+ paved: short stretch of paved road between port and airfield on Diego
+ Garcia
+ unpaved: NA
+
+ Ports: Diego Garcia
+
+ Airports:
+ total: 1
+ with paved runways over 3,047 m: 1
+
+@British Indian Ocean Territory:Communications
+
+ Telephone system: NA telephones; minimal facilities
+ local: NA
+ intercity: NA
+ international: 1 INTELSAT (Atlantic Ocean) earth station
+
+ Radio:
+ broadcast stations: AM 1, FM 1, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 1
+ televisions: NA
+
+@British Indian Ocean Territory:Defense Forces
+
+ Note: defense is the responsibility of the UK
+
+
+________________________________________________________________________
+
+BRITISH VIRGIN ISLANDS
+
+ (dependent territory of the UK) 
+
+@British Virgin Islands:Geography
+
+ Location: Caribbean, between the Caribbean Sea and the North Atlantic
+ Ocean, east of Puerto Rico
+
+ Map references: Central America and the Caribbean
+
+ Area:
+ total area: 150 sq km
+ land area: 150 sq km
+ comparative area: about 0.8 times the size of Washington, DC
+ note: includes the island of Anegada
+
+ Land boundaries: 0 km
+
+ Coastline: 80 km
+
+ Maritime claims:
+ exclusive fishing zone: 200 nm
+ territorial sea: 3 nm
+
+ International disputes: none
+
+ Climate: subtropical; humid; temperatures moderated by trade winds
+
+ Terrain: coral islands relatively flat; volcanic islands steep, hilly
+
+ Natural resources: negligible
+
+ Land use:
+ arable land: 20%
+ permanent crops: 7%
+ meadows and pastures: 33%
+ forest and woodland: 7%
+ other: 33%
+
+ Irrigated land: NA sq km
+
+ Environment:
+ current issues: limited natural fresh water resources (except for a
+ few seasonal streams and springs on Tortola, most of the island's
+ water supply comes from wells and rainwater catchment)
+ natural hazards: hurricanes and tropical storms (July to October)
+ international agreements: NA
+
+ Note: strong ties to nearby US Virgin Islands and Puerto Rico
+
+@British Virgin Islands:People
+
+ Population: 13,027 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: NA
+ 15-64 years: NA
+ 65 years and over: NA
+
+ Population growth rate: 1.27% (1995 est.)
+
+ Birth rate: 20.25 births/1,000 population (1995 est.)
+
+ Death rate: 6.07 deaths/1,000 population (1995 est.)
+
+ Net migration rate: -1.5 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 19.33 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 72.73 years
+ male: 70.88 years
+ female: 74.7 years (1995 est.)
+
+ Total fertility rate: 2.27 children born/woman (1995 est.)
+
+ Nationality:
+ noun: British Virgin Islander(s)
+ adjective: British Virgin Islander
+
+ Ethnic divisions: black 90%, white, Asian
+
+ Religions: Protestant 86% (Methodist 45%, Anglican 21%, Church of God
+ 7%, Seventh-Day Adventist 5%, Baptist 4%, Jehovah's Witnesses 2%,
+ other 2%), Roman Catholic 6%, none 2%, other 6% (1981)
+
+ Languages: English (official)
+
+ Literacy: age 15 and over can read and write (1970)
+ total population: 98%
+ male: 98%
+ female: 98%
+
+ Labor force: 4,911 (1980)
+ by occupation: NA
+
+@British Virgin Islands:Government
+
+ Names:
+ conventional long form: none
+ conventional short form: British Virgin Islands
+
+ Abbreviation: BVI
+
+ Digraph: VI
+
+ Type: dependent territory of the UK
+
+ Capital: Road Town
+
+ Administrative divisions: none (dependent territory of the UK)
+
+ Independence: none (dependent territory of the UK)
+
+ National holiday: Territory Day, 1 July
+
+ Constitution: 1 June 1977
+
+ Legal system: English law
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch:
+ chief of state: Queen ELIZABETH II (since 6 February 1952),
+ represented by Governor Peter Alfred PENFOLD (since 14 October 1991)
+ head of government: Chief Minister H. Lavity STOUTT (since NA
+ September 1986)
+ cabinet: Executive Council; appointed by the governor
+
+ Legislative branch: unicameral
+ Legislative Council: election last held 20 February 1995 (next to be
+ held on NA February 2000); results - percent of vote by party NA;
+ seats - (13 total) VIP 6, CCM 2, UP 2, independents 3
+ note: legislature was expanded to 13 seats as of election on 20
+ February 1995
+
+ Judicial branch: Eastern Caribbean Supreme Court
+
+ Political parties and leaders: United Party (UP), Conrad MADURO;
+ Virgin Islands Party (VIP), H. Lavity STOUTT; Concerned Citizens
+ Movement (CCM), E. Walwyln BREWLEY
+
+ Member of: CARICOM (associate), CDB, ECLAC (associate), INTERPOL
+ (subbureau), IOC, OECS (associate), UNESCO (associate)
+
+ Diplomatic representation in US: none (dependent territory of the UK)
+
+ US diplomatic representation: none (dependent territory of the UK)
+
+ Flag: blue with the flag of the UK in the upper hoist-side quadrant
+ and the Virgin Islander coat of arms centered in the outer half of the
+ flag; the coat of arms depicts a woman flanked on either side by a
+ vertical column of six oil lamps above a scroll bearing the Latin word
+ VIGILATE (Be Watchful)
+
+@British Virgin Islands:Economy
+
+ Overview: The economy, one of the most prosperous in the Caribbean
+ area, is highly dependent on the tourist industry, which generates
+ about 21% of the national income. In 1985 the government offered
+ offshore registration to companies wishing to incorporate in the
+ islands, and, in consequence, incorporation fees generated about $2
+ million in 1987. The economy slowed in 1991 because of the poor
+ performances of the tourist sector and tight commercial bank credit.
+ Livestock raising is the most significant agricultural activity. The
+ islands' crops, limited by poor soils, are unable to meet food
+ requirements.
+
+ National product: GDP - purchasing power parity - $133 million (1991)
+
+ National product real growth rate: 2% (1991)
+
+ National product per capita: $10,600 (1991)
+
+ Inflation rate (consumer prices): 2.5% (1990 est.)
+
+ Unemployment rate: NEGL% (1992)
+
+ Budget:
+ revenues: $51 million
+ expenditures: $88 million, including capital expenditures of $38
+ million (1991)
+
+ Exports: $2.7 million (f.o.b., 1988)
+ commodities: rum, fresh fish, gravel, sand, fruits, animals
+ partners: Virgin Islands (US), Puerto Rico, US
+
+ Imports: $11.5 million (c.i.f., 1988)
+ commodities: building materials, automobiles, foodstuffs, machinery
+ partners: Virgin Islands (US), Puerto Rico, US
+
+ External debt: $4.5 million (1985)
+
+ Industrial production: growth rate 4% (1985)
+
+ Electricity:
+ capacity: 10,500 kW
+ production: 50 million kWh
+ consumption per capita: 3,148 kWh (1993)
+
+ Industries: tourism, light industry, construction, rum, concrete
+ block, offshore financial center
+
+ Agriculture: livestock (including poultry), fish, fruit, vegetables
+
+ Economic aid: $NA
+
+ Currency: 1 United States dollar (US$) = 100 cents
+
+ Exchange rates: US currency is used
+
+ Fiscal year: 1 April - 31 March
+
+@British Virgin Islands:Transportation
+
+ Railroads: 0 km
+
+ Highways:
+ total: 106 km (1983)
+ paved: NA
+ unpaved: NA
+
+ Ports: Road Town
+
+ Merchant marine: none
+
+ Airports:
+ total: 3
+ with paved runways 914 to 1,523 m: 1
+ with paved runways under 914 m: 1
+ with unpaved runways 914 to 1,523 m: 1
+
+@British Virgin Islands:Communications
+
+ Telephone system: 3,000 telephones; worldwide external telephone
+ service
+ local: NA
+ intercity: NA
+ international: submarine cable communication links to Bermuda
+
+ Radio:
+ broadcast stations: AM 1, FM 0, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 1
+ televisions: NA
+
+@British Virgin Islands:Defense Forces
+
+ Note: defense is the responsibility of the UK
+
+
+________________________________________________________________________
+
+BRUNEI
+
+@Brunei:Geography
+
+ Location: Southeastern Asia, bordering the South China Sea and
+ Malaysia
+
+ Map references: Southeast Asia
+
+ Area:
+ total area: 5,770 sq km
+ land area: 5,270 sq km
+ comparative area: slightly larger than Delaware
+
+ Land boundaries: total 381 km, Malysia 381 km
+
+ Coastline: 161 km
+
+ Maritime claims:
+ exclusive economic zone: 200 nm or to median line
+ territorial sea: 12 nm
+
+ International disputes: may wish to purchase the Malaysian salient
+ that divides the country; all of the Spratly Islands are claimed by
+ China, Taiwan, and Vietnam; parts of them are claimed by Malaysia and
+ the Philippines; in 1984, Brunei established an exclusive fishing zone
+ that encompasses Louisa Reef, but has not publicly claimed the island
+
+ Climate: tropical; hot, humid, rainy
+
+ Terrain: flat coastal plain rises to mountains in east; hilly lowland
+ in west
+
+ Natural resources: petroleum, natural gas, timber
+
+ Land use:
+ arable land: 1%
+ permanent crops: 1%
+ meadows and pastures: 1%
+ forest and woodland: 79%
+ other: 18%
+
+ Irrigated land: 10 sq km (1989 est.)
+
+ Environment:
+ current issues: NA
+ natural hazards: typhoons, earthquakes, and severe flooding are very
+ rare
+ international agreements: party to - Endangered Species, Ozone Layer
+ Protection, Ship Pollution; signed, but not ratified - Law of the Sea
+
+ Note: close to vital sea lanes through South China Sea linking Indian
+ and Pacific Oceans; two parts physically separated by Malaysia; almost
+ an enclave of Malaysia
+
+@Brunei:People
+
+ Population: 292,266 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 34% (female 48,458; male 50,624)
+ 15-64 years: 62% (female 85,581; male 95,955)
+ 65 years and over: 4% (female 5,172; male 6,476) (July 1995 est.)
+
+ Population growth rate: 2.63% (1995 est.)
+
+ Birth rate: 25.83 births/1,000 population (1995 est.)
+
+ Death rate: 5.07 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 5.49 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 24.7 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 71.24 years
+ male: 69.65 years
+ female: 72.91 years (1995 est.)
+
+ Total fertility rate: 3.41 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Bruneian(s)
+ adjective: Bruneian
+
+ Ethnic divisions: Malay 64%, Chinese 20%, other 16%
+
+ Religions: Muslim (official) 63%, Buddhism 14%, Christian 8%,
+ indigenous beliefs and other 15% (1981)
+
+ Languages: Malay (official), English, Chinese
+
+ Literacy: age 15 and over can read and write (1991)
+ total population: 88%
+ male: 92%
+ female: 82%
+
+ Labor force: 119,000 (1993 est.); note - includes members of the Army
+ by occupation: government 47.5%, production of oil, natural gas,
+ services, and construction 41.9%, agriculture, forestry, and fishing
+ 3.8% (1986)
+ note: 33% of labor force is foreign (1988)
+
+@Brunei:Government
+
+ Names:
+ conventional long form: Negara Brunei Darussalam
+ conventional short form: Brunei
+
+ Digraph: BX
+
+ Type: constitutional sultanate
+
+ Capital: Bandar Seri Begawan
+
+ Administrative divisions: 4 districts (daerah-daerah, singular -
+ daerah); Belait, Brunei and Muara, Temburong, Tutong
+
+ Independence: 1 January 1984 (from UK)
+
+ National holiday: National Day 23 February (1984)
+
+ Constitution: 29 September 1959 (some provisions suspended under a
+ State of Emergency since December 1962, others since independence on 1
+ January 1984)
+
+ Legal system: based on Islamic law
+
+ Suffrage: none
+
+ Executive branch:
+ chief of state and head of government: Sultan and Prime Minister His
+ Majesty Paduka Seri Baginda Sultan Haji HASSANAL Bolkiah Mu'izzaddin
+ Waddaulah (since 5 October 1967)
+ cabinet: Council of Cabinet Ministers; composed chiefly of members of
+ the royal family
+
+ Legislative branch: unicameral
+ Legislative Council (Majlis Masyuarat Megeri): elections last held in
+ March 1962; in 1970 the Council was changed to an appointive body by
+ decree of the sultan; an elected legislative Council is being
+ considered as part of constitution reform, but elections are unlikely
+ for several years
+
+ Judicial branch: Supreme Court
+
+ Political parties and leaders: Brunei United National Party
+ (inactive), Anak HASANUDDIN, chairman; Brunei National Solidarity
+ Party (the first legal political party and now banned), leader NA;
+ Brunei Peoples Party (banned), leader NA
+
+ Member of: APEC, ASEAN, C, ESCAP, FAO, G-77, GATT, ICAO, IDB, IMO,
+ INMARSAT, INTELSAT (nonsignatory user), INTERPOL, IOC, ISO
+ (correspondent), ITU, NAM, OIC, UN, UNCTAD, UPU, WHO, WIPO, WMO
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Haji JAYA bin Abdul Latif
+ chancery: Watergate, Suite 300, 3rd floor, 2600 Virginia Avenue NW,
+ Washington, DC 20037
+ telephone: [1] (202) 342-0159
+ FAX: [1] (202) 342-0158
+
+ US diplomatic representation:
+ chief of mission: Ambassador Theresa A. TULL
+ embassy: Third Floor, Teck Guan Plaza, Jalan Sultan, Bandar Seri
+ Begawan
+ mailing address: American Embassy Box B, APO AP 96440
+ telephone: [673] (2) 229670
+ FAX: [673] (2) 225293
+
+ Flag: yellow with two diagonal bands of white (top, almost double
+ width) and black starting from the upper hoist side; the national
+ emblem in red is superimposed at the center; the emblem includes a
+ swallow-tailed flag on top of a winged column within an upturned
+ crescent above a scroll and flanked by two upraised hands
+
+@Brunei:Economy
+
+ Overview: The economy is a mixture of foreign and domestic
+ entrepreneurship, government regulation and welfare measures, and
+ village tradition. It is almost totally supported by exports of crude
+ oil and natural gas, with revenues from the petroleum sector
+ accounting for more than 40% of GDP. Per capita GDP is among the
+ highest in the Third World, and substantial income from overseas
+ investment supplements domestic production. The government provides
+ for all medical services and subsidizes food and housing.
+
+ National product: GDP - purchasing power parity - $4.43 billion (1993
+ est.)
+
+ National product real growth rate: -4% (1993 est.)
+
+ National product per capita: $16,000 (1993 est.)
+
+ Inflation rate (consumer prices): 2.5% (1993 est.)
+
+ Unemployment rate: 5% (1993 est.)
+
+ Budget:
+ revenues: $1.5 billion
+ expenditures: $1.5 billion, including capital expenditures of $255
+ million (1990 est.)
+
+ Exports: $2.2 billion (f.o.b., 1993 est.)
+ commodities: crude oil, liquefied natural gas, petroleum products
+ partners: Japan 52%, South Korea 10%, UK 9%, Thailand 7%, Singapore 6%
+ (1991)
+
+ Imports: $1.2 billion (c.i.f., 1993 est.)
+ commodities: machinery and transport equipment, manufactured goods,
+ food, chemicals
+ partners: Singapore 34%, UK 23%, US 10%, Japan 8%, Malaysia 7%,
+ Switzerland 4% (1991)
+
+ External debt: $0
+
+ Industrial production: growth rate 12.9% (1987); accounts for 41.6% of
+ GDP (1990), includes mining, quarrying, and manufacturing
+
+ Electricity:
+ capacity: 380,000 kW
+ production: 1.2 billion kWh
+ consumption per capita: 3,971 kWh (1993)
+
+ Industries: petroleum, petroleum refining, liquefied natural gas,
+ construction
+
+ Agriculture: imports about 80% of its food needs; principal crops and
+ livestock include rice, cassava, bananas, buffaloes, and pigs
+
+ Economic aid:
+ recipient: US commitments, including Ex-Im (FY70-87), $20.6 million;
+ Western (non-US) countries, ODA and OOF bilateral commitments
+ (1970-89), $153 million
+
+ Currency: 1 Bruneian dollar (B$) = 100 cents
+
+ Exchange rates: Bruneian dollars (B$) per US$1 - 1.4524 (January
+ 1995), 1.5274 (1994), 1.6158 (1993), 1.6290 (1992), 1.7276 (1991),
+ 1.8125 (1990); note - the Bruneian dollar is at par with the Singapore
+ dollar
+
+ Fiscal year: calendar year
+
+@Brunei:Transportation
+
+ Railroads:
+ total: 13 km private line
+ narrow gauge: 13 km 0.610-m gauge
+
+ Highways:
+ total: 1,090 km
+ paved: bituminous 370 km (with another 52 km under construction)
+ unpaved: gravel or earth 720 km
+
+ Inland waterways: 209 km; navigable by craft drawing less than 1.2
+ meters
+
+ Pipelines: crude oil 135 km; petroleum products 418 km; natural gas
+ 920 km
+
+ Ports: Bandar Seri Begawar, Kuala Belait, Muara, Seria, Tutong
+
+ Merchant marine:
+ total: 7 liquefied gas carriers (1,000 GRT or over) totaling 348,476
+ GRT/340,635 DWT
+
+ Airports:
+ total: 5
+ with paved runways over 3,047 m: 1
+ with paved runways under 914 m: 3
+ with unpaved runways 914 to 1,523 m: 1
+
+@Brunei:Communications
+
+ Telephone system: 33,000 telephones (1987); service throughout country
+ is adequate for present needs; international service good to adjacent
+ Malaysia
+ local: NA
+ intercity: NA
+ international: INTELSAT (NA Indian Ocean and 1 Pacific Ocean) earth
+ stations
+
+ Radio:
+ broadcast stations: AM 4, FM 4, shortwave 0
+ radios: 74,000 (1987)
+ note: radiobroadcast coverage good
+
+ Television:
+ broadcast stations: 1
+ televisions: NA
+
+@Brunei:Defense Forces
+
+ Branches: Land Forces, Navy, Air Force, Royal Brunei Police
+
+ Manpower availability: males age 15-49 81,560; males fit for military
+ service 47,403; males reach military age (18) annually 2,835 (1995
+ est.)
+
+ Defense expenditures: exchange rate conversion - $312 million, 6.2% of
+ GDP (1994)
+
+
+________________________________________________________________________
+
+BULGARIA
+
+@Bulgaria:Geography
+
+ Location: Southeastern Europe, bordering the Black Sea, between
+ Romania and Turkey
+
+ Map references: Ethnic Groups in Eastern Europe, Europe
+
+ Area:
+ total area: 110,910 sq km
+ land area: 110,550 sq km
+ comparative area: slightly larger than Tennessee
+
+ Land boundaries: total 1,808 km, Greece 494 km, The Former Yugoslav
+ Republic of Macedonia 148 km, Romania 608 km, Serbia and Montenegro
+ 318 km (all with Serbia), Turkey 240 km
+
+ Coastline: 354 km
+
+ Maritime claims:
+ contiguous zone: 24 nm
+ exclusive economic zone: 200 nm
+ territorial sea: 12 nm
+
+ International disputes: none
+
+ Climate: temperate; cold, damp winters; hot, dry summers
+
+ Terrain: mostly mountains with lowlands in north and southeast
+
+ Natural resources: bauxite, copper, lead, zinc, coal, timber, arable
+ land
+
+ Land use:
+ arable land: 34%
+ permanent crops: 3%
+ meadows and pastures: 18%
+ forest and woodland: 35%
+ other: 10%
+
+ Irrigated land: 10 sq km (1989 est.)
+
+ Environment:
+ current issues: air pollution from industrial emissions; rivers
+ polluted from raw sewage, heavy metals, detergents; deforestation;
+ forest damage from air pollution and resulting acid rain; soil
+ contamination from heavy metals from metallurgical plants and
+ industrial wastes
+ natural hazards: earthquakes, landslides
+ international agreements: party to - Air Pollution, Air
+ Pollution-Nitrogen Oxides, Air Pollution-Sulphur 85, Antarctic Treaty,
+ Endangered Species, Environmental Modification, Nuclear Test Ban,
+ Ozone Layer Protection, Ship Pollution, Wetlands; signed, but not
+ ratified - Air Pollution-Sulphur 94, Air Pollution-Volatile Organic
+ Compounds, Antarctic-Environmental Protocol, Biodiversity, Climate
+ Change, Law of the Sea
+
+ Note: strategic location near Turkish Straits; controls key land
+ routes from Europe to Middle East and Asia
+
+@Bulgaria:People
+
+ Population: 8,775,198 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 19% (female 800,413; male 841,697)
+ 15-64 years: 66% (female 2,927,880; male 2,910,133)
+ 65 years and over: 15% (female 735,706; male 559,369) (July 1995 est.)
+
+ Population growth rate: -0.25% (1995 est.)
+
+ Birth rate: 11.75 births/1,000 population (1995 est.)
+
+ Death rate: 11.31 deaths/1,000 population (1995 est.)
+
+ Net migration rate: -2.91 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 11.4 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 73.68 years
+ male: 70.43 years
+ female: 77.1 years (1995 est.)
+
+ Total fertility rate: 1.71 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Bulgarian(s)
+ adjective: Bulgarian
+
+ Ethnic divisions: Bulgarian 85.3%, Turk 8.5%, Gypsy 2.6%, Macedonian
+ 2.5%, Armenian 0.3%, Russian 0.2%, other 0.6%
+
+ Religions: Bulgarian Orthodox 85%, Muslim 13%, Jewish 0.8%, Roman
+ Catholic 0.5%, Uniate Catholic 0.2%, Protestant, Gregorian-Armenian,
+ and other 0.5%
+
+ Languages: Bulgarian; secondary languages closely correspond to ethnic
+ breakdown
+
+ Literacy: age 15 and over can read and write (1992)
+ total population: 98%
+ male: 99%
+ female: 97%
+
+ Labor force: 4.3 million
+ by occupation: industry 33%, agriculture 20%, other 47% (1987)
+
+@Bulgaria:Government
+
+ Names:
+ conventional long form: Republic of Bulgaria
+ conventional short form: Bulgaria
+
+ Digraph: BU
+
+ Type: emerging democracy
+
+ Capital: Sofia
+
+ Administrative divisions: 9 provinces (oblasti, singular - oblast);
+ Burgas, Grad Sofiya, Khaskovo, Lovech, Montana, Plovdiv, Ruse, Sofiya,
+ Varna
+
+ Independence: 22 September 1908 (from Ottoman Empire)
+
+ National holiday: Independence Day 3 March (1878)
+
+ Constitution: adopted 12 July 1991
+
+ Legal system: based on civil law system, with Soviet law influence;
+ has accepted compulsory ICJ jurisdiction
+
+ Suffrage: 18 years of age; universal and compulsory
+
+ Executive branch:
+ chief of state: President Zhelyu Mitev ZHELEV (since 1 August 1990);
+ Vice President (vacant); election last held January 1992; results -
+ Zhelyu ZHELEV was elected by popular vote
+ head of government: Chairman of the Council of Ministers (Prime
+ Minister) Zhan VIDENOV (since 25 January 1995); Deputy Prime Ministers
+ Doncho KONAKCHIEV, Kiril TSOCHEV, Rumen GECHEV, Svetoslav SHIVAROV
+ (since 25 January 1995)
+ cabinet: Council of Ministers; elected by the National Assembly
+
+ Legislative branch: unicameral
+ National Assembly (Narodno Sobranie): last held 18 December 1994 (next
+ to be held NA 1997); results - BSP 43.5%, UDF 24.2%, PU 6.5%, MRF
+ 5.4%, BBB 4.7%; seats - (240 total) BSP 125, UDF 69, PU 18, MRF 15,
+ BBB 13
+
+ Judicial branch: Supreme Court, Constitutional Court
+
+ Political parties and leaders: Bulgarian Socialist Party (BSP), Zhan
+ VIDENOV, chairman; Union of Democratic Forces (UDF), Ivan KOSTOV an
+ alliance of pro-Democratic parties; People's Union (PU), Stefan SAVOV;
+ Movement for Rights and Freedoms (mainly ethnic Turkish party) (MRF),
+ Ahmed DOGAN; Bulgarian Business Bloc (BBB), George GANCHEV
+
+ Other political or pressure groups: Democratic Alliance for the
+ Republic (DAR); New Union for Democracy (NUD); Ecoglasnost; Podkrepa
+ Labor Confederation; Fatherland Union; Bulgarian Communist Party
+ (BCP); Confederation of Independent Trade Unions of Bulgaria (KNSB);
+ Bulgarian Agrarian National Union - United (BZNS); Bulgarian
+ Democratic Center; "Nikola Petkov" Bulgarian Agrarian National Union;
+ Internal Macedonian Revolutionary Organization - Union of Macedonian
+ Societies (IMRO-UMS); numerous regional, ethnic, and national interest
+ groups with various agendas
+
+ Member of: ACCT, BIS, BSEC, CCC, CE, CEI (associate members), EBRD,
+ ECE, FAO, G- 9, IAEA, IBRD, ICAO, ICFTU, ICRM, IFC, IFRCS, ILO, IMF,
+ IMO, INMARSAT, INTELSAT (nonsignatory user), INTERPOL, IOC, IOM
+ (observer), ISO, ITU, NACC, NAM (guest), NSG, OSCE, PCA, PFP, UN,
+ UNCTAD, UNESCO, UNIDO, UPU, WEU (associate partner), WFTU, WHO, WIPO,
+ WMO, WTO, ZC
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Snezhana Damianova BOTUSHAROVA
+ chancery: 1621 22nd Street NW, Washington, DC 20008
+ telephone: [1] (202) 387-7969
+ FAX: [1] (202) 234-7973
+
+ US diplomatic representation:
+ chief of mission: Ambassador William D. MONTGOMERY
+ embassy: 1 Saborna Street, Sofia
+ mailing address: Unit 1335, Sofia; APO AE 09213-1335
+ telephone: [359] (2) 88-48-01 through 05
+ FAX: [359] (2) 80-19-77
+
+ Flag: three equal horizontal bands of white (top), green, and red; the
+ national emblem formerly on the hoist side of the white stripe has
+ been removed - it contained a rampant lion within a wreath of wheat
+ ears below a red five-pointed star and above a ribbon bearing the
+ dates 681 (first Bulgarian state established) and 1944 (liberation
+ from Nazi control)
+
+@Bulgaria:Economy
+
+ Overview: The Bulgarian economy continued its painful adjustment in
+ 1994 from the misdirected development undertaken during four decades
+ of Communist rule. Many aspects of a market economy have been put in
+ place and have begun to function, but much of the economy, especially
+ the industrial sector, has yet to re-establish market links lost with
+ the collapse of the other centrally planned Soviet Bloc economies. The
+ prices of many imported industrial inputs, especially energy products,
+ have risen markedly, and falling real wages have not sufficed to
+ restore competitiveness. The government plans more extensive
+ privatization in 1995 to improve the management of enterprises and to
+ encourage foreign investment. Bulgaria resumed payments on its $10
+ billion in commercial debt in 1993 following the negotiation of a 50%
+ write-off.
+
+ National product: GDP - purchasing power parity - $33.7 billion (1994
+ est.)
+
+ National product real growth rate: 0.2% (1994 est.)
+
+ National product per capita: $3,830 (1994 est.)
+
+ Inflation rate (consumer prices): 122% (1994)
+
+ Unemployment rate: 16% (1994)
+
+ Budget:
+ revenues: $14 billion
+ expenditures: $17.4 billion, including capital expenditures of $610
+ million (1993 est.)
+
+ Exports: $3.6 billion (f.o.b., 1993)
+ commodities: machinery and equipment 30.6%; agricultural products 24%;
+ manufactured consumer goods 22.2%; fuels, minerals, raw materials, and
+ metals 10.5%; other 12.7% (1991)
+ partners: former CEMA countries 57.7% (FSU 48.6%, Poland 2.1%,
+ Czechoslovakia 0.9%); developed countries 26.3% (Germany 4.8%, Greece
+ 2.2%); less developed countries 15.9% (Libya 2.1%, Iran 0.7%) (1991)
+
+ Imports: $4.3 billion (c.i.f., 1993)
+ commodities: fuels, minerals, and raw materials 58.7%; machinery and
+ equipment 15.8%; manufactured consumer goods 4.4%; agricultural
+ products 15.2%; other 5.9%
+ partners: former CEMA countries 51.0% (FSU 43.2%, Poland 3.7%);
+ developed countries 32.8% (Germany 7.0%, Austria 4.7%); less developed
+ countries 16.2% (Iran 2.8%, Libya 2.5%)
+
+ External debt: $12 billion (1994)
+
+ Industrial production: growth rate 4% (1994); accounts for about 37%
+ of GDP (1990)
+
+ Electricity:
+ capacity: 11,500,000 kW
+ production: 35.9 billion kWh
+ consumption per capita: 3,827 kWh (1993)
+
+ Industries: machine building and metal working, food processing,
+ chemicals, textiles, building materials, ferrous and nonferrous metals
+
+ Agriculture: climate and soil conditions support livestock raising and
+ the growing of various grain crops, oilseeds, vegetables, fruits, and
+ tobacco; more than one-third of the arable land devoted to grain;
+ world's fourth-largest tobacco exporter; surplus food producer
+
+ Illicit drugs: transshipment point for southwest Asian heroin and
+ South American cocaine transiting the Balkan route; limited producer
+ of precursor chemicals
+
+ Economic aid:
+ recipient: $700 million in balance of payments support (1994)
+
+ Currency: 1 lev (Lv) = 100 stotinki
+
+ Exchange rates: leva (Lv) per US$1 - 67.04 (January 1995), 32.00
+ (January 1994), 24.56 (January 1993), 17.18 (January 1992), 16.13
+ (March 1991), 0.7446 (November 1990); note - floating exchange rate
+ since February 1991
+
+ Fiscal year: calendar year
+
+@Bulgaria:Transportation
+
+ Railroads:
+ total: 4,294 km
+ standard gauge: 4,049 km 1.435-m gauge (2,650 km electrified; 917
+ double track)
+ other: 245 km NA-m gauge (1994)
+
+ Highways:
+ total: 36,932 km
+ paved: 33,904 km (including 276 km expressways)
+ unpaved: earth 3,028 km (1992)
+
+ Inland waterways: 470 km (1987)
+
+ Pipelines: crude oil 193 km; petroleum products 525 km; natural gas
+ 1,400 km (1992)
+
+ Ports: Burgas, Lom, Nesebur, Ruse, Varna, Vidin
+
+ Merchant marine:
+ total: 109 ships (1,000 GRT or over) totaling 1,191,231 GRT/1,762,461
+ DWT
+ ships by type: bulk 47, cargo 29, chemical carrier 4, container 2, oil
+ tanker 15, passenger-cargo 2, railcar carrier 2, roll-on/roll-off
+ cargo 6, short-sea passenger 1, refrigerated cargo 1
+ note: Bulgaria owns 2 ships (1,000 GRT or over) totaling 12,960 DWT
+ operating under Liberian registry
+
+ Airports:
+ total: 355
+ with paved runways over 3,047 m: 1
+ with paved runways 2,438 to 3,047 m: 17
+ with paved runways 1,524 to 2,437 m: 10
+ with paved runways under 914 m: 88
+ with unpaved runways 2,438 to 3,047 m: 2
+ with unpaved runways 1,524 to 2,438 m: 1
+ with unpaved runways 914 to 1,523 m: 10
+ with unpaved runways under 914 m: 226
+
+@Bulgaria:Communications
+
+ Telephone system: 2,600,000 telephones; 29 telephones/100 persons
+ (1992); extensive but antiquated transmission system of coaxial cable
+ and microwave radio relay; direct dialing to 36 countries; telephone
+ service is available in most villages; almost two-thirds of the lines
+ are residential; 67% of Sofia households have phones (November 1988)
+ local: NA
+ intercity: NA
+ international: 1 earth station using Intersputnik; INTELSAT link used
+ through a Greek earth station
+
+ Radio:
+ broadcast stations: AM 20, FM 15, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 29 (Russian repeater in Sofia 1)
+ televisions: 2.1 million (May 1990)
+
+@Bulgaria:Defense Forces
+
+ Branches: Army, Navy, Air and Air Defense Forces, Border Troops,
+ Internal Troops
+
+ Manpower availability: males age 15-49 2,171,414; males fit for
+ military service 1,810,989; males reach military age (19) annually
+ 69,200 (1995 est.)
+
+ Defense expenditures: 13 billion leva, NA% of GDP (1994 est.); note -
+ conversion of defense expenditures into US dollars using the current
+ exchange rate could produce misleading results
+
+
+________________________________________________________________________
+
+BURKINA
+
+@Burkina:Geography
+
+ Location: Western Africa, north of Ghana
+
+ Map references: Africa
+
+ Area:
+ total area: 274,200 sq km
+ land area: 273,800 sq km
+ comparative area: slightly larger than Colorado
+
+ Land boundaries: total 3,192 km, Benin 306 km, Ghana 548 km, Cote
+ d'Ivoire 584 km, Mali 1,000 km, Niger 628 km, Togo 126 km
+
+ Coastline: 0 km (landlocked)
+
+ Maritime claims: none; landlocked
+
+ International disputes: following mutual acceptance of an
+ International Court of Justice (ICJ) ruling in December 1986 on their
+ international boundary dispute, Burkina and Mali are proceeding with
+ boundary demarcation, including the tripoint with Niger
+
+ Climate: tropical; warm, dry winters; hot, wet summers
+
+ Terrain: mostly flat to dissected, undulating plains; hills in west
+ and southeast
+
+ Natural resources: manganese, limestone, marble; small deposits of
+ gold, antimony, copper, nickel, bauxite, lead, phosphates, zinc,
+ silver
+
+ Land use:
+ arable land: 10%
+ permanent crops: 0%
+ meadows and pastures: 37%
+ forest and woodland: 26%
+ other: 27%
+
+ Irrigated land: 160 sq km (1989 est.)
+
+ Environment:
+ current issues: recent droughts and desertification severely affecting
+ agricultural activities, population distribution, and the economy;
+ overgrazing; soil degradation; deforestation
+ natural hazards: recurring droughts
+ international agreements: party to - Biodiversity, Climate Change,
+ Endangered Species, Marine Life Conservation, Ozone Layer Protection,
+ Wetlands; signed, but not ratified - Desertification, Law of the Sea,
+ Nuclear Test Ban
+
+ Note: landlocked
+
+@Burkina:People
+
+ Population: 10,422,828 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 48% (female 2,488,662; male 2,517,245)
+ 15-64 years: 49% (female 2,707,601; male 2,378,957)
+ 65 years and over: 3% (female 184,578; male 145,785) (July 1995 est.)
+
+ Population growth rate: 2.79% (1995 est.)
+
+ Birth rate: 48.05 births/1,000 population (1995 est.)
+
+ Death rate: 18.22 deaths/1,000 population (1995 est.)
+
+ Net migration rate: -1.9 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 116.9 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 46.6 years
+ male: 45.71 years
+ female: 47.51 years (1995 est.)
+
+ Total fertility rate: 6.88 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Burkinabe (singular and plural)
+ adjective: Burkinabe
+
+ Ethnic divisions: Mossi (about 2.5 million), Gurunsi, Senufo, Lobi,
+ Bobo, Mande, Fulani
+
+ Religions: indigenous beliefs 40%, Muslim 50%, Christian (mainly Roman
+ Catholic) 10%
+
+ Languages: French (official), tribal languages belonging to Sudanic
+ family, spoken by 90% of the population
+
+ Literacy: age 15 and over can read and write (1990 est.)
+ total population: 18%
+ male: 28%
+ female: 9%
+
+ Labor force: NA (most adults are employed in subsistance agriculture)
+ by occupation: agriculture 80%, industry 15%, commerce, services, and
+ government 5%
+ note: 20% of male labor force migrates annually to neighboring
+ countries for seasonal employment (1984)
+
+@Burkina:Government
+
+ Names:
+ conventional long form: Burkina Faso
+ conventional short form: Burkina
+ former: Upper Volta
+
+ Digraph: UV
+
+ Type: parliamentary
+
+ Capital: Ouagadougou
+
+ Administrative divisions: 30 provinces; Bam, Bazega, Bougouriba,
+ Boulgou, Boulkiemde, Ganzourgou, Gnagna, Gourma, Houet, Kadiogo,
+ Kenedougou, Komoe, Kossi, Kouritenga, Mouhoun, Namentenga, Naouri,
+ Oubritenga, Oudalan, Passore, Poni, Sanguie, Sanmatenga, Seno,
+ Sissili, Soum, Sourou, Tapoa, Yatenga, Zoundweogo
+
+ Independence: 5 August 1960 (from France)
+
+ National holiday: Anniversary of the Revolution, 4 August (1983)
+
+ Constitution: 2 June 1991
+
+ Legal system: based on French civil law system and customary law
+
+ Suffrage: none
+
+
+Back to Full Books

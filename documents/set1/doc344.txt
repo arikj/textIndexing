@@ -1,0 +1,2004 @@
+Acetylene, The Principles Of Its Generation And UsebyF. H. Leeds and W. J. Atkinson Butterfield
+
+employment of a pump. If the gauge shows a fall of pressure of one
+quarter of an inch or more in these circumstances, the pipes must be
+examined until the leak is located. In the presence of a meter, the
+installation can conveniently be tested for soundness by throwing into
+it, through the meter, a pressure of 12 inches or so of water from the
+weighted holder, then leaving the inlet cock open, and observing whether
+the index hand on the lowest dial remains perfectly stationary for a
+quarter of an hour--movement of the linger again indicating a leak. The
+search for leaks must never be made with a light; if the pipes are full
+of air this is useless, if full of gas, criminal in its stupidity. While
+the whole installation is still under a pressure of 12 inches thrown from
+the loaded holder, whether it contains air or gas, first all the likely
+spots (joints, &c.;), then the entire length of pipe is carefully brushed
+over with strong soapy water, which will produce a conspicuous "soap-
+bubble" wherever the smallest flaw occurs. The tightness of a system of
+pipes put under pressure from a loaded holder cannot be ascertained
+safely by observing the height of the bell, and noting if it falls on
+standing. Even if there is no issue of gas from the holder, the position
+of the bell will alter with every variation in temperature of the stored
+gas or surrounding air, and with every movement of the barometer, rising
+as the temperature rises and as the barometer falls, and _vice
+versa_, while, unless the water in the seal is saturated with
+whatever gas the holder contains, the bell will steadily drop a little an
+part of its contents are lost by dissolution in the liquid.
+
+PIPES AND FITTINGS.--As a general rule it is unadvisable to use lead or
+composition pipe for permanent acetylene connexions. If exposed, it is
+liable to be damaged, and perhaps penetrated by a blow, and if set in the
+wall and covered with paper or panel it is liable to be pierced if nails
+or tacks should at any time be driven into the wall. There is also an
+increased risk in case of fire, owing to its ready fusibility. If used at
+all--and it has obvious advantages--lead or composition piping should be
+laid on the surface of the walls, &c.;, and protected from blows, &c.;, by
+a light wooden casing, outwardly resembling the wooden coverings for
+electric lighting wires. It has been a common practice, in laying the
+underground mains required for supplying the villages which are lighted
+by means of acetylene from a central works in different parts of France,
+to employ lead pipes. The plan is economical, but in view of the danger
+that the main might be flattened by the weight of heavy traction-engines
+passing over the roads, or that it might settle into local dips from the
+same cause or from the action of subterranean water, in which dips water
+would be constantly condensing in cold weather, the use of lead for this
+purpose cannot be recommended. Steam-barrel would be preferable to cast
+pipe, because permanently sound joints are easier to make in the former,
+and because it is not so brittle.
+
+The fittings used for acetylene must have perfectly sound joints and
+taps, for the same reasons that the service-pipes must be quite sound.
+Common gas-fittings will not do, the joints, taps, ball-sockets, &c.;, are
+not accurately enough ground to prevent leakage. They may in many cases
+be improved by regrinding, but often the plug and barrel are so shallow
+that it is almost impossible to ensure soundness. It is therefore better
+to procure fittings having good taps and joints in the first instance;
+the barrels should be long, fairly wide, and there should be no sensible
+"play" between plug and barrel when adjusted so that the plug turns
+easily when lightly lubricated. Fittings are now being specially made for
+acetylene, which is a step in the right direction, because, in addition
+to superior taps and joints being essential, smaller bore piping and
+smaller through-ways to the taps than are required for coal-gas serve for
+acetylene. It is perhaps advisable to add that wherever a rigid bracket
+or fitting will answer as well as a jointed one, the latter should on no
+account be used; also water-slide pendants should never be employed, as
+they are fruitful of accidents, and their apparent advantages are for the
+most part illusory. Ball-sockets also should be avoided if possible; if
+it is absolutely necessary to have a fitting with a ball-socket, the
+latter should have a sleeve made of a short length of sound rubber-tubing
+of a size to give a close fit, slipped over so as to join the ball
+portion to the socket portion. This sleeve should be inspected once a
+quarter at least, and renewed immediately it shows signs of cracking.
+Generally speaking all the fittings used should be characterised by
+structural simplicity; any ornamental or decorative effects desired may
+be secured by proper design without sacrifice of the simplicity which
+should always mark the essential and operative parts of the fitting.
+Flexible connexions between the fixed service-pipe and a semi-portable or
+temporary burner may at times be required. If the connexion is for
+permanent use, it must not be of rubber, but of the metallic flexible
+tubing which is now commonly employed for such connexions in the case of
+coal-gas. There should be a tap between the service-pipe and the flexible
+connexion, and this tap should be turned off whenever the burner is out
+of use, so that the connexion is not at other times under the pressure
+which is maintained in the service-pipes. Unless the connexion is very
+short--say 2 feet or less--there should also be a tap at the burner.
+These flexible connexions, though serviceable in the case of table-lamps,
+&c.;, of which the position may have to be altered, are undesirable, as
+they increase the risk attendant on gas (whether acetylene or other
+illuminating gas) lighting, and should, if possible, be avoided. Flexible
+connexions may also be required for temporary use, such as for conveying
+acetylene to an optical lantern, and if only occasionally called for, the
+cost of the metallic flexible tubing will usually preclude its use. It
+will generally be found, however, that the whole connexion in such a case
+can be of composition or lead gas-piping, connected up at its two ends by
+a few inches of flexible rubber tubing. It should be carried along the
+walls or over the heads of people who may use the room, rather than
+across the floor, or at a low level, and the acetylene should be turned
+on to it only when actually required for use, and turned off at the fixed
+service-pipe as soon as no longer required. Quite narrow composition
+tubing, say 1/4-inch, will carry all the acetylene required for two or
+three burners. The cost of a composition temporary connexion will usually
+be less than one of even common rubber tubing, and it will be safer. The
+composition tubing must not, of course, be sharply bent, but carried by
+easy curves to the desired point, and it should be carefully rolled in a
+roll of not less than 18 inches diameter when removed. If these
+precautions are observed it may be used very many times.
+
+Acetylene service-pipes should, wherever possible, be laid with a fall,
+which may be very slight, towards a small closed vessel adjoining the
+gasholder or purifier, in order that any water deposited from the gas
+owing to condensation of aqueous vapour may run out of the pipe into that
+apparatus. Where it is impossible to secure an uninterrupted fall in that
+direction, there should be inserted in the service-pipe, at the lowest
+point of each dip it makes, a short length of pipe turned downwards and
+terminating in a plug or sound tap. Water condensing in this section of
+the service-pipe will then run down and collect in this drainage-pipe,
+from which it can be withdrawn at intervals by opening the plug or tap
+for a moment. The condensed water is thus removed from the service-pipe,
+and does not obstruct its through-way. Similar drainage devices may be
+used at the lowest points of all dips in mains, though there are special
+seal-pots which take the place of the cock or plug used to seal the end
+of the drainage-pipe. Such seal-pots or "syphons" are commonly used on
+ordinary gas-distributing systems, and might be applied in the case of
+large acetylene installations, as they offer facilities for removing the
+condensed water from time to time in a convenient and expeditious manner.
+
+EXPULSION OF AIR FROM MAINS.--After a service-pipe system has been proved
+to be sound, it is necessary to expel the air from it before acetylene
+can be admitted to it with a view to consumption. Unless the system is a
+very large one, the expulsion of air is most conveniently effected by
+forcing from the gasholder preliminary batches of acetylene through the
+pipes, while lights are kept away from the vicinity. This precaution is
+necessary because, while the acetylene is displacing the air in the
+pipes, they will for some time contain a mixture of air and acetylene in
+proportions which fall within the explosive limits of such a mixture. If
+the escaping acetylene caught fire from any adjacent light under these
+conditions, a most disastrous explosion would ensue and extend through
+all the ramifications of the system of pipes. Therefore the first step
+when a new system of pipes has to be cleared of air is to see that there
+are no lights in or about the house--either fires, lamps, cigars or
+pipes, candles or other flames. Obviously this work must be done in the
+daytime and finished before nightfall. Burners are removed from two or
+more brackets at the farthest points in the system from the gasholder,
+and flexible connexions are temporarily attached to them, and led through
+a window or door into the open air well clear of the house. One of the
+brackets selected should as a rule be the lowest point supplied in the
+house. The gasholder having been previously filled with acetylene, the
+tap or taps on the pipe leading to the house are turned on, and the
+acetylene is passed under slight pressure into the system of pipes, and
+escapes through the aforesaid brackets, of which the taps have been
+turned on, into the open. The taps of all other brackets are kept closed.
+The gas should be allowed to flow thus through the pipes until about five
+times the maximum quantity which all the burners on the system would
+consume in an hour has escaped from the open brackets. The taps on these
+brackets are then closed, and the burners replaced. Flexible tubing is
+then connected in place of the burners to all the other brackets in the
+house, and acetylene is similarly allowed to escape into the open air
+from each for a quarter of an hour. All taps are then closed, and the
+burners replaced; all windows in the house are left open wide for half an
+hour to allow of the dissipation of any acetylene which may have
+accumulated in any part of it, and then, while full pressure from the
+gasholder is maintained, a tap is turned on and the gas lighted. If it
+burns with a good, fully luminous flame it may be concluded that the
+system of pipes is virtually free from air, and the installation may be
+used forthwith as required. If, however, the flame is very feebly
+luminous, or if the escaping gas does not light, lights must be
+extinguished, and the pipes again blown through with acetylene into the
+open air. The burner must invariably be in position when a light is
+applied, because, in the event of the pipes still containing an explosive
+mixture, ignition would not be communicated through the small orifices of
+the burner to the mixture in the pipes, and the application of the light
+would not entail any danger of an explosion.
+
+Gasfitters familiar with coal-gas should remember, when putting a system
+of acetylene pipes into use for the first time, that the range over which
+mixtures of acetylene and air are explosive is wider than that over which
+mixtures of coal-gas and air are explosive, and that greater care is
+therefore necessary in getting the pipes and rooms free from a dangerous
+mixture.
+
+The mains for very large installations of acetylene--_e.g._, for
+lighting a small town--may advisedly be freed from air by some other plan
+than simple expulsion of the air by acetylene, both from the point of
+view of economy and of safety. If the chimney gases from a neighbouring
+furnace are found on examination to contain not more than about 8 per
+cent of oxygen, they may be drawn into the gasholder and forced through
+the pipes before acetylene is admitted to them. The high proportion of
+carbon dioxide and the low proportion of oxygen in chimney gases makes a
+mixture of acetylene and chimney gases non-explosive in any proportions,
+and hence if the air is first wholly or to a large extent expelled from a
+pipe, main, or apparatus, by means of chimney gases, acetylene may be
+admitted, and a much shorter time allowed for the expulsion by it of the
+contents of the pipe, before a light is applied at the burners, &c.; This
+plan, however, will usually only be adopted in the case of very large
+pipes, &c.; but on a smaller scale the air may be swept out of a
+distributing system by bringing it into connexion with a cylinder of
+compressed or liquefied carbon dioxide, the pressure in which will drive
+the gas to any spot where an outlet is provided. As these cylinders of
+"carbonic acid" are in common employment for preparing aerated waters and
+for "lifting" beer, &c.;, they are easy to hire and use.
+
+TABLE (B).
+
+Giving the Sizes of Pipe which should be used in practice for Acetylene
+when the fall of pressure in the Pipe is not to exceed 0.1 inch. (Based
+on Morel's formula.)
+
+ ________________________________________________________
+|                |                                       |
+| Cubic Feet of  |  Diameters of Pipe to be used up to   |
+|   Acetylene    |        the lengths indicated.         |
+| which the Pipe |_______________________________________|
+| is required to |       |       |       |       |       |
+|    pass in     |  1/4  |  3/8  |  1/2  |  3/4  |   1   |
+|   One Hour.    | inch. | inch. | inch. | inch. | inch. |
+|________________|_______|_______|_______|_______|_______|
+|                |       |       |       |       |       |
+|                | Feet. | Feet. | Feet. | Feet. | Feet. |
+|  1             |  520  | 3960  | 16700 |  ...  |  ...  |
+|  2             |  130  |  990  |  4170 |  ...  |  ...  |
+|  3             |   58  |  440  |  1850 |  ...  |  ...  |
+|  4             |   32  |  240  |  1040 |  ...  |  ...  |
+|  5             |   21  |  150  |   660 | 5070  |  ...  |
+|  6             |   14  |  110  |   460 | 3520  |  ...  |
+|  7             |   10  |   80  |   340 | 2590  |  ...  |
+|  8             |  ...  |   62  |   260 | 1980  |  ...  |
+|  9             |  ...  |   49  |   200 | 1560  |  ...  |
+| 10             |  ...  |   39  |   160 | 1270  | 5340  |
+| 15             |  ...  |   17  |    74 |  560  | 2370  |
+| 20             |  ...  |   10  |    41 |  310  | 1330  |
+| 25             |  ...  |  ...  |    26 |  200  |  850  |
+| 30             |  ...  |  ...  |    18 |  140  |  590  |
+| 35             |  ...  |  ...  |    13 |  100  |  430  |
+| 40             |  ...  |  ...  |    10 |   79  |  330  |
+| 45             |  ...  |  ...  |   ... |   62  |  260  |
+| 50             |  ...  |  ...  |   ... |   50  |  210  |
+|________________|_______|_______|_______|_______|_______|
+
+TABLE (A).
+
+Showing the Quantities [Q] (in cubic feet) of Acetylene which will pass
+in One Hour through Pipes of various diameters (in inches) under
+different Falls of Pressure. (Based on Morel's formula.)
+
+ ____________________________________________________________________
+|          |    |    |    |     |     |     |    |    |    |    |    |
+| Diameter |    |    |    |     |     |     |    |    |    |    |    |
+| of Pipe  | 1/4| 3/8| 1/2| 3/4 |  1  |  1  |  1 |  1 |  2 |  2 |  3 |
+| [_d_] =  |    |    |    |     |     | 1/4 | 1/2| 3/4|    | 1/2|    |
+| inches   |    |    |    |     |     |     |    |    |    |    |    |
+|__________|____|____|____|_____|_____|_____|____|____|____|____|____|
+|          |                                                         |
+| Length   |                                                         |
+| of Pipe  |                                                         |
+| [_l_] =  |    Fall of Pressure in the Pipe [_h_] = 0.10 inch.      |
+| Feet     |                                                         |
+|__________|_________________________________________________________|
+|          |    |    |    |     |     |     |    |    |    |    |    |
+|    10    | 7.2|19.9|40.8|112  |230  |405  | 635| 935|1305|2285|3600|
+|    25    | 4.5|12.6|25.8| 71.2|146  |255  | 400| 590| 825|1445|2280|
+|    50    | 3.2| 8.9|18.3| 50.3|103  |180  | 285| 420| 585|1020|1610|
+|   100    | 2.3| 6.3|12.9| 35.6| 73.1|127  | 200| 295| 410| 720|1140|
+|   200    | 1.6| 4.4| 9.1| 25.2| 51.7| 90.3| 142| 210| 290| 510| 805|
+|   300    | 1.3| 3.6| 7.4| 20.5| 42.2| 73.7| 116| 171| 240| 415| 655|
+|   400    | 1.1| 3.1| 6.4| 17.8| 36.5| 63.8| 100| 148| 205| 360| 570|
+|   500    | 1.0| 2.8| 5.8| 15.9| 32.7| 57.1|  90| 132| 185| 320| 510|
+|__________|____|____|____|_____|_____|_____|____|____|____|____|____|
+|          |                                                         |
+| Length   |                                                         |
+| of Pipe  |                                                         |
+| [_l_] =  |    Fall of Pressure in the Pipe [_h_] = 0.25 inch.      |
+| Feet     |                                                         |
+|__________|_________________________________________________________|
+|          |    |    |    |     |     |     |    |    |    |    |    |
+|    25    | 7.2|19.9|40.8|112  |230  |405  | 635| 935|1305|2285|3600|
+|    50    | 5.1|14.1|28.9| 79.6|163  |285  | 450| 660| 925|1615|2550|
+|   100    | 3.6| 9.9|20.4| 56.3|115  |200  | 320| 470| 655|1140|1800|
+|   250    | 2.3| 6.3|12.9| 35.6| 73.1|127  | 200| 295| 410| 720|1140|
+|   500    | 1.6| 4.4| 9.1| 25.2| 51.7| 90.3| 142| 210| 290| 510| 805|
+|  1000    | 1.1| 3.1| 6.4| 17.8| 36.5| 63.8| 100| 148| 205| 360| 570|
+|__________|____|____|____|_____|_____|_____|____|____|____|____|____|
+|          |                                                         |
+| Length   |                                                         |
+| of Pipe  |                                                         |
+| [_l_] =  |    Fall of Pressure in the Pipe [_h_] = 0.50 inch.      |
+| Feet     |                                                         |
+|__________|_________________________________________________________|
+|          |    |    |    |     |     |     |    |    |    |    |    |
+|    25    |10.2|28.1|57.8|159  |325  |570  | 900|1325|1850|3230|5095|
+|    50    | 7.2|19.9|40.8|112  |230  |405  | 635| 935|1305|2285|3600|
+|   100    | 5.1|14.1|28.9| 79.6|163  |285  | 450| 660| 925|1615|2550|
+|   250    | 3.2| 8.9|18.3| 50.3|103  |180  | 285| 420| 585|1020|1610|
+|   500    | 2.3| 6.3|12.9| 35.6| 73.1|127  | 200| 295| 410| 720|1140|
+|  1000    | 1.6| 4.4| 9.1| 25.2| 51.7| 90.3| 142| 210| 290| 510| 805|
+|__________|____|____|____|_____|_____|_____|____|____|____|____|____|
+|          |                                                         |
+| Length   |                                                         |
+| of Pipe  |                                                         |
+| [_l_] =  |    Fall of Pressure in the Pipe [_h_] = 0.75 inch.      |
+| Feet     |                                                         |
+|__________|_________________________________________________________|
+|          |    |    |    |     |     |     |    |    |    |    |    |
+|    50    | 8.8|24.4|50.0|138  |280  |495  | 780|1145|1160|2800|4410|
+|   100    | 6.2|17.2|35.4| 97.5|200  |350  | 550| 810|1130|1980|3120|
+|   250    | 3.9|10.9|22.4| 61.7|126  |220  | 350| 510| 715|1250|1975|
+|   500    | 2.8| 7.7|15.8| 43.6| 89.5|156  | 245| 360| 505| 885|1395|
+|  1000    | 2.0| 5.4|11.2| 30.8| 63.3|110  | 174| 255| 360| 625| 985|
+|  2000    | 1.4| 3.8| 7.9| 21.8| 44.8| 78.2| 123| 181| 250| 440| 695|
+|__________|____|____|____|_____|_____|_____|____|____|____|____|____|
+|          |                                                         |
+| Length   |                                                         |
+| of Pipe  |                                                         |
+| [_l_] =  |    Fall of Pressure in the Pipe [_h_] = 1.0 inch.       |
+| Feet     |                                                         |
+|__________|_________________________________________________________|
+|          |    |    |    |     |     |     |    |    |    |    |    |
+|   100    | 7.2|19.9|40.8|112  |230  |405  | 635| 935|1305|2285|3600|
+|   250    | 4.5|12.6|25.8| 71.2|146  |255  | 400| 590| 825|1445|2280|
+|   500    | 3.2| 8.9|18.3| 50.3|103  |180  | 285| 420| 585|1020|1610|
+|  1000    | 2.3| 6.3|12.9| 35.6| 73.1|127  | 200| 295| 410| 720|1140|
+|  2000    | 1.6| 4.4| 9.1| 25.2| 51.7| 90.3| 142| 210| 290| 510| 805|
+|  3000    | 1.3| 3.6| 7.4| 20.5| 42.2| 73.7| 116| 171| 240| 415| 655|
+|__________|_________________________________________________________|
+|          |                                                         |
+| Length   |                                                         |
+| of Pipe  |                                                         |
+| [_l_] =  |    Fall of Pressure in the Pipe [_h_] = 1.5 inch.       |
+| Feet     |                                                         |
+|__________|_________________________________________________________|
+|          |    |    |    |     |     |     |    |    |    |    |    |
+|   250    | 5.6|15.4|31.6| 87.2|179  |310  | 495| 725|1010|1770|2790|
+|   500    | 3.9|10.9|22.4| 61.7|126  |220  | 350| 510| 715|1250|1975|
+|  1000    | 2.8| 7.7|15.8| 43.6| 89.5|156  | 245| 360| 505| 885|1395|
+|  2000    | 2.0| 5.4|11.2| 30.8| 63.3|110  | 174| 255| 360| 625| 985|
+|  3000    | 1.6| 4.4| 9.1| 25.2| 51.7| 90.3| 142| 210| 290| 510| 805|
+|  4000    | 1.4| 3.8| 7.9| 21.8| 44.8| 78.2| 123| 181| 250| 440| 695|
+|__________|____|____|____|_____|_____|_____|____|____|____|____|____|
+|          |                                                         |
+| Length   |                                                         |
+| of Pipe  |                                                         |
+| [_l_] =  |   Fall of Pressure in the Pipe [_h_] = 2.0 inches.      |
+| Feet     |                                                         |
+|__________|_________________________________________________________|
+|          |    |    |    |     |     |     |    |    |    |    |    |
+|   500    | 4.5|12.6|25.8| 71.2|146  |255  | 400| 590| 825|1445|2280|
+|  1000    | 3.2| 8.9|18.3| 50.3|103  |180  | 285| 420| 585|1020|1610|
+|  2000    | 2.3| 6.3|12.9| 35.6| 73.1|127  | 200| 295| 410| 720|1140|
+|  3000    | 1.8| 5.1|10.5| 29.1| 59.7|104  | 164| 240| 335| 590| 930|
+|  4000    | 1.6| 4.4| 9.1| 25.2| 51.7| 90.3| 142| 210| 290| 510| 805|
+|  5000    | 1.4| 4.0| 8.1| 22.5| 46.2| 80.8| 127| 187| 260| 455| 720|
+|  6000    | 1.3| 3.6| 7.4| 20.5| 42.2| 73.7| 116| 171| 240| 415| 655|
+|__________|____|____|____|_____|_____|_____|____|____|____|____|____|
+
+NOTE.--In order not to impart to the above table the appearance of the
+quantities having been calculated to a degree of accuracy which has no
+practical significance, quantities of less than 5 cubic feet have been
+ignored when the total quantity exceeds 200 cubic feet, and fractions of
+a cubic foot have been included only when the total quantity is less than
+100 cubic feet.
+
+TABLE (C).
+
+Giving the Sizes of Pipe which should be used in practice for Acetylene
+when the fall of pressure in the Pipe is not to exceed 0.25 inch. (Based
+on Morel's formula.)
+
+ ____________________________________________________________________
+|            |                                                       |
+| Cubic feet |                                                       |
+|     of     |                                                       |
+| Acetylene  | Diameters of Pipe to be used up to the lengths stated.|
+| which the  |                                                       |
+|  Pipe is   |                                                       |
+|  required  |_______________________________________________________|
+|  to pass   |      |      |      |      |      |      |      |      |
+|  in One    |  1/4 |  1/2 |  3/4 |   1  | 1-1/4| 1-1/2| 1-3/4|   2  |
+|   Hour     | inch.| inch.| inch.| inch.| inch.| inch.| inch.| inch.|
+|____________|______|______|______|______|______|______|______|______|
+|            |      |      |      |      |      |      |      |      |
+|            | Feet.| Feet.| Feet.| Feet.| Feet.| Feet.| Feet.| Feet.|
+|    2-1/2   | 1580 | 6680 | 50750|  ... |  ... |  ... | ...  |  ... |
+|    5       |  390 | 1670 | 12690| 53160|  ... |  ... | ...  |  ... |
+|    7-1/2   |  175 |  710 |  5610| 23760|  ... |  ... | ...  |  ... |
+|   10       |   99 |  410 |  3170| 13360| 40790|  ... | ...  |  ... |
+|   15       |   41 |  185 |  1410|  5940| 18130| 45110| ...  |  ... |
+|   20       |   24 |  105 |   790|  3350| 10190| 25370| 54840|  ... |
+|   25       |   26 |   67 |   500|  2130|  6520| 16240| 35100|  ... |
+|   30       |   11 |   46 |   350|  1480|  4530| 11270| 24370| 47520|
+|   35       |  ... |   34 |   260|  1090|  3330|  8280| 17900| 34910|
+|   40       |  ... |   26 |   195|   830|  2550|  6340| 13710| 26730|
+|   45       |  ... |   20 |   155|   660|  2010|  5010| 10830| 21120|
+|   50       |  ... |   16 |   125|   530|  1630|  4060|  8770| 17110|
+|   60       |  ... |   11 |    88|   370|  1130|  2880|  6090| 11880|
+|   70       |  ... |  ... |    61|   270|   830|  2070|  4470|  8730|
+|   80       |  ... |  ... |    49|   210|   630|  1580|  3420|  6680|
+|   90       |  ... |  ... |    39|   165|   500|  1250|  2700|  5280|
+|  100       |  ... |  ... |    31|   130|   400|  1010|  2190|  4270|
+|  150       |  ... |  ... |    14|    59|   180|   450|   970|  1900|
+|  200       |  ... |  ... |  ... |    33|   100|   250|   540|  1070|
+|  250       |  ... |  ... |  ... |    21|    65|   160|   350|   680|
+|  500       |  ... |  ... |  ... |  ... |    16|    40|    87|   170|
+| 1000       |  ... |  ... |  ... |  ... |  ... |    10|    22|    42|
+|____________|______|______|______|______|______|______|______|______|
+
+TABLE (D).
+
+Giving the Sizes of Pipe which should be used in practice for Acetylene
+Mains when the fall of pressure in the Main is not to exceed 0.5 inch,
+(Based on Morel's formula.)
+
+ ____________________________________________________________________
+|            |                                                       |
+| Cubic feet |                                                       |
+|     of     |                                                       |
+| Acetylene  | Diameters of Pipe to be used up to the lengths stated.|
+| which the  |                                                       |
+|  Main is   |                                                       |
+|  required  |_______________________________________________________|
+|  to pass   |      |      |      |      |      |      |      |      |
+|  in One    | 3/4  |   1  | 1-1/4| 1-1/2| 1-3/4|   2  | 2-1/2|   3  |
+|   Hour     | inch.| inch.| inch.| inch.| inch.| inch.| inch.| inch.|
+|____________|______|______|______|______|______|______|______|______|
+|            |      |      |      |      |      |      |      |      |
+|            |Miles.|Miles.|Miles.|Miles.|Miles.|Miles.|Miles.|Miles.|
+|     10     | 5.05 |  ... |  ... |  ... |  ... |  ... |  ... |  ... |
+|     25     | 0.80 | 2.45 | 6.15 |  ... |  ... |  ... |  ... |  ... |
+|     50     | 0.20 | 0.60 | 1.50 | 3.30 | 6.45 |  ... |  ... |  ... |
+|    100     | 0.05 | 0.15 | 0.35 | 0.80 | 1.60 | 4.95 |12.30 |  ... |
+|    200     |  ... | 0.04 | 0.09 | 0.20 | 0.40 | 1.20 | 3.05 |12.95 |
+|    300     |  ... |  ... | 0.04 | 0.09 | 0.18 | 0.55 | 1.35 | 5.75 |
+|    400     |  ... |  ... |  ... | 0.05 | 0.10 | 0.30 | 0.75 | 3.25 |
+|    500     |  ... |  ..  |  ... | 0.03 | 0.06 | 0.20 | 0.50 | 2.05 |
+|    750     |  ... |  ... |  ... |  ... | 0.03 | 0.08 | 0.20 | 0.80 |
+|   1100     |  ... |  ... |  ... |  ... |  ... | 0.05 | 0.12 | 0.50 |
+|   1500     |  ... |  ... |  ... |  ... |  ... | 0.02 | 0.05 | 0.23 |
+|   2000     |  ... |  ... |  ... |  ... |  ... |  ... | 0.03 | 0.13 |
+|   2500     |  ... |  ... |  ... |  ... |  ... |  ... | 0.02 | 0.08 |
+|   5000     |  ... |  ... |  ... |  ... |  ... |  ... |  ... | 0.03 |
+|____________|______|______|______|______|______|______|______|______|
+
+TABLE (E).
+
+Giving the Sizes of Pipe which should be used in practice for Acetylene
+Mains when the fall of pressure in the Main is not to exceed 1.0 inch.
+(Based on Morel's formula.)
+
+ __________________________________________________________________
+|            |                                                     |
+| Cubic feet |                                                     |
+|     of     |                                                     |
+| Acetylene  |Diameters of Pipe to be used up to the lengths stated|
+| which the  |                                                     |
+|  Main is   |                                                     |
+|  required  |_____________________________________________________|
+|  to pass   |     |     |     |     |     |     |     |     |     |
+|  in One    | 3/4 |  1  |1-1/4|1-1/2|1-3/4|  2  |2-1/2|  3  |  4  |
+|   Hour     |inch.|inch.|inch.|inch.|inch.|inch.|inch.|inch.|inch.|
+|____________|_____|_____|_____|_____|_____|_____|_____|_____|_____|
+|            |     |     |     |     |     |     |     |     |     |
+|            |Miles|Miles|Miles|Mile.|Miles|Miles|Miles|Miles|Miles|
+|     10     | 2.40|10.13|30.90| ... | ... | ... | ... | ... | ... |
+|     25     | 0.38| 1.62| 4.94|12.30| ... | ... | ... | ... | ... |
+|     50     | 0.09| 0.40| 1.23| 3.07| 6.65|12.96| ... | ... | ... |
+|    100     | 0.02| 0.10| 0.30| 0.77| 1.66| 3.24| 9.88| ... | ... |
+|    200     | ... | 0.02| 0.07| 0.19| 0.41| 0.81| 2.47| 6.15| ... |
+|    300     | ... | 0.01| 0.03| 0.08| 0.18| 0.36| 1.09| 2.73|11.52|
+|    400     | ... | ... | 0.0 | 0.05| 0.10| 0.20| 0.61| 1.53| 6.48|
+|    500     | ... | ... | 0.0 | 0.03| 0.06| 0.13| 0.39| 0.98| 4.14|
+|    750     | ... | ... | ... | 0.01| 0.03| 0.05| 0.17| 0.43| 1.84|
+|   1000     | ... | ... | ... | ... | 0.01| 0.03| 0.10| 0.24| 1.03|
+|   1500     | ... | ... | ... | ... | ... | 0.01| 0.01| 0.11| 0.46|
+|   2000     | ... | ... | ... | ... | ... | ... | 0.02| 0.06| 0.26|
+|   2500     | ... | ... | ... | ... | ... | ... | 0.01| 0.04| 0.16|
+|   5000     | ... | ... | ... | ... | ... | ... | ... | 0.01| 0.04|
+|____________|_____|_____|_____|_____|_____|_____|_____|_____|_____|
+
+
+
+CHAPTER VIII
+
+COMBUSTION OF ACETYLENE IN LUMINOUS BURNERS--THEIR DISPOSITION
+
+NATURE OF LUMINOUS FLAMES.--When referring to methods of obtaining
+artificial light by means of processes involving combustion or oxidation,
+the term "incandescence" is usually limited to those forms of burner in
+which some extraneous substance, such as a "mantle," is raised to a
+brilliant white heat. Though convenient, the phrase is a mere convention,
+for all artificial illuminants, even including the electric light, which
+exhibit a useful degree of intensity depend on the same principle of
+incandescence. Adopting the convention, however, an incandescent burner
+is one in which the fuel burns with a non-luminous or atmospheric flame,
+the light being produced by causing that flame to play upon some
+extraneous refractory body having the property of emitting much light
+when it is raised to a sufficiently high temperature; while a luminous
+burner is one in which the fuel is allowed to combine with atmospheric
+oxygen in such a way that one or more of the constituents in the gas
+evolves light as it suffers combustion. From the strictly chemical point
+of view the light-giving substance in the incandescent flame lasts
+indefinitely, for it experiences no change except in temperature; whereas
+the light-giving substance in a luminous flame lasts but for an instant,
+for it only evolves light during the act of its combination with the
+oxygen of the atmosphere. Any fluid combustible which burns with a flame
+can be made to give light on the incandescent system, for all such
+materials either burn naturally, or can be made to burn with a non-
+luminous flame, which can be employed to raise the temperature of some
+mantle; but only those fuels can be burnt on the self-luminous system
+which contain some ingredient that is liberated in the elemental state in
+the flame, the said ingredient being one which combines energetically
+with oxygen so as to liberate much local heat. In practice, just as there
+are only two or three substances which are suitable for the construction
+of an incandescent mantle, so there is only one which renders a flame
+usefully self-luminous, viz., carbon; and therefore only such fuels as
+contain carbon among their constituents can be burnt so as to produce
+light without the assistance of the mantle. But inasmuch as it is
+necessary for the evolution of light by the combustion of carbon that
+that carbon shall be in the free state, only those carbonaceous fuels
+yield light without the mantle in which the carbonaceous ingredient is
+dissociated into its elements before it is consumed. For instance,
+alcohol and carbon monoxide are both combustible, and both contain
+carbon; but they yield non-luminous flames, for the carbon burns to
+carbon dioxide in ordinary conditions without assuming the solid form;
+ether, petroleum, acetylene, and some of the hydrocarbons of coal-gas do
+emit light on combustion, for part of their carbon is so liberated. The
+quantity of light emitted by the glowing substance increases as the
+temperature of that substance rises: the gain in light being equal to the
+fifth or higher power of the gain in heat; [Footnote: Calculated from
+absolute zero.] therefore unnecessary dissipation of heat from a flame is
+one of the most important matters to be guarded against if that flame is
+to be an economical illuminant. But the amount of heat liberated when a
+certain weight (or volume) of a particular fuel combines with a
+sufficient quantity of oxygen to oxidise it wholly is absolutely fixed,
+and is exactly the same whether that fuel is made to give a luminous or a
+non-luminous flame. Nevertheless the atmospheric flame given by a certain
+fuel may be appreciably hotter than its luminous flame, because the
+former is usually smaller than the latter. Unless the luminous flame of a
+rich fuel is made to expose a wide surface to the air, part of its carbon
+may escape ultimate combustion; soot or smoke may be produced, and some
+of the most valuable heat-giving substance will be wasted. But if the
+flame is made to expose a large surface to the air, it becomes flat or
+hollow in shape instead of being cylindrical and solid, and therefore in
+proportion to its cubical capacity it presents to the cold air a larger
+superficies, from which loss of heat by radiation, &c.;, occurs. Being
+larger, too, the heat produced is less concentrated.
+
+It does not fall within the province of the present book to discuss the
+relative merits of luminous and incandescent lighting; but it may be
+remarked that acetylene ranks with petroleum against coal-gas,
+carburetted or non-carburetted water-gas, and semi-water-gas, in showing
+a comparatively small degree of increased efficiency when burnt under the
+mantle. Any gas which is essentially composed of carbon monoxide or
+hydrogen alone (or both together) burns with a non-luminous flame, and
+can therefore only be used for illuminating purposes on the incandescent
+system; but, broadly speaking, the higher is the latent illuminating
+power of the gas itself when burnt in a non-atmospheric burner, the less
+marked is the superiority, both from the economical and the hygienic
+aspect, of its incandescent flame. It must be remembered also that only a
+gas yields a flame when it is burnt; the flame of a paraffin lamp and of
+a candle is due to the combustion of the vaporised fuel. Methods of
+burning acetylene under the mantle are discussed in Chapter IX.; here
+only self-luminous flames are being considered, but the theoretical
+question of heat economy applies to both processes.
+
+Heat may be lost from a flame in three several ways: by direct radiation
+and conduction into the surrounding air, among the products of
+combustion, and by conduction into the body of the burner. Loss of heat
+by radiation and conduction to the air will be the greater as the flame
+exposes a larger surface, and as a more rapid current of cold air is
+brought into proximity with the flame. Loss of heat by conduction, into
+the burner will be the greater as the material of which the burner is
+constructed is a better conductor of heat, and as the mass of material in
+that burner is larger. Loss of heat by passage into the combustion
+products will also be greater as these products are more voluminous; but
+the volume of true combustion products from any particular gas is a fixed
+quantity, and since these products must leave the flame at the
+temperature of that flame--where the highest temperature possible is
+requisite--it would seem that no control can be had over the quantity of
+heat so lost. However, although it is not possible in practice to supply
+a flame with too little air, lest some of its carbon should escape
+consumption and prove a nuisance, it is very easy without conspicuous
+inconvenience to supply it with too much; and if the flame is supplied
+with too much, there is an unnecessary volume of air passing through it
+to dilute the true combustion products, which air absorbs its own proper
+proportion of heat. It is only the oxygen of the air which a flame needs,
+and this oxygen is mixed with approximately four times its volume of
+nitrogen; if, then, only a small excess of oxygen (too little to be
+noticeable of itself) is admitted to a flame, it is yet harmful, because
+it brings with it four times its volume of nitrogen, which has to be
+raised to the same temperature as the oxygen. Moreover, the nitrogen and
+the excess of oxygen occupy much space in the flame, making it larger,
+and distributing that fixed quantity of heat which it is capable of
+generating over an unnecessarily large area. It is for this reason that
+any gas gives so much brighter a light when burnt in pure oxygen than in
+air, (1) because the flame is smaller and its heat more concentrated, and
+(2) because part of its heat is not being wasted in raising the
+temperature of a large mass of inert nitrogen. Thus, if the flame of a
+gas which naturally gives a luminous flame is supplied with an excess of
+air, its illuminating value diminishes; and this is true whether that
+excess is introduced at the base of the actual flame, or is added to the
+gas prior to ignition. In fact the method of adding some air to a
+naturally luminous gas before it arrives at its place of combustion is
+the principle of the Bunsen burner, used for incandescent lighting and
+for most forms of warming and cooking stoves. A well-made modern
+atmospheric burner, however, does not add an excess of air to the flame,
+as might appear from what has been said; such a burner only adds part of
+the air before and the remainder of the necessary quantity after the
+point of first ignition--the function of the primary supply being merely
+to insure thorough admixture and to avoid the production of elemental
+carbon within the flame.
+
+ILLUMINATING POWER.--It is very necessary to observe that, as the
+combined losses of heat from a flame must be smaller in proportion to the
+total heat produced by the flame as the flame itself becomes larger, the
+more powerful and intense any single unit of artificial light is, the
+more economical does it become, because economy of heat spells economy of
+light. Conversely, the more powerful and intense any single unit of light
+is, the more is it liable to injure the eyesight, the deeper and, by
+contrast, the more impenetrable are the shadows it yields, and the less
+pleasant and artistic is its effect in an occupied room. For economical
+reasons, therefore, one large central source of light is best in an
+apartment, but for physiological and aesthetic reasons a considerable
+number of correspondingly smaller units are preferable. Even in the
+street the economical advantage of the single unit is outweighed by the
+inconvenience of its shadows, and by the superiority of a number of
+evenly distributed small sources to one central large source of light
+whenever the natural transmission of light rays through the atmosphere is
+interfered with by mist or fog. The illuminating power of acetylene is
+commonly stated to be "240 candles" (though on the same basis Wolff has
+found it to be about 280 candles). This statement means that when
+acetylene is consumed in the most advantageous self-luminous burner at
+the most advantageous rate, that rate (expressed in cubic feet per hour)
+is to 5 in the same ratio as the intensity of the light evolved
+(expressed in standard candles) is to the said "illuminating power."
+Thus, Wolff found that when acetylene was burnt in the "0000 Bray" fish-
+tail burner at the rate of 1.377 cubic feet per hour, a light of 77
+candle-power was obtained. Hence, putting x to represent the illuminating
+power of the acetylene in standard candles, we have:
+
+1.377 / 5 = 77 / x hence x = 280.
+
+Therefore acetylene is said to have, according to Wolff, an illuminating
+power of about 280 candles, or according to other observers, whose
+results have been commonly quoted, of 240 candles. The same method of
+calculating the nominal illuminating power of a gas is applied within the
+United Kingdom in the case of all gases which cannot be advantageously
+burnt at the rate of 5 cubic feet per hour in the standard burner
+(usually an Argand). The rate of 5 cubic feet per hour is specified in
+most Acts of Parliament relating to gas-supply as that at which coal-gas
+is to be burnt in testings of its illuminating power; and the
+illuminating power of the gas is defined as the intensity, expressed in
+standard candles, of the light afforded when the gas is burnt at that
+rate. In order to make the values found for the light evolved at more
+advantageous rates of consumption by other descriptions of gas--such as
+oil-gas or acetylene--comparable with the "illuminating power" of coal-
+gas as defined above, the values found are corrected in the ratio of the
+actual rate of consumption to 5 cubic feet per hour.
+
+In this way the illuminating power of 240 candles has been commonly
+assigned to acetylene, though it would be clearer to those unfamiliar
+with the definition of illuminating power in the Acts of Parliament which
+regulate the testing of coal-gas, if the same fact were conveyed by
+stating that acetylene affords a maximum illuminating power of 48 candles
+(_i.e._, 240 / 5) per cubic foot. Actually, by misunderstanding of
+the accepted though arbitrary nomenclature of gas photometry, it has not
+infrequently been assorted or implied that a cubic foot of acetylene
+yields a light of 240 candle-power instead of 48 candle-power. It should,
+moreover, be remembered that the ideal illuminating power of a gas is the
+highest realisable in any Argand or flat-flame burner, while the said
+burner may not be a practicable one for general use in house lighting.
+Thus, the burners recommended for general use in lighting by acetylene do
+not develop a light of 48 candles per cubic foot of gas consumed, but
+considerably less, as will appear from the data given later in this
+chapter.
+
+It has been stated that in order to avoid loss of heat from a flame
+through the burner, that burner should present only a small mass of
+material (_i.e._, be as light in weight as possible), and should be
+constructed of a bad heat-conductor. But if a small mass of a material
+very deficient in heat-conducting properties comes in contact with a
+flame, its temperature rises seriously and may approach that of the base
+of the flame itself. In the case of coal-gas this phenomenon is not
+objectionable, is even advantageous, and it explains why a burner made of
+steatite, which conducts heat badly, in always more economical (of heat
+and therefore of light) than an iron one. In the case of acetylene the
+same rule should, and undoubtedly does, apply also; but it is
+complicated, and its effect sometimes neutralised, by a peculiarity of
+the gas itself. It has been shown in Chapters II. and VI. that acetylene
+polymerises under the influence of heat, being converted into other
+bodies of lower illuminating power, together with some elemental carbon.
+If, now, acetylene is fed into a burner which, being composed of some
+material like steatite possessed of low heat-conducting and radiating
+powers, is very hot, and if the burner comprises a tube of sensible
+length, the gas that actually arrives at the orifice may no longer be
+pure acetylene, but acetylene diluted with inferior illuminating agents,
+and accompanied by a certain proportion of carbon. Neglecting the effect
+of this carbon, which will be considered in the following paragraph, it
+is manifest that the acetylene issuing from a hot burner--assuming its
+temperature to exceed the minimum capable of determining polymerisation--
+may emit less light per unit of volume than the acetylene escaping from a
+cold burner. Proof of this statement is to be found in some experiments
+described by Bullier, who observed that when a small "Manchester" or
+fish-tail burner was allowed to become naturally hot, the quantity of gas
+needed to give the light of one candle (uncorrected) was 1.32 litres, but
+when the burner was kept cool by providing it with a jacket in which
+water was constantly circulating, only 1.13 litres of acetylene were
+necessary to obtain the same illuminating value, this being an economy of
+16 per cent.
+
+EARLY BURNERS.--One of the chief difficulties encountered in the early
+days of the acetylene industry was the design of a satisfactory burner
+which should possess a life of reasonable length. The first burners tried
+were ordinary oil-gas jets, which resemble the fish-tails used with coal-
+gas, but made smaller in every part to allow for the higher illuminating
+power of the oil-gas or acetylene per unit of volume. Although the flames
+they gave were very brilliant, and indeed have never been surpassed, the
+light quickly fell off in intensity owing to the distortion of their
+orifices caused by the deposition of solid matter at the edges. Various
+explanations have been offered to account for the precipitation of solid
+matter at the jets. If the acetylene passes directly to the burner from a
+generator having carbide in excess without being washed or filtered in
+any way, the gas may carry with it particles of lime dust, which will
+collect in the pipes mainly at the points where they are constricted; and
+as the pipes will be of comparatively large bore until the actual burner
+is readied, it will be chiefly at the orifices where the deposition
+occurs. This cause, though trivial, is often overlooked. It will be
+obviated whenever the plant is intelligently designed. As the phosphoric
+anhydride, or pentoxide, which is produced when a gas containing
+phosphorus burns, is a solid body, it may be deposited at the burner
+jets. This cause may be removed, or at least minimised, by proper
+purification of the acetylene, which means the removal of phosphorus
+compounds. Should the gas contain hydrogen silicide siliciuretted
+hydrogen), solid silica will be produced similarly, and will play its
+part in causing obstruction. According to Lewes the main factor in the
+blocking of the burners is the presence of liquid polymerised products in
+the acetylene, benzene in particular; for he considers that these bodies
+will be absorbed by the porous steatite, and will be decomposed under the
+influence of heat in that substance, saturating the steatite with carbon
+which, by a "catalytic" action presumably, assists in the deposition of
+further quantities of carbon in the burner tube until distortion of the
+flame results. Some action of this character possibly occurs; but were it
+the sole cause of blockage, the trouble would disappear entirely if the
+gas were washed with some suitable heavy oil before entering the burners,
+or if the latter were constructed of a non-porous material. It is
+certainly true that the purer is the acetylene burnt, both as regards
+freedom from phosphorus and absence of products of polymerisation, the
+longer do the burners last; and it has been claimed that a burner
+constructed at its jets of some non-porous substance, e.g., "ruby," does
+not choke as quickly as do steatite ones. Nevertheless, stoppages at the
+burners cannot be wholly avoided by these refinements. Gaud has shown
+that when pure acetylene is burnt at the normal rate in 1-foot Bray jets,
+growths of carbon soon appear, but do not obstruct the orifices during
+100 hours' use; if, however, the gas-supply is checked till the flame
+becomes thick, the growths appear more quickly, and become obstructive
+after some 60 hours' burning. On the assumption that acetylene begins to
+polymerise at a temperature of 100 deg. C., Gaud calculates that
+polymerisation cannot cause blocking of the burners unless the speed of
+the passing gas is so far reduced that the burner is only delivering one-
+sixth of its proper volume. But during 1902 Javal demonstrated that on
+heating in a gas-flame one arm of a twin, non-injector burner which had
+been and still was behaving quite satisfactorily with highly purified
+acetylene, growths were formed at the jet of that arm almost
+instantaneously. There is thus little doubt that the principal cause of
+this phenomenon is the partial dissociation of the acetylene (i.e.,
+decomposition into its elements) as it passes through the burner itself;
+and the extent of such dissociation will depend, not at all upon the
+purity of the gas, but upon the temperature of the burner, upon the
+readiness with which the heat of the burner is communicated to the gas,
+and upon the speed at which the acetylene travels through the burner.
+
+Some experiments reported by R. Granjon and P. Mauricheau-Beaupre in 1906
+indicate, however, that phosphine in the gas is the primary cause of the
+growths upon non-injector burners. According to these investigators the
+combustion of the phosphine causes a deposit at the burner orifices of
+phosphoric acid, which is raised by the flame to a temperature higher
+than that of the burner. This hot deposit then decomposes some acetylene,
+and the carbon deposited therefrom is rendered incombustible by the
+phosphoric acid which continues to be produced from the combustion of the
+phosphine in the gas. The incombustible deposit of carbon and phosphoric
+acid thus produced ultimately chokes the burner.
+
+It will appear in Chapter XI. that some of the first endeavours to avoid
+burner troubles were based on the dilution of the acetylene with carbon
+dioxide or air before the gas reached the place of combustion; while the
+subsequent paragraphs will show that the same result is arrived at more
+satisfactorily by diluting the acetylene with air during its actual
+passage through the burner. It seems highly probable that the beneficial
+effect of the earliest methods was due simply or primarily to the
+dilution, the molecules of the acetylene being partially protected from
+the heat of the burner by the molecules of a gas which was not injured by
+the high temperature, and which attracted to itself part of the heat that
+would otherwise have been communicated to the hydrocarbon. The modern
+injector burner exhibits the same phenomenon of dilution, and is to the
+same extent efficacious in preventing polymerisation; but inasmuch as it
+permits a larger proportion of air to be introduced, and as the addition
+is made roughly half-way along the burner passage, the cold air is more
+effectual in keeping the former part of the tip cool, and in jacketing
+the acetylene during its travel through the latter part, the bore of
+which is larger than it otherwise would be.
+
+INJECTOR AND TWIN-FLAME BURNERS.--In practice it is neither possible to
+cool an acetylene burner systematically, nor is it desirable to construct
+it of such a large mass of some good heat conductor that its temperature
+always remains below the dissociation point of the gas. The earliest
+direct attempts to keep the burner cool were directed to an avoidance of
+contact between the flame of the burning acetylene and the body of the
+jet, this being effected by causing the current of acetylene to inject a
+small proportion of air through lateral apertures in the burner below the
+point of ignition. Such air naturally carries along with it some of the
+heat which, in spite of all precautions, still reaches the burner; but it
+also apparently forms a temporary annular jacket round the stream of gas,
+preventing it from catching fire until it has arrived at an appreciable
+distance from the jet. Other attempts were made by placing two non-
+injector jets in such mutual positions that the two streams of gas met at
+an angle, there to spread fan-fashion into a flat flame. This is really
+nothing but the old fish-tail coal-gas burner--which yields its flat
+flame by identical impingement of two gas streams--modified in detail so
+that the bulk of the flame should be at a considerable distance from the
+burner instead of resting directly upon it. In the fish-tail the two
+orifices are bored in the one piece of steatite, and virtually join at
+their external ends; in the acetylene burner, two separate pieces of
+steatite, three-quarters of an inch or more apart, carried by completely
+separate supports, are each drilled with one hole, and the flame stands
+vertically midway between them. The two streams of gas are in one
+vertical plane, to which the vertical plane of the flame is at right
+angles. Neither of these devices singly gave a solution of the
+difficulty; but by combining the two--the injector and the twin-flame
+principle--the modern flat-flame acetylene burner has been evolved, and
+is now met with in two slightly different forms known as the Billwiller
+and the Naphey respectively. The latter apparently ought to be called the
+Dolan.
+
+[Illustration: FIG. 8.--TYPICAL ACETYLENE BURNERS.]
+
+The essential feature of the Naphey burner is the tip, which is shown in
+longitudinal section at A in Fig. 8. It consists of a mushroom headed
+cylinder of steatite, drilled centrally with a gas passage, which at its
+point is of a diameter suited to pass half the quantity of acetylene that
+the entire burner is intended to consume. The cap is provided with four
+radial air passages, only two of which are represented in the drawing;
+these unite in the centre of the head, where they enter into the
+longitudinal channel, virtually a continuation of the gas-way, leading to
+the point of combustion by a tube wide enough to pass the introduced air
+as well as the gas. Being under some pressure, the acetylene issuing from
+the jet at the end of the cylindrical portion of the tip injects air
+through the four air passages, and the mixture is finally burnt at the
+top orifice. As pointed out in Chapter VII., the injector jet is so small
+in diameter that even if the service-pipes leading to the tip contain an
+explosive mixture of acetylene and air, the explosion produced locally if
+a light is applied to the burner cannot pass backwards through that jet,
+and all danger is obviated. One tip only of this description evidently
+produces a long, jet-like flame, or a "rat-tail," in which the latent
+illuminating power of the acetylene is not developed economically. In
+practice, therefore, two of these tips are employed in unison, one of the
+commonest methods of holding them being shown at B. From each tip issues
+a stream of acetylene mixed with air, and to some extent also surrounded
+by a jacket of air; and at a certain point, which forms the apex of an
+isosceles right-angled triangle having its other angles at the orifices
+of the tips, the gas streams impinge, yielding a flat flame, at right-
+angles, as mentioned before, to the plane of the triangle. If the two
+tips are three-quarters of an inch apart, and if the angle of impingement
+is exactly 90 deg., the distance of each tip from the base of the flame
+proper will be a trifle over half an inch; and although each stream of
+gas does take fire and burn somewhat before meeting its neighbour,
+comparatively little heat is generated near the body of the steatite.
+Nevertheless, sufficient heat is occasionally communicated to the metal
+stems of these burners to cause warping, followed by a want of alignment
+in the gas streams, and this produces distortion of the flame, and
+possibly smoking. Three methods of overcoming this defect have been used:
+in one the arms are constructed entirely of steatite, in another they are
+made of such soft metal as easily to be bent back again into position
+with the fingers or pliers, in the third each arm is in two portions,
+screwing the one into the other. The second type is represented by the
+original Phos burner, in which the curved arms of B are replaced by a
+pair of straight divergent arms of thin, soft tubing, joined to a pair of
+convergent wider tubes carrying the two tips. The third type is met with
+in the Drake burner, where the divergent arms are wide and have an
+internal thread into which screws an external thread cut upon lateral
+prolongations of the convergent tubes. Thus both the Phos and the Drake
+burner exhibit a pair of exposed elbows between the gas inlet and the two
+tips; and these elbows are utilised to carry a screwed wire fastened to
+an external milled head by means of which any deposit of carbon in the
+burner tubes can be pushed out. The present pattern of the Phos burner is
+shown in Fig. 9, in which _A_ is the burner tip, _B_ the wire
+or needle, and _C_ the milled head by which the wire is screwed in
+and out of the burner tube.
+
+[Illustration: FIG. 9.--IMPROVED PHOS BURNER.]
+
+[Illustration: FIG. 10.--"WONDER" SINGLE AND TWO-FLAME BURNERS.]
+
+[Illustration: FIG. 11.--"SUPREMA" NO. 266651, TWO-FLAME BURNER.]
+
+[Illustration: FIG. 12.--BRAY'S MODIFIED NAPHEY INJECTOR BURNER TIP.]
+
+[Illustration: FIG. 13.--BRAY'S "ELTA" BURNER.]
+
+[Illustration: FIG. 14.--BRAY'S "LUTA" BURNER.]
+
+[Illustration: FIG. 15.--BRAY'S "SANSAIR" BURNER.]
+
+[Illustration: FIG. 16.--ADJUSTABLE "KONA" BURNER.]
+
+In the original Billwiller burner, the injector gas orifice was brought
+centrally under a somewhat larger hole drilled in a separate sheet of
+platinum, the metal being so carried as to permit entry of air. In order
+to avoid the expense of the platinum, the same principle was afterwards
+used in the design of an all-steatite head, which is represented at D in
+Fig. 8. The two holes there visible are the orifices for the emission of
+the mixture of acetylene with indrawn air, the proper acetylene jets
+lying concentrically below these in the thicker portions of the heads.
+These two types of burner have been modified in a large number of ways,
+some of which are shown at C, E, and F; the air entering through saw-
+cuts, lateral holes, or an annular channel. Burners resembling F in
+outward form are made with a pair of injector jets and corresponding air
+orifices on each head, so as to produce a pair of names lying in the same
+plane, "end-on" to one another, and projecting at either side
+considerably beyond the body of the burner; these have the advantage of
+yielding no shadow directly underneath. A burner of this pattern, viz.,
+the "Wonder," which is sold in this country by Hannam's, Ltd., is shown
+in Fig. 10, alongside the single-flame "Wonder" burner, which is largely
+used, especially in the United States. Another two-flame burner, made of
+steatite, by J. von Schwarz of Nuremberg, and sold by L. Wiener of
+London, is shown in Fig. 11. Burners of the Argand type have also been
+manufactured, but have been unsuccessful. There are, of course, endless
+modifications of flat-flame burners to be found on the markets, but only
+a few need be described. A device, which should prove useful where it may
+be convenient to be able to turn one or more burners up or down from the
+same common distant spot, has been patented by Forbes. It consists of the
+usual twin-injector burner fitted with a small central pinhole jet; and
+inside the casing is a receptacle containing a little mercury, the level
+of which is moved by the gas pressure by an adaptation of the
+displacement principle. When the main is carrying full pressure, both of
+the jets proper are alight, and the burner behaves normally, but if the
+pressure is reduced to a certain point, the movement of the mercury seals
+the tubes leading to the main jets, and opens that of the pilot flame,
+which alone remains alight till the pressure is increased again. Bray has
+patented a modification of the Naphey injector tip, which is shown in
+Fig. 12. It will be observed that the four air inlets are at right-angles
+to the gas-way; but the essential feature of the device is the conical
+orifice. By this arrangement it is claimed that firing back never occurs,
+and that the burner can be turned down and left to give a small flame for
+considerable periods of time without fear of the apertures becoming
+choked or distorted. As a rule burners of the ordinary type do not well
+bear being turned down; they should either be run at full power or
+extinguished completely. The "Elta" burner, made by Geo. Bray and Co.,
+Ltd., which is shown in Fig. 13, is an injector or atmospheric burner
+which may be turned low without any deposition of carbon occurring on the
+tips. A burner of simple construction but which cannot be turned low is
+the "Luta," made by the same firm and shown in Fig. 14. Of the non-
+atmospheric type the "Sansair," also made by Geo. Bray and Co., Ltd., is
+extensively used. It is shown in Fig. 15. In order to avoid the warping,
+through the heat of the flame, of the arms of burners which sometimes
+occurs when they are made of metal, a number of burners are now made with
+the arms wholly of steatite. One of the best-known of these, of the
+injector type, is the "Kona," made by Falk, Stadelmann and Co., of
+London. It is shown in Fig. 16, fitted with a screw device for adjusting
+the flow of gas, so that when this adjuster has been set to give a flame
+of the proper size, no further adjustment by means of the gas-tap is
+necessary. This saves the trouble of manipulating the tap after the gas
+is lighted. The same adjusting device may also be had fitted to the Phos
+burner (Fig. 9) or to the "Orka" burner (Fig. 17), which is a steatite-
+tip injector burner with metal arms made by Falk, Stadelmann and Co.,
+Ltd. A burner with steatite arms, made by J. von Schwarz of Nuremberg,
+and sold in this country by L. Wiener of London, is shown in Fig. 18.
+
+[Illustration: FIG. 17.--"ORKA" BURNER.]
+
+[Illustration: FIG. 18.--"SUPREMA" NO. 216469 BURNER.]
+
+ILLUMINATING DUTY.--The illuminating value of ordinary self-luminous
+acetylene burners in different sizes has been examined by various
+photometrists. For burners of the Naphey type Lewes gives the following
+table:
+
+ ___________________________________________________________
+|         |           |            |          |             |
+|         |           |    Gas     |          |  Candles    |
+| Burner. | Pressure, | Consumed,  | Light in |    per      |
+|         |  Inches   | Cubic Feet | Candles. | Cubic Foot. |
+|         |           | per Hour.  |          |             |
+|_________|___________|____________|__________|_____________|
+|         |           |            |          |             |
+| No. 6   |    2.0    |    0.155   |   0.794  |     5.3     |
+| "   8   |    2.0    |    0.27    |   3.2    |    11.6     |
+| "  15   |    2.0    |    0.40    |   8.0    |    20.0     |
+| "  25   |    2.0    |    0.65    |  17.0    |    26.6     |
+| "  30   |    2.0    |    0.70    |  23.0    |    32.85    |
+| "  42   |    2.0    |    1.00    |  34.0    |    34.0     |
+|_________|___________|____________|__________|_____________|
+
+From burners of the Billwiller type Lewes obtained in 1899 the values:
+
+ ___________________________________________________________
+|         |           |            |          |             |
+|         |           |    Gas     |          |  Candles    |
+| Burner. | Pressure, | Consumed,  | Light in |    per      |
+|         |  Inches   | Cubic Feet | Candles. | Cubic Foot. |
+|         |           | per Hour.  |          |             |
+|_________|___________|____________|__________|_____________|
+|         |           |            |          |             |
+| No. 1   |    2.0    |    0.5     |    7.0   |    11.0     |
+| "   2   |    2.0    |    0.75    |   21.0   |    32.0     |
+| "   3   |    2.0    |    0.75    |   28.0   |    37.3     |
+| "   4   |    3.0    |    1.2     |   48.0   |    40.0     |
+| "   5   |    3.5    |    2.0     |   76.0   |    38.0     |
+|_________|___________|____________|__________|_____________|
+
+Neuberg gives these figures for different burners (1900) as supplied by
+Pintsch:
+
+ ______________________________________________________________________
+|                    |           |            |          |             |
+|                    |    Gas    |            | Candles  |             |
+|       Burner.      | Pressure, | Consumed,  | Light in |     per     |
+|                    |  Inches   | Cubic Feet | Candles. | Cubic Foot. |
+|                    |           | per Hour.  |          |             |
+|____________________|___________|____________|__________|_____________|
+|                    |           |            |          |             |
+| No. 0, slit burner |    3.9    |    1.59    |   59.2   |    37.3     |
+| "   00000 fishtail |    1.6    |    0.81    |   31.2   |    38.5     |
+| Twin burner No. 1  |    3.2    |    0.32    |   13.1   |    40.8     |
+|  "     "    "   2  |    3.2    |    0.53    |   21.9   |    41.3     |
+|  "     "    "   3  |    3.2    |    0.74    |   31.0   |    41.9     |
+|  "     "    "   4  |    3.2    |    0.95    |   39.8   |    41.9     |
+|____________________|___________|____________|__________|_____________|
+
+The actual candle-power developed by each burner was not quoted by
+Neuberg, and has accordingly been calculated from his efficiency values.
+It is noteworthy, and in opposition to what has been found by other
+investigators as well as to strict theory, that Neuberg represents the
+efficiencies to be almost identical in all sizes of the same description
+of burner, irrespective of the rate at which it consumes gas.
+
+Writing in 1902, Capelle gave for Stadelmann's twin injector burners the
+following figures; but as he examined each burner at several different
+pressures, the values recorded in the second, third, and fourth columns
+are maxima, showing the highest candle-power which could be procured from
+each burner when the pressure was adjusted so as to cause consumption to
+proceed at the most economical rate. The efficiency values in the fifth
+column, however, are the mean values calculated so as to include all the
+data referring to each burner. Capelle's results have been reproduced
+from the original on the basis that 1 _bougie decimale_ equals 0.98
+standard English candle, which is the value he himself ascribes to it (1
+_bougie decimale_ equals 1.02 candles is the value now accepted).
+
+ _____________________________________________________________________
+|             |         |                     |          |            |
+|   Nominal   |   Best  | Actual Consumption  | Maximum  |   Average  |
+| Consumption,| Pressure| at Stated Pressure. | Light in | Candles per|
+|   Litres.   | Inches. | Cubic Feet per Hour.| Candles. | Cubic Foot.|
+|_____________|_________|_____________________|__________|____________|
+|             |         |                     |          |            |
+|     10      |   3.5   |         0.40        |    8.4   |    21.1    |
+|     15      |   2.8   |         0.46        |   16.6   |    33.3    |
+|     20      |   3.9   |         0.64        |   25.1   |    40.0    |
+|     25      |   3.5   |         0.84        |   37.8   |    46.1    |
+|     30      |   3.5   |         0.97        |   48.2   |    49.4    |
+|_____________|_________|_____________________|__________|____________|
+
+Some testings of various self-luminous burners of which the results were
+reported by R. Granjon in 1907, gave the following results for the duty
+of each burner, when the pressure was regulated for each burner to that
+which afforded the maximum illuminating duty. The duty in the original
+paper is given in litres per Carcel-hour. The candle has been taken as
+equal to 0.102 Carcel for the conversion to candles per cubic foot.
+
+ ___________________________________________________________________
+|                       |             |           |                 |
+|                       |   Nominal   |   Best    | Duty. Candles   |
+|        Burner.        | Consumption.| Pressure. | per cubic foot. |
+|_______________________|_____________|__________ |_________________|
+|                       |             |           |                 |
+|                       |    Litres.  |  Inches.  |                 |
+| Twin  .   .   .   .   |      10     |    2.76   |       21.2      |
+|  "    .   .   .   .   |      20     |    2.76   |       23.5      |
+|  "    .   .   .   .   |      25     |    3.94   |       30.2      |
+|  "    .   .   .   .   |      30     | 3.94-4.33 |       44.8      |
+|  ", (pair of flames)  |      35     | 3.55-3.94 |       45.6      |
+| Bray's "Manchester"   |       6     |    1.97   |       18.8      |
+|          "            |      20     |    1.97   |       35.6      |
+|          "            |      40     |    2.36   |       42.1      |
+| Rat-tail  .   .   .   |       5     |    5.5    |       21.9      |
+|    "      .   .   .   |       8     |    4.73   |       25.0      |
+| Slit or batswing  .   |      30     | 1.97-2.36 |       37.0      |
+|_______________________|_____________|___________|_________________|
+
+Granjon has concluded from his investigations that the Manchester or
+fish-tail burners are economical when they consume 0.7 cubic foot per
+hour and when the pressure is between 2 and 2.4 inches. When these
+burners are used at the pressure most suitable for twin burners their
+consumption is about one-third greater than that of the latter per
+candle-hour. The 25 to 35 litres-per-hour twin burners should be used at
+a pressure higher by about 1 inch than the 10 to 20 litres-per-hour twin
+burners.
+
+At the present time, when the average burner has a smaller hourly
+consumption than 1 foot per hour, it is customary in Germany to quote the
+mean illuminating value of acetylene in self-luminous burners as being 1
+Hefner unit per 0.70 litre, which, taking
+
+1 Hefner unit = 0.913 English candle
+
+1 English candle = 1.095 Hefner units,
+
+works out to an efficiency of 37 candles per foot in burners probably
+consuming between 0.5 and 0.7 foot per hour.
+
+Even when allowance is made for the difficulties in determining
+illuminating power, especially when different photometers, different
+standards of light, and different observers are concerned, it will be
+seen that these results are too irregular to be altogether trustworthy,
+and that much more work must be done on this subject before the economy
+of the acetylene flame can be appraised with exactitude. However, as
+certain fixed data are necessary, the authors have studied those and
+other determinations, rejecting some extreme figures, and averaging the
+remainder; whence it appears that on an average twin-injector burners of
+different sizes should yield light somewhat as follows:
+
+ _______________________________________________________
+|                      |              |                 |
+| Size of Burner in    | Candle-power |    Candles      |
+| Cubic Feet per Hour. |  Developed.  | per Cubic Foot. |
+|______________________|______________|_________________|
+|                      |              |                 |
+|         0.5          |     18.0     |      35.9       |
+|         0.7          |     27.0     |      38.5       |
+|         1.0          |     45.6     |      45.6       |
+|______________________|______________|_________________|
+
+In the tabular statement in Chapter I. the 0.7-foot burner was taken as
+the standard, because, considering all things, it seems the best, to
+adopt for domestic purposes. The 1-foot burner is more economical when in
+the best condition, but requires a higher gas pressure, and is rather too
+powerful a unit light for good illuminating effect; the 0.5 burner
+naturally gives a better illuminating effect, but its economy is
+surpassed by the 0.7-foot burner, which is not too powerful for the human
+eye.
+
+For convenience of comparison, the illuminating powers and duties of the
+0.5- and 0.7-foot acetylene burners may be given in different ways:
+
+ILLUMINATING POWER OF SELF-LUMINOUS ACETYLENE.
+
+      _0.7-foot Burner._           |      _Half-foot Burner._
+                                   |
+1 litre      =  1.36 candles.      | 1 litre      =  1.27 candles.
+1 cubic foot = 38.5 candles.       | 1 cubic foot = 35.9 candles.
+1 candle     =  0.736 litre.       | 1 candle     =  0.79 litre.
+1 candle     =  0.026 cubic foot.  | 1 candle     =  0.028 cubic foot.
+
+If the two streams of gas impinge at an angle of 90 deg., twin-injector
+burners for acetylene appear to work best when the gas enters them at a
+pressure of 2 to 2.5 inches; for a higher pressure the angle should be
+made a little acute. Large burners require to have a wider distance
+between the jets, to be supplied with acetylene at a higher pressure, and
+to be constructed with a smaller angle of impingement. Every burner, of
+whatever construction and size, must always be supplied with gas at its
+proper pressure; a pressure varying from time to time is fatal.
+
+It is worth observing that although injector burners are satisfactory in
+practice, and are in fact almost the only jets yet found to give
+prolonged satisfaction, the method of injecting air below the point of
+combustion in a self-luminous burner is in some respects wrong in
+principle. If acetylene can be consumed without polymerisation in burners
+of the simple fish-tail or bat's-wing type, it should show a higher
+illuminating efficiency. In 1902 Javal stated that it was possible to
+burn thoroughly purified acetylene in twin non-injector burners, provided
+the two jets, made of steatite as usual, were arranged horizontally
+instead of obliquely, the two streams of gas then meeting at an angle of
+180 deg., so as to yield an almost circular flame. According to Javal,
+whereas carbonaceous growths were always produced in non-injector
+acetylene burners with either oblique or horizontal jets, in the former
+case the growths eventually distorted the gas orifices, but in the latter
+the carbon was deposited in the form of a tube, and fell off from the
+burner by its own weight directly it had grown to a length of 1.2 or 1.5
+millimetres, leaving the jets perfectly clear and smooth. Javal has had
+such a burner running for 10 or 12 hours per day for a total of 2071
+hours; it did not need cleaning out on any occasion, and its consumption
+at the end of the period was the same as at first. He found that it was
+necessary that the tips should be of steatite, and not of metal or glass;
+that the orifices should be drilled in a flat surface rather than at the
+apex of a cone, and that the acetylene should be purified to the utmost
+possible extent. Subsequent experience has demonstrated the possibility
+of constructing non-injector burners such as that shown in Fig. 13, which
+behave satisfactorily even though the jets are oblique. But with such
+burners trouble will inevitably ensue unless the gas is always purified
+to a high degree and is tolerably dry and well filtered. Non-injector
+burners should not be used unless special care is taken to insure that
+the installation is consistently operated in an efficient manner in these
+respects.
+
+GLOBES, &C.--It; does not fall within the province of the present volume
+to treat at length of chimneys, globes, or the various glassware which
+may be placed round a source of light to modify its appearance. It should
+be remarked, however, that obedience to two rules is necessary for
+complete satisfaction in all forms of artificial illumination. First, no
+light much stronger in intensity than a single candle ought ever to be
+placed in such a position in an occupied room that its direct rays can
+reach the eye, or the vision will be temporarily, and may be permanently,
+injured. Secondly, unless economy is to be wholly ignored, no coloured or
+tinted globe or shade should ever be put round a source of artificial
+light. The best material for the construction of globes is that which
+possesses the maximum of translucency coupled with non-transparency,
+_i.e._, a material which passes the highest proportion of the light
+falling upon it, and yet disperses that light in such different
+directions that the glowing body cannot be seen through the globe. Very
+roughly speaking, plain white glass, such as that of which the chimneys
+of oil-lamps and incandescent gas-burners are composed, is quite
+transparent, and therefore affords no protection to the eyesight; a
+protective globe should be rather of ground or opal glass, or of plain
+glass to which a dispersive effect has been given by forming small prisms
+on its inner or outer surface, or both. Such opal, ground, or dispersive
+shades waste much light in terms of illuminating power, but waste
+comparatively little in illuminating effect well designed, they may
+actually increase the illuminating effect in certain positions; a tinted
+globe, even if quite plain in figure, wastes both illuminating power and
+effect, and is only to be tolerated for so-believed aesthetic reasons.
+Naturally no globe must be of such figure, or so narrow at either
+orifice, as to distort the shape of the unshaded acetylene flame--it is
+hardly necessary to say this now, but some years ago coal-gas globes were
+constructed with an apparent total disregard of this fundamental point.
+
+
+
+CHAPTER IX
+
+INCANDESCENT BURNERS--HEATING APPARATUS--MOTORS--AUTOGENOUS SOLDERING
+
+MERITS OF LIGHTING BY INCANDESCENT MANTLES.--It has already been shown
+that acetylene bases its chief claim for adoption as an illuminant in
+country districts upon the fact that, when consumed in simple self-
+luminous burners, it gives a light comparable in all respects save that
+of cost to the light of incandescent coal-gas. The employment of a mantle
+is still accompanied by several objections which appear serious to the
+average householder, who is not always disposed either to devote
+sufficient attention to his burners to keep them in a high state of
+efficiency or to contract for their maintenance by the gas company or
+others. Coal-gas cannot be burnt satisfactorily on the incandescent
+system unless the glass chimneys and shades are kept clean, unless the
+mantles are renewed as soon as they show signs of deterioration, and,
+perhaps most important of all, unless the burners are frequently cleared
+of the dust which collects round the jets. For this reason luminous
+acetylene ranks with luminous coal-gas in convenience and simplicity,
+while ranking with incandescent coal-gas in hygienic value. Very similar
+remarks apply to paraffin, and, in certain countries, to denatured
+alcohol. Since those latter illuminants are also available in rural
+places where coal-gas is not laid on, luminous acetylene is a less
+advantageous means of procuring artificial light than paraffin (and on
+occasion than coal-gas and alcohol when the latter fuels are burnt under
+the mantle), if the pecuniary aspect of the question is the only one
+considered. Such a comparison, however, is by no means fair; for if coal-
+gas, paraffin, and alcohol can be consumed on the incandescent system, so
+can acetylene; and if acetylene is hygienically equal to incandescent
+coal-gas, it is superior thereto when also burnt under the mantle.
+Nevertheless there should be one minor but perfectly irremediable defect
+in incandescent acetylene, viz., a sacrifice of that characteristic
+property of the luminous gas to emit a light closely resembling that of
+the sun in tint, which was mentioned in Chapter 1. Self-luminous
+acetylene gives the whitest light hitherto procurable without special
+correction of the rays, because its light is derived from glowing
+particles of carbon which happen to be heated (because of the high flame
+temperature) to the best possible temperature for the emission of pure
+white light. The light of any combustible consumed on the "incandescent"
+system is derived from glowing particles of ceria, thoria, or similar
+metallic oxides; and the character or shade of the light they emit is a
+function, apart from the temperature to which they are raised, of their
+specific chemical nature. Still, the light of incandescent acetylene is
+sufficiently pleasant, and according to Caro is purer white than that of
+incandescent coal-gas; but lengthy tests carried out by one of the
+authors actually show it to be appreciably inferior to luminous acetylene
+for colour-matching, in which the latter is known almost to equal full
+daylight, and to excel every form of artificial light except that of the
+electric arc specially corrected by means of glass tinted with copper
+salts.
+
+CONDITIONS FOR INCANDESCENT ACETYLENE LIGHTING.--For success in the
+combustion of acetylene on the incandescent system, however, several
+points have to be observed. First, the gas must be delivered at a
+strictly constant pressure to the burner, and at one which exceeds a
+certain limit, ranging with different types and different sizes of burner
+from 2 to 4 or 5 inches of water. (The authors examined, as long ago as
+1903, an incandescent burner of German construction claimed to work at a
+pressure of 1.5 inches, which it was almost impossible to induce to fire
+back to the jets however slowly the cock was manipulated, provided the
+pressure of the gas was maintained well above the point specified. But
+ordinarily a pressure of about 4 inches is used with incandescent
+acetylene burners.) Secondly, it is necessary that the acetylene shall at
+all times be free from appreciable admixture with air, even 0.5 per cent,
+being highly objectionable according to Caro; so that generators
+introducing any noteworthy amount of air into the holder each time their
+decomposing chambers are opened for recharging are not suitable for
+employment when incandescent burners are contemplated. The reason for
+this will be more apparent later on, but it depends on the obvious fact
+that if the acetylene already contains an appreciable proportion of air,
+when a further quantity is admitted at the burner inlets, the gaseous
+mixture contains a higher percentage of oxygen than is suited to the size
+and design of the burner, so that flashing back to the injector jets is
+imminent at any moment, and may be determined by the slightest
+fluctuation in pressure--if, indeed, the flame will remain at the proper
+spot for combustion at all. Thirdly, the fact that the acetylene which is
+to be consumed under the mantle must be most rigorously purified from
+phosphorus compounds has been mentioned in Chapter V. Impure acetylene
+will often destroy a mantle in two or three hours; but with highly
+purified gas the average life of a mantle may be taken, according to
+Giro, at 500 or 600 hours. It is safer, however, to assume a rather
+shorter average life, say 300 to 400 burning hours. Fourthly, owing to
+the higher pressure at which acetylene must be delivered to an
+incandescent burner and to the higher temperature of the acetylene flame
+in comparison with coal-gas, a mantle good enough to give satisfactory
+results with the latter does not of necessity answer with acetylene; in
+fact, the authors have found that English Welsbach coal-gas mantles of
+the small sizes required by incandescent acetylene burners are not
+competent to last for more than a very few hours, although, in identical
+conditions, mantles prepared specially for use with acetylene have proved
+durable. The atmospheric acetylene flame, too, differs in shape from an
+atmospheric flame of coal-gas, and it does not always happen that a coal-
+gas mantle contracts to fit the former; although it usually emits a
+better light (because it fits better) after some 20 hours use than at
+first. Caro has stated that to derive the best results a mantle needs to
+contain a larger proportion of ceria than the 1 per cent. present in
+mantles made according to the Welsbach formula, that it should be
+somewhat coarser in mesh, and have a large orifice at the head. Other
+authorities hold that mantles for acetylene, should contain other rare
+earths besides the thoria and ceria of which the coal-gas mantles almost
+wholly consist. It seems probable, however, that the composition of the
+ordinary impregnating fluid need not be varied for acetylene mantles
+provided it is of the proper strength and the mantles are raised to a
+higher temperature in manufacture than coal-gas mantles by the use of
+either coal-gas at very high pressure or an acetylene flame. The
+thickness of the substance of the mantle cannot be greatly increased with
+a view to attaining greater stability without causing a reduction in the
+light afforded. But the shape should be such that the mantle conforms as
+closely as possible to the acetylene Bunsen flame, which differs slightly
+with different patterns of incandescent burner heads. According to L.
+Cadenel, the acetylene mantle should be cylindrical for the lower two-
+thirds of its length, and slightly conical above, with an opening of
+moderate size at the top. The head of the mantle should be of slighter
+construction than that of coal-gas mantles. Fifthly, generators belonging
+to the automatic variety, which in most forms inevitably add more or less
+air to the acetylene every time they are cleaned or charged, appear to
+have achieved most popularity in Great Britain; and these frequently do
+not yield a gas fit for use with the mantle. This state of affairs, added
+to what has just been said, makes it difficult to speak in very
+favourable terms of the incandescent acetylene light for use in Great
+Britain. But as the advantages of an acetylene not contaminated with air
+are becoming more generally recognised, and mantles of several different
+makes are procurable more cheaply, incandescent acetylene is now more
+practicable than hitherto. Carburetted acetylene or "carburylene," which
+is discussed later, is especially suitable for use with mantle burners.
+
+ATMOSPHERIC ACETYLENE BURNERS.--The satisfactory employment of acetylene
+in incandescent burners, for boiling, warming, and cooking purposes, and
+also to some extent as a motive power in small engines, demands the
+production of a good atmospheric or non-luminous flame, _i.e._, the
+construction of a trustworthy burner of the Bunsen type.
+This has been exceedingly difficult to achieve for two reasons: first,
+the wide range over which mixtures of acetylene and air are explosive;
+secondly, the high speed at which the explosive wave travels through such
+a mixture. It has been pointed out in Chapter VIII. that a Bunsen burner
+is one in which a certain proportion of air is mixed with the gas before
+it arrives at the actual point of ignition; and as that proportion must
+be such that the mixture falls between the upper and lower limits of
+explosibility, there is a gaseous mixture in the burner tube between the
+air inlets and the outlet which, if the conditions are suitable, will
+burn with explosive force: that is to say, will fire back to the air jets
+when a light is applied to the proper place for combustion. Such an
+explosion, of course, is far too small in extent to constitute any danger
+to person or property; the objection to it is simply that the shock of
+the explosion is liable to fracture the fragile incandescent mantle,
+while the gas, continuing to burn within the burner tube (in the case of
+a warming or cooking stove), blocks up that tube with carbon, and
+exhibits the other well-known troubles of a coal-gas stove which has
+"fired back."
+
+It has been shown, however, in Chapter VI. that the range over which
+mixtures of acetylene and air are explosive depends on the size of the
+vessel, or more particularly on the diameter of the tube, in which they
+are stored; so that if the burner tube between the air inlets and the
+point of ignition can be made small enough in diameter, a normally
+explosive mixture will cease to exhibit explosive properties. Manifestly,
+if a tube is made very small in diameter, it will only pass a small
+volume of gas, and it may be useless for the supply of an atmospheric
+burner; but Le Chatelier's researches have proved that a tube may be
+narrowed at one spot only, in such fashion that the explosive wave
+refuses to pass the constriction, while the virtual diameter of the tube,
+as far as passage of gas is concerned, remains considerably larger than
+the size of the constriction itself. Moreover, inasmuch as the speed of
+propagation of the explosion is strictly fixed by the conditions
+prevailing, if the speed at which the mixture, of acetylene and air
+travels from the air inlets to the point of ignition is more rapid than
+the speed at which the explosion tends to travel from the point of
+ignition to the air inlets, the said mixture of acetylene and air will
+burn quietly at the orifice without attempting to fire backwards into the
+tube. By combining together these two devices: by delivering the
+acetylene to the injector jet at a pressure sufficient to drive the
+mixture of gas and air forward rapidly enough, and by narrowing the
+leading tube either wholly or at one spot to a diameter small enough, it
+is easy to make an atmospheric burner for acetylene which behaves
+perfectly as long as it is fairly alight, and the supply of gas is not
+checked; but further difficulties still remain, because at the instant of
+lighting and extinguishing, i.e., while the tap is being turned on or
+off, the pressure of the gas is too small to determine a flow of
+acetylene and air within the tube at a speed exceeding that of the
+explosive wave; and therefore the act of lighting or extinguishing is
+very likely to be accompanied by a smart explosion severe enough to split
+the mantle, or at least to cause the burner to fire back. Nevertheless,
+after several early attempts, which were comparative failures,
+atmospheric acetylene burners have been constructed that work quite
+satisfactorily, so that the gas has become readily available for use
+under the mantle, or in heating stoves. Sometimes success has been
+obtained by the employment of more than one small tube leading to a
+common place of ignition, sometimes by the use of two or more fine wire-
+gauze screens in the tube, sometimes by the addition of an enlarged head
+to the burner in which head alone thorough mixing of the gas and air
+occurs, and sometimes by the employment of a travelling sleeve which
+serves more or less completely to block the air inlets.
+
+DUTY OF INCANDESCENT ACETYLENE BURNERS.--Granting that the petty troubles
+and expenses incidental to incandescent lighting are not considered
+prohibitive--and in careful hands they are not really serious--
+and that mantles suitable for acetylene are employed, the gas may be
+rendered considerably cheaper to use per unit of light evolved by
+consuming it in incandescent burners. In Chapter VIII. it was shown that
+the modern self-luminous, l/2-foot acetylene burner emits a light of
+about 1.27 standard English candles per litre-hour. A large number of
+incandescent burners, of German and French construction, consuming from
+7.0 to 22.2 litres per hour at pressures ranging between 60 and 120
+millimetres have been examined by Caro, who has found them to give lights
+of from 10.8 to 104.5 Hefner units, and efficiencies of from 2.40 to 5.50
+units per litre-hour. Averaging his results, it may be said that
+incandescent burners consuming from 10 to 20 litres per hour at pressures
+of 80 or 100 millimetres yield a light of 4.0 Hefner units per litre-
+hour. Expressed in English terms, incandescent acetylene burners
+consuming 0.5 cubic foot per hour at a pressure of 3 or 4 inches give the
+duties shown in the following table, which may advantageously be compared
+with that printed in Chapter VIII., page 239, for the self-luminous gas:
+
+          ILLUMINATING POWER OF INCANDESCENT ACETYLENE.
+                        HALF-FOOT BURNERS.
+
+  1 litre      =   3.65 candles   |   1 candle = 0.274 litre.
+  1 cubic foot = 103.40 candles.  |   1 candle = 0.0097 cubic foot.
+
+A number of tests of the Guentner or Schimek incandescent burners of the
+10 and 15 litres-per-hour sizes, made by one of the authors in 1906, gave
+the following average results when tested at a pressure of 4 inches:
+ _________________________________________________________________
+|              |                         |          |             |
+| Nominal size | Rate of Consumption per | Light in |    Duty     |
+|  of Burner.  |          Hour           | Candles  | Candles per |
+|              |                         |          |  Cubic Foot |
+|______________|_________________________|__________|_____________|
+|              |            |            |          |             |
+| Litres.      | Cubic Foot |  Litres    |          |             |
+|   10         |    0.472   |   13.35    |   46.0   |    97.4     |
+|   15         |    0.663   |   18.80    |   70.0   |   105.5     |
+|______________|____________|____________|__________|_____________|
+
+These figures indicate that the duty increases slightly with the size of
+the burner. Other tests showed that the duty increased more considerably
+with an increase of pressure, so that mantles used, or which had been
+previously used, at a pressure of 5 inches gave duties of 115 to 125
+candles per cubic foot.
+
+It should be noted that the burners so far considered are small, being
+intended for domestic purposes only; larger burners exhibit higher
+efficiencies. For instance, a set of French incandescent acetylene
+burners examined by Fouche showed:
+
+ _________________________________________________________________
+|                |          |            |          |             |
+| Size of Burner | Pressure | Cubic Feet | Light in | Candles per |
+| in Litres.     |  Inches. |  per Hour. | Candles. | Cubic Feet. |
+|________________|__________|____________|__________|_____________|
+|                |          |            |          |             |
+|       20       |    5.9   |    0.71    |    70    |     98.6    |
+|       40       |    5.9   |    1.41    |   150    |    106.4    |
+|       70       |    5.9   |    2.47    |   280    |    113.4    |
+|      120       |    5.9   |    4.23    |   500    |    118.2    |
+|________________|__________|____________|__________|_____________|
+
+By increasing the pressure at which acetylene is introduced into burners
+of this type, still larger duties may be obtained from them:
+
+ _________________________________________________________________
+|                |          |            |          |             |
+| Size of Burner | Pressure | Cubic Feet | Light in | Candles per |
+| in Litres.     |  Inches. |  per Hour. | Candles. | Cubic Feet. |
+|________________|__________|____________|__________|_____________|
+|                |          |            |          |             |
+|       55       |   39.4   |    1.94    |   220    |    113.4    |
+|      100       |   39.4   |    3.53    |   430    |    121.8    |
+|      180       |   39.4   |    6.35    |   820    |    129.1    |
+|      260       |   27.6   |    9.18    |  1300    |    141.6    |
+|________________|__________|____________|__________|_____________|
+
+High-power burners such as these are only fit for special purposes, such
+as lighthouse illumination, or optical lantern work, &c.; and they
+naturally require mantles of considerably greater tenacity than those
+intended for employment with coal-gas. Nevertheless, suitable mantles can
+be, and are being, made, and by their aid the illuminating duty of
+acetylene can be raised from the 30 odd candles per foot of the common
+0.5-foot self-luminous jet to 140 candles or more per foot, which is a
+gain in efficiency of 367 per cent., or, neglecting upkeep and sundries
+and considering only the gas consumed, an economy of nearly 79 per cent.
+
+In 1902, working apparently with acetylene dissolved under pressure in
+acetone (_cf._ Chapter XI.), Lewes obtained the annexed results with
+the incandescent gas:
+
+ ________________________________________________________
+|           |             |              |              |
+| Pressure. |  Cubic Feet | Candle Power |  Candles per |
+|  Inches.  |  per Hour.  |  Developed.  |  Cubic Foot. |
+|___________|_____________|______________|______________|
+|           |             |              |              |
+|     8     |    0.883    |      65      |      73.6    |
+|     9     |    0.94     |      72      |      76.0    |
+|    10     |    1.00     |     146      |     146.0    |
+|    12     |    1.06     |     150      |     141.2    |
+|    15     |    1.25     |     150      |     120.0    |
+|    20     |    1.33     |     166      |     124.8    |
+|    25     |    1.50     |     186      |     123.3    |
+|    40     |    2.12     |     257      |     121.2    |
+|___________|_____________|______________|______________|
+
+It will be seen that although the total candle-power developed increases
+with the pressure, the duty of the burner attained a maximum at a
+pressure of 10 inches. This is presumably due to the fact either that the
+same burner was used throughout the tests, and was only intended to work
+at a pressure of 10 inches or thereabouts, or that the larger burners
+were not so well constructed as the smaller ones. Other investigators
+have not given this maximum of duty with a medium-sized or medium-driven
+burner; but Lewes has observed a similar phenomenon in the case of 0.7 to
+0.8 cubic foot self-luminous jets.
+
+Figures, however, which seem to show that the duty of incandescent
+acetylene does not always rise with the size of the burner or with the
+pressure at which the gas is delivered to it, have been published in
+connexion with the installation at the French lighthouse at Chassiron,
+the northern point of the Island of Oleron. Here the acetylene is
+generated in hand-fed carbide-to-water generators so constructed as to
+give any pressure up to nearly 200 inches of water column; purified by
+means of heratol, and finally delivered to a burner composed of thirty-
+seven small tubes, which raises to incandescence a mantle 55 millimetres
+in diameter at its base. At a pressure of 7.77 inches of water, the
+burner passes 3.9 cubic feet of acetylene per hour, and at a pressure of
+49.2 inches (the head actually used) it consumes 20.06 cubic feet per
+hour. As shown by the following table, such increment of gas pressure
+raises the specific intensity of the light, _i.e._, the illuminating
+power per unit of incandescent surface, but it does not appreciably raise
+the duty or economy of the gas. Manifestly, in terms of duty alone, a
+pressure of 23.6 inches of water-column is as advantageous as the higher
+Chassiron figures; but since intensity of light is an important matter in
+a lighthouse, it is found better on the whole to work the generators at a
+pressure of 49.2 inches. In studying these figures referring to the
+French lighthouse, it is interesting to bear in mind that when ordinary
+six-wick petroleum oil burners wore used in the same place, the specific
+intensity of the light developed was 75 candle-power per square inch, and
+when that plant was abandoned in favour of an oil-gas apparatus, the
+incandescent burner yielded 161 candle-power per square inch;
+substitution of incandescent acetylene under pressure has doubled the
+brilliancy of the light.
+
+ ___________________________________________________________
+|                     |                  |                  |
+|                     |       Duty.      |    Intensity.    |
+| Pressure in Inches. | Candle-power per | Candle-power per |
+|                     |    Cubic Foot.   |   Square Inch.   |
+|_____________________|__________________|__________________|
+|                     |                  |                  |
+|        7.77         |      105.5       |      126.0       |
+|       23.60         |      106.0       |      226.0       |
+|       31.50         |      110.0       |      277.0       |
+|       39.40         |      110.0       |      301.0       |
+|       47.30         |      106.0       |      317.0       |
+|       49.20         |      104.0       |      324.9       |
+|      196.80         |      110.0       |      383.0       |
+|_____________________|__________________|__________________|
+
+When tested in modern burners consuming between 12 and 18 litres per hour
+at a pressure of 100 millimetres (4 inches), some special forms of
+incandescent mantles constructed of ramie fibre, which in certain
+respects appears to be better suited than cotton for use with acetylene,
+have shown the following degree of loss in illuminating power after
+prolonged employment (Caro):
+
+             _Luminosity in Hefner Units._
+
+ ________________________________________________________
+|         |       |            |            |            |
+| Mantle. | New.  |   After    |   After    |   After    |
+|         |       | 100 Hours. | 200 Hours. | 400 Hours. |
+|_________|_______|____________|____________|____________|
+|         |       |            |            |            |
+| No. 1.  | 53.2  |    51.8    |    50.6    |   49.8     |
+| No. 2.  | 76.3  |    75.8    |    73.4    |   72.2     |
+| No. 3.  | 73.1  |    72.5    |    70.1    |   68.6     |
+|_________|_______|____________|____________|____________|
+
+It will be seen that the maximum loss of illuminating power in 400 hours
+was 6.4 per cent., the average loss being 6.0 per cent.
+
+TYPICAL INCANDESCENT BURNERS.--Of the many burners for lighting by the
+use of incandescent mantles which have been devised, a few of the more
+widely used types may be briefly referred to. There is no doubt that
+finality in the design of these burners has not yet been reached, and
+that improvements in the direction of simplification of construction and
+in efficiency and durability will continue to be made.
+
+Among the early incandescent burners, one made by the Allgemeine Carbid
+und Acetylen Gesellschaft of Berlin in 1900 depended on the narrowness of
+the mixing tube and the proportioning of the gas nipple and air inlets to
+prevent lighting-back. There was a wider concentric tube round the upper
+part of the mixing tube, and the lower part of the mantle fitted round
+this. The mouth of the mixing tube of this 10-litres-per-hour burner was
+0.11 inch in diameter, and the external diameter of the middle
+cylindrical part of the mixing tube was 0.28 inch. There was no gauze
+diaphragm or stuffing, and firing-back did not occur until the pressure
+was reduced to about 1.5 inches. The same company later introduced a
+burner differing in several important particulars from the one just
+described. The comparatively narrow stem of the mixing tube and the
+proportions of the gas nipple and air inlets were retained, but the
+mixing tube was surmounted by a wide chamber or burner head, in which
+naturally there was a considerable reduction in the rate of flow of the
+gas. Consequently it was found necessary to introduce a gauze screen into
+the burner head to prevent firing back. The alterations have resulted in
+the lighting duty of the burner being considerably improved. Among other
+burners designed about 1900 may be mentioned the Ackermann, the head of
+which consisted of a series of tubes from each of which a jet of flame
+was produced, the Fouche, the Weber, and the Trendel. Subsequently a
+tubular-headed burner known as the Sirius has been produced for the
+consumption of acetylene at high pressure (20 inches and upwards).
+
+The more recent burners which have been somewhat extensively used include
+the "Schimek," made by W. Guentner of Vienna, which is shown in Fig. 19.
+It consists of a tapering narrow injecting nozzle within a conical
+chamber C which is open below, and is surmounted by the mixing tube over
+which telescopes a tube which carries the enlarged burner head G, and the
+chimney gallery D. There are two diaphragms of gauze in the burner head
+to prevent firing back, and one in the nozzle portion of the burner. The
+conical chamber has a perforated base-plate below which is a circular
+plate B which rotates on a screw cut on the lower part of the nozzle
+portion A of the burner. This plate serves as a damper to control the
+amount of air admitted through the base of the conical chamber to the
+mixing tube. There are six small notches in the lower edge of the conical
+chamber to prevent the inflow of air being cut of entirely by the damper.
+The mixing tube in both the 10-litre and the 15-litre burner is about
+0.24 inch in internal diameter but the burner head is nearly 0.42 inch in
+the 10-litre and 0.48 inch in the 15-litre burner. The opening in the
+head of the burner through which the mixture of gas and air escapes to
+the flame is 0.15 and 0.17 inch in diameter in these two sizes
+respectively. The results of some testings made with Schimek burners have
+been already given.
+
+[Illustration: FIG. 19.--"SCHIMEK" BURNER.]
+
+The "Knappich" burner, made by the firm of Keller and Knappich of
+Augsburg, somewhat resembles the later pattern of the Allgemeine Carbid
+und Acetylen Gesellschaft. It has a narrow mixing tube, viz., 0.2 inch in
+internal diameter, and a wide burner head, viz., 0.63 inch in internal
+diameter for the 25-litre size. The only gauze diaphragm is in the upper
+part of the burner head. The opening in the cap of the burner head, at
+which the gas burns, is 0.22 inch in diameter. The gas nipple extends
+into a domed chamber at the base of the mixing tube, and the internal air
+is supplied through four holes in the base-plate of that chamber. No
+means of regulating the effective area of the air inlet holes are
+provided.
+
+The "Zenith" burner, made by the firm of Gebrueder Jacob of Zwickau, more
+closely resembles the Schimek, but the air inlets are in the side of the
+lower widened portion of the mixing tube, and are more or less closed by
+means of an outside loose collar which may be screwed up and down on a
+thread on a collar fixed to the mixing tube. The mixing tube is 0.24
+inch, and the burner head 0.475 inch in internal diameter. The opening in
+the cap of the burner is 0.16 inch in diameter. There is a diaphragm of
+double gauze in the cap, and this is the only gauze used in the burner.
+
+All the incandescent burners hitherto mentioned ordinarily have the gas
+nipple made in brass or other metal, which is liable to corrosion, and
+the orifice to distortion by heat or if it becomes necessary to remove
+any obstruction from it. The orifice in the nipple is extremely small--
+usually less than 0.015 inch--and any slight obstruction or distortion
+would alter to a serious extent the rate of flow of gas through it, and
+so affect the working of the burner. In order to overcome this defect,
+inherent to metal nipples, burners are now constructed for acetylene in
+which the nipple is of hard incorrodible material. One of these burners
+has been made on behalf of the Office Central de l'Acetylene of Paris,
+and is commonly known as the "O.C.A." burner. In it the nipple is of
+steatite. On the inner mixing tube of this burner is mounted an elongated
+cone of wire wound spirally, which serves both to ensure proper admixture
+of the gas and air, and to prevent firing-back. There is no gauze in this
+burner, and the parts are readily detachable for cleaning when required.
+Another burner, in which metal is abolished for the nipple, is made by
+Geo. Bray and Co., Ltd., of Leeds, and is shown in Fig. 20. In this
+burner the injecting nipple is of porcelain.
+
+[Illustration: FIG. 20.--BRAY'S INCANDESCENT BURNER.]
+
+ACETYLENE FOR HEATING AND COOKING.--Since the problem of constructing a
+trustworthy atmospheric burner has been solved, acetylene is not only
+available for use in incandescent lighting, but it can also be employed
+for heating or cooking purposes, because all boiling, most warming, and
+some roasting stoves are simply arrangements for utilising the heat of a
+non-luminous flame in one particular way. With suitable alterations in
+the dimensions of the burners, apparatus for consuming coal-gas may be
+imitated and made fit to burn acetylene; and as a matter of fact several
+firms are now constructing such appliances, which leave little or nothing
+to be desired. It may perhaps be well to insist upon the elementary point
+which is so frequently ignored in practice, viz., that no stove, except
+perhaps a small portable boiling ring, ought ever to be used in an
+occupied room unless it is connected with a chimney, free from down-
+draughts, for the products of combustion to escape into the outer air;
+and also that no chimney, however tall, can cause an up-draught in all
+states of the weather unless there is free admission of fresh air into
+the room at the base of the chimney. Still, at the prices for coal,
+paraffin oil, and calcium carbide which exist in Great Britain, acetylene
+is not an economical means of providing artificial heat. If a 0.7 cubic
+foot luminous acetylene burner gives a light of 27 candles, and if
+ordinary country coal-gas gives light of 12 to 13 candles in a 5-foot
+burner, one volume of acetylene is equally valuable with 15 or 16 volumes
+of coal-gas when both are consumed in self-luminous jets; and if, with
+the mantle, acetylene develops 99 candles per cubic foot, while coal-gas
+gives in common practice 15 to 20 candles, one volume of acetylene is
+equally valuable with 5 to 6-1/2 volumes of coal-gas when both are
+consumed on the incandescent system; whereas, if the acetylene is burnt
+in a flat flame, and the coal-gas under the mantle, 1 volume of the
+former is equally efficient with 2 volumes of coal-gas as an artificial
+illuminant. This last method of comparison being manifestly unfair,
+acetylene may be said to be at least five times as efficient per unit of
+volume as coal-gas for the production of light. But from the table given
+on a later page it appears that as a source of artificial heat, acetylene
+is only equal to about 2-3 times its volume of ordinary coal-gas.
+Nevertheless, the domestic advantages of gas firing are very marked; and
+when a properly constructed stove is properly installed, the hygienic
+advantages of gas-firing are alone equally conspicuous--for the disfavor
+with which gas-firing is regarded by many physicians is due to experience
+gained with apparatus warming principally by convection [Footnote:
+Radiant heat is high-temperature heat, like the heat emitted by a mass of
+red-hot coke; convected heat is low-temperature heat, invisible to the
+eye. Radiant heat heats objects first, and leaves them to warm the air;
+convected heat is heat applied directly to air, and leaves the air to
+warm objects afterwards. On all hygienic grounds radiant heat is better
+than convected heat, but the latter is more economical. By an absurd and
+confusing custom, that particular warming apparatus (gas, steam, or hot
+water) which yields practically no radiant heat, and does all its work by
+convection, is known to the trade as a "radiator."] instead of radiation;
+or to acquaintance with intrinsically better stoves either not connected
+to any flues or connected to one deficient in exhausting power. In these
+circumstances, whenever an installation of acetylene has been laid down
+for the illumination of a house or district, the merit of convenience may
+outweigh the defect of extravagance, and the gas may be judiciously
+employed in a boiling ring, or for warming a bedroom; while, if pecuniary
+considerations are not paramount, the acetylene may be used for every
+purpose to which the townsman would apply his cheaper coal-gas.
+
+The difficulty of constructing atmospheric acetylene burners in which the
+flame would not be likely to strike back to the nipple has already been
+referred to in connexion with the construction atmospheric burners for
+incandescent lighting. Owing, however, to the large proportions of the
+atmospheric burners of boiling rings and stove and in particular to the
+larger bore of their mixing tube, the risk of the flame striking back is
+greater with them, than with incandescent lighting burners. The greatest
+trouble is presented at lighting, and when the pressure of the gas-supply
+is low. The risk of firing-back when the burner is lighted is avoided in
+some forms of boiling rings, &c.;, by providing a loose collar which can
+be slipped over the air inlets of the Bunsen tube before applying a light
+to the burner, and slipped clear of them as soon as the burner is alight.
+Thus at the moment of lighting, the burner is converted temporarily into
+one of the non-atmospheric type, and after the flame has thus been
+established at the head or ring of the burner, the internal air-supply is
+started by removing the loose collar from the air inlets, and the flame
+is thus made atmospheric. In these conditions it does not travel
+backwards to the nipple. In other heating burners it is generally
+necessary to turn on the gas tap a few seconds before applying a light to
+the burner or ring or stove; the gas streaming through the mixing tube
+then fills it with acetylene and air mixed in the proper working
+proportions, and when the light is applied, there is no explosion in the
+mixing tube, or striking-back of the flame to the nipple.
+
+Single or two-burner gas rings for boiling purposes, or for heating
+cooking ovens, known as the "La Belle," made by Falk Stadelmann and Co.,
+Ltd., of London, may be used at as low a gas pressure as 2 inches, though
+they give better results at 3 inches, which is their normal working
+pressure. The gas-inlet nozzle or nipple of the burner is set within a
+spherical bulb in which are four air inlets. The mixing tube which is
+placed at a proper distance in front of the nipple, is proportioned to
+the rate of flow of the gas and air, and contains a mixing chamber with a
+baffling pillar to further their admixture. A fine wire gauze insertion
+serves to prevent striking-back of the flame. A "La Belle" boiling ring
+consumes at 3 inches pressure about 48 litres or 1.7 cubic feet of
+acetylene per hour.
+
+ACETYLENE MOTORS.--The question as to the feasibility of developing
+"power" from acetylene, _i.e._, of running an engine by means of the
+gas, may be answered in essentially identical terms. Specially designed
+gas-engines of 1, 3, 6, or even 10 h.p. work perfectly with acetylene,
+and such motors are in regular employment in numerous situations, more
+particularly for pumping water to feed the generators of a large village
+acetylene installation. Acetylene is not an economical source of power,
+partly for the theoretical reason that it is a richer fuel even than
+coal-gas, and gas-engines would appear usually to be more efficient as
+the fuel they burn is poorer in calorific intensity, _i.e._, in
+heating power (which is explosive power) per unit of volume. The richer,
+or more concentrated, any fuel in, the more rapidly does the explosion in
+a mixture of that fuel with air proceed, because a rich fuel contains a
+smaller proportion of non-inflammable gases which tend to retard
+explosion than a poor one; and, in reason, a gas-engine works better the
+more slowly the mixture of gas and air with which it is fed explodes.
+Still, by properly designing the ports of a gas-engine cylinder, so that
+the normal amount of compression of the charge and of expansion of the
+exploded mixture which best suit coal-gas are modified to suit acetylene,
+satisfactory engines can be constructed; and wherever an acetylene
+installation for light exists, it becomes a mere question of expediency
+whether the same fuel shall not be used to develop power, say, for
+pumping up the water required in a large country house, instead of
+employing hand labour, or the cheaper hot-air or petroleum motor. Taking
+the mean of the results obtained by numerous investigators, it appears
+that 1 h.p.-hour can be obtained for a consumption of 200 litres of
+acetylene; whence it may be calculated that that amount of energy costs
+about 3d. for gas only, neglecting upkeep, lubricating material
+(which would be relatively expensive) and interest, &c.;
+
+Acetylene Blowpipes--The design of a satisfactory blowpipe for use with
+acetylene had at first proved a matter of some difficulty, since the jet,
+like that of an ordinary self-luminous burner, usually exhibited a
+tendency to become choked with carbonaceous growths. But when acetylene
+had become available for various purposes at considerable pressure, after
+compression into porous matter as described in Chapter XI, the troubles
+were soon overcome; and a new form of blowpipe was constructed in which
+acetylene was consumed under pressure in conjunction with oxygen. The
+temperature given by this apparatus exceeds that of the familiar oxy-
+hydrogen blowpipe, because the actual combustible material is carbon
+instead of hydrogen. When 2 atoms of hydrogen unite with 1 of oxygen to
+form 1 molecule of gaseous water, about 59 large calories are evolved,
+and when 1 atom of solid amorphous carbon unites with 2 atoms of oxygen
+to form 1 molecule of carbon dioxide, 97.3 calories are evolved. In both
+cases, however, the heat attainable is limited by the fact that at
+certain temperatures hydrogen and oxygen refuse to combine to form water,
+and carbon and oxygen refuse to form carbon dioxide--in other words,
+water vapour and carbon dioxide dissociate and absorb heat in the process
+at certain moderately elevated temperatures. But when 1 atom of solid
+amorphous carbon unites with 1 atom of oxygen to form carbon monoxide,
+29.1 [Footnote: Cf. Chapter VI., page 185.] large calories are produced,
+and carbon monoxide is capable of existence at much higher temperatures
+than either carbon dioxide or water vapour. In any gaseous hydrocarbon,
+again, the carbon exists in the gaseous state, and when 1 atom of the
+hypothetical gaseous carbon combines with 1 atom of oxygen to produce 1
+molecule of carbon monoxide, 68.2 large calories are evolved. Thus while
+solid amorphous carbon emits more heat than a chemically equivalent
+quantity of hydrogen provided it is enabled to combine with its higher
+proportion of oxygen, it emits less if only carbon monoxide is formed;
+but a higher temperature can be attained in the latter case, because the
+carbon monoxide is more permanent or stable. Gaseous carbon, on the other
+hand, emits more heat than an equivalent quantity of hydrogen, [Footnote:
+In a blowpipe flame hydrogen can only burn to gaseous, not liquid,
+water.] even when it is only converted into the monoxide. In other words,
+a gaseous fuel which consists of hydrogen alone can only yield that
+temperature as a maximum at which the speed of the dissociation of the
+water vapour reaches that of the oxidation of the hydrogen; and were
+carbon dioxide the only oxide of carbon, a similar state of affairs would
+be ultimately reached in the flame of a carbonaceous gas. But since in
+the latter case the carbon dioxide does not tend to dissociate
+completely, but only to lose one atom of oxygen, above the limiting
+temperature for the formation of carbon dioxide, carbon monoxide is still
+produced, because there is less dissociating force opposed to its
+formation. Thus at ordinary temperatures the heat of combustion of
+acetylene is 315.7 calories; but at temperatures where water vapour and
+carbon dioxide no longer exist, there is lost to that quantity of 315.7
+calories the heat of combustion of hydrogen (69.0) and twice that of
+carbon monoxide (68.2 x 2 = 136.4); so that above those critical
+temperatures, the heat of combustion of acetylene is only 315.7 - (69.0 +
+136.4) = 110.3. [Footnote: When the heat of combustion of acetylene is
+quoted as 315.7 calories, it is understood that the water formed is
+condensed into the liquid state. If the water remains gaseous, as it must
+do in a flame, the heat of formation is reduced by about 10 calories.
+This does not affect the above calculation, because the heat of
+combustion of hydrogen when the water remains gaseous is similarly 10
+calories less than 69, _i.e._, 59, as mentioned above in the text.
+Deleting the heat of liquefaction of water, the calculation referred to
+becomes 305.7 - (59.0 + l36.4) = 110.3 as before.] This value of 110.3
+calories is clearly made up of the heat of formation of acetylene itself,
+and twice the heat of conversion of carbon into carbon monoxide,
+_i.e._, for diamond carbon, 58.1 + 26.1 x 2 = 110.3; or for
+amorphous carbon, 52.1 + 29.1 x 2 = 110.3. From the foregoing
+considerations, it may be inferred that the acetylene-oxygen blowpipe can
+be regarded as a device for burning gaseous carbon in oxygen; but were it
+possible to obtain carbon in the state of gas and so to lead it into a
+blowpipe, the acetylene apparatus should still be more powerful, because
+in it the temperature would be raised, not only by the heat of formation
+of carbon monoxide, but also by the heat attendant upon the dissociation
+of the acetylene which yields the carbon.
+
+Acetylene requires 2.5 volumes of oxygen to burn it completely; but in
+the construction of an acetylene-oxygen blowpipe the proportion of oxygen
+is kept below this figure, viz., at 1.1 to 1.8 volumes, so that the
+deficiency is left to be made up from the surrounding air. Thus at the
+jet of the blowpipe the acetylene dissociates and its carbon is oxidised,
+at first no doubt to carbon monoxide only, but afterwards to carbon
+dioxide; and round the flame of the gaseous carbon is a comparatively
+cool, though absolutely very hot jacket of hydrogen burning to water
+vapour in a mixture of oxygen and air, which protects the inner zone from
+loss of heat. As just explained, theoretical grounds support the
+conclusions at which Fouche has arrived, viz., that the temperature of
+the acetylene-oxygen blowpipe flame is above that at which hydrogen will
+combine with oxygen to form water, and that it can only be exceeded by
+those found in a powerful electric furnace. As the hydrogen dissociated
+from the acetylene remains temporarily in the free state, the flame of
+the acetylene blowpipe, possesses strong reducing powers; and this,
+coupled probably with an intensity of heat which is practically otherwise
+unattainable, except by the aid of a high-tension electric current,
+should make the acetylene-oxygen blowpipe a most useful piece of
+apparatus for a large variety of metallurgical, chemical, and physical
+operations. In Fouche's earliest attempts to design an acetylene
+blowpipe, the gas was first saturated with a combustible vapour, such as
+that of petroleum spirit or ether, and the mixture was consumed with a
+blast of oxygen in an ordinary coal-gas blow-pipe. The apparatus worked
+fairly well, but gave a flame of varying character; it was capable of
+fusing iron, raised a pencil of lime to a more brilliant degree of
+incandescence than the eth-oxygen burner, and did not deposit carbon at
+the jet. The matter, however, was not pursued, as the blowpipe fed with
+undiluted acetylene took its place. The second apparatus constructed by
+Fouche was the high-pressure blowpipe, the theoretical aspect of which
+has already been studied. In this, acetylene passing through a water-seal
+from a cylinder where it is stored as a solution in acetone (_cf._
+Chapter XI.), and oxygen coming from another cylinder, are each allowed
+to enter the blowpipe at a pressure of 118 to 157 inches of water column
+(_i.e._, 8.7 to 11.6 inches of mercury; 4.2 to 5.7 lb. per square
+inch, or 0.3 to 0.4 atmosphere). The gases mix in a chamber tightly
+packed with porous matter such as that which is employed in the original
+acetylene reservoir, and finally issue from a jet having a diameter of 1
+millimetre at the necessary speed of 100 to 150 metres per second.
+Finding, however, that the need for having the acetylene under pressure
+somewhat limited the sphere of usefulness of his apparatus, Fouche
+finally designed a low-pressure blowpipe, in which only the oxygen
+requires to be in a state of compression, while the acetylene is drawn
+directly from any generator of the ordinary pattern that does not yield a
+gas contaminated with air. The oxygen passes through a reducing valve to
+lower the pressure under which it stands in the cylinder to that of 1 or
+1.5 effective atmosphere, this amount being necessary to inject the
+acetylene and to give the previously mentioned speed of escape from the
+blowpipe orifice. The acetylene is led through a system of long narrow
+tubes to prevent it firing-back.
+
+AUTOGENOUS SOLDERING AND WELDING.--The blowpipe is suitable for the
+welding and for the autogenous soldering or "burning" of wrought or cast
+iron, steel, or copper. An apparatus consuming from 600 to 1000 litres of
+acetylene per hour yields a flame whose inner zone is 10 to 15
+millimetres long, and 3 to 4 millimetres in diameter; it is sufficiently
+powerful to burn iron sheets 8 to 9 millimetres thick. By increasing the
+supply of acetylene in proportion to that of the oxygen, the tip of the
+inner zone becomes strongly luminous, and the flame then tends to
+carburise iron; when the gases are so adjusted that this tip just
+disappears, the flame is at its best for heating iron and steel. The
+consumption of acetylene is about 75 litres per hour for each millimetre
+of thickness in the sheet treated, and the normal consumption of oxygen
+is 1.7 times as much; a joint 6 metres long can be burnt in 1 millimetre
+plate per hour, and one of 1.5 metres in 10 millimetre plate. In certain
+cases it is found economical to raise the metal to dull redness by other
+means, say with a portable forge of the usual description, or with a
+blowpipe consuming coal-gas and air. There are other forms of low-
+pressure blowpipe besides the Fouche, in some of which the oxygen also is
+supplied at low pressure. Apart from the use of cylinders of dissolved
+acetylene, which are extremely convenient and practically indispensable
+when the blowpipe has to be applied in confined spaces (as in repairing
+propeller shafts on ships _in situ_), acetylene generators are now
+made by several firms in a convenient transportable form for providing
+the gas for use in welding or autogenous soldering. It is generally
+supposed that the metal used as solder in soldering iron or steel by this
+method must be iron containing only a trifling proportion of carbon (such
+as Swedish iron), because the carbon of the acetylene carburises the
+metal, which is heated in the oxy-acetylene flame, and would thereby make
+ordinary steel too rich in carbon. But the extent to which the metal used
+is carburised in the flame depends, as has already been indicated, on the
+proper adjustment of the proportion of oxygen to acetylene. Oxy-acetylene
+autogenous soldering or welding is applicable to a great variety of work,
+among which may be mentioned repairs to shafts, locomotive frames,
+cylinders, and to joints in ships' frames, pipes, boilers, and rails. The
+use of the process is rapidly extending in engineering works generally.
+Generators for acetylene soldering or welding must be of ample size to
+meet the quickly fluctuating demands on them and must be provided with
+water-seals, and a washer or scrubber and filter capable of arresting all
+impurities held mechanically in the crude gas, and with a safety vent-
+pipe terminating in the open at a distance from the work in hand. The
+generator must be of a type which affords as little after-generation as
+possible, and should not need recharging while the blowpipe is in use.
+There should be a main tap on the pipe between the generator and the
+blowpipe. It does not appear conclusively established that the gas
+consumed should have been chemically purified, but a purifier of ample
+size and charged with efficient material is undoubtedly beneficial. The
+blowpipe must be designed so that it remains sufficiently cool to prevent
+polymerisation of the acetylene and deposition of the resultant particles
+of carbon or soot within it.
+
+It is important to remember that if a diluent gas, such as nitrogen, is
+present, the superior calorific power of acetylene over nearly all gases
+should avail to keep the temperature of the flame more nearly up to the
+temperature at which hydrogen and oxygen cease to combine. Hence a
+blowpipe fed with air and acetylene would give a higher temperature than
+any ordinary (atmospheric) coal-gas blowpipe, just as, as has been
+explained in Chapter VI., an ordinary acetylene flame has a higher
+temperature than a coal-gas flame. It is likely that a blowpipe fed with
+"Linde-air" (oxygen diluted with less nitrogen than in the atmosphere)
+and acetylene would give as high a limelight effect as the oxy-hydrogen
+
+Back to Full Books

@@ -1,0 +1,2004 @@
+Acetylene, The Principles Of Its Generation And UsebyF. H. Leeds and W. J. Atkinson Butterfield
+
+with air. In practice the receptacles should fit so tightly into the
+outer vessel and into one another that when loaded to the utmost extent
+permissible--space being left for the swelling of the charge and for the
+passage of water and gas--but little room should be left for the
+retention of air in the chamber.
+
+ACTION OF CARBIDE-TO-WATER GENERATORS.--The methods which may be adopted
+to render a generator automatic when carbide is employed as the moving
+material are shown at M, N, and P, in Fig. 6; but the precise devices
+used in many actual apparatus are so various that it is difficult to
+portray them generically. Moreover it is desirable to subdivide automatic
+carbide-to-water generators, according to the size of the carbide they
+are constructed to take, into two or three classes, which are termed
+respectively "large carbide-feed," "small carbide-feed," and "granulated
+carbide-feed" apparatus. (The generator represented at L does not really
+belong to the present class, being non-automatic and fed by hand; but the
+sketch is given for completeness.) M is an automatic carbide-feed
+generator having its store of carbide in a hopper carried by the rising-
+holder bell. The hopper is narrowed at its mouth, where it is closed by a
+conical or mushroom valve _d_ supported on a rod held in suitable
+guides. When the bell falls by consumption of gas, it carries the valve
+and rod with it; but eventually the button at the base of _c_
+strikes the bottom of the generator, or some fixed distributing plate,
+and the rod can descend no further. Then, when the bell falls lower, the
+mushroom _d_ rises from its seat, and carbide drops from the hopper
+into the water. This type of apparatus has the defect characteristic of
+A^2, Fig. 1; for the pressure in the service steadily diminishes as the
+effective weight of bell plus hopper decreases by consumption of carbide.
+But it has also two other defects--(1) that ordinary carbide is too
+irregular in shape to fall smoothly through the narrow annular space
+between the valve and its seat; (2) that water vapour penetrates into the
+hopper, and liberates some gas there, while it attacks the lumps of
+carbide at the orifice, producing dust or causing them to stick together,
+and thus rendering the action of the feed worse than ever. Most of these
+defects can be avoided by using granulated carbide, which is more uniform
+in size and shape, or by employing a granulated and "treated" carbide
+which has been dipped in some non-aqueous liquid to make it less
+susceptible to the action of moisture. Both these plans, however, are
+expensive to adopt; first, because of the actual cost of granulating or
+"treating" the carbide; secondly, because the carbide deteriorates in
+gas-making capacity by its inevitable exposure to air during the
+granulating or "treating" process. The defects of irregularity of
+pressure and possible waste of gas by evolution in the hopper may be
+overcome by disposing the parts somewhat differently; making the holder
+an annulus round the hopper, or making it cylindrical with the hopper
+inside. In this case the hopper is supported by the main portion of the
+apparatus, and does not move with the bell: the rod and valve being given
+their motion in some fashion similar to that figured. Apparatus designed
+in accordance with the sketch M, or with the modification just described,
+are usually referred to under the name of "hopper" generators. On several
+occasions trouble has arisen during their employment owing to the jamming
+of the valve, a fragment of carbide rather larger than the rest of the
+material lodging between the lips of the hopper and the edges of the
+mushroom valve. This has been followed by a sudden descent of all the
+carbide in the store into the water beneath, and the evolution of gas has
+sometimes been too rapid to pass away at the necessary speed into the
+holder. The trouble is rendered even more serious should the whole charge
+of carbide fall at a time when, by neglect or otherwise, the body of the
+generator contains much lime sludge, the decomposition then proceeding
+under exceptionally bad circumstances, which lead to the production of an
+excessively high temperature. Hopper generators are undoubtedly very
+convenient for certain purposes, chiefly, perhaps, for the construction
+of table-lamps and other small installations. Experience tends to show
+that they may be employed, first, provided they are designed to take
+granulated carbide--which in comparison with larger grades is much more
+uniform and cylindrical in shape--and secondly, provided the quantity of
+carbide in the hopper does not exceed a few pounds. The phenomenon of the
+sudden unexpected descent of the carbide, popularly known as "dumping,"
+can hardly be avoided with carbide larger in size than the granulated
+variety; and since the results of such an accident must increase in
+severity with the size of the apparatus, a limit in their capacity is
+desirable.
+
+[Illustration: FIG. 6.--TYPICAL METHODS OF DECOMPOSING CARBIDE (CARBIDE
+TO WATER).]
+
+When it is required to construct a carbide-feed generator of large size
+or one belonging to the large carbide-feed pattern, it is preferable to
+arrange the store in a different manner. In N the carbide is held in a
+considerable number of small receptacles, two only of which are shown in
+the drawing, provided with detachable lids and hinged bottoms kept shut
+by suitable catches. At proper intervals of time those catches in
+succession are knocked on one side by a pin, and the contents of the
+vessel fall into the water. There are several methods available for
+operating the pins. The rising-holder bell may be made to actuate a train
+of wheels which terminate in a disc revolving horizontally on a vertical
+axis somewhere just below the catches; and this wheel may bear an
+eccentric pin which hits each catch as it rotates. Alternatively the
+carbide boxes may be made to revolve horizontally on a vertical axis by
+the movements of the bell communicated through a clutch; and thus each
+box in succession may arrive at a certain position where the catch is
+knocked aside by a fixed pin. The boxes, again, may revolve vertically on
+a horizontal axis somewhat like a water-wheel, each box having its bottom
+opened, or, by a different system of construction, being bodily upset,
+when it arrives at the bottom of its circular path. In no case, however,
+are the carbide receptacles carried by the bell, which is a totally
+distinct part of the apparatus; and therefore in comparison with M, the
+pressure given by the bell is much more uniform. Nevertheless, if the
+system of carbide boxes moves at all, it becomes easier to move by
+decrease in weight and consequent diminution in friction as the total
+charge is exhausted; and accordingly the bell has less work to do during
+the later stages of its operation. For this reason the plan actually
+shown at N is preferable, since the work done by the moving pin,
+_i.e._, by the descending bell, is always the same. P represents a
+carbide-feed effected by a spiral screw or conveyor, which, revolved
+periodically by a moving bell, draws carbide out of a hopper of any
+desired size and finally drops it into a shoot communicating with a
+generating chamber such as that shown in L. Here the work done by the
+bell is large, as the friction against the blades of the screw and the
+walls of the horizontal tube is heavy; but that amount of work must
+always be essentially identical. The carbide-feed may similarly be
+effected by means of some other type of conveyor instead of the spiral
+screw, such as an endless band, and the friction in these cases may be
+somewhat less than with the screw, but the work to be done by the bell
+will always remain large, whatever type of conveyor may be adopted. A
+further plan for securing a carbide-feed consists in employing some
+extraneous driving power to propel a charge of carbide out of a reservoir
+into the generator. Sometimes the propulsive effort is obtained from a
+train of clockwork, sometimes from a separate supply of water under high
+pressure. The clockwork or the water power is used either to drive a
+piston travelling through the vessel containing the carbide so that the
+proper quantity of material is dropped over the open mouth of a shoot, or
+to upset one after another a series of carbide receptacles, or to perform
+some analogous operation. In these cases the pin or other device fitted
+to the acetylene apparatus itself has nothing to do beyond releasing the
+mechanism in question, and therefore the work required from the bell is
+but small. The propriety of employing a generator belonging to these
+latter types must depend upon local conditions, _e.g._, whether the
+owner of the installation has hydraulic power on a small scale (a
+constant supply of water under sufficient pressure) at disposal, or
+whether he does not object to the extra labour involved in the periodical
+winding up of a train of clockwork.
+
+It must be clear that all these carbide-feed arrangements have the defect
+in a more or less serious degree of leaving the carbide in the main
+storage vessel exposed to the attack of water vapour rising from the
+decomposing chamber, for none of the valves or operating mechanism can be
+made quite air-tight. Evolution of gas produced in this way does not
+matter in the least, because it is easy to return the gas so liberated
+into the generator or into the holder; while the extent of the action,
+and the consequent production of overheating, will tend to be less than
+in generators such as those shown in G and H of Figs. 4 and 5, inasmuch
+as the large excess of water in the carbide-feed apparatus prevents the
+liquid arriving at a temperature at which it volatilises rapidly. The
+main objection to the evolution of gas in the carbide vessel of a
+carbide-to-water generator depends on the danger that the smooth working
+of the feed-gear may be interfered with by the formation of dust or by
+the aggregation of the carbide lumps.
+
+USE OF OIL IN GENERATORS.--Calcium carbide is a material which is only
+capable of attack for the purpose of evolving acetylene by a liquid that
+is essentially water, or by one that contains some water mixed with it.
+Oils and the like, or even such non-aqueous liquids as absolute alcohol,
+have no effect upon carbide, except that the former naturally make it
+greasy and somewhat more difficult to moisten. This last property has
+been found of service in acetylene generation, especially on the small
+scale; for if carbide is soaked in, or given a coating of, some oil, fat,
+or solid hydrocarbon like petroleum, cocoanut oil, or paraffin wax, the
+substance becomes comparatively indifferent towards water vapour or the
+moisture present in the air, while it still remains capable of complete,
+albeit slow, decomposition by liquid water when completely immersed
+therein. The fact that ordinary calcium carbide is attacked so quickly by
+water is really a defect of the substance; for it is to this extreme
+rapidity of reaction that the troubles of overheating are due. Now, if
+the basket in the generator B^1 of Fig. 2, or, indeed, the carbide store
+in any of the carbide-to-water apparatus, is filled with a carbide which
+has been treated with oil or wax, as long as the water-level stands at
+_l'_ and _l"_ or the carbide still remains in the hopper, it is
+essentially unattacked by the vapour arising from the liquid; but
+directly the basket is submerged, or the lumps fall into the water,
+acetylene is produced, and produced more slowly and regularly than
+otherwise. Again, oils do not mix with water, but usually float thereon,
+and a mass of water covered by a thick film or layer of oil does not
+evaporate appreciably. If, now, a certain quantity of oil, say lamp
+paraffin or mineral lubricating oil, is poured on to the water in B^1,
+Fig. 2, it moves upwards and downwards with the water. When the water
+takes the position _l_, the oil is driven upwards away from the
+basket of carbide, and acetylene is generated in the ordinary manner; but
+when the water falls to _l"_ the oil descends also, rinses off much
+of the adhering water from the carbide lumps, covers them with a greasy
+film, and almost entirely stops generation till it is in turn washed off
+by the next ascent of the water. Similarly, if the carbide in generators
+F, G, and H (also K) has been treated with a solid or semi-solid grease,
+it is practically unattacked by the stream of warm damp gas, and is only
+decomposed when the liquid itself arrives in the basket. For the same
+reason treated carbide can be kept for fairly long periods of time, even
+in a drum with badly fitting lid, without suffering much deterioration by
+the action of atmospheric moisture. The problem of acetylene generation
+is accordingly simplified to a considerable degree by the use of such
+treated carbide, and the advantage becomes more marked as the plant
+decreases in size till a portable apparatus is reached, because the
+smaller the installation the more relatively expensive or inconvenient is
+a large holder for surplus gas. The one defect of the method is the extra
+cost of such treated carbide; and in English conditions ordinary calcium
+carbide is too expensive to permit of any additional outlay upon the
+acetylene if it is to compete with petroleum or the product of a tiny
+coal-gas works. The extra cost of using treated carbide falls upon the
+revenue account, and is much more noticeable than that of a large holder,
+which is capital expenditure. When fluid oil is employed in a generator
+of type B^1, evolution of gas becomes so regular that any holder beyond
+the displacement one which the apparatus itself constitutes is actually
+unnecessary, though still desirable; but B^1, with or without oil, still
+remains a displacement apparatus, and as such gives no constant pressure.
+It must be admitted that the presence of oil so far governs the evolution
+of gas that the movement of the water, and the consequent variation of
+pressure, is rendered very small; still a governor or a rising holder
+would be required to give the best result at the burners. One point in
+connexion with the use of liquid oil must not be overlooked, viz., the
+extra trouble it may give in the disposal of the residues. This matter
+will be dealt with more fully in Chapter V.; here it is sufficient to say
+that as the oil does not mix with the water but floats on the surface,
+care has to be taken that it is not permitted to enter any open stream.
+The foregoing remarks about the use of oil manifestly only apply to those
+cases where it is used in quantity and where it ultimately becomes mixed
+with the sludge or floats on the water in the decomposing chamber. The
+employment of a limpid oil, such as paraffin, as an intermediate liquid
+into which carbide is introduced on its way to the water in the
+decomposing vessel of a hand-fed generator in the manner described on
+page 70 is something quite different, because, except for trifling
+losses, one charge of oil should last indefinitely.
+
+RISING GASHOLDERS.--Whichever description of holder is employed in an
+acetylene apparatus, the gas is always stored over, or in contact with, a
+liquid that is essentially water. This introduces three subjects for
+consideration: the heavy weight of a large body of liquid, the loss of
+gas by dissolution in that liquid, and the protection of that liquid from
+frost in the winter. The tanks of rising holders are constructed in two
+different ways. In one the tank is a plain cylindrical vessel somewhat
+larger in diameter than the bell which floats in it; and since there must
+be nearly enough water in the tank to fill the interior of the bell when
+the latter assumes its lowest position, the quantity of water is
+considerable, its capacity for dissolving acetylene is large, and the
+amount of any substance that may have to be added to it to lower its
+freezing-point becomes so great as to be scarcely economical. All these
+defects, including that of the necessity for very substantial foundations
+under the holder to support its enormous weight, may be overcome by
+adopting the second method of construction. It is clear that the water in
+the centre of the tank is of no use,--all that is needed being a narrow
+trough for the bell to work in. Large rising holders are therefore
+advantageously built with a tank formed in the shape of an annulus, the
+effective breadth of which is not more than 2 or 3 inches, the centre
+portion being roofed over so as to prevent escape of gas. The same
+principle may be retained with modified details by fitting inside a plain
+cylindrical tank a "dummy" or smaller cylinder, closed by a flat or
+curved top and fastened water- and air-tight to the bottom of the main
+vessel. The construction of annular tanks or the insertion of a "dummy"
+may be attended with difficulty if the tank is wholly or partly sunk
+below the ground level, owing to the lifting force of water in the
+surrounding soil. Where a steel tank is sunk, or a masonry tank is
+constructed, regard must be paid, both in the design of the tank and in
+the manner of construction, to the level of the underground water in the
+neighbourhood, as in certain cases special precautions will be needed to
+avoid trouble from the pressure of the water on the outside of the tank
+until it is balanced by the pressure of the water with which the tank is
+filled. So far as mere dissolution of gas is concerned, the loss may be
+reduced by having a circular disc of wood, &c.;, a little smaller in
+diameter than the boll, floating on the water of a plain tank.
+
+EFFECT OF STORAGE IN GASHOLDER ON ACETYLENE.--It is perfectly true, as
+has been stated elsewhere, that the gas coming from an acetylene
+generator loses some of its illuminating power if it is stored over water
+for any great length of time; such loss being given by Nichols as 94 per
+cent, in five months, and having been found by one of the authors as 0.63
+per cent. per day--figures which stand in fair agreement with one
+another. This wastage is not due to any decomposition of the acetylene in
+contact with water, but depends on the various solubilities of the
+different gases which compose the product obtained from commercial
+calcium carbide. Inasmuch as an acetylene evolved in the best generator
+contains some foreign ingredients, and inasmuch as an inferior product
+contains more (_cf._ Chapter V.), the contents of a holder are never
+pure; but as those contents are principally made up of acetylene itself,
+that gas stands at a higher partial pressure in the holder than the
+impurities. Since acetylene is more soluble in water than any of its
+diluents or impurities, sulphuretted hydrogen and ammonia excepted, and
+since the solubility of all gases increases as the pressure at which they
+are stored rises, the true acetylene in an acetylene holder dissolves in
+the water more rapidly and comparatively more copiously than the
+impurities; and thus the acetylene tends to disappear and the impurities
+to become concentrated within the bell. Simultaneously at the outer part
+of the seal, air is dissolved in the water; and by processes of diffusion
+the air so dissolved passes through the liquid from the outside to the
+inside, where it escapes into the bell, while the dissolved acetylene
+similarly passes from the inside to the outside of the seal, and there
+mingles with the atmosphere. Thus, the longer a certain volume of
+acetylene is stored over water, the more does it become contaminated with
+the constituents of the atmosphere and with the impurities originally
+present in it; while as the acetylene is much more soluble than its
+impurities, more gas escapes from, than enters, the holder by diffusion,
+and so the bulk of stored gas gradually diminishes. However, the figures
+previously given show that this action is too slow to be noticeable in
+practice, for the gas is never stored for more than a few days at a time.
+The action cannot be accepted as a valid argument against the employment
+of a holder in acetylene plant. Such deterioration and wastage of gas may
+be reduced to some extent by the use of a film of some cheap and
+indifferent oil floating on the water inside an acetylene holder; the
+economy being caused by the lower solubility of acetylene in oils than in
+aqueous liquids not saturated with some saline material. Probably almost
+any oil would answer equally well, provided it was not volatile at the
+temperature of the holder, and that it did not dry or gum on standing,
+_e.g._, olive oil or its substitutes; but mineral lubricating oil is
+not so satisfactory. It is, however, not necessary to adopt this method
+in practice, because the solvent power of the liquid in the seal can be
+reduced by adding to it a saline body which simultaneously lowers its
+freezing-point and makes the apparatus more trustworthy in winter.
+
+FREEZING OF GASHOLDER SEAL.--The danger attendant upon the congelation of
+the seal in an acetylene holder is very real, not so much because of the
+fear that the apparatus may be burst, which is hardly to be expected, as
+because the bell will be firmly fixed in a certain position by the ice,
+and the whole establishment lighted by the gas will be left in darkness.
+In these circumstances, hurried and perhaps injudicious attempts may be
+made to thaw the seal by putting red-hot bars into it or by lighting
+fires under it, or the generator-house may be thoughtlessly entered with
+a naked light at a time when the apparatus is possibly in disorder
+through the loss of storage-room for the gas it is evolving. Should a
+seal ever freeze, it must be thawed only by the application of boiling
+water; and the plant-house must be entered, if daylight has passed, in
+perfect darkness or with the assistance of an outside lamp whining
+through a closed window. [Footnote: By "closed window" is to be
+understood one incapable of being opened, fitted with one or two
+thicknesses of stout glass well puttied in, and placed in a wall of the
+house as far as possible from the door.] There are two ways of preventing
+the seal from freezing. In all large installations the generator-house
+will be fitted with a warm-water heating apparatus to protect the portion
+of the plant where the carbide is decomposed, and if the holder is also
+inside the same building it will naturally be safe. If it is outside, one
+of the flow-pipes from the warming apparatus should be led into and round
+the lowest part of the seal, care being taken to watch for, or to provide
+automatic arrangements for making good, loss of water by evaporation. If
+the holder is at a distance from the generator-house, or if for any other
+reason it cannot easily be brought into the warming circuit, the seal can
+be protected in another way; for unlike the water in the generator, the
+water in the holder-seal will perform its functions equally well however
+much it be reduced in temperature, always providing it is maintained in
+the liquid condition. There are numerous substances which dissolve in, or
+mix with, water, and yield solutions or liquids that do not solidify
+until their temperature falls far below that of the natural freezing-
+point. Assuming that those substances in solution do not attack the
+acetylene, nor the metal of which the holder is built, and are not too
+expensive, choice may be made between them at will. Strictly speaking the
+cost of using them is small, because unless the tank is leaky they last
+indefinitely, not evaporating with the water as it is vaporised into the
+gas or into the air. The water-seal of a holder standing within the
+generator-house may eventually become so offensive to the nostrils that
+the liquid has to be renewed; but when this happens it is due to the
+accumulation in the water of the water-soluble impurities of the crude
+acetylene. If, as should be done, the gas is passed through a washer or
+condenser containing much water before it enters the holder the
+sulphuretted hydrogen and ammonia will be extracted, and the seal will
+not acquire an obnoxious odour for a very long time.
+
+Four principal substances have been proposed for lowering the freezing-
+point of the water in an acetylene-holder seal; common salt (sodium
+chloride), calcium chloride (not chloride of lime), alcohol (methylated
+spirit), and glycerin. A 10 per cent. solution of common salt has a
+specific gravity of 1.0734, and does not solidify above -6 deg. C. or 21.2 deg.
+F.; a 15 per cent. solution has a density of 1.111, and freezes at -10 deg.
+C. or 14 deg. F. Common salt, however, is not to be recommended, as its
+solutions always corrode iron and steel vessels more or less quickly.
+Alcohol, in its English denatured form of methylated spirit, is still
+somewhat expensive to use, but it has the advantage of not increasing the
+viscosity of the water; so that a frost-proof mixture of alcohol and
+water will flow as readily through minute tubes choked with needle-
+valves, or through felt and the like, or along wicks, as will plain
+water. For this reason, and for the practically identical one that it is
+quite free from dirt or insoluble matter, diluted spirit is specially
+suitable for the protection of the water in cyclists' acetylene lamps,
+[Footnote: As will appear in Chapter XIII., there is usually no holder in
+a vehicular acetylene lamp, all the water being employed eventually for
+the purpose of decomposing the carbide. This does not affect the present
+question. Dilute alcohol does not attack calcium carbide so energetically
+as pure water, because it stands midway between pure water and pure
+alcohol, which is inert. The attack, however, of the carbide is as
+complete as that of pure water, and the slower speed thereof is a
+manifest advantage in any holderless apparatus.] where strict economy is
+less important than smooth working. For domestic and larger installations
+it is not indicated. As between calcium chloride and glycerin there is
+little to choose; the former will be somewhat cheaper, but the latter
+will not be prohibitively expensive if the high-grade pure glycerins of
+the pharmacist are avoided. The following tables show the amount of each
+substance which must be dissolved in water to obtain a liquid of definite
+solidifying point. The data relating to alcohol were obtained by Pictet,
+and those for calcium chloride by Pickering. The latter are materially
+different from figures given by other investigators, and perhaps it would
+be safer to make due allowance for this difference. In Germany the
+Acetylene Association advocates a 17 per cent. solution of calcium
+chloride, to which Frank ascribes a specific gravity of 1.134, and a
+freezing-point of -8 deg. C. or 17.6 deg. F.
+
+           _Freezing-Points of Dilute Alcohol._
+ _________________________________________________________
+|               |                   |                     |
+| Percentage of | Specific Gravity. |   Freezing-point.   |
+|    Alcohol.   |                   |                     |
+|_______________|___________________|_____________________|
+|               |                   |          |          |
+|               |                   | Degs. C. | Degs. F. |
+|      4.8      |      0.9916       |   -2.0   |  +28.4   |
+|     11.3      |      0.9824       |    5.0   |   23.0   |
+|     16.4      |      0.9761       |    7.5   |   18.5   |
+|     18.8      |      0.9732       |    9.4   |   15.1   |
+|     20.3      |      0.9712       |   10.6   |   12.9   |
+|     22.1      |      0.9689       |   12.2   |   10.0   |
+|     24.2      |      0.9662       |   14.0   |    6.8   |
+|     26.7      |      0.9627       |   16.0   |    3.2   |
+|     29.9      |      0.9578       |   18.9   |   -2.0   |
+|_______________|___________________|__________|__________|
+
+           _Freezing-Points of Dilute Glycerin._
+ _________________________________________________________
+|               |                   |                     |
+| Percentage of | Specific Gravity. |   Freezing-point.   |
+|    Glycerin.  |                   |                     |
+|_______________|___________________|_____________________|
+|               |                   |          |          |
+|               |                   | Degs. C. | Degs. F. |
+|      10       |       1.024       |   -1.0   |  +30.2   |
+|      20       |       1.051       |    2.5   |   27.5   |
+|      30       |       1.075       |    6.0   |   21.2   |
+|      40       |       1.105       |   17.5   |    0.5   |
+|      50       |       1.127       |   31.3   |  -24.3   |
+|_______________|___________________|__________|__________|
+
+      _Freezing-Points of Calcium Chloride Solutions._
+ _________________________________________________________
+|               |                   |                     |
+| Percentage of | Specific Gravity. |   Freezing-point.   |
+|    CaCl_2.    |                   |                     |
+|_______________|___________________|_____________________|
+|               |                   |          |          |
+|               |                   | Degs. C. | Degs. F. |
+|       6       |       1.05        |   -3.0   |  +26.6   |
+|       8       |       1.067       |    4.3   |   24.3   |
+|      10       |       1.985       |    5.9   |   21.4   |
+|      12       |       1.103       |    7.7   |   18.1   |
+|      14       |       1.121       |    9.8   |   14.4   |
+|      16       |       1.140       |   12.2   |   10.0   |
+|      18       |       1.159       |   15.2   |    4.6   |
+|      20       |       1.170       |   18.6   |   -1.5   |
+|_______________|___________________|__________|__________|
+
+Calcium chloride will probably be procured in the solid state, but it can 
+be purchased as a concentrated solution, being sold under the name of
+"calcidum" [Footnote: This proprietary German article is a liquid which
+begins to solidify at -42 deg. C. (-43.6 deg. F.), and is completely solid
+at -56 deg. C. (-69) deg. F.). Diluted with one-third its volume of water,
+it freezes between -20 deg. and -28 deg. C. (-4 deg. and-l8.4 deg. F.). The
+makers recommend that it should be mixed with an equal volume of water.
+Another material known as "Gefrierschutzfluessigkeit" and made by the
+Floersheim chemical works, freezes at -35 deg. C. (-3 deg. F.). Diluted
+with one-quarter its volume of water, it solidifies at -18 deg. C.
+(-0.4 deg. F.); with equal parts of water it freezes at -12 deg. C.
+(10.4 deg. F.). A third product, called "calcidum oxychlorid," has been
+found by Caro and Saulmann to be an impure 35 per cent. solution of calcium
+chloride. Not one of these is suitable for addition to the water used in
+the generating chamber of an acetylene apparatus, the reasons for this
+having already been mentioned.] for the protection of gasholder seals.
+Glycerin itself resembles a strong solution of calcium chloride in being a
+viscid, oily-looking liquid; and both are so much heavier than water that
+they will not mix with further quantities unless they are thoroughly
+agitated therewith. Either may be poured through water, or have water
+floated upon it, without any appreciable admixture taking place; and
+therefore in first adding them to the seal great care must be taken that
+they are uniformly distributed throughout the liquid. If the whole contents
+of the seal cannot conveniently be run into an open vessel in which the
+mixing can be performed, the sealing water must be drawn off a little at a
+time and a corresponding quantity of the protective reagent added to it.
+Care must be taken also that motives of economy do not lead to excessive
+dilution of the reagent; the seal must be competent to remain liquid under
+the prolonged influence of the most severe frost ever known to occur in the
+neighbourhood where the plant is situated. If the holder is placed out of
+doors in an exposed spot where heavy rains may fall on the top of the
+bell, or where snow may collect there and melt, the water is apt to run
+down into the seal, diluting the upper layers until they lose the frost-
+resisting power they originally had. This danger may be prevented by
+erecting a sloping roof over the bell crown, or by stirring up the seal
+and adding more preservative whenever it has been diluted with rain
+water. Quite small holders would probably always be placed inside the
+generator-house, where their seals may be protected by the same means as
+are applied to the generator itself. It need hardly be said that all
+remarks about the dangers incidental to the freezing of holder seals and
+the methods for obviating them refer equally to every item in the
+acetylene plant which contains water or is fitted with a water-sealed
+cover; only the water which is actually used for decomposing the calcium
+carbide cannot be protected from frost by the addition of calcium
+chloride or glycerin--that water must be kept from falling to its natural
+freezing-point. From Mauricheau-Beaupre's experiments, referred to on
+page 106, it would appear that a further reason for avoiding an addition
+of calcium chloride to the water used for decomposing carbide should lie
+in the danger of causing a troublesome production of froth within the
+generator.
+
+It will be convenient to digress here for the purpose of considering how
+the generators of an acetylene apparatus themselves should be protected
+from frost; but it may be said at the outset that it is impossible to lay
+down any fixed rules applicable to all cases, since local conditions,
+such as climate, available resources, dimensions, and exposed or
+protected position of the plant-house vary so largely in different
+situations. In all important installations every item of the plant,
+except the holder, will be collected in one or two rooms of a single
+building constructed of brick or other incombustible material. Assuming
+that long-continued frost reigns at times in the neighbourhood, the whole
+of such a building, with the exception of one apartment used as a carbide
+store only, is judiciously fitted with a heating arrangement like those
+employed in conservatories or hothouses; a system of pipes in which warm
+water is kept circulating being run round the walls of each chamber near
+the floor. The boiler, heated with coke, paraffin, or even acetylene,
+must naturally be placed in a separate room of the apparatus-house having
+no direct (indoor) communication with the rooms containing the
+generators, purifiers, &c.; Instead of coils of pipe, "radiators" of the
+usual commercial patterns may be adopted; but the immediate source of
+heat should be steam, or preferably hot water, and not hot air or
+combustion products from the stove. In exposed situations, where the
+holder is out of doors, one branch of the flow-pipe should enter and
+travel round the seal as previously suggested. Most large country
+residences are already provided with suitable heating apparatus for
+warming the greenhouses, and part of the heat may be capable of diversion
+into the acetylene generator-shed if the latter is erected in a
+convenient spot. In fact, if any existing hot-water warming appliances
+are already at hand, and if they are powerful enough to do a little more
+work, it may be well to put the generator-building in such a position
+that it can be efficiently supplied with artificial warmth from those
+boilers; for any extra length of main necessary to lead the gas into the
+residence from a distant generator will cost less on the revenue account
+than the fuel required to feed a special heating arrangement. In smaller
+installations, especially such as are to be found in mild climates, it
+may be possible to render the apparatus-house sufficiently frost-proof
+without artificial heat by building it partly underground, fitting it
+with a double skylight in place of a window for the entrance of daylight,
+and banking up its walls all round with thick layers of earth. The house
+must have a door, however, which must open outwards and easily, so that
+no obstacle may prevent a hurried exit in emergencies. Such a door can
+hardly be made very thick or double without rendering it heavy and
+difficult to open; and the single door will be scarcely capable of
+protecting the interior if the frost is severe and prolonged.
+Ventilators, too, must be provided to allow of the escape of any gas that
+may accidentally issue from the plant during recharging, &c.; and some
+aperture in the roof will be required for the passage of the vent pipe or
+pipes, which, in certain types of apparatus, move upwards and downwards
+with the bell of the holder. These openings manifestly afford facilities
+for the entry of cold air, so that although this method of protecting
+generator-houses has proved efficient in many places, it can only be
+considered inferior to the plan of installing a proper heating
+arrangement. Occasionally, where local regulations do not forbid, the
+entire generator-house may be built as a "lean-to" against some brick
+wall which happens to be kept constantly warm, say by having a furnace or
+a large kitchen stove on its other side.
+
+In less complicated installations, where there are only two distinct
+items in the plant to be protected from frost--generator and holder--or
+where generator and holder are combined into one piece of apparatus,
+other methods of warming become possible. As the reaction between calcium
+carbide and water evolves much heat, the most obvious way of preventing
+the plant from freezing is to economise that heat, _i.e._, to retain
+as much of it as is necessary within the apparatus. Such a process,
+clearly, is only available if the plant is suitable in external form, is
+practically self-contained, and comprises no isolated vessels containing
+an aqueous liquid. It is indicated, therefore, rather for carbide-to-
+water generators, or for water-to-carbide apparatus in which the carbide
+chambers are situated inside the main water reservoir--any apparatus, in
+fact, where much water is present and where it is all together in one
+receptacle. Moreover, the method of heat economy is suited for
+application to automatic generators rather than to those belonging to the
+opposite system, because automatic apparatus will be generating gas, and
+consequently evolving heat, every evening till late at night--just at the
+time when frost begins to be severe. A non-automatic generator will
+usually be at work only in the mornings, and its store of heat will
+accordingly be much more difficult to retain till nightfall. With the
+object of storing up the heat evolved in the generator, it must be
+covered with some material possessed of the lowest heat-conducting power
+possible; and the proper positions for that material in order of
+decreasing importance are the top, sides, and bottom of the plant. The
+generator may either be covered with a thick layer of straw, carpet,
+flannel, or the like, as is done in the protection of exposed water-
+pipes; or it may be provided with a jacket filled with some liquid. In
+view of the advisability of not having any organic or combustible
+material near the generator, the solid substances just mentioned may
+preferably be replaced by one of those partially inorganic compositions
+sold for "lagging" steam-pipes and engine-cylinders, such as "Fossil
+meal." Indeed, the exact nature of the lagging matters comparatively
+little, because the active substance in retaining the heat in the
+acetylene generator or the steam-pipe is the air entangled in the pores
+of the lagging; and therefore the value of any particular material
+depends mainly on its exhibiting a high degree of porosity. The idea of
+fitting a water jacket round an acetylene generator is not altogether
+good, but it may be greatly improved upon by putting into the jacket a
+strong solution of some cheap saline body which has the property of
+separating from its aqueous solution in the form of crystals containing
+water of crystallisation, and of evolving much heat in so separating.
+This method of storing much heat in a small space where a fire cannot be
+lighted is in common use on some railways, where passengers' foot-warmers
+are filled with a strong solution of sodium acetate. When sodium acetate
+is dissolved in water it manifestly exists in the liquid state, and it is
+presumably present in its anhydrous condition (i.e., not combined with
+water of crystallisation). The common crystals are solid, and contain 3
+molecules of water of crystallisation--also clearly in the solid state.
+Now, the reaction
+
+NaC_2H_3O_2 + 3H_2O = NaC_2H_3O_2.3H_2O
+
+(anhydrous acetate)   (crystals)
+
+evolves 4.37 calories (Berthelot), or 1.46 calorie for each molecule of
+water; and whereas 1 kilo. of water only evolves 1 large calorie of heat
+as its temperature falls 1 deg. C., 18 grammes of water (1 gramme-molecule)
+evolve l.46 large calorie when they enter into combination with anhydrous
+sodium acetate to assist in forming crystals--and this 1.46 calorie may
+either be permitted to warm the mass of crystals, or made to do useful work
+by raising the temperature of some adjacent substance. Sodium acetate
+crystals dissolve in 3.9 parts by weight of water at 6 deg. C. (43 deg. F.)
+or in 2.4 parts at 37 deg. C. (99 deg. F.). If, then, a jacket round an
+acetylene apparatus is filled with a warm solution of sodium acetate
+crystals in (say) 3 parts by weight of water, the liquid will crystallise
+when it reaches some temperature between 99 deg. and 43 deg. F.; but when
+the generator comes into action, the heat liberated will change the mass of
+crystals into a liquid without raising its sensible temperature to
+anything like the extent that would happen were the jacket full of simple
+water. Not being particularly warm to the touch, the liquefied product in
+the jacket will not lose much heat by radiation, &c.;, into the
+surrounding air; but when the water in the generator falls again (after
+evolution of acetylene ceases) the contents of the jacket will also cool,
+and finally will begin to crystallise once more, passing a large amount
+of low-temperature heat into the water of the generator, and safely
+maintaining it for long periods of time at a temperature suitable for the
+further evolution of gas. Like the liquid in the seal of an isolated
+gasholder, the liquid in such a jacket will last indefinitely; and
+therefore the cost of the sodium acetate in negligible.
+
+Another method of keeping warm the water in any part of an acetylene
+installation consists in piling round the apparatus a heap of fresh
+stable manure, which, as is well known, emits much heat as it rots. Where
+horses are kept, such a process may be said to cost nothing. It has the
+advantage over methods of lagging or jacketing that the manure can be
+thrown over any pipe, water-seal, washing apparatus, &c.;, even if the
+plant is constructed in several separate items. Unfortunately the ammonia
+and the volatile organic compounds which are produced during the natural
+decomposition of stable manure tend seriously to corrode iron and steel,
+and therefore this method of protecting an apparatus from frost should
+only be employed temporarily in times of emergency.
+
+CORROSION IN APPARATUS.--All natural water is a solution of oxygen and
+may be regarded also as a weak solution of the hypothetical carbonic
+acid. It therefore causes iron to rust more or less quickly; and since no
+paint is absolutely waterproof, especially if it has been applied to a
+surface already coated locally with spots of rust, iron and steel cannot
+be perfectly protected by its aid. More particularly at a few inches
+above and below the normal level of the water in a holder, therefore, the
+metal soon begins to exhibit symptoms of corrosion which may eventually
+proceed until the iron is eaten away or becomes porous. One method of
+prolonging the life of such apparatus is to give it fresh coats of paint
+periodically; but unless the old layers are removed where they have
+cracked or blistered, and the rust underneath is entirely scraped off
+(which is practically impossible), the new paint films will not last very
+long. Another more elegant process for preserving any metal like iron
+which is constantly exposed to the attack of a corrosive liquid, and
+which is readily applicable to acetylene holders and their tanks, depends
+on the principle of galvanic action. When two metals in good electrical
+contact are immersed in some liquid that is capable of attacking both,
+only that metal will be attacked which is the more electro-positive, or
+which (the same thing in other words) is the more readily attacked by the
+liquid, evolving the more heat during its dissolution. As long as this
+action is proceeding, as long, that is, as some of the more electro-
+positive material is present, the less electro-positive material will not
+suffer. All that has to be done, therefore, to protect the walls of an
+acetylene-holder tank and the sides of its bell is to hang in the seal,
+supported by a copper wire fastened to the tank walls by a trustworthy
+electrical joint (soldering or riveting it), a plate or rod of some more
+electro-positive metal, renewing that plate or rod before it is entirely
+eaten away. [Footnote: Contact between the bell and the rod may be
+established by means of a flexible metallic wire; or a separate rod might
+be used for the bell itself.] If the iron is bare or coated with lead
+(paint may be overlooked), the plate may be zinc; if the iron is
+galvanised, _i.e._, coated with zinc, the plate may be aluminium or
+an alloy of aluminium and zinc. The joint between the copper wire and the
+zinc or aluminium plate should naturally be above the water-level. The
+foregoing remarks should be read in conjunction with what was said in
+Chapter II., about the undesirability of employing a soft solder
+containing lead in the construction of an acetylene generator. Here it is
+proposed intentionally to set up a galvanic couple to prevent corrosion;
+there, with the same object in view, the avoidances of galvanic action is
+counselled. The reason for this difference is self-evident; here a
+foreign metal is brought into electrical contact with the apparatus in
+order that the latter may be made electro-negative; but when a joint is
+soldered with lead, the metal of the generator is unintentionally made
+electro-positive. Here the plant is protected by the preferential
+corrosion of a cheap and renewable rod; in the former case the plant is
+encouraged to rust by the unnecessary presence of an improperly selected
+metal.
+
+OTHER ITEMS IN GENERATING PLANT.--It has been explained in Chapter II.
+that the reaction between calcium carbide and water is very tumultuous in
+character, and that it occurs with great rapidity. Clearly, therefore,
+the gas comes away from the generator in rushes, passing into the next
+item of the plant at great speed for a time, and then ceasing altogether.
+The methods necessarily adopted for purifying the crude gas are treated
+of in Chapter V.; but it is manifest now that no purifying material can
+prove efficient unless the acetylene passes through it at a uniform rate,
+and at one which is as slow as other conditions permit. For this reason
+the proper position of the holder in an acetylene installation is before
+the purifier, and immediately after the condenser or washer which adjoins
+the generator. By this method of design the holder is filled up
+irregularly, the gas passing into it sometimes at full speed, sometimes
+at an imperceptible rate; but if the holder is well balanced and guided
+this is a matter of no consequence. Out of the holder, on the other hand,
+the gas issues at a rate which is dependent upon the number and capacity
+of the burners in operation at any moment; and in ordinary conditions
+this rate is so much more uniform during the whole of an evening than the
+rate at which the gas is evolved from the carbide, that a purifier placed
+after the holder is given a far better opportunity of extracting the
+impurities from the acetylene than it would have were it situated before
+the holder, as is invariably the case on coal-gas works.
+
+For many reasons, such as capacity for isolation when being recharged or
+repaired, it is highly desirable that each item in an acetylene plant
+shall be separated, or capable of separation, from its neighbours; and
+this observation applies with great force to the holder and the
+decomposing vessel of the generator. In all large plants each vessel
+should be fitted with a stopcock at its inlet and, if necessary, one at
+its outlet, being provided also with a by-pass so that it can be thrown
+out of action without interfering with the rest of the installation. In
+the best practice the more important vessels, such as the purifiers, will
+be in duplicate, so that unpurified gas need not be passed into the
+service while a solitary purifier is being charged afresh. In smaller
+plants, where less skilled labour will probably be bestowed on the
+apparatus, and where hand-worked cocks are likely to be neglected or
+misused, some more, automatic arrangement for isolating each item is
+desirable. There are two automatic devices which may be employed for the
+purposes in view, the non-return valve and the water-seal. The non-return
+valve is simply a mushroom or ball valve without handle, lifted off its
+seat by gas passing from underneath whenever the pressure of the gas
+exceeds the weight of the valve, but falling back on to its seat and
+closing the pipe when the pressure decreases or when pressure above is
+greater than that below. The apparatus works perfectly with a clean gas
+or liquid which is not corrosive; but having regard to the possible
+presence of tarry products, lime dust, or sludge, condensed water loaded
+with soluble impurities, &c.;, in the acetylene, a non-return valve is not
+the best device to adopt, for both it and the hand-worked cock or screw-
+down valve are liable to stick and give trouble. The best arrangement in
+all respects, especially between the generator and the holder, is a
+water-seal. A water-seal in made by leading the mouth of a pipe
+delivering gas under the level of water in a suitable receptacle, so that
+the issuing gas has to bubble through the liquid. Gas cannot pass
+backwards through the pipe until it has first driven so much liquid
+before it that the level in the seal has fallen below the pipe's mouth;
+and if the end of the pipe is vertical more pressure than can possibly be
+produced in the apparatus is necessary to effect this. Omitting the side
+tube _b_, one variety of water-seal is shown at D in Fig. 7 on page
+103. The water being at the level _l_, gas enters at _a_ and
+bubbles through it, escaping from the apparatus at _c_. It cannot
+return from _c_ to _a_ without driving the water out of the
+vessel till its level falls from _f_ to _g_; and since the area
+of the vessel is much greater than that of the pipe, so great a fall in
+the vessel would involve a far greater rise in _a_. It is clear that
+such a device, besides acting as a non-return valve, also fulfils two
+other useful functions: it serves to collect and retain all the liquid
+matter that may be condensed in the pipe _a_ from the spot at which
+it was originally level or was given a fall to the seal, as well as that
+condensing in _c_ as far as the spot where _c_ dips again; and
+it equally acts as a washer to the gas, especially if the orifice
+_g_ of the gas-inlet pipe is not left with a plain mouth as
+represented in the figure, but terminates in a large number of small
+holes, the pipe being then preferably prolonged horizontally, with minute
+holes in it so as to distribute the gas throughout the entire vessel.
+Such an apparatus requires very little attention. It may with advantage
+be provided with the automatic arrangement for setting the water-level
+shown at _d_ and _e_. _d_ is a tunnel tube extending
+almost to the bottom of the vessel, and _e_ is a curved run-off pipe
+of the form shown. The lower part of the upper curve in _e_ is above
+the level _f_, being higher than _f_ by a distance equal to
+that of the gas pressure in the pipes; and therefore when water is poured
+into the funnel it fills the vessel till the internal level reaches
+_f_, when the surplus overflows of itself. The operation thus not
+only adjusts the quantity of water present to the desired level so that
+_a_ cannot become unsealed, but it also renews the liquid when it
+has become foul and nearly saturated with dissolved and condensed
+impurities from the acetylene. It would be a desirable refinement to give
+the bottom of the vessel a slope to the mouth of _e_, or to some
+other spot where a large-bore draw-off cock could be fitted for the
+purpose of extracting any sludge of lime, &c.;, that may collect. By
+having such a water-seal, or one simpler in construction, between the
+generator and the holder, the former may be safely opened at any time for
+repairs, inspection, or the insertion of a fresh charge of carbide while
+the holder is full of gas, and the delivery of acetylene to the burners
+at a specified pressure will not be interrupted. If a cock worked by hand
+were employed for the separation of the holder from the generator, and
+the attendant were to forget to close it, part or all of the acetylene in
+the holder would escape from the generator when it was opened or
+disconnected.
+
+Especially when a combined washer and non-return valve follows
+immediately after a generator belonging to the shoot type, and the mouth
+of the shoot is open to the air in the plant-house, it is highly
+desirable that the washer shall be fitted with some arrangement of an
+automatic kind for preventing the water level rising much above its
+proper position. The liquid in a closed washer tends to rise as the
+apparatus remains in use, water vapour being condensed within it and
+liquid water, or froth of lime, being mechanically carried forward by the
+stream of acetylene coming from the decomposing chamber. In course of
+time, therefore, the vertical depth to which the gas-inlet pipe in the
+washer is sealed by the liquid increases; and it may well be that
+eventually the depth in question, plus the pressure thrown by the holder
+bell, may become greater than the pressure which can be set up inside the
+generator without danger of gas slipping under the lower edge of the
+shoot. Should this state of things arise, the acetylene can no longer
+force its way through the washer into the holder bell, but will escape
+from the mouth of the shoot; filling the apparatus-house with gas, and
+offering every opportunity for an explosion if the attendant disobeys
+orders and takes a naked light with him to inspect the plant.
+
+It is indispensable that every acetylene apparatus shall be fitted with a
+safety-valve, or more correctly speaking a vent-pipe. The generator must
+have a vent-pipe in case the gas-main leading to the holder should become
+blocked at any time, and the acetylene which continues to be evolved in
+all water-to-carbide apparatus, even after the supply of water has been
+cut off be unable to pass away. Theoretically a non-automatic apparatus
+does not require a vent-pipe in its generator because all the gas enters
+the holder immediately, and is, or should be, unable to return through
+the intermediate water seal; practically such a safeguard is absolutely
+necessary for the reason given. The holder must have a safety-valve in
+case the cutting-off mechanism of the generator fails to act, and more
+gas passes into it than it can store. Manifestly the pressure of the gas
+in a water-sealed holder or in any generator fitted with a water-sealed
+lid cannot rise above that corresponding with the depth of water in the
+seal; for immediately the pressure, measured in inches of water, equals
+the depth of the sealing liquid, the seal will be blown out, and the gas
+will escape. Such an occurrence, however, as the blowing of a seal must
+never be possible in any item of an acetylene plant, more especially in
+those items that are under cover, for the danger that the issuing gas
+might be fired or might produce suffocation would be extremely great.
+Typical simple forms of vent-pipe suitable for acetylene apparatus are
+shown in Fig. 7. In each case the pipe marked "vent" is the so-called
+safety-valve; it is open at its base for the entry of gas, and open at
+its top for the escape of the acetylene into the atmosphere, such top
+being in all instances carried through the roof of the generator-house
+into the open air, and to a spot distant from any windows of that house
+or of the residence, where it can prove neither dangerous nor a nuisance
+by reason of its odour. At A is represented the vent-pipe of a
+displacement vessel, which may either be part of a displacement holder or
+of a generator working on the displacement principle. The vent-pipe is
+rigidly fixed to the apparatus. If gas is generated within the closed
+portion of the holder or passes through it, and if the pressure so set up
+remains less than that which is needed to move the water from the level
+_l_ to the levels _l'_ and _l"_, the mouth of the pipe is
+under water, and acetylene cannot enter it; but immediately such an
+amount of gas is collected, or such pressure is produced that the
+interior level sinks below _l"_, which is that of the mouth of the
+pipe, it becomes unsealed, and the surplus gas freely escapes. There are
+two minor points in connexion with this form of vent-pipe often
+overlooked. At the moment when the water arrives at _l"_ in the
+closed half of the apparatus, its level in the interior of the vent-pipe
+stands at _l'_, identical with that in the open hall of the
+apparatus (for the mouth of the vent-pipe and the water in the open hall
+of the apparatus are alike exposed to the pressure of the atmosphere
+only). When the water, then, descends just below _l"_ there is an
+amount of water inside the pipe equal in height to the distance between
+_l'_ and _l"_; and before the acetylene can escape, it must
+either force this water as a compact mass out of the upper mouth of the
+vent-pipe (which it is clearly not in a position to do), drive it out of
+the upper mouth a little at a time, or bubble through it till the water
+is gradually able to run downwards out of the pipe as its lower opening
+is more fully unsealed. In practice the acetylene partly bubbles through
+this water and partly drives it out of the mouth of the pipe; on some
+occasions temporarily yielding irregular pressures at the burners which
+cause them to jump, and always producing a gurgling noise in the vent-
+pipe which in calculated to alarm the attendant. If the pipe is too small
+in diameter, and especially if its lower orifice is cut off perfectly
+horizontal and constricted slightly, the water may refuse to escape from
+the bottom altogether, and the pipe will fail to perform its allotted
+task. It is better therefore to employ a wide tube, and to cut off its
+mouth obliquely, or to give its lower extremity the shape of an inverted
+funnel. At the half of the central divided drawing marked B (Fig. 7) is
+shown a precisely similar vent-pipe affixed to the bell of a rising
+holder, which behaves in an identical fashion when by the rising of the
+bell its lower end is lifted out of the water in the tank. The features
+described above as attendant, upon the act of unsealing of the
+displacement-holder vent-pipe occur here also, but to a less degree; for
+the water remaining in the pipe at the moment of unsealing is only that
+which corresponds with the vertical distance between _l'_ and
+_l"_, and in a rising holder this is only a height always equal to
+the pressure given by the bell. Nevertheless this form of vent-pipe
+produces a gurgling noise, and would be better for a trumpet-shaped
+mouth. A special feature of the pipe in B is that unless it is placed
+symmetrically about the centre of the bell its weight tends to throw the
+bell out of the vertical, and it may have to be supported at its upper
+part; conversely, if the pipe is arranged concentrically in the bell, it
+may be employed as part of the guiding arrangement of the bell itself.
+Manifestly, as the pipe must be long enough to extend through the roof of
+the generator-house, its weight materially increases the weight of the
+bell, and consequently the gas pressure in the service; this fact is not
+objectionable provided due allowance is made for it. So tall a vent-pipe,
+however, seriously raises the centre of gravity of the bell and may make
+it top-heavy. To work well the centre of gravity of a holder bell should
+be as low as possible, any necessary weighting being provided
+symmetrically about its circumference and close to its bottom edge. The
+whole length of an ascending vent-pipe need not be carried by the rising
+bell, because the lower portion, which must be supported by the bell, can
+be arranged to slide inside a wider length of pipe which is fixed to the
+roof of the generator-house at the point where it passes into the open
+air.
+
+[Illustration: FIG. 7.--TYPICAL FORMS OF VENT-PIPES OR SAFETY-VALVES.]
+
+A refinement upon this vent-pipe is represented at C, where it is rigidly
+fastened to the tank of the holder, and has its internal aperture always
+above the level of the water in the apparatus. Rigidly fixed to the crown
+of the bell is a tube of wider diameter, _h_, which is closed at its
+upper end. _h_ is always full of gas, and its mouth is normally
+beneath the level of the water in the seal; but when the bell rises to
+its highest permissible position, the mouth of _h_ comes above the
+water, and communication is opened between the holder and the outer
+atmosphere. No water enters the vent-pipe from the holder, and therefore
+no gurgling or irregular pressure is produced. Another excellent
+arrangement of a vent-pipe, suggested by Klinger of Gumpoldskirchen, is
+shown at D, a drawing which has already been partly considered as a
+washer and water-seal. For the present purpose the main vessel and its
+various pipes are so dimensioned that the vertical height _g_ to
+_f_ is always appreciably greater than the gas pressure in the
+service or in the generator or gasholder to which it is connected. In
+these circumstances the gas entering at _a_ depresses the water in
+the pipe below the level _f_ to an extent equal to the pressure at
+which it enters that pipe--an extent normally less than the distance
+_f_ to _g_; and therefore gas never passes into the body of the
+vessel, but travels away by the side tube _b_ (which in former
+references to this drawing was supposed to be absent). If, however, the
+pressure at _a_ exceeds that of the vertical height _f_ to
+_g_, gas escapes at _g_ through the water, and is then free to
+reach the atmosphere by means of the vent _c_. As before, _d_
+serves to charge the apparatus with water, and _e_ to ensure a
+proper amount being added. Clearly no liquid can enter the vent-pipe in
+this device. Safety-valves such as are added to steam-boilers and the
+like, which consist of a weighted lever holding a conical valve down
+against its seat, are not required in acetylene apparatus, for the
+simpler hydraulic seals discussed above can always be fitted wherever
+they may be needed. It should be noticed that these vent-pipes only come
+into operation in emergencies, when they are required to act promptly. No
+economy is to be effected by making them small in diameter. For obvious
+reasons the vent-pipe of a holder should have a diameter equal to that of
+the gas-inlet tube, and the vent-pipe of a generator be equal in size to
+the gas-leading tube.
+
+FROTHING IN GENERATORS.--A very annoying trouble which crops up every now
+and then during the evolution of acetylene consists in the production of
+large masses of froth within the generator. In the ordinary way,
+decomposition of carbide is accompanied by a species of effervescence,
+but the bubbles should break smartly and leave the surface of the liquid
+reasonably free from foam. Sometimes, however, the bubbles do not break,
+but a persistent "head" of considerable height is formed. Further
+production of gas only increases the thickness of the froth until it
+rises so high that it is carried forward through the gas-main into the
+next item of the plant. The froth disappears gradually in the pipes, but
+leaves in them a deposit of lime which sooner or later causes
+obstructions by accumulating at the angles and dips; while during its
+presence in the main the steady passage of gas to the holder is
+interrupted and the burners may even be made to jump. Manifestly the
+defect is chiefly, if not always, to be noticed in the working of
+carbide-to-water generators. The phenomenon has been examined by
+Mauricheau-Beaupre, who finds that frothing is not characteristic of pure
+carbide and that it cannot be attributed to any of the impurities
+normally present in commercial carbide. If, however, the carbide contains
+calcium chloride, frothing is liable to occur. A 0.1 per cent. solution
+of calcium chloride appears to yield some foam when carbide is decomposed
+in it, and a 1 per cent. solution to foam in a pronounced manner. In the
+absence of calcium chloride, the main cause of frothing seems to be the
+presence in the generator of new paint or tar. If a generator is taken
+into use before the paint in any part of it which becomes moistened by
+warm lime-water has had opportunity of drying thoroughly hard, frothing
+is certain to occur; and even if the carbide has been stored for only a
+short time in a tin or drum which has been freshly painted, a production
+of froth will follow when it is decomposed in water. The products of the
+polymerisation of acetylene also tend to produce frothing, but not to
+such an extent as the turpentine in paint and the lighter constituents of
+coal-tar. Carbide stored even temporarily in a newly painted tin froths
+on decomposition because it has absorbed among its pores some of the
+volatile matter given off by the paint during the process of desiccation.
+
+THE "DRY" PROCESS OF GENERATION.--A process for generating acetylene,
+totally different in principle from those hitherto considered, has been
+introduced in this country. According to the original patents of G. J.
+Atkins, the process consisted in bringing small or powdered carbide into
+mechanical contact with some solid material containing water, the water
+being either mixed with the solid reagent or attached to it as water of
+crystallisation. Such reagents indeed were claimed as crude starch and
+the like, the idea being to recover a by-product of pecuniary value. Now
+the process seems to be known only in that particular form in which
+granulated carbide is treated with crystallised sodium carbonate,
+_i.e._, common washing soda. Assuming the carbide employed to be
+chemically pure and the reaction between it and the water of
+crystallisation contained in ordinary soda crystals to proceed
+quantitatively, the production of acetylene by the dry process should be
+represented by the following chemical equation:
+
+5CaC_2 + Na_2CO_3.10H_2O = 5C_2H_2 + 5Ca(OH)_2 + Na_2CO_3.
+
+On calculating out the molecular weights, it will be seen that 286 parts
+of washing soda should suffice for the decomposition of 320 parts of pure
+calcium carbide, or in round numbers 9 parts of soda should decompose 10
+parts of carbide. In practice, however, it seems to be found that from 1
+to 1.5 parts of soda are needed for every part of carbide.
+
+The apparatus employed is a metal drum supported on a hollow horizontal
+spindle, one end of which is closed and carries a winch handle, and the
+other end of which serves to withdraw the gas generated in the plant. The
+drum is divided into three compartments by means of two vertical
+partitions so designed that when rotation proceeds in one particular
+direction portions of the two reagents stored in one end compartment pass
+into the centre compartment; whereas when rotation proceeds in the
+opposite direction, the material in the centre compartment is merely
+mixed together, partly by the revolution of the drum, partly with the
+assistance of a stationary agitator slung loosely from the central
+spindle. The other end compartment contains coke or sawdust or other dry
+material through which the gas passes for the removal of lime or other
+dust carried in suspension as it issues from the generating compartment.
+The gas then passes through perforations into the central spindle, one
+end of which is connected by a packed joint with a fixed pipe, which
+leads to a seal or washer containing petroleum. Approached from a
+theoretical standpoint, it will be seen that this method of generation
+entirely sacrifices the advantages otherwise accruing from the use of
+liquid water as a means for dissipating the heat of the chemical
+reaction, but on the other hand, inasmuch as the substances are both
+solid, the reaction presumably occurs more slowly than it would in the
+presence of liquid water; and moreover the fact that the water employed
+to act upon the carbide is in the solid state and also more or less
+combined with the rest of the sodium carbonate molecule, means that, per
+unit of weight, the water decomposed must render latent a larger amount
+of heat than it would were it liquid. Experiments made by one of the
+authors of this book tend to show that the gas evolved from carbide by
+the dry process contains rather less phosphorus than it might in other
+conditions of generation, and as a fact gas made by the dry process is
+ordinarily consumed without previous passage through any chemical
+purifying agent. It is obvious, however, that the use of the churn
+described above greatly increases the labour attached to the production
+of the gas; while it is not clear that the yield per unit weight of
+carbide decomposed should be as high as that obtained in wet generation.
+The inventor has claimed that his by-product should be valuable and
+saleable, apparently partly on the ground that it should contain caustic
+soda. Evidence, however, that a reaction between the calcium oxide or
+hydroxide and the sodium carbonate takes place in the prevailing
+conditions is not yet forthcoming, and the probabilities are that such
+decomposition would not occur unless the residue were largely diluted
+with water. [Footnote: The oldest process employed for manufacturing
+caustic soda consisted in mixing a solution of sodium carbonate with
+quick or slaked lime, and it has been well established that the
+causticisation of the soda will not proceed when the concentration of the
+liquid is greater than that corresponding with a specific gravity of
+about 1-10, _i.e._, when the liquid contains more than some 8 to 10
+per cent, of sodium hydroxide.] Conversely there are some grounds for
+believing that the dry residue is less useful than an ordinary wet
+residue for horticultural purposes, and also for the production of
+whitewash. From a financial standpoint, the dry process suffers owing to
+the expense involved in the purchase of a second raw material, for which
+but little compensation can be discovered unless it is proved that the
+residue is intrinsically more valuable than common acetylene-lime and can
+be sold or used advantageously by the ordinary owner of an installation.
+The discarding of the chemical purifier at the present day is a move of
+which the advantage may well be overrated.
+
+ARTIFICIAL LIGHTING OF GENERATOR SHEDS.--It has already been argued that
+all normal or abnormal operations in connexion with an acetylene
+generating plant should be carried out, if possible, by daylight; and it
+has been shown that on no account must a naked light ever be taken inside
+the house containing such a plant. It will occasionally happen, however,
+that the installation must be recharged or inspected after nightfall. In
+order to do this in safety, a double window, incapable of being opened,
+should be fitted in one wall of the house, as far as possible from the
+door, and in such a position that the light may fall on to all the
+necessary places. Outside this window may be suspended an ordinary hand-
+lantern burning oil or paraffin; or, preferably, round this window may be
+built a closed lantern into which some source of artificial light may be
+brought. If the acetylene plant has an isolated holder of considerable
+size, there is no reason at all why a connexion should not be made with
+the service-pipes, and an acetylene flame be used inside this lantern;
+but with generators of the automatic variety, an acetylene light is not
+so suitable, because of the fear that gas may not be available precisely
+at the moment when it is necessary to have light in the shed. It would,
+however, be a simple matter to erect an acetylene burner inside the
+lantern in such a way that when needed an oil-lamp or candle could be
+used instead. Artificial internal light of any kind is best avoided; the
+only kind permissible being an electric glow-lamp. If this is employed,
+it should be surrounded by a second bulb or gas-tight glass jacket, and
+preferably by a wire cage as well; the wires leading to it must be
+carefully insulated, and all switches or cut-outs (which may produce a
+spark) must be out of doors. The well-known Davy safety or miner's lamp
+is not a trustworthy instrument for use with acetylene because of
+(_a_) the low igniting-point of acetylene; (_b_) the high
+temperature of its flame; and (_c_) the enormous speed at which the
+explosive wave travels through a mixture of acetylene and air. For these
+reasons the metallic gauze of the Davy lamp is not so efficient a
+protector of the flame as it is in cases of coal-gas, methane, &c.;
+Moreover, in practice, the Davy lamp gives a poor light, and unless in
+constant use is liable to be found out of order when required. It should,
+however, be added that modern forms of the safety lamp, in which the
+light is surrounded by a stout glass chimney and only sufficient gauze is
+used for the admission of fresh air and for the escape of the combustion
+products, appear quite satisfactory when employed in an atmosphere
+containing some free acetylene.
+
+
+
+CHAPTER IV
+
+THE SELECTION OF AN ACETYLENE GENERATOR
+
+In Chapter II. an attempt has been made to explain the physical and
+chemical phenomena which accompany the interaction of calcium carbide and
+water, and to show what features in the reaction are useful and what
+inconvenient in the evolution of acetylene on a domestic or larger scale.
+Similarly in Chapter III. have been described the various typical devices
+which may be employed in the construction of different portions of
+acetylene plant, so that the gas may be generated and stored under the
+best conditions, whether it is evolved by the automatic or by the non-
+automatic system. This having been done, it seemed of doubtful utility to
+include in the first edition of this work a long series of illustrations
+of such generators as had been placed on the markets by British, French,
+German, and American makers. It would have been difficult within
+reasonable limits to have reproduced diagrams of all the generators that
+had been offered for sale, and absolutely impossible within the limits of
+a single hand-book to picture those which had been suggested or patented.
+Moreover, some generating apparatus appeared on the market ephemerally;
+some was constantly being modified in detail so as to alter parts which
+experience or greater knowledge had shown the makers to be in need of
+alteration, while other new apparatus was constantly being brought out.
+On these and other grounds it did not appear that much good purpose would
+have been served by describing the particular apparatus which at that
+time would have been offered to prospective purchasers. It seemed best
+that the latter should estimate the value and trustworthiness of
+apparatus by studying a section of it in the light of the general
+principles of construction of a satisfactory generator as enunciated in
+the book. While the position thus taken by the authors in 1903 would
+still not be incorrect, it has been represented to them that it would
+scarcely be inconsistent with it to give brief descriptions of some of
+the generators which are now being sold in Great Britain and a few other
+countries. Six more years' experience in the design and manufacture of
+acetylene plant has enabled the older firms of manufacturers to fix upon
+certain standard patterns for their apparatus, and it may confidently be
+anticipated that many of these will survive a longer period. Faulty
+devices and designs have been weeded out, and there are lessons of the
+past as well as theoretical considerations to guide the inventor of a new
+type of generator. On those grounds, therefore, an attempt has now been
+made to give brief descriptions, with sectional views, of a number of the
+generators now on the market in Great Britain. Moreover, as the first
+edition of this book found many readers in other countries, in several of
+which there is greater scope for the use of acetylene, it has been
+decided to describe also a few typical or widely used foreign generators.
+All the generators described must stand or fall on their merits, which
+cannot be affected by any opinion expressed by the authors. In the
+descriptions, which in the first instance have generally been furnished
+by the manufacturers of the apparatus, no attempt has therefore been made
+to appraise the particular generators, and comparisons and eulogistic
+comments have been excluded. The descriptions, however, would
+nevertheless have been somewhat out of place in the body of this book;
+they have therefore been relegated to a special Appendix. It has, of
+course, been impossible to include the generators of all even of the
+English manufacturers, and doubtless many trustworthy ones have remained
+unnoticed. Many firms also make other types of generators in addition to
+those described. It must not be assumed that because a particular make of
+generator is not mentioned it is necessarily faulty. The apparatus
+described may be regarded as typical or well known, and workable, but it
+is not by reason of its inclusion vouched for in any other respect by the
+authors. The Appendix is intended, not to bias or modify the judgment of
+the would-be purchaser of a generator, but merely to assist him in
+ascertaining what generators there are now on the market.
+
+The observations on the selection of a generator which follow, as well as
+any references in other chapters to the same matter, have been made
+without regard to particular apparatus of which a description may (or may
+not) appear in the Appendix. With this premise, it may be stated that the
+intending purchaser should regard the mechanism of a generator as shown
+in a sectional view or on inspection of the apparatus itself. If the
+generator is simple in construction, he should be able to understand its
+method of working at a glance, and by referring it to the type
+(_vide_ Chapter III.) to which it belongs, be able to appraise its
+utility from a chemical and physical aspect from what has already been
+said. If the generator is too complicated for ready understanding of its
+mode of working, it is not unlikely to prove too complicated to behave
+well in practice. Not less important than the mechanism of a generator is
+good construction from the mechanical point of view, _i.e._, whether
+stout metal has been employed, whether the seams and joints are well
+finished, and whether the whole apparatus has been built in the workman-
+like fashion which alone can give satisfaction in any kind of plant.
+Bearing these points in mind, the intending purchaser may find assistance
+in estimating the mechanical value of an apparatus by perusing the
+remainder of this chapter, which will be devoted to elaborating at length
+the so-called scientific principles underlying the construction of a
+satisfactory generator, and to giving information on the mechanical and
+practical points involved.
+
+It is perhaps desirable to remark that there is scarcely any feature in
+the generation of acetylene from calcium carbide and water--certainly no
+important feature--which introduces into practice principles not already
+known to chemists and engineers. Once the gas is set free it ranks simply
+as an inflammable, moisture-laden, somewhat impure, illuminating and
+heat-giving gas, which has to be dried, purified, stored, and led to the
+place of combustion; it is in this respect precisely analogous to coal-
+gas. Even the actual generation is only an exothermic, or heat-producing,
+reaction between a solid and a liquid, in which rise of temperature and
+pressure must be prevented as far as possible. Accordingly there is no
+fundamental or indispensable portion of an acetylene apparatus which
+lends itself to the protection of the patent laws; and even the details
+(it may be said truthfully, if somewhat cynically) stand in patentability
+in inverse ratio to their simplicity and utility.
+
+During the early part of 1901 a Committee appointed by the British Home
+Office, "to advise as to the conditions of safety to which acetylene
+generators should conform, and to carry out tests of generators in the
+market in order to ascertain how far those conform with such conditions,"
+issued a circular to the trade suggesting that apparatus should be sent
+them for examination. In response, forty-six British generators were
+submitted for trial, and were examined in a fashion which somewhat
+exceeded the instructions given to the Committee, who finally reported to
+the Explosives Department of the Home Office in a Blue Book, No. Cd. 952,
+which can be purchased through any bookseller. This report comprises an
+appendix in which most of the apparatus are illustrated, and it includes
+the result of the particular test which the Committee decided to apply.
+Qualitatively the test was useful, as it was identical in all instances,
+and only lacks full utility inasmuch as the trustworthiness of the
+automatic mechanism applied to such generators as were intended to work
+on the automatic system was not estimated. Naturally, a complete
+valuation of the efficiency of automatic mechanism cannot be obtained
+from one or even several tests, it demands long-continued watching; but a
+general notion of reliability might have been obtained. Quantitatively,
+however, the test applied by the Committee is not so free from reproach,
+for, from the information given, it would appear to have been less fair
+to some makers of apparatus than to others. Nevertheless the report is
+valuable, and indicates the general character of the most important
+apparatus which were being offered for sale in the United Kingdom in
+1900-1901.
+
+It is not possible to give a direct answer to the question as to which is
+the best type of acetylene generator. There are no generators made by
+responsible firms at the present time which are not safe. Some may be
+easier to charge and clean than others; some require more frequent
+attention than others; some have moving parts less likely to fail, when
+handled carelessly, than others; some have no moving mechanism to fail.
+For the illumination of a large institution or district where one man can
+be fully occupied in attending to the plant, cleaning, lighting, and
+extinguishing the lamps, or where other work can be found for him so as
+to leave him an hour or so every day to look after the apparatus, the
+hand-fed carbide-to-water generator L (Fig. 6) has many advantages, and
+is probably the best of all. In smaller installations choice must be made
+first between the automatic and the non-automatic principle--the
+advantages most frequently lying with the latter. If a non-automatic
+generator is decided upon, the hand carbide-feed or the flooded-
+compartment apparatus is almost equally good; and if automatism is
+desired, either a flooded-compartment machine or one of the most
+trustworthy types of carbide-feed apparatus may be taken. There are
+contact apparatus on the markets which appear never to have given
+trouble, and those are worthy of attention. Some builders advocate their
+own apparatus because the residue is solid and not a cream. If there is
+any advantage in this arising from greater ease in cleaning and
+recharging the generator and in disposing of the waste, that advantage is
+usually neutralised by the fear that the carbide may not have been wholly
+decomposed within the apparatus; and whereas any danger arising from
+imperfectly spent carbide being thrown into a closed drain may be
+prevented by flooding the residue with plenty of water in an open vessel,
+imperfect decomposition in the generator means a deficiency in the amount
+of gas evolved from a unit weight of solid taken or purchased. In fact,
+setting on one side apparatus which belong to a notoriously defective
+system and such as are constructed in large sizes on a system that is
+only free from overheating, &c.;, in small sizes; setting aside all
+generators which are provided with only one decomposing chamber when they
+are of a capacity to require two or more smaller ones that can more
+efficiently be cooled with water jackets; and setting aside any form of
+plant which on examination is likely to exhibit any of the more serious
+objections indicated in this and the previous chapters, there is
+comparatively little to choose, from the chemical and physical points of
+view, between the different types of generators now on the markets. A
+selection may rather be made on mechanical grounds. The generator must be
+well able to produce gas as rapidly as it will ever be required during
+the longest or coldest evening; it must be so large that several more
+brackets or burners can be added to the service after the installation is
+complete. It must be so strong that it will bear careless handling and
+the frequent rough manipulation of its parts. It must be built of stout
+enough material not to rust out in a few years. Each and all of its parts
+must be accessible and its exterior visible. Its pipes, both for gas and
+sludge, must be of large bore (say 1 inch), and fitted at every dip with
+an arrangement for withdrawing into some closed vessel the moisture, &c.;,
+that may condense. The number of cocks, valves, and moving parts must be
+reduced to a minimum; cocks which require to be shut by hand before
+recharging must give way to water-seals. It must be simple in all its
+parts, and its action intelligible at a glance. It must be easy to
+charge--preferably even by the sense of touch in darkness. It must be
+easy to clean. The waste lime must be easily removed. It must be so
+fitted with vent-pipes that the pressure can never rise above that at
+which it is supposed to work. Nevertheless, a generator in which these
+vent-pipes are often brought into use is badly constructed and wasteful,
+and must be avoided. The water of the holder seal should be distinct from
+that used for decomposing the carbide; and those apparatus where the
+holder is entirely separated from the generator are preferable to such as
+are built all in one, even if water-seals are fitted to prevent return of
+gas. Apparatus which is supposed to be automatic should be made perfectly
+automatic, the water or the carbide-feed being locked automatically
+before the carbide store, the decomposing chamber, or the sludge-cock can
+be opened. The generating chamber must always be in communication with
+the atmosphere through a water-sealed vent-pipe, the seal of which, if
+necessary, the gas can blow at any time. All apparatus should be fitted
+with rising holders, the larger the better. Duplicate copies of printed
+instructions should be demanded of the maker, one copy being kept in the
+generator-house, and the other elsewhere for reference in emergencies.
+These instructions must give simple and precise information as to what
+should be done in the event of a breakdown as well as in the normal
+manipulation of the plant. Technical expressions and descriptions of
+parts understood only by the maker must be absent from these rules.
+
+ADDENDUM.
+
+BRITISH AND FOREIGN REGULATIONS FOR THE CONSTRUCTION AND INSTALLATION OF
+ACETYLENE GENERATING PLANT
+
+Dealing with the "conditions which a generator should fulfil before it
+can be considered as being safe," the HOME OFFICE COMMITTEE of 1901
+before mentioned write as follows:
+
+1. The temperature in any part of the generator, when run at the maximum
+rate for which it is designed, for a prolonged period, should not exceed
+130 deg. C. This may be ascertained by placing short lengths of wire,
+drawn from fusible metal, in those parts of the apparatus in which heat
+is liable to be generated.
+
+2. The generator should have an efficiency of not less than 90 per cent.,
+which, with carbide yielding 5 cubic feet per pound, would imply a yield
+of 4.5 cubic feet for each pound of carbide used.
+
+3. The size of the pipes carrying the gas should be proportioned to the
+maximum rate of generation, so that undue back pressure from throttling
+may not occur.
+
+4. The carbide should be completely decomposed in the apparatus, so that
+lime sludge discharged from the generator shall not be capable of
+generating more gas.
+
+5. The pressure in any part of the apparatus, on the generator side of
+the holder, should not exceed that of 20 inches of water, and on the
+service side of same, or where no gasholder is provided, should not
+exceed that of 5 inches of water.
+
+6. The apparatus should give no tarry or other heavy condensation
+products from the decomposition of the carbide.
+
+7. In the use of a generator regard should be had to the danger of
+stoppage of passage of the gas and resulting increase of pressure which
+may arise from the freezing of the water. Where freezing may be
+anticipated, steps should be taken to prevent it.
+
+8. The apparatus should be so constructed that no lime sludge can gain
+access to any pipes intended for the passage of gas or circulation of
+water.
+
+9. The use of glass gauges should be avoided as far as possible, and,
+where absolutely necessary, they should be effectively protected against
+breakage.
+
+10. The air space in a generator before charging should be as small as
+possible.
+
+11. The use of copper should be avoided in such parts of the apparatus as
+are liable to come in contact with acetylene.
+
+The BRITISH ACETYLENE ASSOCIATION has drawn up the following list of
+regulations which, it suggests, shall govern the construction of
+generators and the installation of piping and fittings:
+
+1. Generators shall be so constructed that, when used in accordance with
+printed instructions, it shall not he possible for any undecomposed
+carbide to remain in the sludge removed therefrom.
+
+2. The limit of pressure in any part of the generator shall not exceed
+that of 20 inches of water, subject to the exception that if it be shown
+to the satisfaction of the Executive of the Acetylene Association that
+higher pressures up to 50 inches of water are necessary in certain
+generators, and are without danger, the Executive may, with the approval
+of the Home Office, grant exemption for such generators, with or without
+conditions.
+
+3. The limit of pressure in service-pipes, within the house, shall not
+exceed 10 inches of water.
+
+4. Except when used for special industrial purposes, such as oxy-
+acetylene welding, factories, lighthouses, portable apparatus containing
+not more than four pounds of carbide, and other special conditions as
+approved by the Association, the acetylene plant, such as generators,
+storage-holders, purifiers, scrubbers, and for washers, shall be in a
+suitable and well-ventilated outhouse, in the open, or in a lean-to,
+having no direct communication with a dwelling-house. A blow-off pipe or
+safety outlet shall be arranged in such a manner as to carry off into the
+open air any overmake of gas and to open automatically if pressure be
+increased beyond 20 inches water column in the generating chamber or
+beyond 10 inches in the gasholder, or beyond the depth of any fluid seal
+on the apparatus.
+
+5. Generators shall have sufficient storage capacity to make a serious
+blow-off impossible.
+
+6. Generators and apparatus shall be made of sufficiently strong material
+and be of good workmanship, and shall not in any part be constructed of
+unalloyed copper.
+
+7. It shall not be possible under any conditions, even by wrong
+manipulation of cocks, to seal the generating chamber hermetically.
+
+8. It shall not be possible for the lime sludge to choke any of the gas-
+pipes in the apparatus, nor water-pipes if such be alternately used as
+safety-valves.
+
+9. In the use of a generator, regard shall be had to the danger of
+stoppage of passage of the gas, and resulting increase of pressure, which
+may arise from the freezing of the water. Where freezing may be
+anticipated, steps shall be taken to prevent it.
+
+10. The use of glass gauges shall be avoided as far as possible, and
+where absolutely necessary they shall be effectively protected against
+breakage.
+
+11. The air space in the generator before charging shall be as small as
+possible, _i.e._, the gas in the generating chamber shall not
+contain more than 8 per cent. of air half a minute after commencement of
+generation. A sample of the contents, drawn from the holder any time
+after generation has commenced, shall not contain an explosive mixture,
+_i.e._, more than 18 per cent, of air. This shall not apply to the
+initial charges of the gasholder, when reasonable precautions are taken.
+
+12. The apparatus shall produce no tarry or other heavy condensation
+products from the decomposition of the carbide.
+
+13. The temperature of the gas, immediately on leaving the charge, shall
+not exceed 212 deg. F. (100 deg. C.)
+
+14. No generator shall be sold without a card of instructions suitable
+for hanging up in some convenient place. Such instructions shall be of
+the most detailed nature, and shall not presuppose any expert knowledge
+whatever on the part of the operator.
+
+15. Notice to be fixed on Generator House Door, "NO LIGHTS OR SMOKING
+ALLOWED."
+
+16. Every generator shall have marked clearly upon the outside a
+statement of the maximum number of half cubic foot burners and the charge
+of carbide for which it is designed.
+
+17. The Association strongly advise the use of an efficient purifier with
+generating plant for indoor lighting.
+
+18. No composition piping shall be used in any part of a permanent
+installation.
+
+19. Before being covered in, all pipe-work (main and branches) shall be
+tested in the following manner: A special acetylene generator, giving a
+pressure of at least 10 inches water column in a gauge fixed on the
+furthest point from the generator, shall be connected to the pipe-work.
+All points shall be opened until gas reaches them, when they shall be
+plugged and the main cock on the permanent generator turned off, but all
+intermediate main cocks shall be open in order to test underground main
+and all connexions. The gauge must not show a loss after generator has
+been turned off for at least two hours.
+
+20. After the fittings (pendants, brackets, &c.;) have been fixed and all
+burners lighted, the gas shall be turned off at the burners and the whole
+installation shall be re-tested, but a pressure of 5 inches shall be
+deemed sufficient, which shall not drop lower than to 4-1/2 inches on the
+gauge during one hour's test.
+
+21. No repairs to, or alterations in, any part of a generator, purifier,
+or other vessel which has contained acetylene shall be commenced, nor,
+except for recharging, shall any such part or vessel be cleaned out until
+it has been completely filled with water, so as to expel any acetylene or
+mixture of acetylene and air which may remain in the vessel, and may
+cause a risk of explosion.
+
+_Recommendation_.--It being the general practice to store carbide in
+the generator-house, the Association recommend that the carbide shall be
+placed on a slightly raised platform above the floor level.
+
+THE BRITISH FIRE OFFICES COMMITTEE in the latest revision, dated July 15,
+1907, of its Rules and Regulations _re_ artificial lighting on
+insured premises, includes the following stipulations applicable to
+acetylene:
+
+Any apparatus, except as below, for generating, purifying, enriching,
+compressing or storing gas, must be either in the open or in a building
+used for such purposes only, not communicating directly with any building
+otherwise occupied.
+
+An acetylene portable apparatus is allowed, provided it holds a charge of
+not more than 2 lb. of carbide.
+
+A cylinder containing not more than 20 cubic feet of acetylene compressed
+and (or) dissolved in accordance with an Order of Secretary of State
+under the Explosives Act, 1875, is allowed.
+
+The use of portable acetylene lamps containing charges of carbide
+exceeding the limit of 2 lb. allowed under these Rules (the average
+charge being about 18 lb.) is allowed in the open or in buildings in
+course of erection.
+
+Liquid acetylene must not be used or stored on the premises.
+
+The pipe, whether flexible or not, connecting an incandescent gas lamp to
+the gas-supply must be of metal with metal connexions.
+
+(The reference in these Rules to the storage of carbide has been quoted
+in Chapter II. (page 19).)
+
+These rules are liable to revision from time to time.
+
+The GERMAN ACETYLENE VEREIN has drawn up (December 1904) the following
+code of rules for the construction, erection, and manipulation of
+acetylene apparatus:
+
+I. _Rules for Construction._
+
+1. All apparatus for the generation, purification, and storage of
+acetylene must be constructed of sheet or cast iron. Holder tanks may be
+built of brick.
+
+2. When bare, galvanised, or lead-coated sheet-iron is used, the sides of
+generators, purifiers, condensers, holder tanks, and (if present) washers
+and driers must be built with the following gauges as minima:
+
+                             Holder bells.    All other apparatus.
+
+Up to 7 cubic feet capacity     0.75 mm.          1.00 mm.
+From 7 to 18         "          1.00              1.25
+From 18 to 53        "          1.25              1.50
+Above 53             "          1.50              2.00
+
+When not constructed of cast-iron, the bottoms, covers, and "manhole"
+lids must be 0.5 mm. thicker in each respective size.
+
+In all circumstances, the thickness of the walls--especially in the case
+of apparatus not circular in horizontal section--must be such that
+alteration in shape appears impossible, unless deformation is guarded
+against in other ways.
+
+Generators must be so constructed that when they are being charged the
+carbide cannot fall into the residue which has already been gasified; and
+the residues must always be capable of easy, complete, and safe removal.
+
+3. Generators, purifiers, and holders must be welded, riveted or folded
+at the seams; soft solder is only permissible as a tightening material.
+
+4. Pipes delivering acetylene, or uniting the apparatus, must be cast- or
+wrought-iron. Unions, cocks, and valves must not be made of copper; but
+the use of brass and bronze is permitted.
+
+5. When cast-iron is employed, the rules of the German Gas and Water
+Engineers are to be followed.
+
+6. In generators where the whole amount of carbide introduced is not
+gasified at one time, it must be possible to add fresh water or carbide
+in safety, without interfering with the action of the apparatus. In such
+generators the size of the gasholder space is to be calculated according
+to the quantity of carbide which can be put into the generator. For every
+1 kilogramme of carbide the available gasholder space must be: for the
+first 50 kilos., 20 litres; for the next 50 kilos., 15 litres; for
+amounts above 100 kilos., 10 litres per kilo. [One kilogramme may be
+taken as 2.2 lb., and 28 litres as 1 cubic foot.]
+
+The generator must be large enough to supply the full number of normal
+(10-litre) burners with gas for 5 hours; the yield of acetylene being
+taken at 290 litres per kilo. [4.65 cubic feet per lb.]
+
+The gasholder space of apparatus where carbide is not stored must be at
+least 30 litres for every normal (10-litre) flame.
+
+7. The gasholder must be fitted with an appliance for removing any gas
+which may be generated (especially when the apparatus is first brought
+into action) after the available space is full. This vent must have a
+diameter at least equal to the inlet pipe of the holder.
+
+8. Acetylene plant must be provided with purifying apparatus which
+contains a proper purifying material in a suitable condition.
+
+9. The dimensions of subsidiary apparatus, such as washers, purifiers,
+condensers, pipes, and cocks must correspond with the capacity of the
+plant.
+
+10. Purifiers and washers must be constructed of materials capable of
+resisting the attack of the substances in them.
+
+11. Every generator must bear a plate giving the name of the maker, or
+the seller, and the maximum number of l0-litre lights it is intended to
+supply. If all the carbide put into the generator is not gasified at one
+time, the plate must also state the maximum weight of carbide in the
+charge. The gasholder must also bear a plate recording the maker's or
+seller's name, as well as its storage capacity.
+
+12. Rules 1 to 11 do not apply to portable apparatus serving up to two
+lights, or to portable apparatus used only out of doors for the lighting
+of vehicles or open spaces.
+
+II. _Rules for Erection_
+
+1. Acetylene apparatus must not be erected in or under rooms occupied or
+frequented (passages, covered courts, &c.;) by human beings. Generators
+and holders must only be erected in apartments covered with light roofs,
+and separated from occupied rooms, barns, and stables by a fire-proof
+wall, or by a distance of 15 feet. Any wall is to be considered fire-
+proof which is built of solid brick, without openings, and one side of
+which is "quite free." Apparatus may be erected in barns and stables,
+provided the space required is partitioned off from the remainder by a
+fire-proof wall.
+
+2. The doors of apparatus sheds must open outwards, and must not
+communicate directly with rooms where fires and artificial lights are
+used.
+
+3. Apparatus for the illumination of showmen's booths, "merry-go-rounds,"
+shooting galleries, and the like must be erected outside the tents, and
+be inaccessible to the public.
+
+4. Permanent apparatus erected in the open air must be at least 15 feet
+from an occupied building.
+
+5. Apparatus sheds must be fitted at their highest points with outlet
+ventilators of sufficient size; the ventilators leading straight through
+the roof into the open air. They must be so arranged that the escaping
+gases and vapours cannot enter rooms or chimneys.
+
+6. The contacts of any electrical warning devices must be outside the
+apparatus shed.
+
+7. Acetylene plants must be prevented from freezing by erection in frost-
+free rooms, or by the employment of a heating apparatus or other suitable
+appliance. The heat must only be that of warm water or steam. Furnaces
+for the heating appliance must be outside the rooms containing
+generators, their subsidiary apparatus, or holders; and must be separated
+from such rooms by fire-proof walls.
+
+8. In one of the walls of the apparatus shed--if possible not that having
+a door--a window must be fitted which cannot be opened; and outside that
+window an artificial light is to be placed. In the usual way acetylene
+lighting may be employed; but a lamp burning paraffin or oil, or a
+lantern enclosing a candle, must always be kept ready for use in
+emergencies. In all circumstances internal lighting is forbidden.
+
+9. Every acetylene installation must be provided with a main cock, placed
+in a conveniently accessible position so that the whole of the service
+may be cut off from the plant.
+
+10. The seller of an apparatus must provide his customer with a sectional
+drawing, a description of the apparatus, and a set of rules for attending
+to it. These are to be supplied in duplicate, and one set is to be kept
+hanging up in the apparatus shed.
+
+III. Rules for Working the Apparatus.
+
+1. The apparatus must only be opened by daylight for addition of water.
+If the generator is one of those in which the entire charge of carbide is
+not gasified at once, addition of fresh carbide must only be made by
+daylight.
+
+2. All work required by the plant, or by any portion of it, and all
+ordinary attendance needed must be performed by daylight.
+
+3. All water-seals must be carefully kept full.
+
+4. When any part of an acetylene apparatus or a gas-meter freezes,
+notwithstanding the precautions specified in II., 7, it must be thawed
+only by pouring hot water into or over it; flames, burning fuel, or red-
+hot iron bars must not be used.
+
+5. Alterations to any part of an apparatus which involve the operations
+of soldering or riveting, &c.;, _i.e._, in which a fire must be used,
+or a spark may be produced by the impact of hammer on metal, must only be
+carried out by daylight in the open air after the apparatus has been
+taken to pieces. First of all the plant must be freed from gas. This is
+to be done by filling every part with water till the liquid overflows,
+leaving the water in it for at least five minutes before emptying it
+again.
+
+6. The apparatus house must not be used for any other operation, nor
+employed for the storage of combustible articles. It must be efficiently
+ventilated, and always kept closed. A notice must be put upon the door
+that unauthorised persons are not permitted to enter.
+
+7. It in forbidden to enter the house with a burning lantern or lamp, to
+strike matches, or to smoke therein.
+
+8. A search for leaks in the pipes must not be made with the aid of a
+light.
+
+9. Alterations to the service must not be made while the pipes are under
+pressure, but only after the main cock has been shut.
+
+10. If portable apparatus, such as described in I., 12, are connected to
+the burners with rubber tube, the tube must be fortified with an internal
+or external spiral of wire. The tube must be fastened at both ends to the
+cocks with thread, copper wire, or with ring clamps.
+
+11. The preparation, storage, and use of compressed or liquefied
+acetylene is forbidden. By compressed acetylene, however, is only to be
+understood gas compressed to a pressure exceeding one effective
+atmosphere. Acetylene compressed into porous matter, with or without
+acetone, is excepted from this prohibition.
+
+12. In the case of plants serving 50 lights or less, not more than 100
+kilos. of carbide in closed vessels may be kept in the apparatus house
+besides the drum actually in use.
+
+A fresh drum is not to be opened before the previous one has been two-
+thirds emptied. Opened drums must be closed with an iron watertight lid
+covering the entire top of the vessel.
+
+In the case of apparatus supplying over 500 lights, only one day's
+consumption of carbide must be kept in the generator house. In other
+respects the store of carbide for such installations is to be treated as
+a regular carbide store.
+
+13. Carbide drums must not be opened with the aid of a flame or a red-hot
+iron instrument.
+
+14. Acetylene apparatus must only be attended to by trustworthy and
+responsible persons.
+
+The rules issued by the AUSTRIAN GOVERNMENT in 1905 for the installation
+of acetylene plant and the use of acetylene are divided into general
+enactments relating to acetylene, and into special enactments in regard
+to the apparatus and installation. The general enactments state that:
+
+1. The preparation and use of liquid acetylene is forbidden.
+
+2. Gaseous acetylene, alone, in admixture, or in solution, must not be
+compressed above 2 atmospheres absolute except under special permission.
+
+3. The storage of mixtures of acetylene with air or other gases
+containing or evolving free oxygen is forbidden.
+
+4. A description of every private plant about to be installed must be
+submitted to the local authorities, who, according to its size and
+character, may give permission for it to be installed and brought into
+use either forthwith or after special inspection. Important alterations
+to existing plant must be similarly notified.
+
+5. The firms and fitters undertaking the installation of acetylene plant
+must be licensed.
+
+The special enactments fall under four headings, viz., (_a_)
+apparatus; (_b_) plant houses; (_c_) pipes; (_d_)
+residues.
+
+In regard to apparatus it is enacted that:
+
+1. The type of apparatus to be employed must be one which has been
+approved by one of certain public authorities in the country.
+
+2. A drawing and description of the construction of the apparatus and a
+short explanation of the method of working it must be fixed in a
+conspicuous position under cover in the apparatus house. The notice must
+also contain approved general information as to the properties of calcium
+carbide and acetylene, precautions that must be observed to guard against
+possible danger, and a statement of how often the purifier will require
+to be recharged.
+
+3. The apparatus must be marked with the name of the maker, the year of
+its construction, the available capacity of the gasholder, and the
+maximum generating capacity per hour.
+
+4. Each constituent of the plant must be proportioned to the maximum
+hourly output of gas and in particular the available capacity of the
+holder must be 75 per cent. of the latter. The apparatus must not be
+driven above its nominal productive capacity.
+
+5. The productive capacity of generators in which the gasholder has to be
+opened or the bell removed before recharging, or for the removal of
+sludge, must not exceed 50 litres per hour, nor may the charge of carbide
+exceed 1 kilo.
+
+6. Generators exceeding 50 litres per hour productive capacity must be
+arranged so that they can be freed from air before use.
+
+7. Generators exceeding 1500 litres per hour capacity must be arranged so
+that the acetylene, contained in the parts of the apparatus which have to
+be opened for recharging or for the removal of sludge, can be removed
+before they are opened.
+
+8. Automatic generators of which the decomposing chambers are built
+inside the gasholder must not exceed 300 litres per hour productive
+capacity.
+
+9. Generators must be arranged so that after-generation cannot produce
+objectionable results.
+
+10. The holder of carbide-to-water generators must be large enough to
+take all the gas which may be produced by the introduction of one charge
+of carbide without undue pressure ensuing.
+
+11. The maximum pressure permissible in any part of the apparatus is 1.1
+atmosphere absolute.
+
+12. The temperature in the gas space of a generator must never exceed
+80 deg. C.
+
+13. Generating apparatus, &c.;, must be constructed in a workmanlike
+manner of metal capable of resisting rust and distortion, and, where the
+metal comes in contact with carbide or acetylene, it must not be one
+(copper in particular) which forms an explosive compound with the gas.
+Cocks and screw connexions, &c.;, of brass, bronze, &c.;, must always be
+kept clean. Joints exposed to acetylene under pressure must be made by
+riveting or welding except that in apparatus not exceeding 100 litres per
+hour productive capacity double bending may be used.
+
+14. Every apparatus must be fitted with a safety-valve or vent-pipe
+terminating in a safe place in the open, and of adequate size.
+
+15. Every apparatus must be provided with an efficient purifier so fitted
+that it may be isolated from the rest of the plant and with due
+consideration of the possible action of the purifying material upon the
+metal used.
+
+16. Mercury pressure gauges are prohibited. Liquid gauges, if used must
+be double the length normally needed, and with a cock which in automatic
+apparatus must be kept shut while it is in action.
+
+17. Proper steps must always be taken to prevent the apparatus freezing.
+In the absence of other precautions water-seals and pressure-gauges must
+be filled with liquid having a sufficiently low freezing-point and
+without action on acetylene or the containing vessel.
+
+18. Signal devices to show the position of the gasholder bell must not be
+capable of producing sparks inside the apparatus house.
+
+19. Leaks must not be sought for with an open flame and repairs requiring
+the use of a blow-pipe, &c.;, must only be carried out after the apparatus
+has been taken to pieces or freed from gas by flooding.
+
+20. Apparatus must only be attended to by trustworthy and responsible
+adults.
+
+21. Portable apparatus holding not more than 1 kilo. of carbide and of
+not more than 50 litres per hour productive capacity, and apparatus fixed
+and used out of doors are exempt from the foregoing regulations except
+Nos. 11 and 12, and the first part of 13.
+
+In regard to (_b_), plant houses, it is enacted that:
+
+1. Rooms containing acetylene apparatus must be of ample size, used for
+no other purpose, have water-tight floors, be warmed without fireplaces
+or chimneys, be lighted from outside through an air-tight window by an
+independent artificial light, have doors opening outwards, efficient
+ventilation and a store of sand or like material for fire extinction.
+Strangers must be warned away.
+
+2. Apparatus of not more than 300 litres per hour productive capacity may
+be erected in basements or annexes of dwelling houses, but if of over 50
+litres per hour capacity must not be placed under rooms regularly
+frequented. Rooms regularly frequented and those under the same must not
+be used.
+
+3. Apparatus of more than 300 litres per hour productive capacity must be
+erected in an independent building at least 15 feet distant from other
+property, which building, unless it is at least 30 feet distant, must be
+of fire-proof material externally.
+
+4. Gasholders exceeding 280 cubic foot in capacity must be in a detached
+room or in the open and inaccessible to strangers, and at least 30 feet
+from other property and with lightning conductors.
+
+5. In case of fire the main cock must not be shut until it is ascertained
+that no one remains in the room served with the gas.
+
+6. All acetylene installations must be known to the local fire brigade.
+
+In regard to (_c_), pipes, it is enacted that:
+
+1. Mains for acetylene must be separated from the generating apparatus by
+a cock, and under a five-minute test for pressure must not show a fall of
+over eight-tenths inch when the pressure is 13.8 inches, or three times
+the working pressure, whichever is greater.
+
+2. The pipes must as a rule be of iron, though lead may be used where
+they are uncovered and not exposed to risk of injury. Rubber connexions
+may only be used for portable apparatus, and attached to a terminal on
+the metal pipes provided with a cock, and be fastened at both ends so
+that they will not slip off the nozzles.
+
+In regard to (_d_), residues, it is enacted that special open or
+well-ventilated pits must be provided for their reception when the
+apparatus exceeds 300 litres per hour productive capacity. With smaller
+apparatus they may be discharged into cesspools if sufficiently diluted.
+The ITALIAN GOVERNMENT regulations in regard to acetylene plant are
+divided into eight sections. The first of these relates to the production
+and use of liquid and compressed acetylene. The production and use of
+liquid acetylene is prohibited except under the provisions of the laws
+relating to explosives. Neat acetylene must not be compressed to more
+than l-1/2 atmospheres except that an absolute pressure of 10 atmospheres
+is allowed when the gas is dissolved in acetone or otherwise rendered
+free from risk. Mixtures of acetylene with air or oxygen are forbidden,
+irrespective of the pressure or proportions. Mixtures of acetylene with
+hydrocarbons, carbonic oxide, hydrogen and inert gases are permitted
+provided the proportion of acetylene does not exceed 50 per cent. nor the
+absolute pressure 10 atmospheres.
+
+The second section relates to acetylene installations, which are
+classified in four groups, viz., (_a_) fixed or portable apparatus
+supplying not more than thirty burners consuming 20 litres per hour;
+(_b_) private installations supplying between 30 and 200 such
+burners; (_c_) public or works installations supplying between 30
+and 200 such burners; (_d_) installations supplying more than 200
+such burners.
+
+The installations must comply with the following general conditions:
+
+1. No part of the generator when working at its utmost capacity should
+attain a temperature of more than 100 deg. C.
+
+2. The carbide must be completely decomposed in the apparatus so that no
+acetylene can be evolved from the residue. The residues must be diluted
+with water before being discharged into drains or cesspools, and sludge
+storage-pits must be in the open.
+
+3. The apparatus must preclude the escape of lime into the gas and water
+connexions.
+
+4. Glass parts must be adequately protected.
+
+5. Rubber connexions between the generator, gasholder, and main are
+absolutely prohibited with installations supplying more than 30 burners.
+
+6. Cocks must be provided for cutting off the main and connexions from
+the generator and gasholder.
+
+7. Each burner must have an independent tap.
+
+8. Generators of groups (_b_), (_c_), and (_d_) must be
+constructed so that no after-generation of acetylene can take place
+automatically and that any surplus gas would in any case be carried out
+of the generator house by a vent-pipe.
+
+The third section deals with generator houses, which must be well
+ventilated and light; must not be used for any other purpose except to
+store one day's consumption of carbide, not exceeding 300 kilos.; must be
+fire-proof; must have doors opening outwards; and the vent-pipes must
+terminate at a safe place in the open. Apparatus of group (_b_) must
+not be placed in a dwelling-room and only in an adjoining room if the
+gasholder is of less than 600 litres capacity. Apparatus of group
+(_c_) must be in an independent building which must be at least 33
+feet from occupied premises if the capacity of the gasholder is 6000
+litres and upwards. Half this distance suffices for gasholders containing
+600 to 6000 litres. These distances may be reduced at the discretion of
+the local authorities provided a substantial partition wall at least 1
+foot thick is erected. Apparatus of group (_d_) must be at least 50
+feet from occupied premises and the gasholder and generator must not be
+in the same building.
+
+The fourth section deals with the question of authorisation for the
+installation of acetylene plant. Apparatus of group (_a_) may be
+installed without obtaining permission from any authorities. In regard to
+apparatus of the other groups, permission for installation must be
+obtained from local or other authorities.
+
+The fifth section relates to the working of acetylene plant. It makes the
+concessionaires and owners of the plant responsible for the manipulation
+and supervision of the apparatus, and for the employment of suitable
+operators, who must not be less than 18 years of age.
+
+The sixth section relates to the inspection of acetylene plant from time
+to time by inspectors appointed by the local or other authorities.
+Apparatus of group (_a_) is not subject to these periodical
+inspections.
+
+The seventh section details the fees payable for the inspection of
+installations and carbide stores, and fixes the penalties for non-
+compliance with the regulations.
+
+The eighth section refers to the notification of the position and
+description of all carbide works, stores, and acetylene installations to
+the local authorities.
+
+The HUNGARIAN GOVERNMENT rules for the construction and examination of
+acetylene plant forbid the use of copper and of its alloys; cocks,
+however, may be made of a copper alloy. The temperature in the gas space
+of a fixed generator must not exceed 50 deg. C., in that of a portable
+apparatus 80 deg. C. The maximum effective pressure permissible is 0.15
+atmosphere.
+
+The CONSEIL D'HYGIENE DE LA SEINE IN FRANCE allows a maximum pressure of
+1.5 metres, i.e., 59 inches, of water column in generators used for the
+ordinary purposes of illumination; but apparatus intended to supply gas
+to the low-pressure oxy-acetylene blowpipe (see Chapter IX.) may develop
+up to 2.5 metres, or 98.5 inches of water pressure, provided copper and
+its alloys are entirely excluded from the plant and from the delivery-
+pipes.
+
+The NATIONAL BOARD OF FIRE UNDERWRITERS OF THE UNITED STATES OF AMERICA
+has issued a set of rules and requirements, of which those relating to
+acetylene generators and plant are reproduced below. The underwriters
+state that, "To secure the largest measure of safety to life and
+property, these rules for the installation of acetylene gas machines must
+be observed."
+
+RULES FOR THE INSTALLATION AND USE OF ACETYLENE GAS GENERATORS.
+[Footnote: The "gallon" of these rules is, of course, the American
+gallon, which is equal to 0.83 English standard gallon.]
+
+The use of liquid acetylene or gas generated therefrom is absolutely
+prohibited.
+
+Failure to observe these rules is as liable to endanger life as property.
+
+To secure the largest measure of safety to life and property, the
+following rules for the installation of acetylene gas machines must be
+
+Back to Full Books

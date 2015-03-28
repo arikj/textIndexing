@@ -1,0 +1,1936 @@
+The Age of Big BusinessbyBurton J. Hendrick
+
+occupies a place in telephone history only because certain
+financial interests, many years after his death, brought it to
+light in an attempt to discredit Bell's claim to priority as the
+inventor. An investigator who seems to have grasped more clearly
+the basic idea was the distinguished American inventor Elisha
+Gray, already mentioned as the man who had succeeded in
+perfecting the "harmonic telegraph." On February 14, 1876, Gray
+filed a caveat in the United States Patent Office, setting forth
+pretty accurately the conception of the electric telephone. The
+tragedy in Gray's work consists in the fact that, two hours
+before his caveat had been put in, Bell had filed his application
+for a patent on the completed instrument.
+
+The champions of Bell and Gray may dispute the question of
+priority to their heart's content; the historic fact is that the
+telephone dates from a dramatic moment in the year 1876. Sanders
+and Hubbard, much annoyed that Bell had abandoned his harmonic
+telegraph for so visionary an idea as a long distance talking
+machine, refused to finance him further unless he returned to his
+original quest. Disappointed and disconsolate, Bell and his
+assistant, Thomas A. Watson, had started work on the top floor of
+the Williams Manufacturing Company's shop in Boston. And now
+another chance happening turned Bell back once more to the
+telephone. His magnetized telegraph wire stretched from one room
+to another located in a remote part of the building. One day
+Watson accidentally plucked a piece of clock wire that lay near
+this telegraph wire, and Bell, working in another room, heard the
+twang. A few seconds later Watson was startled when an excited
+and somewhat disheveled figure burst into his room. "What was
+that?" shouted Bell. What had happened was clearly manifest; a
+sound had been sent distinctly over an electric wire. Bell's
+harmonic telegraph immediately went into the discard, and the
+young inventor--Bell was then only twenty-nine--became a man of
+one passionate idea. Yet final success did not come easily; the
+inventor worked day and night for forty weeks before he had
+obtained satisfactory results. It was on March 10, 1876, that
+Watson, in a distant room, picked up the first telephone receiver
+and heard these words, the first that had ever passed over a
+magnetized wire, "Come here, Watson; I want you." The speaking
+instrument had become a reality, and the foundation of the
+telephone, in all its present development, had been laid. When
+the New York and San Francisco line was opened in January, 1915,
+Alexander Graham Bell spoke these same words to his old
+associate, Thomas Watson, located in San Francisco, both men
+using the same instruments that had served so well on that
+historic occasion forty years before.
+
+Though Bell's first invention comprehended the great basic idea
+that made it a success, the instrument itself bore few external
+resemblances to that which has become so commonplace today. If
+one could transport himself back to this early period and undergo
+the torture of using this primitive telephone, he would
+appreciate somewhat the labor, the patience, the inventive skill,
+and the business organization that have produced the modern
+telephone. In the first place you would have no separate
+transmitter and receiver. You would talk into a funnel-shaped
+contrivance and then place it against your ear to get the
+returning message. In order to make yourself heard, you would
+have to shout like a Gloucester sea captain at the height of a
+storm. More than the speakers' voices would come over the wire.
+It seemed to have become the playground of a million devils;
+moanings, shriekings, mutterings, and noises of all kinds would
+constantly interrupt the flow of speech. To call up your "party"
+you would not merely lift the receiver as today; you would tap
+with a lead pencil, or some other appliance, upon the diaphragm
+of your transmitter. There were no separate telephone wires. The
+talking at first was done over the telegraph lines. The earliest
+"centrals" reminded most persons of madhouses, for the day of the
+polite, soft-spoken telephone girl had not arrived. Instead, boys
+were rushing around with the ends of wires which they were
+frantically attempting to peg into the holes of the primitive
+switchboard and so establish "connections." When not knocking
+down and fighting each other, these boys were swearing into
+transmitters at the customers; and it is said that the incurable
+profanity of these early "telephone boys" had much to do with
+their supersession by girls. In the early days of the telephone,
+each instrument had to carry its own battery, usually installed
+in a little box under the transmitter. The early telephone wires,
+even in the largest cities, were strung on poles, as they are in
+country and suburban districts today. In places like New York and
+Chicago, these thousands of overhanging wires not only destroyed
+the attractiveness of the thoroughfare, but constantly interfered
+with the fire department and proved to be public nuisances in
+other ways. A telephone wire, however, loses much of its
+transmitting power when placed under ground, and it took many
+years of experimenting before the engineers perfected these
+subways. In these early days, of course, the telephone was purely
+a local matter. Certain visionary enthusiasts had foreseen the
+possibility of a national, long distance system, but a large
+amount of labor, both in the laboratory and out, was to be
+expended before these aspirations could become realities.
+
+The transformation of this rudimentary means of communication
+into the beautiful mechanism which we have today forms a splendid
+chapter in the history of American invention. Of all the details
+in Bell's apparatus the receiver is almost the only one that
+remains now what it was forty years ago. The story of the
+transmitter in itself would fill a volume. Edison's success in
+devising a transmitter which permitted talk in ordinary
+conversational tones--an invention that became the property of
+the Western Union Telegraph Company, which early embarked in the
+telephone business--at one time seemed likely to force the Bell
+Company out of business. But Emile Berliner and Francis Blake
+finally came to the rescue with an excellent instrument, and the
+suggestion of an English clergyman, the Reverend Henry Hummings,
+that carbon granules be used on the diaphragm, made possible the
+present perfect instrument. The magneto call bell--still used in
+certain backward districts--for many years gave fair results for
+calling purposes, but the automatic switch, which enables us to
+get central by merely picking up the receiver, has made possible
+our great urban service. It was several years before the
+telephone makers developed so essential a thing as a satisfactory
+wire. Silver, which gave excellent results, was obviously too
+costly, and copper, the other metal which had many desirable
+qualities, was too soft. Thomas B. Doolittle solved this problem
+by inventing a hard-drawn copper wire. A young man of twenty-two,
+John J. Carty, suggested a simple device for exorcising the
+hundreds of "mysterious noises" that had made the use of the
+telephone so agonizing. It was caused, Carty pointed out, by the
+circumstance that the telephone, like the telegraph, used a
+ground circuit for the return wire; the resultant scrapings and
+moanings and howlings were merely the multitudinous voices of
+mother earth herself. Mr. Carty began installing the metallic
+circuit in his lines that is, he used wire, instead of the
+ground, to complete the circuit. As a result of this improvement
+the telephone was immediately cleared of these annoying
+interruptions. Mr. Carty, who is now Chief Engineer of the
+American Telephone and Telegraph Company, and the man who has
+superintended all its extensions in recent years, is one of the
+three or four men who have done most to create the present
+system. Another is Charles E. Scribner, who, by his invention of
+that intricate device, the multiple switchboard, has converted
+the telephone exchange into a smoothly working, orderly place.
+Scribner's multiple switchboard dates from about 1890. It was Mr.
+Scribner also who replaced the individual system of dry cells
+with one common battery located at the central exchange, an
+improvement which saved the Company 4,000,000 dry cells a year.
+Then Barrett discovered a method of twisting fifty pairs of
+wires--since grown to 2400 pairs-into a cable, wrapping them in
+paper and molding them in lead, and the wires were now taken from
+poles and placed in conduits underground.
+
+But perhaps the most romantic figure in telephone history, next
+to Bell, is that of a humble Servian immigrant who came to this
+country as a boy and obtained his first employment as a rubber in
+a Turkish bath. Michael I. Pupin was graduated from Columbia,
+studied afterward in Germany, and became absorbed in the new
+subject of electromechanics. In particular he became interested
+in a telephone problem that had bothered the greatest experts for
+years. One thing that had prevented the great extension of the
+telephone, especially for long distance work, was the size of the
+wire. Long distance lines up to 1900 demanded wire about
+one-eighth of an inch thick--as thick as a fairsized lead pencil;
+and, for this reason, the New York-Chicago line, built in 1893,
+consumed 870,000 pounds of copper wire of this size. Naturally
+the enormous expense stood in the way of any extended
+development. The same thickness also interfered with cable
+extension. Only about a hundred wires could be squeezed into one
+cable, against the eighteen hundred now compressed in the same
+area. Because of these shortcomings, telephone progress, about
+1900, was marking time, awaiting the arrival of a thin wire that
+would do the work of a thick one. The importance of the problem
+is shown by the fact that one-fourth of all the capital invested
+in the telephone has been spent in copper. Professor Pupin, who
+had been a member of the faculty of Columbia University since
+1888, solved this problem in his quiet laboratory and, by doing
+so, won the greatest prize in modern telephone art. His
+researches resulted in the famous "Pupin coil" by the expedient
+now known as "loading." When the scientists attempt to explain
+this invention, they have to use all kinds of mathematical
+formulas and curves and, in fact, they usually get to quarreling
+among themselves over the points involved. What Professor Pupin
+has apparently done is to free the wire from those miscellaneous
+disturbances known as "induction." This Pupin invention involved
+another improvement unsuspected by the inventor, which shows us
+the telephone in all its mystery and beauty and even its
+sublimity. Soon after the Pupin coil was introduced, it was
+discovered that, by crossing the wires of two circuits at regular
+intervals, another unexplainable circuit was induced. Because
+this third circuit travels apparently without wires, in some
+manner which the scientists have not yet discovered, it is
+appropriately known as the phantom circuit. The practical result
+is that it is now possible to send three telephone messages and
+eight telegraph messages over two pairs of wires--all at the same
+time. Professor Pupin's invention has resulted in economies that
+amount to millions of dollars, and has made possible long
+distance lines to practically every part of the United States.
+
+Thus many great inventive minds have produced the physical
+telephone. We can point to several men--Bell, Blake, Carty,
+Scribner, Barrett, Pupin --and say of each one, "Without his work
+the present telephone system could not exist." But business
+genius, as well as mechanical genius, explains this achievement.
+For the first four or five years of its existence, the new
+invention had hard sailing. Bell and Thomas Watson, in order to
+fortify their finances, were forced to travel around the country,
+giving a kind of vaudeville entertainment. Bell made a speech
+explaining the new invention, while a cornet player, located in
+another part of the town, played solos, the music reaching the
+audience through several telephone instruments placed against the
+walls. Watson, also located at a distance, varied the program by
+singing songs via telephone. These lecture tours not only gave
+Bell the money which he sorely needed but advertised the
+innovation. There followed a few scattering attempts to introduce
+the telephone into every-day use and telephone exchanges were
+established in New York, Boston, Bridgeport, and New Haven. But
+these pioneers had the hostility of the most powerful corporation
+of the day--the Western Union Telegraph Company--and they lacked
+aggressive leaders.
+
+In 1878, Mr. Gardiner Hubbard, Bell's earliest backer, and now
+his father-in-law, became acquainted with a young man who was
+then serving in Washington as General Superintendent of the
+Railway Mail Service. This young man was Theodore N. Vail. His
+energy and enterprise so impressed Hubbard that he immediately
+asked Vail to become General Manager of the company which he was
+then forming to exploit the telephone. Viewed from the
+retrospection of forty years this offer certainly looks like one
+of the greatest prizes in American business. What it signified at
+that time, however, is apparent from the fact that the office
+paid a salary of $3500 a year and that for the first ten years
+Vail did not succeed in collecting a dollar of this princely
+remuneration. Yet it was a happy fortune, not only for the Bell
+Company but for the nation, that placed Vail at the head of this
+struggling enterprise. There was a certain appropriateness in his
+selection, even then. His granduncle, Stephen Vail, had built the
+engines for the first steamship to cross the Atlantic. A cousin
+had worked with Morse while he was inventing the telegraph. Vail,
+who was born in Carroll County, Ohio, in 1845, after spending two
+years as a medical student, suddenly shifted his plans and became
+a telegraph operator. Then he entered the Railway Mail service;
+in this service he completely revolutionized the system and
+introduced reforms that exist at the present time. A natural bent
+had apparently directed Vail's mind towards methods of
+communication, a fact that may perhaps explain the youthful
+enthusiasm with which he took up the new venture and the vision
+with which he foresaw and planned its future. For the chief fact
+about Vail is that he was a business man with an imagination. The
+crazy little machine which he now undertook to exploit did not
+interest him as a means of collecting tolls, floating stock, and
+paying dividends. He saw in it a new method of spreading American
+civilization and of contributing to the happiness and comfort of
+millions of people. Indeed Vail had hardly seen the telephone
+when a picture portraying the development which we are familiar
+with today unfolded before his eyes. That the telephone has had a
+greater development in America than elsewhere and that the United
+States has avoided all those mistakes of organization that have
+so greatly hampered its growth in other lands, is owing to the
+fact that Vail, when he first took charge, mapped out the
+comprehensive policies which have guided his corporation since.
+
+Vail early adopted the "slogan" which has directed the Bell
+activities for forty years--"One System! One Policy! Universal
+Service." In his mind a telephone company was not a city affair,
+or even a state affair; it was a national affair. His aim has
+been from the first a universal, national service, all under one
+head, and reaching every hamlet, every business house, factory,
+and home in the nation. The idea that any man, anywhere, should
+be able to take down a receiver and talk to anyone, anywhere else
+in the United States, was the conception which guided Vail's
+labors from the first. He did not believe that a mass of
+unrelated companies could give a satisfactory service; if
+circumstances had ever made a national monopoly, that monopoly
+was certainly the telephone. Having in view this national,
+universal, articulating monopoly, Vail insisted on his second
+great principle, the standardization of equipment. Every man's
+telephone must be precisely like every other man's, and that must
+be the best which mechanical skill and inventive genius could
+produce. To make this a reality and to secure perfect supervision
+and upkeep, it was necessary that telephones should not be sold
+but leased. By enforcing these ideas Vail saved the United States
+from the chaos which exists in certain other countries, such as
+France, where each subscriber purchases his own instrument,
+making his selection from about forty different varieties. That
+certain dangers were inherent in this universal system Vail
+understood. Monopoly all too likely brings in excessive charges,
+poor service, and inside speculation; but it was Vail's plan to
+justify his system by its works. To this end he established a
+great engineering department which should study all imaginable
+mechanical improvements, with the results which have been
+described. He gave the greatest attention to every detail of the
+service and particularly insisted on the fairest and most
+courteous treatment of the public. The "please" which invariably
+accompanies the telephone girl's request for a number--the
+familiar "number, please"--is a trifle, but it epitomizes the
+whole spirit which Vail inspired throughout his entire
+organization. Though there are plenty of people who think that
+the existing telephone charges are too high, the fact remains
+that the rate has steadily declined with the extension of the
+business. Vail has also kept his company clear from the financial
+scandals that have disgraced so many other great corporations. He
+has never received any reward himself except his salary, such
+fortune as he possesses being the result of personal business
+ventures in South America during the twenty years from 1887 to
+1907 that he was not associated with the Bell interests.
+
+Vail's first achievement was to rescue this invention from the
+greatest calamity which would have befallen it. The Western Union
+Telegraph Company, which in the early days had looked upon the
+telephone as negligible, suddenly awoke one morning to a
+realization of its importance. This Corporation had recently
+introduced its "printing telegraph," a device that made it
+possible to communicate without the intermediary operator. When
+news reached headquarters that subscribers were dropping this new
+contrivance and subscribing to telephones, the Western Union
+first understood that a competitor had entered their field.
+Promptly organizing the American Speaking Telephone Company, the
+Western Union, with all its wealth and prestige, proceeded to
+destroy this insolent pigmy. Its methods of attack were
+unscrupulous and underhanded, the least discreditable one being
+the use of its political influence to prevent communities from
+giving franchises to the Bell Company. But this corporation
+mainly relied for success upon the wholesale manner in which it
+infringed the Bell patents. It raked together all possible
+claimants to priority, from Philip Reis to Elisha Gray, in its
+attempts to discredit Bell as the inventor. The Western Union had
+only one legitimate advantage--the Edison transmitter--which was
+unquestionably much superior to anything which the Bell Company
+then possessed. Many Bell stockholders were discouraged in face
+of this fierce opposition and wished to abandon the fight. Not so
+Vail. The mere circumstance that the great capitalists of the
+Western Union had taken up the telephone gave the public a
+confidence in its value which otherwise it would not have had, a
+fact which Vail skillfully used in attracting influential
+financial support. He boldly sued the Western Union in 1878 for
+infringement of the Bell patents. The case was a famous one; the
+whole history of the telephone was reviewed from the earliest
+days, and the evidence as to rival claimants was placed on record
+for all time. After about a year, Mr. George Clifford, perhaps
+the best patent attorney of the day, who was conducting the case
+for the Western Union, quietly informed his clients that they
+could never win, for the records showed that Bell was the
+inventor. He advised the Western Union to settle the case out of
+court and his advice was taken. This great corporation war was
+concluded by a treaty (November 10, 1879) in which the Western
+Union acknowledged that Bell was the inventor, that his patents
+were valid, and agreed to retire from the telephone business. The
+Bell Company, on its part, agreed to buy the Western Union
+Telephone System, to pay the Western Union a royalty of twenty
+per cent on all telephone rentals, and not to engage in the
+telegraph business. Had this case been decided against the Bell
+Company it is almost certain that the telephone would have been
+smothered in the interest of the telegraph and its development
+delayed for many years.
+
+Soon after the settlement of the Western Union suit, the original
+group which had created the telephone withdrew from the scene.
+Bell went back to teaching deaf-mutes. He has since busied
+himself with the study of airplanes and wireless, and has
+invented an instrument for transmitting sound by light. The new
+telephone company offered him $10,000 a year as chief inventor,
+but he replied that he could not invent to order. Thomas Sanders
+received somewhat less than $1,000,000 and lost most of it
+exploiting a Colorado gold mine. Gardiner Hubbard withdrew from
+business and devoted the last years of his life to the National
+Geographic Society. Thomas Watson, after retiring from the
+telephone business, bought a ship-building yard near Boston,
+which has been successful.
+
+In making this settlement with the Western Union, the Bell
+interests not only eliminated a competitor but gained great
+material advantages. They took over about 56,000 telephone
+stations located in 55 cities and towns. They also soon acquired
+the Western Electric Manufacturing Company, which under the
+control of the Western Union had developed into an important
+concern for the manufacture of telephone supplies. Under the
+management of the Bell Company this corporation, which now has
+extensive factories in Hawthorne, Ill., produces two-thirds of
+the world's telephone apparatus. With the Western Electric Vail
+has realized the fundamental conception underlying his ideal
+telephone system--the standardization of equipment. For the
+accomplishment of his idea of a national telephone system,
+instead of a parochial one, Mr. Vail organized, in 1881, the
+American Bell Telephone Company, a corporation that really
+represented the federalization of all the telephone activities of
+the subsidiary companies. The United States was divided into
+several sections, in each of which a separate company was
+organized to develop the telephone possibilities of that
+particular area. In 1899 the American Telephone and Telegraph
+Company took over the business and properties of the American
+Bell Company. The larger corporation built toll lines, connected
+these smaller systems with one another, and thus made it possible
+for Washington to talk to New York, New York to Chicago, and
+ultimately--Boston to San Francisco. An enlightened policy led
+the Bell Company frequently to establish exchanges in places
+where there was little chance of immediate profit. Under this
+stimulation the use of this instrument extended rapidly, yet it
+is in the last twenty years that the telephone has grown with
+accelerated momentum. In 1887 there were 170,000 subscribers in
+the United States, and in 1900 there were 610,000; but in 1906
+the American Telephone and Telegraph Company was furnishing its
+service to 2,550,000 stations, and in 1916 to 10,000,000. Clearly
+it is only since 1900 that the telephone has become a commonplace
+of American existence. Up to 1900 it had grown at the rate of
+about 13,000 a year; whereas since 1900 it has grown at the rate
+of 700,000 a year. The explanation is that charges have been so
+reduced that the telephone has been brought within the reach of
+practically every business house and every family. Until the year
+1900 every telephone subscriber had to pay $240 a year, and
+manifestly only families in affluent circumstances could afford
+such a luxury. About that time a new system of charges known as
+the "message rate" plan was introduced, according to which the
+subscriber paid a moderate price for a stipulated number of
+calls, and a pro rata charge for all calls in excess of that
+number. Probably no single change in any business has had such an
+instantaneous effect. The telephone, which had hitherto been an
+external symbol of prosperity, suddenly became the possession of
+almost every citizen.
+
+Other companies than the Bell interests have participated in this
+development. The only time the Bell Company has had no
+competitor, Mr. Vail has said, was at the Philadelphia Centennial
+in 1876. Some of this competition has benefited the public but
+much of it has accomplished little except to enrich many not
+over-scrupulous promoters. Groups of farmers who frequently
+started companies to furnish service at cost did much to extend
+the use of the telephone. Many of the companies which, when the
+Bell patents expired in 1895, sprang up in the Middle West, also
+manifested great enterprise and gave excellent service. These
+companies have made valuable contributions, of which perhaps the
+automatic telephone, an instrument which enables a subscriber to
+call up his "party" directly, without the mediation of "central,"
+is the most ingenious. Although due acknowledgment must be made
+of the honesty and enterprise with which hundreds of the
+independents are managed, the fact remains that they are a great
+economic waste. Most of them give only a local service, no
+company having yet arisen which aims to duplicate the
+comprehensive national plans of the greater corporation. As soon
+as an independent obtains a foothold, the natural consequence is
+that every business house and private household must either be
+contented with half service, or double the cost of the telephone
+by subscribing to two companies. It is not unlikely that the
+"independents" have exercised a wholesome influence upon the Bell
+Corporation, but, as the principle of government regulation
+rather than individual competition has now become the established
+method of controlling monopoly, this influence will possess less
+virtue in the future. In addition to these independent
+enterprises, the telephone has unfortunately furnished an
+opportunity for stockjobbing schemes on a considerable scale. The
+years from 1895 to 1905 witnessed the growth of many bubbles of
+this kind; one group of men organized not far from two hundred
+telephone companies. They would go into selected communities,
+promise a superior service at half the current rates, enlist the
+cooperation of "leading" business men, sell the stock largely in
+the city or town to be benefited, make large profits in the
+construction of the lines and the sale of equipment--and then
+decamp for pastures new. The multitudinous bankruptcies that
+followed in the wake of such exploiters at length brought their
+activities to an end.
+
+
+
+CHAPTER V. THE DEVELOPMENT OF PUBLIC UTILITIES
+
+The streets of practically all American cities, as they appeared
+in 1870 and as they appear today, present one of the greatest
+contrasts in our industrial development. Fifty years ago only a
+few flickering gas lamps lighted the most traveled thoroughfares.
+Only the most prosperous business houses and homes had even this
+expensive illumination; most obtained their artificial light from
+the new illuminant known as kerosene. But it was the mechanism of
+city transportation that would have looked the strangest in our
+eyes. New York City had built the world's first horse-car line in
+1832, and since that year this peculiarly American contrivance
+has had the most extended development. In 1870, indeed,
+practically every city of any importance had one or more railways
+of this type. New York possessed thirty different companies, each
+operating an independent system. In Philadelphia, Chicago, St.
+Louis, and San Francisco the growth of urban transportation had
+been equally haphazard. The idea of combining the several street
+railways into one comprehensive corporation had apparently
+occurred to no one. The passengers, in their peregrinations
+through the city, had frequently to pay three or four fares;
+competition was thus the universal rule. The mechanical equipment
+similarly represented a primitive state of organization. Horses
+and mules, in many cases hideous physical specimens of their
+breeds, furnished the motive power. The cars were little
+"bobtailed" receptacles, usually badly painted and more often
+than not in a desperate state of disrepair. In many cities the
+driver presided as a solitary autocrat; the passengers on
+entrance deposited their coins in a little fare box. At night
+tiny oil lamps made the darkness visible; in winter time
+shivering passengers warmed themselves by pulling their coat
+collars and furs closely about their necks and thrusting their
+lower members into a heap of straw, piled almost a foot deep on
+the floor.
+
+Who would have thought, forty years ago, that the lighting of
+these dark and dirty streets and the modernization of these local
+railway systems would have given rise to one of the most
+astounding chapters in our financial history and created
+hundreds, perhaps thousands, of millionaires? When Thomas A.
+Edison invented the incandescent light, and when Frank J. Sprague
+in 1887 constructed the first practicable urban trolley line, in
+Richmond, Virginia, they liberated forces that powerfully
+affected not only our social and economic life but our political
+institutions. These two inventions introduced anew
+phrase--"Public Utilities." Combined with the great growth and
+prosperity of the cities they furnished a fruitful opportunity to
+several particularly famous groups of financial adventurers. They
+led to the organization of "syndicates" which devoted all their
+energies, for a quarter of a century, to exploiting city lighting
+and transportation systems. These syndicates made a business of
+entering city after city, purchasing the scattered street railway
+lines and lighting companies, equipping them with electricity,
+combining them into unified systems, organizing large
+corporations, and floating huge issues of securities. A single
+group of six men--Yerkes, Widener, Elkins, Dolan, Whitney, and
+Ryan--combined the street railways, and in many cases the
+lighting companies, of New York, Philadelphia, Chicago,
+Pittsburgh, and at least a hundred towns and cities in
+Pennsylvania, Connecticut, Rhode Island, Massachusetts, Ohio,
+Indiana, New Hampshire, and Maine. Either jointly or separately
+they controlled the gas and electric lighting companies of
+Philadelphia, Reading, Harrisburg, Atlanta, Vicksburg, St.
+Augustine, Minneapolis, Omaha, Des Moines, Kansas City, Sioux
+City, Syracuse, and about seventy other communities. A single
+corporation developed nearly all the trolley lines and lighting
+companies of New Jersey; another controlled similar utilities in
+San Francisco and other cities on the Pacific Coast. In
+practically all instances these syndicates adopted precisely the
+same plan of operation. In so far as their activities resulted in
+cheap, comfortable, rapid, and comprehensive transit systems and
+low-priced illumination, their activities greatly benefited the
+public. The future historian of American society will probably
+attribute enormous influence to the trolley car in linking urban
+community with urban community, in extending the radius of the
+modern city, in freeing urban workers from the demoralizing
+influences of the tenement, in offering the poorer classes
+comfortable homes in the surrounding country, and in extending
+general enlightenment by bringing about a closer human
+intercourse. Indeed, there is probably no single influence that
+has contributed so much to the pleasure and comfort of the masses
+as the trolley car.
+
+Yet the story that I shall have to tell is not a pleasant one. It
+is impossible to write even a brief outline of this development
+without plunging deeply into the two phases of American life of
+which we have most cause to be ashamed; these are American
+municipal politics and the speculative aspects of Wall Street.
+The predominating influences in American city life have been the
+great franchise corporations. Practically all the men that have
+had most to do with developing our public utilities have also had
+the greatest influence in city politics. In New York, Thomas F.
+Ryan and William C. Whitney were the powerful, though invisible,
+powers in Tammany Hall. In Chicago, Charles T. Yerkes controlled
+mayors and city councils; he even extended his influence into the
+state government, controlling governors and legislatures. In
+Philadelphia, Widener and Elkins dominated the City Hall and also
+became part of the Quay machine of Pennsylvania. Mark Hanna, the
+most active force in Cleveland railways, was also the political
+boss of the State. Roswell P. Flower, chief agent in developing
+Brooklyn Rapid Transit, had been Governor of New York; Patrick
+Calhoun, who monopolized the utilities of San Francisco and other
+cities, presided likewise over the city's inner politics. The
+Public Service Corporation of New Jersey also comprised a large
+political power in city and state politics. It is hardly an
+exaggeration to say that in the most active period, that from
+1880 to 1905, the powers that developed city railway and lighting
+companies in American cities were identically the same owners
+that had the most to do with city government. In the minds of
+these men politics was necessarily as much a part of their
+business as trolley poles and steel rails. This type of
+capitalist existed only on public franchises--the right to occupy
+the public streets with their trolley cars, gas mains, and
+electric light conduits; they could obtain these privileges only
+from complaisant city governments, and the simplest way to obtain
+them was to control these governments themselves. Herein we have
+the simple formula which made possible one of the most profitable
+and one of the most adventurous undertakings of our time.
+
+An attempt to relate the history of all these syndicates would
+involve endless repetition. If we have the history of one we have
+the history of practically all. I have therefore selected, as
+typical, the operations of the group that developed the street
+railways and, to a certain extent, the public lighting
+companies, in our three greatest American cities--New York,
+Chicago, and Philadelphia.
+
+One of the men who started these enterprises actually had a
+criminal record. William H. Kemble, an early member of the
+Philadelphia group, had been indicted for attempting to bribe the
+Pennsylvania Legislature; he had been convicted and sentenced to
+one year in the county jail and had escaped imprisonment only by
+virtue of a pardon obtained through political influence. Charles
+T. Yerkes, one of his partners in politics and street railway
+enterprises, had been less fortunate, for he had served seven
+months for assisting in the embezzlement of Philadelphia funds in
+1873. It was this circumstance in Yerkes's career which impelled
+him to leave Philadelphia and settle in Chicago where, starting
+as a small broker, he ultimately acquired sufficient resources
+and influence to embark in that street railway business at which
+he had already served an extensive apprenticeship. Under his
+domination, the Chicago aldermen attained a gravity that made
+them notorious all over the world. They openly sold Yerkes the
+use of the streets for cash and constantly blocked the efforts
+which an infuriated populace made for reform. Yerkes purchased
+the old street railway lines, lined his pockets by making
+contracts for their reconstruction, issued large flotations of
+watered stock, heaped securities upon securities and
+reorganization upon reorganization and diverted their assets to
+business in a hundred ingenious ways.
+
+In spite of the crimes which Yerkes perpetrated in American
+cities, there was something refreshing and ingratiating about the
+man. Possibly this is because he did not associate any hypocrisy
+with his depredations. "The secret of success in my business," he
+once frankly said, "is to buy old junk, fix it up a little, and
+unload it upon other fellows." Certain of his epigrams--such as,
+"It is the strap-hanger who pays the dividends"--have likewise
+given him a genial immortality. The fact that, after having
+reduced the railway system of Chicago to financial pulp and
+physical dissolution, he finally unloaded the whole useless mass,
+at a handsome personal profit, upon his old New York friends,
+Whitney and Ryan, and decamped to London, where he carried
+through huge transit enterprises, clearly demonstrated that
+Yerkes was a buccaneer of no ordinary caliber.
+
+Yerkes's difficulties in Philadelphia indirectly made possible
+the career of Peter A. B. Widener. For Yerkes had become involved
+in the defalcation of the City Treasurer, Joseph P. Mercer, whose
+translation to the Eastern Penitentiary left vacant a municipal
+office into which Mr. Widener now promptly stepped. Thus Mr.
+Widener, as is practically the case with all these street railway
+magnates, was a municipal politician before he became a
+financier. The fact that he attained the city treasurership shows
+that he had already gone far, for it was the most powerful office
+in Philadelphia. He had all those qualities of suavity,
+joviality, firmness, and personal domination that made possible
+success in American local politics a generation ago. His
+occupation contributed to his advancement. In recent years Mr.
+Widener, as the owner of great art galleries and the patron of
+philanthropic and industrial institutions, has been a national
+figure of the utmost dignity. Had you dropped into the Spring
+Garden Market in Philadelphia forty years ago, you would have
+found a portly gentleman, clad in a white apron, and armed with a
+cleaver, presiding over a shop decorated with the design--"Peter
+A. B. Widener, Butcher." He was constantly joking with his
+customers and visitors, and in the evening he was accustomed to
+foregather with a group of well-chosen spirits who had been long
+famous in Philadelphia as the "all-night poker players." A
+successful butcher shop in Philadelphia in those days played
+about the same part in local politics as did the saloon in New
+York City. Such a station became the headquarters of political
+gossip and the meeting ground of a political clique; and so
+Widener, the son of a poor German bricklayer, rapidly became a
+political leader in the Twentieth Ward, and soon found his power
+extending even to Harrisburg. A few years ago Widener presided
+over a turbulent meeting of Metropolitan shareholders in Newark,
+New Jersey. The proposal under consideration was the transference
+of all the Metropolitan's visible assets to a company of which
+the stockholders knew nothing. When several of these stockholders
+arose and demanded that they be given an opportunity to discuss
+the projected lease, Widener turned to them and said, in his
+politest and blandest manner: "You can vote first and discuss
+afterward." Widener displayed precisely these same qualities of
+ingratiating arrogance and good-natured contempt as a
+Philadelphia politician. He was a man of big frame, alert and
+decisive in his movements, and a ready talker; in business he was
+given much to living in the clouds--a born
+speculator--emphatically a "boomer." His sympathies were
+generous, at times emotional; it is said that he has even been
+known to weep when discussing his fine collection of Madonnas. He
+showed this personal side in his lifelong friendship and business
+association with William L. Elkins, a man much inferior to him in
+ability. Indeed, Elkins's great fortune was little more than a
+free gift from Widener, who carried him as a partner in all his
+deals. Elkins became Widener's bondsman when the latter entered
+the City Treasurer's office; the two men lived near each other on
+the same street, and this association was cemented when Widener's
+oldest son married Elkins's daughter. Elkins had started life as
+an entry clerk in a grocery store, had made money in the butter
+and egg business, had "struck oil" at Titusville in 1862, and had
+succeeded in exchanging his holdings for a block of Standard Oil
+stock. He too became a Philadelphia politician, but he had
+certain hard qualities--he was close-fisted, slow, plodding--that
+prevented him from achieving much success.
+
+For the other members of this group we must now change the scene
+to New York City. In the early eighties certain powerful
+interests had formed plans for controlling the New York transit
+fields. Prominent among them was William Collins Whitney, a very
+different type of man from the Philadelphians. Born in Conway,
+Massachusetts, in 1841, he came from a long line of distinguished
+and intellectual New Englanders. At Yale his wonderful mental
+gifts raised him far above his fellows; he divided all scholastic
+honors there with his classmate, William Graham Sumner,
+afterwards Yale's great political economist. Soon after
+graduation Whitney came to New York and rapidly forged ahead as a
+lawyer. Brilliant, polished, suave, he early displayed those
+qualities which afterward made him the master mind of
+presidential Cabinets and the maker of American Presidents.
+Physically handsome, loved by most men and all women, he soon
+acquired a social standing that amounted almost to a
+dictatorship. His early political activities had greatly
+benefited New York. He became a member of that group which, under
+the leadership of Joseph H. Choate and Samuel J. Tilden,
+accomplished the downfall of William M. Tweed. Whitney remained
+Tilden's political protege for several years. Though highbred and
+luxury-loving, as a young man he was not averse to hard political
+work, and many old-timers still remember the days when "Bill"
+Whitney delivered cart-tail harangues on the lower east side. By
+1884 he had become the most prominent Democrat in New
+York--always a foe to Tammany--and as such he contributed largely
+to Cleveland's first election, became Secretary of the Navy in
+Cleveland's cabinet and that great President's close friend and
+adviser. As Secretary of the Navy, Whitney, who found the fleet
+composed of a few useless hulks left over from the days of
+Farragut, created the fighting force that did such efficient
+service in the Spanish War. The fact that the United States is
+now the third naval power is largely owing to these early
+activities of Whitney.
+
+Certainly all this national service forms a strange prelude to
+Whitney's activities in the public utilities of New York and
+other cities. Had he died, indeed, in his fiftieth year, his name
+would be renowned today as a worker for the highest ideals of
+American citizenship. What suddenly made him turn his back upon
+his past, join his former enemies in Tammany Hall, and engage in
+these great speculative enterprises? The simplest explanation is
+that, with his ability and ambition, Whitney had the luxurious
+tastes of a Medici. At the height of his career his financial
+success found expression in a magnificent house which he
+established on Fifth Avenue. Its furnishings were one of the
+wonders of New York. Whitney ransacked the art treasures of
+Europe, stripped medieval castles of their carvings and
+tapestries, ripped whole staircases and ceilings from the repose
+of centuries, and relaid them in this abode of splendor, and here
+he entertained with a lavishness that astounded New York. This
+single exploit pictures the man. Everything that Whitney did and
+was his house, his financial transactions, his Wall Street
+speculations, the rewards which he gave his friends assumed
+heroic proportions. But these things all demanded money. The
+dilapidated horse railways of New York offered him his most
+convenient opportunity for amassing it.
+
+But Whitney had not proceeded far when he came face to face with
+a quiet and energetic young man who had already made considerable
+progress in the New York transit field. This was a Virginian of
+South Irish descent who had started life as a humble broker's
+clerk twelve or fourteen years before. His name was Thomas
+Fortune Ryan. Few men have wielded greater power in American
+finance, but in 1884 Ryan was merely a ruddy-faced, cleancut, and
+clean-living Irishman of thirty-three, who could be depended on
+to execute quickly and faithfully orders on the New York Stock
+Exchange--even though they were small ones--and who, in
+unostentatious fashion, had already acquired much influence in
+Tammany Hall. With his six feet of stature, his extremely slender
+figure, his long legs, his long arms, his raiment--which always
+represented the height of fashion and tended slightly toward the
+flashy --Ryan made a conspicuous figure wherever he went. He was
+born in 1851, on a small farm in Nelson County, Virginia. The
+Civil War, which broke out when Ryan was a boy of ten, destroyed
+the family fortune and in 1868, when seventeen, he began life as
+a dry-goods clerk in Baltimore, fulfilling the tradition of the
+successful country boy in the large city by marrying his
+employer's daughter. When his father-in-law failed, in 1870, Ryan
+came to New York, went to work in a broker's office, and
+succeeded so well that, in a few years, he was able to purchase a
+seat on the Stock Exchange. He was sufficiently skillful as a
+broker to number Jay Gould among his customers and to inspire a
+prophecy by William C. Whitney that, if he retained his health,
+he would become one of the richest men in the country.
+Afterwards, when he knew him more intimately, Whitney elaborated
+this estimate by saying that Ryan was "the most adroit, suave,
+and noiseless man he had ever known." Ryan had two compelling
+traits that soon won for him these influential admirers. First of
+all was his marvelous industry. His genius was not spasmodic. He
+worked steadily, regularly, never losing a moment, never getting
+excited, going, day after day, the same monotonous dog-trot,
+easily outdistancing scores of apparently stronger men. He also
+had the indispensable faculty of silence. He has always been the
+least talkative man in Wall Street, but, with all his reserve, he
+has remained the soul of courtesy and outward good nature.
+
+Here, then, we have the characters of this great impending
+drama--Yerkes in Chicago, Widener and Elkins in Philadelphia,
+Whitney and Ryan in New York. These five men did not invariably
+work as a unit. Yerkes, though he had considerable interest in
+Philadelphia, which had been the scene of his earliest exploits,
+limited his activities largely to Chicago. Widener and Elkins,
+however, not only dominated Philadelphia traction but
+participated in all of Yerkes's enterprises in Chicago and held
+an equal interest with Whitney and Ryan in New York. The latter
+Metropolitan pair, though they confined their interest chiefly to
+their own city, at times transferred their attention to Chicago.
+Thus, for nearly thirty years, these five men found their oyster
+in the transit systems of America's three greatest cities--and,
+for that matter, in many others also.
+
+An attempt to trace the convolutions of America's street railway
+and public lighting finance would involve a puzzling array of
+statistics and an inextricable complexity of stocks, bonds,
+leases, holding companies, operating companies, construction
+companies, reorganizations, and the like. Difficult and
+apparently impenetrable as is this financial morass, the
+essential facts still stand out plainly enough. As already
+indicated, the fundamental basis upon which the whole system
+rested was the control of municipal politics. The story of the
+Metropolitan's manipulation of the New York street railways
+starts with one of the most sordid episodes in the municipal
+annals of America's largest city. Somewhat more than thirty years
+ago, a group of New York city fathers acquired an international
+fame as the "boodle aldermen." These men had finally given way to
+the importunities of a certain Jacob Sharp, an eccentric
+New York character, who had for many years operated New York City
+railways, and granted a franchise for the construction of a
+horse-car line on lower Broadway. Soon after voting this
+franchise, regarded as perhaps the most valuable in the world,
+these same aldermen had begun to wear diamonds, to purchase real
+estate, and give other outward evidences of unexpected
+prosperity. Presently, however, these city fathers started a
+migration to Canada, Mexico, Spain, and other countries where the
+processes of extradition did not work smoothly. Sharp's enemies
+had succeeded in precipitating a legislative investigation under
+the very capable leadership of Roscoe Conkling, who had little
+difficulty in showing that Sharp had purchased his aldermen for
+$500,000 cash. In a short time, such of the aldermen as were
+accessible to the police were languishing in prison, and Sharp
+had been arrested on twenty-one indictments for bribery and
+sentenced to four years' hard labor--a sentence which he was
+saved from serving by his lonely and miserable death in Ludlow
+Street Jail. In the delirium preceding his dissolution Sharp
+raved constantly about his Broadway railroad and his enemies; it
+was apparently his belief that the investigation which had
+uncovered his rascality and the subsequent "persecutions" had
+been engineered by certain of his rivals, either to compel Sharp
+to disgorge his franchise or to produce the facts that would
+justify the legislature in annulling it on the ground of fraud.
+
+Though the complete history of this transaction can never be
+written, we do possess certain facts that lend some color to this
+diagnosis. Up to the time that Sharp had captured this franchise,
+Ryan, Whitney, and the Philadelphians--not as partners, but as
+rivals--had competed with him for this prize. At the trial of
+Arthur J. McQuade in 1886, a fellow conspirator, who bore the
+somewhat suggestive name of Fullgraff, related certain details
+which, if true, would indicate that Sharp's methods differed from
+those of his rivals only in that they had proved more successful.
+Thirteen members of the Board of Aldermen, said Fullgraff, had
+formed a close corporation, elected a chairman, and adopted a
+policy of "business unity in all important matters," which meant
+that they proposed to keep together in order to secure the
+highest price for the Broadway franchise. The cable railroad,
+which was the one with which Mr. Ryan was identified, offered
+$750,000, half in bonds and half in cash. Mr. Sharp, however,
+offered $500,000 all in cash. The aldermen voted in favor of
+Sharp because cash was not only a more valuable commodity than
+the bonds but, to use Alderman Fullgraff's own words--"less
+easily traced." That Whitney financed lawsuits against the
+validity of Sharp's franchise appears upon the record, and that
+Ryan was actively promoting the Conkling investigation, is
+likewise a matter of evidence. Sharp's victory had the great
+result of bringing together the three forces--Ryan, Whitney, and
+the Philadelphians--who had hitherto combated one another as
+rivals; that is, it caused the organization of the famous
+Whitney-Ryan-Widener-Elkins syndicate. If these men had inspired
+all those attacks on Sharp, their maneuver proved successful; for
+when the investigation had attained its climax and public
+indignation against Sharp had reached its most furious stage,
+that venerable corruptionist, worn down by ill health, and almost
+crazed by the popular outcry, sold his Broadway railroad to Peter
+A. B. Widener, William L. Elkins, and William H. Kemble. Thomas
+F. Ryan became secretary of the new corporation, and William C.
+Whitney an active participant in its affairs.
+
+This Broadway franchise formed the vertebral column of the New
+York transit system; with it as a basis, the operators formed the
+Metropolitan Street Railway Company in 1893, commonly known as
+the "Metropolitan." They organized also the Metropolitan Traction
+Company, an organization which enjoys an historic position as the
+first "holding company" ever created in this country. Its
+peculiar attribute was that it did not construct and operate
+street railways itself, but merely owned other corporations that
+did so. Its only assets, that is, were paper securities
+representing the ownership and control of other companies. This
+"holding company," which has since become almost a standardized
+form of corporation control in this country, was the invention of
+Mr. Francis Lynde Stetson, one of America's greatest corporation
+lawyers. "Mr. Stetson," Ryan is said to have remarked, "do you
+know what you did when you drew up the papers of the Metropolitan
+Traction Company? You made us a great big tin box."
+
+The plan which Whitney and his associates now followed was to
+obtain control, in various ways, of all the surface railways in
+New York and place them under the leadership of the Metropolitan.
+Through their political influences they obtained franchises of
+priceless value, organized subsidiary street railway companies,
+and exchanged the stock of these subsidiary companies for that of
+the Metropolitan. A few illustrations will show the character of
+these transactions. They thus acquired, practically as a free
+gift, a franchise to build a cable railroad on Lexington Avenue.
+At an extremely liberal estimate, this line cost perhaps
+$2,500,000 to construct, yet the syndicate turned this over to
+the Metropolitan for $10,000,000 of Metropolitan securities. They
+similarly acquired a franchise for a line on Columbus Avenue,
+spending perhaps $500,000 in construction, and handing the
+completed property over to the Metropolitan for $6,000,000. In
+exchange for these two properties, representing a real
+investment, it has been maintained, of $3,000,000, the inside
+syndicates received securities which had a face value of
+$16,000,000 and which, as will appear subsequently, had a market
+cash value of not far from $25,000,000. They purchased an old
+horse-car line on Fulton Street, a line whose assets consisted of
+one-third of a mile of tracks, ten little box cars, thirty
+horses, and an operating deficit of $40,000 a year. At auction,
+its visible assets might have brought $15,000; yet the syndicate
+turned this over to the Metropolitan for $1,000,000. They spent
+$50,000 in constructing and equipping a horse railroad on
+Twenty-eighth and Twenty-ninth Streets and turned this over to
+the Metropolitan for $3,000,000. For two and a half miles of
+railroad on Thirty-fourth Street, which represented a cash
+expenditure of perhaps $100,000, they received $2,000,000 of
+Metropolitan stock. But it is hardly necessary to catalogue more
+instances; the plan of operations must now be fairly evident. It
+was for the members of the syndicate, as individuals, to collect
+all the properties and new franchises that were available and to
+transfer them to the Metropolitan at enormously inflated values.
+So far, all these deals were purely stock transactions--no cash
+had yet changed hands. When the amalgamation was complete, the
+insiders found themselves in possession of large amounts of
+Metropolitan stock. Their scheme for transforming this paper into
+more tangible property forms the concluding chapter of this
+Metropolitan story.*
+
+* In 1897 the Traction Company dissolved, after distributing
+$6,000,000 as "a voluntary dividend" among its stockholders.
+
+
+Nearly all the properties actually purchased and transferred in
+the manner described above, had little earning capacity, and
+therefore little value; they were decrepit horse-car lines in
+unprofitable territory. The really valuable roads were those that
+traversed the great north and south thoroughfares-Lenox, Third,
+Fourth, Sixth, Eighth, and Ninth Avenues. Many old New York
+families and estates had held these properties for years and had
+collected large annual dividends from them. Naturally they had no
+desire to sell, yet their acquisition was essential to the
+monopoly which the Whitney-Ryan syndicate aspired to construct.
+They finally leased all these roads, under agreements which
+guaranteed large annual rentals. In practically all these cases
+the Metropolitan, in order to secure physical possession, agreed
+to pay rentals that far exceeded the earning capacity of the
+road. What is the explanation of such insane finance? We do not
+have the precise facts in the matter of the New York railways;
+but similar operations in Chicago, which have been officially
+made public, shed the utmost light upon the situation. In order
+to get possession of a single road in Chicago, Widener and Elkins
+guaranteed a thirty-five per cent dividend; to get one
+Philadelphia line, they guaranteed 65 1/2 per cent on capital
+paid in. This, of course, was not business; the motives actuating
+the syndicate were purely speculative. In Chicago, Widener and
+Elkins quietly made large purchases of the stock in these roads
+before they leased them to the parent company. The exceedingly
+profitable lease naturally gave such stocks a high value, in case
+they preferred to sell; if they held them, they reaped huge
+rewards from the leases which they had themselves decreed.
+Perhaps their most remarkable exploit was the lease of the West
+Division Railway Company of Chicago to the West Chicago Street
+Railroad. Widener and Elkins controlled the West Division
+Railway; their partner, Charles T. Yerkes, controlled the latter
+corporation. The negotiation of a lease, therefore, was a purely
+informal matter; the partners were merely dealing with one
+another; yet Widener and Elkins received a fee of $5,000,000 as
+personal compensation for negotiating this lease!
+
+But this whole leasing system, both in New York and Chicago,
+entailed scandals perhaps even more reprehensible. All these
+leased properties, when taken over, were horse-car lines, and
+their transformation into electrically propelled systems involved
+reconstruction operations on an extensive scale. It seems
+perfectly clear that the chief motive which inspired these
+extravagant leases was the determination of the individuals who
+made up the syndicate to obtain physical possession and to make
+huge profits on construction. The "construction accounts" of the
+Metropolitan in New York form the most mysterious and incredible
+chapter in its history. The Metropolitan reports show that they
+spent anywhere from $500,000 to $600,000 a mile building
+underground trolley lines which, at their own extravagant
+estimate, should have cost only $150,000. In a few years untold
+millions, wasted in this way, disappeared from the Metropolitan
+treasury. In 1907 the Public Service Commission of New York began
+investigating these "construction accounts," but it had not
+proceeded far when the discovery was made that all the
+Metropolitan books containing the information desired had been
+destroyed. All the ledgers, journals, checks, and vouchers
+containing the financial history of the Metropolitan since its
+organization in 1893 had been sold for $117 to a junkman, who had
+agreed in writing to grind them into pulp, so that they would be
+safe from "prying eyes." We shall therefore never know precisely
+how this money was spent. But here again the Chicago transactions
+help us to an understanding. In 1898 Charles T. Yerkes, with that
+cynical frankness which some people have regarded as a redeeming
+trait in his character, opened his books for the preceding
+twenty-five years to the Civic Federation of Chicago. These books
+disclosed that Mr. Yerkes and his associates, Widener and Elkins,
+had made many millions in reconstructing the Chicago lines at
+prices which represented gross overcharges to the stockholders.
+For this purpose Yerkes, Widener, and Elkins organized the United
+States Construction Company and made contracts for installing the
+new electric systems on the lines which they controlled by lease
+or stock ownership. It seems a not unnatural suspicion that the
+vanished Metropolitan books would have disclosed similar
+performances in New York.
+
+The concluding chapter of this tragedy has its setting in the
+Stock Exchange. These inside gentlemen, as already said, received
+no cash as their profits from these manipulations--only stock.
+But in the eyes of the public this stock represented an enormous
+value. Metropolitan securities, for example, represented the
+control and ownership of all the surface transit business in the
+city of New York. Naturally, it had a great investment value.
+When it began to pay regularly seven per cent dividends, the
+public appetite for Metropolitan became insatiable. The eager
+purchasers did not know, what we know now, that the Metropolitan
+did not earn these dividends and never could have earned them.
+The mere fact that it was paying, as rentals on its leased lines,
+annual sums far in excess of their earning capacity, necessarily
+prevented anything in the nature of profitable operation. The
+unpleasant fact is that these dividends were paid with borrowed
+money merely to make the stock marketable. It is not unlikely
+that the padded construction accounts, already described, may
+have concealed large disbursements of money for unearned
+dividends. When the Metropolitan was listed in 1897, it
+immediately went beyond par. The excitement that followed forms
+one of the most memorable chapters in the history of Wall Street.
+The investing public, egged on by daring and skillful stock
+manipulators, simply went mad and purchased not only Metropolitan
+but street railway shares that were then even more speculative.
+It was in these bubble days that Brooklyn Rapid Transit soared to
+heights from which it subsequently descended precipitately. Under
+this stimulus, Metropolitan stock ultimately sold at $269 a
+share. While the whole investing public was scrambling for
+Metropolitan, the members of the exploiting syndicate found ample
+opportunity to sell. The real situation became apparent when
+William C. Whitney died in 1904 leaving an estate valued at
+$40,000,000. Not a single share of Metropolitan was found among
+his assets! The final crash came in 1907, when the Metropolitan,
+a wrecked and plundered shell, confessed insolvency and went into
+a receivership. Those who had purchased its stock found their
+holdings as worthless as the traditional western gold mine. The
+story of the Chicago and Philadelphia systems, as well as that of
+numerous other cities, had been essentially the same. The transit
+facilities of millions of Americans had merely become the
+instruments of a group of speculators who had made huge personal
+fortunes and had left, as a monument of their labors, street
+railway lines whose gross overcapitalization was apparent to all
+and whose physical dilapidation in many cases revealed the
+character of their management.
+
+It seems perhaps an exaggeration to say that the enterprises
+which have resulted in equipping our American cities and suburbs
+with trolley lines and electric lighting facilities have followed
+the plan of campaign sketched above. Perhaps not all have
+repeated the worst excesses of the syndicate that so
+remorselessly exploited New York, Chicago, and Philadelphia. Yet
+in most cases these elaborate undertakings have been largely
+speculative in character. Huge issues of fictitious stock,
+created purely for the benefit of inner rings, have been almost
+the prevailing rule. Stock speculation and municipal corruption
+have constantly gone hand in hand everywhere with the development
+of the public utilities. The relation of franchise corporations
+to municipalities is probably the thing which has chiefly opened
+the eyes of Americans to certain glaring defects in their
+democratic organization. The popular agitation which has resulted
+has led to great political reforms. The one satisfaction which we
+can derive from such a relation as that given above is that,
+after all, it is representative of a past era in our political
+and economic life. No new "Metropolitan syndicate" can ever
+repeat the operations of its predecessors. Practically every
+State now has utility commissions which regulate the granting of
+franchises, the issue of securities, the details of construction
+and equipment and service. An awakened public conscience has
+effectively ended the alliance between politics and franchise
+corporations and the type of syndicate described in the foregoing
+pages belongs as much to our American past as that rude frontier
+civilization with which, after all, it had many characteristics
+in common.
+
+
+
+CHAPTER VI. MAKING THE WORLD'S AGRICULTURAL MACHINERY
+
+The Civil War in America did more than free the negro slave: it
+freed the white man as well. In the Civil War agriculture, for
+the first time in history, ceased to be exclusively a manual art.
+Up to that time the typical agricultural laborer had been a bent
+figure, tending his fields and garnering his crops with his own
+hands. Before the war had ended the American farmer had assumed
+an erect position; the sickle and the scythe had given way to a
+strange red chariot, which, with practically no expenditure of
+human labor, easily did the work of a dozen men. Many as have
+been America's contributions to civilization, hardly any have
+exerted greater influence in promoting human welfare than her
+gift of agricultural machinery. It seems astounding that, until
+McCormick invented his reaper, in 1831, agricultural methods, in
+both the New and the Old World, differed little from those that
+had prevailed in the days of the Babylonians. The New England
+farmer sowed his fields and reaped his crops with almost
+identically the same instruments as those which had been used by
+the Roman farmer in the time of the Gracchi. Only a comparatively
+few used the scythe; the great majority, with crooked backs and
+bended knees, cut the grain with little hand sickles precisely
+like those which are now dug up in Etruscan and Egyptian tombs.
+
+Though McCormick had invented his reaper in 1831, and though many
+rival machines had appeared in the twenty years preceding the
+Civil War, only the farmers on the great western plains had used
+the new machinery to any considerable extent. The agricultural
+papers and agricultural fairs had not succeeded in popularizing
+these great laborsaving devices. Labor was so abundant and so
+cheap that the farmer had no need of them. But the Civil War took
+one man in three for the armies, and it was under this pressure
+that the farmers really discovered the value of machinery. A
+small boy or girl could mount a McCormick reaper and cut a dozen
+acres of grain in a day. This circumstance made it possible to
+place millions of soldiers in the field and to feed the armies
+from farms on which mature men did very little work. But the
+reaper promoted the Northern cause in other ways. Its use
+extended so in the early years of the war that the products of
+the farms increased on an enormous scale, and the surplus,
+exported to Europe, furnished the liquid capital that made
+possible the financing of the war. Europe gazed in astonishment
+at a new spectacle in history; that of a nation fighting the
+greatest war which had been known up to that time, employing the
+greater part of her young and vigorous men in the armies, and yet
+growing infinitely richer in the process. The Civil War produced
+many new implements of warfare, such as the machine gun and the
+revolving turret for battleships, but, so far as determining the
+result was concerned, perhaps the most important was the reaper.
+
+Extensive as the use of agricultural machinery became in the
+Civil War, that period only faintly foreshadowed the development
+that has taken place since. The American farm is today like a
+huge factory; the use of the hands has almost entirely
+disappeared; there are only a few operations of husbandry that
+are not performed automatically. In Civil War days the reaper
+merely cut the grain; now machinery rakes it up and binds it into
+sheaves and threshes it. Similar mechanisms bind corn and rice.
+Machinery is now used to plant potatoes; grain, cotton, and other
+farm products are sown automatically. The husking bees that
+formed one of our social diversions in Civil War days have
+disappeared, for particular machines now rip the husks off the
+ears. Horse hay-forks and horse hayrakes have supplanted manual
+labor. The mere names of scores of modern instruments of farming,
+all unknown in Civil War days--hay carriers, hay loaders, hay
+stackers, manure spreaders, horse corn planters, corn drills,
+disk harrows, disk ploughs, steam ploughs, tractors, and the
+like--give some suggestion of the extent to which America has
+made mechanical the most ancient of occupations. In thus
+transforming agriculture, we have developed not only our own
+Western plains, but we have created new countries. Argentina
+could hardly exist today except for American agricultural
+machinery. Ex-President Loubet declared, a few years ago, that
+France would starve to death except for the farming machines that
+were turned out in Chicago. There is practically no part of the
+world where our self-binders are not used. In many places America
+is not known as the land of freedom and opportunity, but merely
+as "the place from which the reapers come." The traveler suddenly
+comes upon these familiar agents in every European country, in
+South America, in Egypt, China, Algiers, Siberia, India, Burma,
+and Australia. For agricultural machinery remains today, what it
+has always been, almost exclusively an American manufacture. It
+is practically the only native American product that our European
+competitors have not been able to imitate. Tariff walls, bounty
+systems, and all the other artificial aids to manufacturing have
+not developed this industry in foreign lands, and today the
+United States produces four-fifths of all the agricultural
+machinery used in the world. The International Harvester Company
+has its salesmen in more than fifty countries, and has
+established large American factories in many nations of Europe.
+
+One day, a few years before his death, Prince Bismarck was
+driving on his estate, closely following a self-binder that had
+recently been put to work. The venerable statesman, bent and
+feeble, seemed to find a deep melancholy interest in the
+operation.
+
+"Show me the thing that ties the knot," he said. It was taken to
+pieces and explained to him in detail.  "Can these machines be
+made in Germany?" he asked.
+
+"No, your Excellency," came the reply. "They can be made only in
+America."
+
+The old man gave a sigh. "Those Yankees are ingenious fellows,"
+he said. "This is a wonderful machine."
+
+In this story of American success, four names stand out
+preeminently. The men who made the greatest contributions were
+Cyrus H. McCormick, C. W. Marsh, Charles B. Withington, and John
+F. Appleby. The name that stands foremost, of course, is that of
+McCormick, but each of the others made additions to his invention
+that have produced the present finished machine. It seems like
+the stroke of an ironical fate which decreed that since it was
+the invention of a Northerner, Eli Whitney, that made inevitable
+the Civil War, so it was the invention of a Southerner, Cyrus
+McCormick, that made inevitable the ending of that war in favor
+of the North. McCormick was born in Rockbridge County, Virginia,
+on a farm about eighteen miles from Staunton. He was a child of
+that pioneering Scotch-Irish race which contributed so greatly to
+the settlement of this region and which afterward made such
+inestimable additions to American citizenship. The country in
+which he grew up was rough and, so far as the conventionalities
+go, uncivilized; the family homestead was little more than a log
+cabin; and existence meant a continual struggle with a not
+particularly fruitful soil. The most remarkable figure in the
+McCormick home circle, and the one whose every-day life exerted
+the greatest influence on the boy, was his father. The older
+McCormick had one obsessing idea that made him the favorite butt
+of the local humorists. He believed that the labor spent in
+reaping grain was a useless expenditure of human effort and that
+machinery might be made to do the work. Other men, in this
+country and in Europe, had nourished similar notions. Several
+Englishmen had invented reaping machines, all of which had had
+only a single defect--they would not reap. An ingenious English
+actor had developed a contrivance which would cut imitation wheat
+on the stage, but no one had developed a machine that would work
+satisfactorily in real life. Robert McCormick spent the larger
+part of his days and nights tinkering at a practical machine. He
+finally produced a horrific contrivance, made up of whirling
+sickles, knives, and revolving rods, pushed from behind by two
+horses; when he tried this upon a grain-field, however, it made a
+humiliating failure.
+
+Evidently Robert McCormick had ambitions far beyond his powers;
+yet without his absurd experiments the development of American
+agriculture might have waited many years. They became the
+favorite topics of conversation in the evening gatherings that
+took place about the family log fire. Robert McCormick had
+several sons, and one manifested a particular interest in his
+repeated failures. From the time he was seven years old Cyrus
+Hall McCormick became his father's closest companion. Others
+might ridicule and revile, but this chubby, bright-eyed,
+intelligent little boy was always the keenest listener, the one
+comfort which the father had against his jeering neighbors. He
+also became his father's constant associate in his rough
+workshop. Soon, however, the older man noticed a change in their
+relations. The boy was becoming the teacher, and the father was
+taught. By the time Cyrus was eighteen, indeed, he had advanced
+so far beyond his father that the latter had become merely a
+proud observer. Young McCormick threw into the discard all his
+father's ideas and struck out on entirely new lines. By the time
+he had reached his twenty-second birthday he had constructed a
+machine which, in all its essential details, is the one which we
+have today. He had introduced seven principles, all of which are
+an indispensable part of every reaper constructed now. One
+afternoon he drove his unlovely contraption upon his father's
+farm, with no witnesses except his own family. This group now
+witnessed the first successful attempt ever made to reap with
+machinery. A few days later young McCormick gave a public
+exhibition at Steele's Tavern, cutting six acres of oats in an
+afternoon. The popular ridicule soon changed into acclaim; the
+new invention was exhibited in a public square and Cyrus
+McCormick became a local celebrity. Perhaps the words that
+pleased him most, however, were those spoken by his father. "I am
+proud," said the old man, "to have a son who can do what I failed
+to do."
+
+This McCormick reaper dates from 1831; but it represented merely
+the beginnings of the modern machine. It performed only a single
+function; it simply cut the crop. When its sliding blade had
+performed this task, the grain fell back upon a platform, and a
+farm hand, walking alongside, raked this off upon the ground. A
+number of human harvesters followed, picked up the bundles, and
+tied a few strips of grain around them, making the sheaf. The
+work was exceedingly wearying and particularly hard upon the
+women who were frequently impressed into service as farm-hands.
+About 1858 two farmers named Marsh, who lived near De Kalb,
+Illinois, solved this problem. They attached to their McCormick
+reaper a moving platform upon which the cut grain was deposited.
+A footboard was fixed to the machine upon which two men stood. As
+the grain came upon this moving platform these men seized it,
+bound it into sheaves, and threw it upon the field. Simple as
+this procedure seemed it really worked a revolution in
+agriculture; for the first time since the pronouncement of the
+primal curse, the farmer abandoned his hunchback attitude and did
+his work standing erect. Yet this device also had its
+disqualifications, the chief one being that it converted the
+human sheaf-binder into a sweat-shop worker. It was necessary to
+bind the grain as rapidly as the platform brought it up; the
+worker was therefore kept in constant motion; and the
+consequences were frequently distressing and nerve racking. Yet
+this "Marsh Harvester" remained the great favorite with farmers
+from about 1860 to 1874.
+
+All this time, however, there was a growing feeling that even the
+Marsh harvester did not represent the final solution of the
+problem; the air was full of talk and prophecies about
+self-binders, something that would take the loose wheat from the
+platform and transform it into sheaves. Hundreds of attempts
+failed until, in 1874, Charles B. Withington of Janesville,
+Wisconsin, brought to McCormick a mechanism composed of two steel
+arms which seized the grain, twisted a wire around it, cut the
+wire, and tossed the completed sheaf to the earth. In actual
+practice this contrivance worked with the utmost precision.
+Finally American farmers had a machine that cut the grain, raked
+it up, and bound it into sheaves ready for the mill. Human labor
+had apparently lost its usefulness; a solitary man or woman,
+perched upon a seat and driving a pair of horses, now performed
+all these operations of husbandry.
+
+By this time, scores of manufacturers had entered the field in
+opposition to McCormick, but his acquisition of Withington's
+invention had apparently made his position secure. Indeed, for
+the next ten years he had everything his own way. Then suddenly
+an ex-keeper of a drygoods store in Maine crossed his path. This
+was William Deering, a character quite as energetic, forceful,
+and pugnacious as was McCormick himself. Though McCormick had
+made and sold thousands of his selfbinders, farmers were already
+showing signs of discontent. The wire proved a continual
+annoyance. It mingled with the straw and killed the cattle--at
+least so the farmers complained; it cut their hands and even
+found its way, with disastrous results, into the flour mills.
+Deering now appeared as the owner of a startling invention by
+John F. Appleby. This did all that the Withington machine did and
+did it better and quicker; and it had the great advantage that it
+bound with twine instead of wire. The new machine immediately
+swept aside all competitors; McCormick, to save his reaper from
+disaster, presently perfected a twine binder of his own. The
+appearance of Appleby's improvement in 1884 completes the cycle
+of the McCormick reaper on its mechanical side The harvesting
+machine of fifty nations today is the one to which Appleby put
+the final touches in 1884. Since then nothing of any great
+importance has been added.
+
+This outline of invention, however, comprises only part of the
+story. The development of the reaper business presents a
+narrative quite as adventurous as that of the reaper itself.
+Cyrus McCormick was not only a great inventor; he was also a
+great businessman. So great was his ability in this direction,
+indeed, that there has been a tendency to discredit his
+achievements as a creative genius and to attribute his success to
+his talents as an organizer and driver of industry. "I may make a
+million dollars from this reaper," said McCormick, in the full
+tide of enthusiasm over his invention; and these words indicate
+an indispensable part of his program. He had no miserly instinct
+but he had one overpowering ambition. It was McCormick's
+conviction, almost religious in its fervor, that the harvester
+business of the world belonged to him. As already indicated,
+plenty of other hardy spirits, many of them almost as commanding
+personalities as himself, disputed the empire. Not far from
+12,000 patents on harvesting machines were granted in this
+country in the fifty years following McCormick's invention, and
+more than two hundred companies were formed to compete for the
+market. McCormick always regarded these competitors as highwaymen
+who had invaded a field which had been almost divinely set apart
+for himself. A man of covenanting antecedents, heroic in his
+physical proportions, with a massive, Jove-like head and beard,
+tirelessly devoted to his work, watching every detail with a
+microscopic eye, marshaling a huge force of workers who were as
+possessed by this one overruling idea as was McCormick himself,
+he certainly presented an almost unassailable battlefront to his
+antagonists.   The competition that raged between McCormick and
+the makers of rival machines was probably the fiercest that has
+prevailed in any American industry. For marketing his machine
+McCormick developed a system almost as ingenious as the machine
+itself. The popularization of so ungainly and expensive a
+contrivance as the harvester proved a slow and difficult task.
+McCormick at first attempted to build his product on his Virginia
+farm and for many years it was known as the Virginia Reaper.
+Nearly ten years passed, however, before he sold his first
+machine. The farmer first refused to take it seriously. "It's a
+great invention," he would say, "but I'm running a farm, not a
+circus." About 1847 McCormick decided that the Western prairies
+offered the finest field for its activities, and established his
+factory at Chicago, then an ugly little town on the borders of a
+swamp. This selection proved to be a stroke of genius, for it
+placed the harvesting factory right at the door of its largest
+market.
+
+The price of the harvester, however, seemed an insurmountable
+obstacle to its extensive use. The early settlers of the Western
+plains had little more than their brawny hands as capital, and
+the homestead law furnished them their land practically free. In
+the eyes of a large-seeing pioneer like McCormick this was
+capital enough. He determined that his reaper should develop this
+extensive domain, and that the crops themselves should pay the
+cost. Selling expensive articles on the installment plan now
+seems a commonplace of business, but in those days it was
+practically unknown. McCormick was the first to see its
+possibilities. He established an agent, usually the general
+storekeeper, in every agricultural center. Any farmer who had a
+modicum of cash and who bore a reputation for thrift and honesty
+could purchase a reaper. In payment he gave a series of notes, so
+timed that they fell due at the end of harvesting seasons. Thus,
+as the money came in from successive harvests, the pioneer paid
+off the notes, taking two, three, or four years in the process.
+In the sixties and seventies immigrants from the Eastern States
+and from Europe poured into the Mississippi Valley by the
+hundreds of thousands. Almost the first person who greeted the
+astonished Dane, German, or Swede was an agent of the harvester
+company, offering to let him have one of these strange machines
+on these terms. Thus the harvester, under McCormick's
+comprehensive selling plans, did as much as the homestead act in
+opening up this great farming region.
+
+McCormick covered the whole agricultural United States with these
+agents. In this his numerous competitors followed suit, and the
+liveliest times ensued. From that day to this the agents of
+harvesting implements have lent much animation and color to rural
+life in this country. Half a dozen men were usually tugging away
+at one farmer at the same time. The mere fact that the farmer had
+closed a contract did not end his troubles, for "busting up
+competitors' sales" was part of the agent's business. The
+situation frequently reached a point where there was only one way
+to settle rival claims and that was by a field contest. At a
+stated time two or three or four rival harvesters would suddenly
+appear on the farmer's soil, each prepared to show, by actual
+test, its superiority over the enemy. Farmers and idlers for
+miles around would gather to witness the Homeric struggle. At a
+given signal the small army of machines would spring savagely at
+a field of wheat. The one that could cut the allotted area in the
+shortest time was regarded as the winner. The harvester would
+rush on all kinds of fields, flat and hilly, dry and wet, and
+would cut all kinds of crops, and even stubble. All manner of
+tests were devised to prove one machine stronger than its rival;
+a favorite idea was to chain two back to back, and have them
+pulled apart by frantic careering horses; the one that suffered
+the fewest breakdowns would be generally acclaimed from town to
+town. Sometimes these field tests were the most exciting and
+spectacular events at country fairs.
+
+Thus the harvesting machine "pushed the frontier westward at the
+rate of thirty miles a year," according to William H. Seward. It
+made American and Canadian agriculture the most efficient in the
+world. The German brags that his agriculture is superior to
+American, quoting as proof the more bushels of wheat or potatoes
+he grows to an acre. But the comparison is fallacious. The real
+test of efficiency is, not the crops that are grown per acre, but
+the crops that are grown per man employed. German efficiency gets
+its results by impressing women as cultivators--depressing bent
+figures that are in themselves a sufficient criticism upon any
+civilization. America gets its results by using a minimum of
+human labor and letting machinery do the work. Thus America's
+methods are superior not only from the standpoint of economics
+but of social progress. All nations, including Germany, use our
+machinery, but none to the extent that prevails on the North
+American Continent.
+
+Perhaps McCormick's greatest achievement is that his machine has
+banished famine wherever it is extensively used, at least in
+peace times. Before the reaper appeared existence, even in the
+United States, was primarily a primitive struggle for bread. The
+greatest service of the harvester has been that it has freed the
+world--unless it is a world distracted by disintegrating
+war--from a constant anxiety concerning its food supply. The
+hundreds of thousands of binders, active in the fields of every
+country, have made it certain that humankind shall not want for
+its daily bread. When McCormick exhibited his harvester at the
+London Exposition of 1851, the London Times ridiculed it as "a
+cross between an Astley chariot, a wheel barrow, and a flying
+machine." Yet this same grotesque object, widely used in Canada,
+Argentina, Australia, South Africa, and India, becomes an engine
+that really holds the British Empire together.
+
+For the forty years succeeding the Civil War the manufacture of
+harvesting machinery was a business in which many engaged, but in
+which few survived. The wildest competition ruthlessly destroyed
+all but half a dozen powerful firms. Cyrus McCormick died in
+1884, but his sons proved worthy successors; the McCormick
+factory still headed the list, manufacturing, in 1900, one-third
+of all the self-binders used in the world. The William Deering
+Company came next and then D. M. Osborne, J. J. Glessner, and W.
+H. Jones, established factories that made existence exceedingly
+uncomfortable for the pioneers. Whatever one may think of the
+motives which caused so many combinations in the early years of
+the twentieth century, there is no question that irresistible
+economic forces compelled these great harvester companies to get
+together. Quick profits in the shape of watered stock had nothing
+to do with the formation of the International Harvester Company.
+All the men who controlled these enterprises were individualists,
+with a natural loathing for trusts, combinations, and pools. They
+wished for nothing better than to continue fighting the Spartan
+battle that had made existence such an exciting pastime for more
+than half a century. But the simple fact was that these several
+concerns were destroying one another; it was a question of
+joining hands, ending the competition that was eating so deeply
+into their financial resources, or reducing the whole business to
+chaos. When Mr. George W. Perkins, of J. P. Morgan and Company,
+first attempted to combine these great companies, the antagonisms
+which had been accumulated in many years of warfare constantly
+threatened to defeat his end. He early discovered that the only
+way to bring these men together was to keep them apart. The usual
+way of creating such combinations is to collect the
+representative leaders, place them around a table, and persuade
+them to talk the thing over. Such an amicable situation, however,
+was impossible in the present instance. Even when the four big
+men--McCormick, Deering, Glessner, and Jones--were finally
+brought for the final treaty of peace to J. P. Morgan's office,
+Mr. Perkins had to station them in four separate rooms and flit
+from one to another arranging terms. Had these four men been
+brought face to face, the Harvester Company would probably never
+have been formed.
+
+Having once signed their names, however, these once antagonistic
+interests had little difficulty in forming a strong combination.
+The company thus brought together manufactured 85 per cent of all
+the farm machinery used in this country. It owned its own
+coal-fields and iron mines and its own forests, and it produces
+most of the implements used by 10,000,000 farmers. In 1847 Cyrus
+McCormick made 100 reapers and sold them for $10,000; by 1902 the
+annual production of the corporation amounted to hundreds of
+thousands of harvesters--besides an almost endless assortment of
+other agricultural tools, ploughs, drills, rakes, gasoline
+engines, tractors, threshers, cream separators, and the like--and
+the sales had grown to about $75,000,000. This is merely the
+financial measure of progress; the genuine achievements of
+McCormick's invention are millions of acres of productive land
+and a farming population which is without parallel elsewhere for
+its prosperity, intelligence, manfulness, and general
+contentment.
+
+
+
+CHAPTER VII. THE DEMOCRATIZATION OF THE AUTOMOBILE
+
+In many manufacturing lines, American genius for organization and
+large scale production has developed mammoth industries. In
+nearly all the tendency to combination and concentration has
+exercised a predominating influence. In the early years of the
+twentieth century the public realized, for the first time, that
+one corporation, the American Sugar Refining Company, controlled
+ninety-eight per cent of the business of refining sugar. Six
+large interests--Armour, Swift, Morris, the National Packing
+Company, Cudahy, and Schwarzschild and Sulzberger--had so
+concentrated the packing business that, by 1905, they slaughtered
+practically all the cattle shipped to Western centers and
+furnished most of the beef consumed in the large cities east of
+Pittsburgh. The "Tobacco Trust" had largely monopolized both the
+wholesale and retail trade in this article of luxury and had also
+made extensive inroads into the English market. The textile
+industry had not only transformed great centers of New England
+into an American Lancashire, but the Southern States, recovering
+from the demoralization of the Civil War, had begun to spin their
+own cotton and to send the finished product to all parts of the
+world. American shoe manufacturers had developed their art to a
+point where "American shoes" had acquired a distinctive standing
+in practically every European country.
+
+It is hardly necessary to describe in detail each of these
+industries. In their broad outlines they merely repeat the story
+of steel, of oil, of agricultural machinery; they are the product
+of the same methods, the same initiative. There is one branch of
+American manufacture, however, that merits more detailed
+attention. If we scan the manufacturing statistics of 1917, one
+amazing fact stares us in the face. There are only three American
+industries whose product has attained the billion mark; one of
+these is steel, the other food products, while the third is an
+industry that was practically unknown in the United States
+fifteen years ago. Superlatives come naturally to mind in
+discussing American progress, but hardly any extravagant phrases
+could do justice to the development of American automobiles. In
+1899 the United States produced 3700 motor vehicles; in 1916 we
+made 1,500,000. The man who now makes a personal profit of not
+far from $50,000,000 a year in this industry was a puttering
+mechanic when the twentieth century came in. If we capitalized
+Henry Ford's income, he is probably a richer man than
+Rockefeller; yet, as recently as 1905 his possessions consisted
+of a little shed of a factory which employed a dozen workmen.
+Dazzling as is this personal success, its really important
+aspects are the things for which it stands. The American
+automobile has had its wildcat days; for the larger part,
+however, its leaders have paid little attention to Wall Street,
+but have limited their activities exclusively to manufacturing.
+Moreover, the automobile illustrates more completely than any
+other industry the technical qualities that so largely explain
+our industrial progress. Above all, American manufacturing has
+developed three characteristics. These are quantity production,
+standardization, and the use of labor-saving machinery. It is
+because Ford and other manufacturers adapted these principles to
+making the automobile that the American motor industry has
+reached such gigantic proportions.
+
+A few years ago an English manufacturer, seeking the explanation
+of America's ability to produce an excellent car so cheaply, made
+an interesting experiment. He obtained three American
+automobiles, all of the same "standardized" make, and gave them a
+long and racking tour over English highways. Workmen then took
+apart the three cars and threw the disjointed remains into a
+promiscuous heap. Every bolt, bar, gas tank, motor, wheel, and
+tire was taken from its accustomed place and piled up, a hideous
+mass of rubbish. Workmen then painstakingly put together three
+cars from these disordered elements. Three chauffeurs jumped on
+these cars, and they immediately started down the road and made a
+long journey just as acceptably as before. The Englishman had
+learned the secret of American success with automobiles. The one
+word "standardization" explained the mystery.
+
+Yet when, a few years before, the English referred to the
+American automobile as a "glorified perambulator," the
+characterization was not unjust. This new method of
+transportation was slow in finding favor on our side of the
+Atlantic. America was sentimentally and practically devoted to
+the horse as the motive power for vehicles; and the fact that we
+had so few good roads also worked against the introduction of the
+automobile. Yet here, as in Europe, the mechanically propelled
+wagon made its appearance in early times. This vehicle, like the
+bicycle, is not essentially a modern invention; the reason any
+one can manufacture it is that practically all the basic ideas
+antedate 1840. Indeed, the automobile is really older than the
+railroad. In the twenties and thirties, steam stage coaches made
+regular trips between certain cities in England and occasionally
+a much resounding power-driven carriage would come careering
+through New York and Philadelphia, scaring all the horses and
+precipitating the intervention of the authorities. The hardy
+spirits who devised these engines, all of whose names are
+recorded in the encyclopedias, deservedly rank as the "fathers"
+of the automobile. The responsibility as the actual "inventor"
+can probably be no more definitely placed. However, had it not
+been for two developments, neither of them immediately related to
+the motor car, we should never have had this efficient method of
+transportation. The real "fathers" of the automobile are Gottlieb
+Daimler, the German who made the first successful gasoline
+engine, and Charles Goodyear, the American who discovered the
+secret of vulcanized rubber. Without this engine to form the
+motive power and the pneumatic tire to give it four air cushions
+to run on, the automobile would never have progressed beyond the
+steam carriage stage. It is true that Charles Baldwin Selden, of
+Rochester, has been pictured as the "inventor of the modern
+automobile" because, as long ago as 1879, he applied for a patent
+on the idea of using a gasoline engine as motive power, securing
+this basic patent in 1895, but this, it must be admitted, forms a
+flimsy basis for such a pretentious claim.
+
+The French apparently led all nations in the manufacture of motor
+vehicles, and in the early nineties their products began to make
+occasional appearances on American roads. The type of American
+who owned this imported machine was the same that owned steam
+yachts and a box at the opera. Hardly any new development has
+aroused greater hostility. It not only frightened horses, and so
+disturbed the popular traffic of the time, but its speed, its
+glamour, its arrogance, and the haughty behavior of its
+proprietor, had apparently transformed it into a new badge of
+social cleavage. It thus immediately took its place as a new
+gewgaw of the rich; that it had any other purpose to serve had
+occurred to few people. Yet the French and English machines
+created an entirely different reaction in the mind of an
+imaginative mechanic in Detroit. Probably American annals contain
+no finer story than that of this simple American workman. Yet
+from the beginning it seemed inevitable that Henry Ford should
+play this appointed part in the world. Born in Michigan in 1863,
+the son of an English farmer who had emigrated to Michigan and a
+Dutch mother, Ford had always demonstrated an interest in things
+far removed from his farm. Only mechanical devices interested
+him. He liked getting in the crops, because McCormick harvesters
+did most of the work; it was only the machinery of the dairy that
+held him enthralled. He developed destructive tendencies as a
+boy; he had to take everything to pieces. He horrified a rich
+playmate by resolving his new watch into its component parts--and
+promptly quieted him by putting it together again. "Every clock
+in the house shuddered when it saw me coming," he recently said.
+He constructed a small working forge in his school-yard, and
+built a small steam engine that could make ten miles an hour. He
+spent his winter evenings reading mechanical and scientific
+journals; he cared little for general literature, but machinery
+in any form was almost a pathological obsession. Some boys run
+away from the farm to join the circus or to go to sea; Henry Ford
+at the age of sixteen ran away to get a job in a machine shop.
+Here one anomaly immediately impressed him. No two machines were
+made exactly alike; each was regarded as a separate job. With his
+savings from his weekly wage of $2.50, young Ford purchased a
+three dollar watch, and immediately dissected it. If several
+thousand of these watches could be made, each one exactly alike,
+they would cost only thirty-seven cents apiece. "Then," said Ford
+to himself, "everybody could have one." He had fairly elaborated
+his plans to start a factory on this basis when his father's
+illness called him back to the farm.
+
+This was about 1880; Ford's next conspicuous appearance in
+Detroit was about 1892. This appearance was not only conspicuous;
+it was exceedingly noisy. Detroit now knew him as the pilot of a
+queer affair that whirled and lurched through her thoroughfares,
+making as much disturbance as a freight train. In reading his
+technical journals Ford had met many descriptions of horseless
+carriages; the consequence was that he had again broken away from
+the farm, taken a job at $45 a month in a Detroit machine shop,
+and devoted his evenings to the production of a gasoline engine.
+His young wife was exceedingly concerned about his health; the
+neighbors' snap judgment was that he was insane. Only two other
+Americans, Charles B. Duryea and Ellwood Haynes, were attempting
+to construct an automobile at that time. Long before Ford was
+ready with his machine, others had begun to appear. Duryea turned
+out his first one in 1892; and foreign makes began to appear in
+considerable numbers. But the Detroit mechanic had a more
+comprehensive inspiration. He was not working to make one of the
+finely upholstered and beautifully painted vehicles that came
+from overseas. "Anything that isn't good for everybody is no good
+at all," he said. Precisely as it was Vail's ambition to make
+every American a user of the telephone and McCormick's to make
+every farmer a user of his harvester, so it was Ford's
+determination that every family should have an automobile. He was
+apparently the only man in those times who saw that this new
+machine was not primarily a luxury but a convenience. Yet all
+manufacturers, here and in Europe, laughed at his idea. Why not
+give every poor man a Fifth Avenue house? Frenchmen and
+Englishmen scouted the idea that any one could make a cheap
+automobile. Its machinery was particularly refined and called for
+the highest grade of steel; the clever Americans might use their
+labor-saving devices on many products, but only skillful hand
+work could turn out a motor car. European manufacturers regarded
+each car as a separate problem; they individualized its
+manufacture almost as scrupulously as a painter paints his
+portrait or a poet writes his poem. The result was that only a
+man with several thousand dollars could purchase one. But Henry
+Ford--and afterward other American makers--had quite a different
+conception.
+
+Henry Ford's earliest banker was the proprietor of a quick-lunch
+wagon at which the inventor used to eat his midnight meal after
+his hard evening's work in the shed. "Coffee Jim," to whom Ford
+confided his hopes and aspirations on these occasions, was the
+only man with available cash who had any faith in his ideas.
+Capital in more substantial form, however, came in about 1902.
+With money advanced by "Coffee Jim," Ford had built a machine
+which he entered in the Grosse Point races that year. It was a
+hideous-looking affair, but it ran like the wind and outdistanced
+all competitors. From that day Ford's career has been an
+uninterrupted triumph. But he rejected the earliest offers of
+capital because the millionaires would not agree to his terms.
+They were looking for high prices and quick profits, while Ford's
+plans were for low prices, large sales, and use of profits to
+extend the business and reduce the cost of his machine. Henry
+Ford's greatness as a manufacturer consists in the tenacity with
+which he has clung to this conception. Contrary to general belief
+in the automobile industry he maintained that a high sale price
+was not necessary for large profits; indeed he declared that the
+lower the price, the larger the net earnings would be. Nor did he
+believe that low wages meant prosperity. The most efficient
+labor, no matter what the nominal cost might be, was the most
+economical. The secret of success was the rapid production of a
+serviceable article in large quantities. When Ford first talked
+of turning out 10,000 automobiles a year, his associates asked
+him where he was going to sell them. Ford's answer was that that
+was no problem at all; the machines would sell themselves. He
+called attention to the fact that there were millions of people
+in this country whose incomes exceeded $1800 a year; all in that
+class would become prospective purchasers of a low-priced
+automobile. There were 6,000,000 farmers; what more receptive
+market could one ask? His only problem was the technical one--how
+to produce his machine in sufficient quantities.
+
+The bicycle business in this country had passed through a similar
+experience. When first placed on the market bicycles were
+expensive; it took $100 or $150 to buy one. In a few years,
+however, an excellent machine was selling for $25 or $30. What
+explained this drop in price? The answer is that the
+manufacturers learned to standardize their product. Bicycle
+factories became not so much places where the articles were
+manufactured as assembling rooms for putting them together. The
+several parts were made in different places, each establishment
+specializing in a particular part; they were then shipped to
+centers where they were transformed into completed machines. The
+result was that the United States, despite the high wages paid
+here, led the world in bicycle making and flooded all countries
+with this utilitarian article. Our great locomotive factories had
+developed on similar lines. Europeans had always marveled that
+Americans could build these costly articles so cheaply that they
+could undersell European makers. When they obtained a glimpse of
+an American locomotive factory, the reason became plain. In
+Europe each locomotive was a separate problem; no two, even in
+the same shop, were exactly alike. But here locomotives are built
+in parts, all duplicates of one another; the parts are then sent
+by machinery to assembling rooms and rapidly put together.
+American harvesting machines are built in the same way; whenever
+a farmer loses a part, he can go to the country store and buy its
+duplicate, for the parts of the same machine do not vary to the
+thousandth of an inch. The same principle applies to hundreds of
+other articles.
+
+Thus Henry Ford did not invent standardization; be merely applied
+this great American idea to a product to which, because of the
+delicate labor required, it seemed at first unadapted. He soon
+found that it was cheaper to ship the parts of ten cars to a
+central point than to ship ten completed cars. There would
+therefore be large savings in making his parts in particular
+factories and shipping them to assembling establishments. In this
+way the completed cars would always be near their markets. Large
+production would mean that he could purchase his raw materials at
+very low prices; high wages meant that he could get the efficient
+labor which was demanded by his rapid fire method of campaign. It
+was necessary to plan the making of every part to the minutest
+detail, to have each part machined to its exact size, and to have
+every screw, bolt, and bar precisely interchangeable. About the
+year 1907 the Ford factory was systematized on this basis. In
+that twelvemonth it produced 10,000 machines, each one the
+absolute counterpart of the other 9999. American manufacturers
+until then had been content with a few hundred a year! From that
+date the Ford production has rapidly increased; until, in 1916,
+there were nearly 4,000,000 automobiles in the United
+States--more than in all the rest of the world put together--of
+which one-sixth were the output of the Ford factories. Many other
+American manufacturers followed the Ford plan, with the result
+that American automobiles are duplicating the story of American
+bicycles; because of their cheapness and serviceability, they are
+rapidly dominating the markets of the world. In the Great War
+American machines have surpassed all in the work done under
+particularly exacting circumstances.
+
+A glimpse of a Ford assembling room--and we can see the same
+process in other American factories--makes clear the reasons for
+this success. In these rooms no fitting is done; the fragments of
+automobiles come in automatically and are simply bolted together.
+First of all the units are assembled in their several
+departments. The rear axles, the front axles, the frames, the
+radiators, and the motors are all put together with the same
+precision and exactness that marks the operation of the completed
+car. Thus the wheels come from one part of the factory and are
+rolled on an inclined plane to a particular spot. The tires are
+propelled by some mysterious force to the same spot; as the two
+elements coincide, workmen quickly put them together. In a long
+room the bodies are slowly advanced on moving platforms at the
+rate of about a foot per minute. At the side stand groups of men,
+each prepared to do his bit, their materials being delivered at
+convenient points by chutes. As the tops pass by these men
+quickly bolt them into place, and the completed body is sent to a
+place where it awaits the chassis. This important section,
+comprising all the machinery, starts at one end of a moving
+platform as a front and rear axle bolted together with the frame.
+As this slowly ,advances, it passes under a bridge containing a
+gasoline tank, which is quickly adjusted. Farther on the motor is
+swung over by a small hoist and lowered into position on the
+frame. Presently the dash slides down and is placed in position
+behind the motor. As the rapidly accumulating mechanism passes
+on, different workmen adjust the mufflers, exhaust pipes, the
+radiator, and the wheels which, as already indicated, arrive on
+the scene completely tired. Then a workman seats himself on the
+gasoline tank, which contains a small quantity of its
+indispensable fuel, starts the engine, and the thing moves out
+the door under its own power. It stops for a moment outside; the
+completed body drops down from the second floor, and a few bolts
+quickly put it securely in place. The workman drives the now
+finished Ford to a loading platform, it is stored away in a box
+car, and is started on its way to market. At the present time
+about 2000 cars are daily turned out in this fashion. The nation
+demands them at a more rapid rate than they can be made.
+
+Herein we have what is probably America's greatest manufacturing
+exploit. And this democratization of the automobile comprises
+more than the acme of efficiency in the manufacturing art. The
+career of Henry Ford has a symbolic significance as well. It may
+be taken as signalizing the new ideals that have gained the upper
+hand in American industry. We began this review of American
+business with Cornelius Vanderbilt as the typical figure. It is a
+happy augury that it closes with Henry Ford in the foreground.
+Vanderbilt, valuable as were many of his achievements,
+represented that spirit of egotism that was rampant for the
+larger part of the fifty years following the war. He was always
+seeking his own advantage, and he never regarded the public
+interest as anything worth a moment's consideration. With Ford,
+however, the spirit of service has been the predominating motive.
+His earnings have been immeasurably greater than Vanderbilt's;
+his income for two years amounts to nearly Vanderbilt's total
+fortune at his death; but the piling up of riches has been by no
+means his exclusive purpose. He has recognized that his workmen
+are his partners and has liberally shared with them his
+increasing profits. His money is not the product of speculation;
+Ford is a stranger to Wall Street and has built his business
+independently of the great banking interest. He has enjoyed no
+monopoly, as have the Rockefellers; there are more than three
+hundred makers of automobiles in the United States alone. He has
+spurned all solicitations to join combinations. Far from asking
+tariff favors he has entered European markets and undersold
+English, French, and German makers on their own ground. Instead
+of taking advantage of a great public demand to increase his
+prices, Ford has continuously lowered them. Though his idealism
+may have led him into an occasional personal absurdity, as a
+business man he may be taken as the full flower of American
+manufacturing genius. Possibly America, as a consequence of
+universal war, is advancing to a higher state of industrial
+organization; but an economic system is not entirely evil that
+produces such an industry as that which has made the automobile
+the servant of millions of Americans.
+
+
+
+BIBLIOGRAPHICAL NOTE
+
+The materials are abundant for the history of American industry
+in the last fifty years. They exist largely in the form of
+official documents. Any one ambitious of studying this subject in
+great detail should consult, first of all, the catalogs issued by
+that very valuable institution, the Government Printing Office.
+The Bureau of Corporations has published elaborate reports on
+such industries as petroleum (Standard Oil Company), beef,
+tobacco, steel, and harvesting machinery, which are indispensable
+in studying these great basic enterprises. The American habit of
+legislative investigation and trust-fighting in the courts,
+whatever its public value may have been, has at least had the
+result of piling up mountains of material for the historian of
+American industry. For one single corporation, the Standard Oil
+Company, a great library of such literature exists. The nearly
+twenty volumes of testimony, exhibits, and briefs assembled in
+the course of the Federal suit which led to its dissolution is
+the ultimate source of material on America's greatest trust. As
+most of our other great corporations--the Steel Trust, the
+Harvester Company, the Tobacco Company, and the like--have passed
+through similar ordeals, all the information the student could
+ask concerning them exists in the same form. The archives of such
+bodies as the Interstate Commerce Commission and Public Utility
+Commissions of the States are also bulging with documentary
+evidence. Thus all the material contained in this volume--and
+much more--concerning the New York traction situation will be
+found in the investigation conducted in 1907 by the Public
+Service Commission of New York, Second District.
+
+American business has also developed a great talent for
+publicity. Nearly all our big corporations have assembled much
+material about their own history, all of which is public
+property. Thus the American Telephone and Telegraph Company can
+furnish detailed information on every phase of its business and
+history. Indeed, one's respect for the achievements of American
+industry is increased by the praiseworthy curiosity which it
+displays about its own past and the readiness with which it makes
+such material accessible to the public. Despite the abundance of
+data, there is not a great amount of popular writing on these
+subjects that has much fascination as literature or much value as
+history. The only book that is really important is Miss Ida M.
+Tarbell's "History of the Standard Oil Company," 2 vols. (new
+edition 1911). Of other popular volumes the present writer has
+found most useful Herbert N. Casson's "Romance of Steel" (1907),
+"History of the Telephone" (1910), and "Cyrus Hall McCormick: His
+Life and Work" (1909); J.H. Bridge's "Inside History of the
+Carnegie Steel Company" (1903); "Henry Ford's Own Story" as told
+to Rose Wildes Lane (1917).
+
+For Chapter V, the author has drawn from articles contributed by
+him in 1907-8 to "McClure's Magazine" on "Great American Fortunes
+and their Making;" and for Chapter IV, from an article
+contributed to the same magazine in 1914, on "Telephones for the
+Millions."
+
+
+Back to Full Books

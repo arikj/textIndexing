@@ -1,0 +1,2003 @@
+The 1995 CIA World Factbook
+
+ Languages: Portuguese (official), indigenous dialects
+
+ Literacy: age 15 and over can read and write (1990)
+ total population: 33%
+ male: 45%
+ female: 21%
+
+ Labor force: NA
+ by occupation: 90% engaged in agriculture
+
+@Mozambique:Government
+
+ Names:
+ conventional long form: Republic of Mozambique
+ conventional short form: Mozambique
+ local long form: Republica Popular de Mocambique
+ local short form: Mocambique
+
+ Digraph: MZ
+
+ Type: republic
+
+ Capital: Maputo
+
+ Administrative divisions: 10 provinces (provincias, singular -
+ provincia); Cabo Delgado, Gaza, Inhambane, Manica, Maputo, Nampula,
+ Niassa, Sofala, Tete, Zambezia
+
+ Independence: 25 June 1975 (from Portugal)
+
+ National holiday: Independence Day, 25 June (1975)
+
+ Constitution: 30 November 1990
+
+ Legal system: based on Portuguese civil law system and customary law
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch:
+ chief of state: President Joaquim Alberto CHISSANO (since 6 November
+ 1986)
+ head of government: Prime Minister Pascoal MOCUMBI (since December
+ 1994)
+ cabinet: Cabinet
+
+ Legislative branch: unicameral
+ Assembly of the Republic (Assembleia da Republica): draft electoral
+ law provides for periodic, direct presidential and Assembly elections
+ note: as called for in the 1992 peace accords, presidential and
+ legislative elections took place during 27-29 October 1994; fourteen
+ parties, including the Mozambique National Resistance (RENAMO)
+ participated; Joaquim Alberto CHISSANO was elected president and his
+ FRELIMO party gathered a slim majority in the 250 seat legislature
+
+ Judicial branch: Supreme Court
+
+ Political parties and leaders: Front for the Liberation of Mozambique
+ (FRELIMO), Joaquim Alberto CHISSANO, chairman; the ruling party since
+ independence, FRELIMO was the only legal party before 30 November 1990
+ when the new Constitution went into effect establishing a multiparty
+ system
+
+ Member of: ACP, AfDB, CCC, ECA, FAO, FLS, G-77, GATT, IBRD, ICAO,
+ ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, INMARSAT, INTELSAT,
+ INTERPOL, IOC, IOM (observer), ITU, NAM, OAU, OIC, SADC, UN, UNCTAD,
+ UNESCO, UNIDO, UPU, WFTU, WHO, WMO
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Hipolito Pereira Zozimo PATRICIO
+ chancery: Suite 570, 1990 M Street NW, Washington, DC 20036
+ telephone: [1] (202) 293-7146
+ FAX: [1] (202) 835-0245
+
+ US diplomatic representation:
+ chief of mission: Ambassador Dennis Coleman JETT
+ embassy: Avenida Kenneth Kuanda, 193 Maputo
+ mailing address: P. O. Box 783, Maputo
+ telephone: [258] (1) 492797
+ FAX: [258] (1) 490114
+
+ Flag: three equal horizontal bands of green (top), black, and yellow
+ with a red isosceles triangle based on the hoist side; the black band
+ is edged in white; centered in the triangle is a yellow five-pointed
+ star bearing a crossed rifle and hoe in black superimposed on an open
+ white book
+
+@Mozambique:Economy
+
+ Overview: One of Africa's poorest countries, Mozambique has failed to
+ exploit the economic potential of its sizable agricultural,
+ hydropower, and transportation resources. Indeed, national output,
+ consumption, and investment declined throughout the first half of the
+ 1980s because of internal disorders, lack of government administrative
+ control, and a growing foreign debt. A sharp increase in foreign aid,
+ attracted by an economic reform policy, resulted in successive years
+ of economic growth in the late 1980s, but aid has declined steadily
+ since 1989. Agricultural output is at only 75% of its 1981 level, and
+ grain has to be imported. Industry operates at only 20%-40% of
+ capacity. The economy depends heavily on foreign assistance to keep
+ afloat. Peace accords signed in October 1992 improved chances of
+ foreign investment, aided IMF-supported economic reforms, and
+ supported continued economic recovery. Elections held in 1994 diverted
+ government attention from the economy, resulting in slippage and
+ delays in the economic reform program. Nonetheless, growth in 1994 was
+ solid and can continue into the late 1990s given continued foreign
+ help in meeting debt obligations.
+
+ National product: GDP - purchasing power parity - $10.6 billion (1994
+ est.)
+
+ National product real growth rate: 5.8% (1994 est.)
+
+ National product per capita: $610 (1994 est.)
+
+ Inflation rate (consumer prices): 50% (1994 est.)
+
+ Unemployment rate: 50% (1989 est.)
+
+ Budget:
+ revenues: $252 million
+ expenditures: $607 million, including capital expenditures of $NA
+ (1992 est.)
+
+ Exports: $150 million (f.o.b., 1994 est.)
+ commodities: shrimp 40%, cashews, cotton, sugar, copra, citrus
+ partners: Spain, South Africa, US, Portugal, Japan
+
+ Imports: $1.14 billion (c.i.f., 1994 est.)
+ commodities: food, clothing, farm equipment, petroleum
+ partners: South Africa, UK, France, Japan, Portugal
+
+ External debt: $5 billion (1992 est.)
+
+ Industrial production: growth rate 5% (1989 est.)
+
+ Electricity:
+ capacity: 2,360,000 kW
+ production: 1.7 billion kWh
+ consumption per capita: 58 kWh (1993)
+
+ Industries: food, beverages, chemicals (fertilizer, soap, paints),
+ petroleum products, textiles, nonmetallic mineral products (cement,
+ glass, asbestos), tobacco
+
+ Agriculture: accounts for 50% of GDP and about 90% of exports; cash
+ crops - cotton, cashew nuts, sugarcane, tea, shrimp; other crops -
+ cassava, corn, rice, tropical fruits; not self-sufficient in food
+
+ Economic aid:
+ recipient: US commitments, including Ex-Im (FY70-89), $350 million;
+ Western (non-US) countries, ODA and OOF bilateral commitments
+ (1970-89), $4.4 billion; OPEC bilateral aid (1979-89), $37 million;
+ Communist countries (1970-89), $890 million
+
+ Currency: 1 metical (Mt) = 100 centavos
+
+ Exchange rates: meticais (Mt) per US$1 - 5,220.63 (1st quarter 1994),
+ 3,874.24 (1993), 2,550.40 (1992), 1,763.99 (1991), 1,053.09 (1990)
+
+ Fiscal year: calendar year
+
+@Mozambique:Transportation
+
+ Railroads:
+ total: 3,288 km
+ narrow gauge: 3,140 km 1.067-m gauge; 148 km 0.762-m gauge
+
+ Highways:
+ total: 26,498 km
+ paved: 4,593 km
+ unpaved: gravel, crushed stone, stabilized earth 829 km; unimproved
+ earth 21,076 km
+
+ Inland waterways: about 3,750 km of navigable routes
+
+ Pipelines: crude oil (not operating) 306 km; petroleum products 289 km
+
+ Ports: Beira, Inhambane, Maputo, Nacala, Pemba
+
+ Merchant marine:
+ total: 3 cargo ships (1,000 GRT or over) totaling 4,533 GRT/8,024 DWT
+
+ Airports:
+ total: 192
+ with paved runways over 3,047 m: 1
+ with paved runways 2,438 to 3,047 m: 4
+ with paved runways 1,524 to 2,437 m: 11
+ with paved runways 914 to 1,523 m: 5
+ with paved runways under 914 m: 112
+ with unpaved runways 1,524 to 2,438 m: 15
+ with unpaved runways 914 to 1,523 m: 44
+
+ Note:
+ note: highway traffic impeded by land mines not removed at end of
+ civil war
+
+@Mozambique:Communications
+
+ Telephone system: NA telephone density; fair system of troposcatter,
+ open-wire lines, and radio relay
+ local: NA
+ intercity: microwave radio relay and tropospheric scatter
+ international: 5 INTELSAT (2 Atlantic Ocean and 3 Indian Ocean) earth
+ stations
+
+ Radio:
+ broadcast stations: AM 29, FM 4, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 1
+ televisions: NA
+
+@Mozambique:Defense Forces
+
+ Branches: Army, Naval Command, Air and Air Defense Forces, Militia;
+ note - by late 1994, the army and former RENAMO rebels had
+ demobilized; under UN supervision and training, recruits from both the
+ army and rebel forces joined an integrated force that is still forming
+
+ Manpower availability: males age 15-49 4,061,109; males fit for
+ military service 2,331,793 (1995 est.)
+
+ Defense expenditures: exchange rate conversion - $110 million, 7.3% of
+ GDP (1993)
+
+
+________________________________________________________________________
+
+NAMIBIA
+
+@Namibia:Geography
+
+ Location: Southern Africa, bordering the South Atlantic Ocean, between
+ Angola and South Africa
+
+ Map references: Africa
+
+ Area:
+ total area: 825,418 sq km
+ land area: 825,418 sq km
+ comparative area: slightly more than half the size of Alaska
+
+ Land boundaries: total 3,824 km, Angola 1,376 km, Botswana 1,360 km,
+ South Africa 855 km, Zambia 233 km
+
+ Coastline: 1,572 km
+
+ Maritime claims:
+ contiguous zone: 24 nm
+ exclusive economic zone: 200 nm
+ territorial sea: 12 nm
+
+ International disputes: short section of boundary with Botswana is
+ indefinite; quadripoint with Botswana, Zambia, and Zimbabwe is in
+ disagreement; dispute with Botswana over uninhabited Kasikili (
+ Sidudu) Island in Linyanti (Chobe) River remained unresolved in
+ mid-February 1995 and the parties agreed to refer the matter to the
+ International Court of Justice;
+
+ Climate: desert; hot, dry; rainfall sparse and erratic
+
+ Terrain: mostly high plateau; Namib Desert along coast; Kalahari
+ Desert in east
+
+ Natural resources: diamonds, copper, uranium, gold, lead, tin,
+ lithium, cadmium, zinc, salt, vanadium, natural gas, fish; suspected
+ deposits of oil, natural gas, coal, iron ore
+
+ Land use:
+ arable land: 1%
+ permanent crops: 0%
+ meadows and pastures: 64%
+ forest and woodland: 22%
+ other: 13%
+
+ Irrigated land: 40 sq km (1989 est.)
+
+ Environment:
+ current issues: very limited natural fresh water resources;
+ desertification
+ natural hazards: prolonged periods of drought
+ international agreements: party to - Endangered Species, Law of the
+ Sea, Ozone Layer Protection; signed, but not ratified - Biodiversity,
+ Climate Change
+
+@Namibia:People
+
+ Population: 1,651,545 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 47% (female 384,885; male 394,216)
+ 15-64 years: 50% (female 414,283; male 405,938)
+ 65 years and over: 3% (female 26,783; male 25,440) (July 1995 est.)
+
+ Population growth rate: 3.44% (1995 est.)
+
+ Birth rate: 43.04 births/1,000 population (1995 est.)
+
+ Death rate: 8.61 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 0 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 59.8 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 62.1 years
+ male: 59.37 years
+ female: 64.9 years (1995 est.)
+
+ Total fertility rate: 6.34 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Namibian(s)
+ adjective: Namibian
+
+ Ethnic divisions: black 86%, white 6.6%, mixed 7.4%
+ note: about 50% of the population belong to the Ovambo tribe and 9% to
+ the Kavangos tribe; other ethnic groups include (with approximate
+ share of total population): Herero 7%, Damara 7%, Nama 5%, Caprivian
+ 4%, Bushmen 3%, Baster 2%, Tswana 0.5%
+
+ Religions: 80%-90% Christian (50% Lutheran; at least 30% other
+ Christian denominations)
+
+ Languages: English 7% (official), Afrikaans common language of most of
+ the population and about 60% of the white population, German 32%,
+ indigenous languages: Oshivambo, Herero, Nama
+
+ Literacy: age 15 and over can read and write (1960)
+ total population: 38%
+ male: 45%
+ female: 31%
+
+ Labor force: 500,000
+ by occupation: agriculture 60%, industry and commerce 19%, services
+ 8%, government 7%, mining 6% (1981 est.)
+
+@Namibia:Government
+
+ Names:
+ conventional long form: Republic of Namibia
+ conventional short form: Namibia
+
+ Digraph: WA
+
+ Type: republic
+
+ Capital: Windhoek
+
+ Administrative divisions: 13 districts; Erongo, Hardap, Karas, Khomas,
+ Kunene, Caprivi (Liambezi), Ohangwena, Okavango, Omaheke, Omusati,
+ Oshana, Oshikoto, Otjozondjupa
+
+ Independence: 21 March 1990 (from South African mandate)
+
+ National holiday: Independence Day, 21 March (1990)
+
+ Constitution: ratified 9 February 1990; effective 12 March 1990
+
+ Legal system: based on Roman-Dutch law and 1990 constitution
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch:
+ chief of state and head of government: President Sam NUJOMA (since 21
+ March 1990); election last held 7-8 December 1994 (next to be held
+ NA); results - Sam NUJOMA elected president by popular vote
+ cabinet: Cabinet; appointed by the president from the National
+ Assembly
+
+ Legislative branch: bicameral legislature
+ National Council: elections last held 30 November-3 December 1992
+ (next to be held by December 1998); results - percent of vote by party
+ NA; seats - (26 total) SWAPO 19, DTA 6, UDF 1
+ National Assembly: elections last held 7-8 December 1994 (next to be
+ held NA); results - percent of vote by party NA; seats - (72 total)
+ SWAPO 53, DTA 15, UDF 2, MAG 1, DCN 1
+
+ Judicial branch: Supreme Court
+
+ Political parties and leaders: South West Africa People's Organization
+ (SWAPO), Sam NUJOMA; DTA of Namibia (formerly Democratic Turnhalle
+ Alliance) (DTA), Mishake MUYONGO; United Democratic Front (UDF),
+ Justus GAROEB; Federal Convention of Namibia (FCN), Kephics CONRUDIE;
+ Monitor Action Group (MAG), Kosie PRETORIUS; Workers Revolutionary
+ Party (WRP); Southwest African National Union (SWANU), Hitjevi VEII;
+ Democratic Coalition of Namibia (DCN), Moses KATJIUONGA
+
+ Other political or pressure groups: NA
+
+ Member of: ACP, AfDB, C, CCC, ECA, FAO, FLS, G-77, GATT, IAEA, IBRD,
+ ICAO, ICRM, IFAD, IFC, IFRCS (associate), ILO, IMF, INTELSAT
+ (nonsignatory user), INTERPOL, IOC, IOM (observer), ITU, NAM, OAU,
+ SACU, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UPU, WCL, WHO, WIPO, WMO
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Tuliameni KALOMOH
+ chancery: 1605 New Hampshire Avenue NW, Washington, DC 20009
+ telephone: [1] (202) 986-0540
+ FAX: [1] (202) 986-0443
+
+ US diplomatic representation:
+ chief of mission: Ambassador Marshall F. McCALLIE
+ embassy: Ausplan Building, 14 Lossen St., Windhoek
+ mailing address: Private Bag 12029 Ausspannplatz, Windhoek
+ telephone: [264] (61) 221601
+ FAX: [264] (61) 229792
+
+ Flag: a large blue triangle with a yellow sunburst fills the upper
+ left section, and an equal green triangle (solid) fills the lower
+ right section; the triangles are separated by a red stripe that is
+ contrasted by two narrow white-edge borders
+
+@Namibia:Economy
+
+ Overview: The economy is heavily dependent on the mining industry to
+ extract and process minerals for export. Mining accounts for almost
+ 25% of GDP. Namibia is the fourth-largest exporter of nonfuel minerals
+ in Africa and the world's fifth-largest producer of uranium. Alluvial
+ diamond deposits are among the richest in the world, making Namibia a
+ primary source for gem-quality diamonds. Namibia also produces large
+ quantities of lead, zinc, tin, silver, and tungsten. More than half
+ the population depends on agriculture (largely subsistence
+ agriculture) for its livelihood. Namibia must import some of its food.
+
+ National product: GDP - purchasing power parity - $5.8 billion (1994
+ est.)
+
+ National product real growth rate: 5.8% (1994 est.)
+
+ National product per capita: $3,600 (1994 est.)
+
+ Inflation rate (consumer prices): 11% (1994)
+
+ Unemployment rate: 35% in urban areas (1993 est.)
+
+ Budget:
+ revenues: $941 million
+ expenditures: $1.05 billion, including capital expenditures of $157
+ million (FY93/94)
+
+ Exports: $1.3 billion (f.o.b., 1993 est.)
+ commodities: diamonds, copper, gold, zinc, lead, uranium, cattle,
+ processed fish, karakul skins
+ partners: Switzerland, South Africa, Germany, Japan
+
+ Imports: $1.1 billion (f.o.b., 1993 est.)
+ commodities: foodstuffs, petroleum products and fuel, machinery and
+ equipment
+ partners: South Africa, Germany, US, Switzerland
+
+ External debt: about $385 million (1994 est.)
+
+ Industrial production: growth rate -14% (1993); accounts for 30% of
+ GDP, including mining
+
+ Electricity:
+ capacity: 406,000 kW
+ production: 1.29 billion kWh
+ consumption per capita: 658 kWh (1991)
+
+ Industries: meat packing, fish processing, dairy products, mining
+ (copper, lead, zinc, diamond, uranium)
+
+ Agriculture: accounts for 10% of GDP; livestock raising major source
+ of cash income; crops - millet, sorghum, peanuts; fish catch potential
+ of over 1 million metric tons not being fulfilled
+
+ Economic aid:
+ recipient: Western (non-US) countries, ODA and OOF bilateral
+ commitments (1970-87), $47.2 million
+
+ Currency: 1 South African rand (R) = 100 cents
+
+ Exchange rates: South African rand (R) per US$1 - 3.539 (January
+ 1995), 3.5489 (1994), 3.2678 (1993), 2.8497 (1992), 2.7653 (1991),
+ 2.5863 (1990)
+
+ Fiscal year: 1 April - 31 March
+
+@Namibia:Transportation
+
+ Railroads:
+ total: 2,341 km (single track)
+ narrow gauge: 2,341 km 1.067-m gauge
+
+ Highways:
+ total: 54,500 km
+ paved: 4,080 km
+ unpaved: gravel 2,540 km; earth 47,880 km (roads and tracks)
+
+ Ports: Luderitz, Walvis Bay
+
+ Merchant marine: none
+
+ Airports:
+ total: 135
+ with paved runways over 3,047 m: 2
+ with paved runways 2,438 to 3,047 m: 2
+ with paved runways 1,524 to 2,437 m: 14
+ with paved runways 914 to 1,523 m: 3
+ with paved runways under 914 m: 20
+ with unpaved runways 2,438 to 3,047 m: 1
+ with unpaved runways 1,524 to 2,438 m: 23
+ with unpaved runways 914 to 1,523 m: 70
+
+@Namibia:Communications
+
+ Telephone system: 62,800 telephones; telephone density - 38/1,000
+ persons
+ local: good urban services
+ intercity: fair rural service; microwave radio relay links major
+ towns; connections to other populated places are by open wire
+ international: NA
+
+ Radio:
+ broadcast stations: AM 4, FM 40, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 3
+ televisions: NA
+
+@Namibia:Defense Forces
+
+ Branches: National Defense Force (Army), Police
+
+ Manpower availability: males age 15-49 348,380; males fit for military
+ service 206,684 (1995 est.)
+
+ Defense expenditures: exchange rate conversion - $54 million, 2% of
+ GDP (FY93/94)
+
+
+________________________________________________________________________
+
+NAURU
+
+@Nauru:Geography
+
+ Location: Oceania, island in the South Pacific Ocean, south of the
+ Marshall Islands
+
+ Map references: Oceania
+
+ Area:
+ total area: 21 sq km
+ land area: 21 sq km
+ comparative area: about one-tenth the size of Washington, DC
+
+ Land boundaries: 0 km
+
+ Coastline: 30 km
+
+ Maritime claims:
+ exclusive fishing zone: 200 nm
+ territorial sea: 12 nm
+
+ International disputes: none
+
+ Climate: tropical; monsoonal; rainy season (November to February)
+
+ Terrain: sandy beach rises to fertile ring around raised coral reefs
+ with phosphate plateau in center
+
+ Natural resources: phosphates
+
+ Land use:
+ arable land: 0%
+ permanent crops: 0%
+ meadows and pastures: 0%
+ forest and woodland: 0%
+ other: 100%
+
+ Irrigated land: NA sq km
+
+ Environment:
+ current issues: limited natural fresh water resources, roof storage
+ tanks collect rainwater; phosphate mining threatens limited remaining
+ land resources
+ natural hazards: periodic droughts
+ international agreements: party to - Biodiversity, Climate Change,
+ Marine Dumping; signed, but not ratified - Law of the Sea
+
+ Note: Nauru is one of the three great phosphate rock islands in the
+ Pacific Ocean - the others are Banaba (Ocean Island) in Kiribati and
+ Makatea in French Polynesia; only 53 km south of Equator
+
+@Nauru:People
+
+ Population: 10,149 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: NA
+ 15-64 years: NA
+ 65 years and over: NA
+
+ Population growth rate: 1.33% (1995 est.)
+
+ Birth rate: 18.03 births/1,000 population (1995 est.)
+
+ Death rate: 5.1 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 0.4 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 40.6 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 66.68 years
+ male: 64.3 years
+ female: 69.18 years (1995 est.)
+
+ Total fertility rate: 2.08 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Nauruan(s)
+ adjective: Nauruan
+
+ Ethnic divisions: Nauruan 58%, other Pacific Islander 26%, Chinese 8%,
+ European 8%
+
+ Religions: Christian (two-thirds Protestant, one-third Roman Catholic)
+
+ Languages: Nauruan (official; a distinct Pacific Island language),
+ English widely understood, spoken, and used for most government and
+ commercial purposes
+
+ Literacy: NA%
+
+ Labor force:
+ by occupation: NA
+
+@Nauru:Government
+
+ Names:
+ conventional long form: Republic of Nauru
+ conventional short form: Nauru
+ former: Pleasant Island
+
+ Digraph: NR
+
+ Type: republic
+
+ Capital: no official capital; government offices in Yaren District
+
+ Administrative divisions: 14 districts; Aiwo, Anabar, Anetan, Anibare,
+ Baiti, Boe, Buada, Denigomodu, Ewa, Ijuw, Meneng, Nibok, Uaboe, Yaren
+
+ Independence: 31 January 1968 (from the Australia, New Zealand, and
+ UK-administered UN trusteeship)
+
+ National holiday: Independence Day, 31 January (1968)
+
+ Constitution: 29 January 1968
+
+ Legal system: own Acts of Parliament and British common law
+
+ Suffrage: 20 years of age; universal and compulsory
+
+ Executive branch:
+ chief of state and head of government: President Bernard DOWIYOGO
+ (since 12 December 1989); election last held 19 November 1992 (next to
+ be held NA November 1995); results - Bernard DOWIYOGO elected by
+ Parliament
+ cabinet: Cabinet; appointed by the president from the parliament
+
+ Legislative branch: unicameral
+ Parliament: elections last held on 14 November 1992 (next to be held
+ NA November 1995); results - percent of vote NA; seats - (18 total)
+ independents 18
+
+ Judicial branch: Supreme Court
+
+ Political parties and leaders: none
+
+ Member of: AsDB, C (special), ESCAP, ICAO, INTELSAT (nonsignatory
+ user), INTERPOL, ITU, SPARTECA, SPC, SPF, UPU
+
+ Diplomatic representation in US:
+ consulate(s): Agana (Guam)
+
+ US diplomatic representation: the US Ambassador to Fiji is accredited
+ to Nauru
+
+ Flag: blue with a narrow, horizontal, yellow stripe across the center
+ and a large white 12-pointed star below the stripe on the hoist side;
+ the star indicates the country's location in relation to the Equator
+ (the yellow stripe) and the 12 points symbolize the 12 original tribes
+ of Nauru
+
+@Nauru:Economy
+
+ Overview: Revenues come from the export of phosphates, the reserves of
+ which are expected to be exhausted by the year 2000. Phosphates have
+ given Nauruans one of the highest per capita incomes in the Third
+ World. Few other resources exist, so most necessities must be
+ imported, including fresh water from Australia. The rehabilitation of
+ mined land and the replacement of income from phosphates are serious
+ long-term problems. Substantial amounts of phosphate income are
+ invested in trust funds to help cushion the transition.
+
+ National product: GDP - purchasing power parity - $100 million (1993
+ est.)
+
+ National product real growth rate: NA%
+
+ National product per capita: $10,000 (1993 est.)
+
+ Inflation rate (consumer prices): NA%
+
+ Unemployment rate: 0%
+
+ Budget:
+ revenues: $69.7 million
+ expenditures: $51.5 million, including capital expenditures of $NA
+ (1986 est.)
+
+ Exports: $93 million (f.o.b., 1984)
+ commodities: phosphates
+ partners: Australia, NZ
+
+ Imports: $73 million (c.i.f., 1984)
+ commodities: food, fuel, manufactures, building materials, machinery
+ partners: Australia, UK, NZ, Japan
+
+ External debt: $33.3 million
+
+ Industrial production: growth rate NA%
+
+ Electricity:
+ capacity: 14,000 kW
+ production: 30 million kWh
+ consumption per capita: 3,036 kWh (1993)
+
+ Industries: phosphate mining, financial services, coconut products
+
+ Agriculture: coconuts; other agricultural activity negligible; almost
+ completely dependent on imports for food and water
+
+ Economic aid:
+ recipient: Western (non-US) countries (1970-89), $2 million
+
+ Currency: 1 Australian dollar ($A) = 100 cents
+
+ Exchange rates: Australian dollars ($A) per US$1 - 1.3058 (January
+ 1995), 1.3667 (1994), 1.4704 (1993), 1.3600 (1992), 1.2834 (1991),
+ 1.2799 (1990)
+
+ Fiscal year: 1 July - 30 June
+
+@Nauru:Transportation
+
+ Railroads:
+ total: 3.9 km; note - used to haul phosphates from the center of the
+ island to processing facilities on the southwest coast
+
+ Highways:
+ total: 27 km
+ paved: 21 km
+ unpaved: improved earth 6 km
+
+ Ports: Nauru
+
+ Merchant marine: none
+
+ Airports:
+ total: 1
+ with paved runways 1,524 to 2,437 m: 1
+
+@Nauru:Communications
+
+ Telephone system: 1,600 telephones; adequate local and international
+ radio communications provided via Australian facilities
+ local: NA
+ intercity: NA
+ international: 1 INTELSAT (Pacific Ocean) earth station
+
+ Radio:
+ broadcast stations: AM 1, FM 0, shortwave 0
+ radios: 4,000
+
+ Television:
+ broadcast stations: 0
+ televisions: NA
+
+@Nauru:Defense Forces
+
+ Branches: no regular armed forces; Directorate of the Nauru Police
+ Force
+
+ Defense expenditures: $NA; note - no formal defense structure
+
+
+________________________________________________________________________
+
+NAVASSA ISLAND
+
+ (territory of the US) 
+
+@Navassa Island:Geography
+
+ Location: Caribbean, island in the Caribbean Sea, about one-fourth of
+ the way from Haiti to Jamaica
+
+ Map references: Central America and the Caribbean
+
+ Area:
+ total area: 5.2 sq km
+ land area: 5.2 sq km
+ comparative area: about nine times the size of The Mall in Washington,
+ DC
+
+ Land boundaries: 0 km
+
+ Coastline: 8 km
+
+ Maritime claims:
+ exclusive economic zone: 200 nm
+ territorial sea: 12 nm
+
+ International disputes: claimed by Haiti
+
+ Climate: marine, tropical
+
+ Terrain: raised coral and limestone plateau, flat to undulating;
+ ringed by vertical white cliffs (9 to 15 meters high)
+
+ Natural resources: guano
+
+ Land use:
+ arable land: 0%
+ permanent crops: 0%
+ meadows and pastures: 10%
+ forest and woodland: 0%
+ other: 90%
+
+ Irrigated land: 0 sq km
+
+ Environment:
+ current issues: NA
+ natural hazards: NA
+ international agreements: NA
+
+ Note: strategic location 160 km south of the US Naval Base at
+ Guantanamo Bay, Cuba; mostly exposed rock, but enough grassland to
+ support goat herds; dense stands of fig-like trees, scattered cactus
+
+@Navassa Island:People
+
+ Population: uninhabited; note - transient Haitian fishermen and others
+ camp on the island
+
+@Navassa Island:Government
+
+ Names:
+ conventional long form: none
+ conventional short form: Navassa Island
+
+ Digraph: BQ
+
+ Type: unincorporated territory of the US administered by the US Coast
+ Guard
+
+ Capital: none; administered from Washington, DC
+
+@Navassa Island:Economy
+
+ Overview: no economic activity
+
+@Navassa Island:Transportation
+
+ Ports: none; offshore anchorage only
+
+@Navassa Island:Defense Forces
+
+ Note: defense is the responsibility of the US
+
+
+________________________________________________________________________
+
+NEPAL
+
+@Nepal:Geography
+
+ Location: Southern Asia, between China and India
+
+ Map references: Asia
+
+ Area:
+ total area: 140,800 sq km
+ land area: 136,800 sq km
+ comparative area: slightly larger than Arkansas
+
+ Land boundaries: total 2,926 km, China 1,236 km, India 1,690 km
+
+ Coastline: 0 km (landlocked)
+
+ Maritime claims: none; landlocked
+
+ International disputes: none
+
+ Climate: varies from cool summers and severe winters in north to
+ subtropical summers and mild winters in south
+
+ Terrain: Terai or flat river plain of the Ganges in south, central
+ hill region, rugged Himalayas in north
+
+ Natural resources: quartz, water, timber, hydroelectric potential,
+ scenic beauty, small deposits of lignite, copper, cobalt, iron ore
+
+ Land use:
+ arable land: 17%
+ permanent crops: 0%
+ meadows and pastures: 13%
+ forest and woodland: 33%
+ other: 37%
+
+ Irrigated land: 9,430 sq km (1989)
+
+ Environment:
+ current issues: the almost total dependence on wood for fuel and
+ cutting down trees to expand agricultural land without replanting has
+ resulted in widespread deforestation; soil erosion; water pollution
+ (use of contaminated water presents human health risks)
+ natural hazards: severe thunderstorms, flooding, landslides, drought,
+ and famine depending on the timing, intensity, and duration of the
+ summer monsoons
+ international agreements: party to - Biodiversity, Climate Change,
+ Endangered Species, Nuclear Test Ban, Ozone Layer Protection, Tropical
+ Timber 83, Wetlands; signed, but not ratified - Law of the Sea, Marine
+ Dumping, Marine Life Conservation
+
+ Note: landlocked; strategic location between China and India; contains
+ eight of world's 10 highest peaks
+
+@Nepal:People
+
+ Population: 21,560,869 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 43% (female 4,479,950; male 4,692,575)
+ 15-64 years: 55% (female 5,778,107; male 5,994,147)
+ 65 years and over: 2% (female 305,502; male 310,588) (July 1995 est.)
+
+ Population growth rate: 2.44% (1995 est.)
+
+ Birth rate: 37.31 births/1,000 population (1995 est.)
+
+ Death rate: 12.9 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 0 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 81.2 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 53.09 years
+ male: 52.86 years
+ female: 53.34 years (1995 est.)
+
+ Total fertility rate: 5.15 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Nepalese (singular and plural)
+ adjective: Nepalese
+
+ Ethnic divisions: Newars, Indians, Tibetans, Gurungs, Magars, Tamangs,
+ Bhotias, Rais, Limbus, Sherpas
+
+ Religions: Hindu 90%, Buddhist 5%, Muslim 3%, other 2% (1981)
+ note: only official Hindu state in world, although no sharp
+ distinction between many Hindu and Buddhist groups
+
+ Languages: Nepali (official), 20 languages divided into numerous
+ dialects
+
+ Literacy: age 15 and over can read and write (1990)
+ total population: 26%
+ male: 38%
+ female: 13%
+
+ Labor force: 8.5 million (1991 est.)
+ by occupation: agriculture 93%, services 5%, industry 2%
+ note: severe lack of skilled labor
+
+@Nepal:Government
+
+ Names:
+ conventional long form: Kingdom of Nepal
+ conventional short form: Nepal
+
+ Digraph: NP
+
+ Type: parliamentary democracy as of 12 May 1991
+
+ Capital: Kathmandu
+
+ Administrative divisions: 14 zones (anchal, singular and plural);
+ Bagmati, Bheri, Dhawalagiri, Gandaki, Janakpur, Karnali, Kosi,
+ Lumbini, Mahakali, Mechi, Narayani, Rapti, Sagarmatha, Seti
+
+ Independence: 1768 (unified by Prithvi Narayan Shah)
+
+ National holiday: Birthday of His Majesty the King, 28 December (1945)
+
+ Constitution: 9 November 1990
+
+ Legal system: based on Hindu legal concepts and English common law;
+ has not accepted compulsory ICJ jurisdiction
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch:
+ head of government: Prime Minister Man Mohan ADHIKARI (since 30
+ November 1994)
+ chief of state: King BIRENDRA Bir Bikram Shah Dev (since 31 January
+ 1972, crowned King 24 February 1985); Heir Apparent Crown Prince
+ DIPENDRA Bir Bikram Shah Dev, son of the King (born 21 June 1971)
+ cabinet: Cabinet; appointed by the king on recommendation of the prime
+ minister
+
+ Legislative branch: bicameral Parliament
+ National Council: consists of a 60-member body, 50 appointed by House
+ of Representatives and 10 by the King
+ House of Representatives: elections last held on 15 November 1994
+ (next to be held NA); results - NCP 33%, CPN/UML 31%, NDP 18%, Terai
+ Rights Sadbhavana Party 3%, NWPP 1%; seats - (205 total) CPN/UML 88,
+ NCP 83, NDP 20, NWPP 4, Terai Rights Sadbhavana Party 3, independents
+ 7; note - the new Constitution of 9 November 1990 gave Nepal a
+ multiparty democracy system for the first time in 32 years
+
+ Judicial branch: Supreme Court (Sarbochha Adalat)
+
+ Political parties and leaders: Communist Party of Nepal/United Marxist
+ and Leninist (CPN/UML), Prime Minister Man Mohan ADHIKARI, Deputy
+ Prime Minister Madhav Kumar NEPAL; Nepali Congress Party (NCP),
+ president Krishna Prasad BHATTARAI, former Prime Minister Girija
+ Prasad KOIRALA, Leader of the Opposition Sher Bahadur DEUBA; National
+ Democratic Party (NDP), Surya Bahadur THAPA; Terai Rights Sadbhavana
+ (Goodwill) Party, Gajendra Narayan SINGH; United People's Front (UPF),
+ Niranjan Govinda BAIDYA; Nepal Workers and Peasants Party (NWPP),
+ Narayan Man BIJUKCHHE; Communist Party of Nepal
+ (Democratic-Manandhar), B. B. MANANDHAR
+
+ Other political or pressure groups: numerous small, left-leaning
+ student groups in the capital; several small, radical Nepalese
+ antimonarchist groups
+
+ Member of: AsDB, CCC, CP, ESCAP, FAO, G-77, IBRD, ICAO, ICRM, IDA,
+ IFAD, IFC, IFRCS, ILO, IMF, IMO, INTELSAT, INTERPOL, IOC, ISO
+ (correspondent), ITU, NAM, SAARC, UN, UNCTAD, UNESCO, UNIDO, UNIFIL,
+ UNOSOM, UNPROFOR, UPU, WFTU, WHO, WMO, WTO
+
+ Diplomatic representation in US:
+ chief of mission: (vacant); Charge d'Affaires ad interim Pradeep
+ KHATIWADA
+ chancery: 2131 Leroy Place NW, Washington, DC 20008
+ telephone: [1] (202) 667-4550
+ consulate(s) general: New York
+
+ US diplomatic representation:
+ chief of mission: Ambassador Sandra L. VOGELGESANG
+ embassy: Pani Pokhari, Kathmandu
+ mailing address: use embassy street address
+ telephone: [977] (1) 411179
+ FAX: [977] (1) 419963
+
+ Flag: red with a blue border around the unique shape of two
+ overlapping right triangles; the smaller, upper triangle bears a white
+ stylized moon and the larger, lower triangle bears a white 12-pointed
+ sun
+
+@Nepal:Economy
+
+ Overview: Nepal is among the poorest and least developed countries in
+ the world. Agriculture is the mainstay of the economy, providing a
+ livelihood for over 90% of the population and accounting for half of
+ GDP. Industrial activity is limited, mainly involving the processing
+ of agricultural produce (jute, sugarcane, tobacco, and grain).
+ Production of textiles and carpets has expanded recently and accounted
+ for 85% of foreign exchange earnings in FY93/94. Apart from
+ agricultural land and forests, exploitable natural resources are mica,
+ hydropower, and tourism. Agricultural production in the late 1980s
+ grew by about 5%, as compared with annual population growth of 2.6%.
+ More than 40% of the population is undernourished. Since May 1991, the
+ government has been encouraging trade and foreign investment, e.g., by
+ eliminating business licenses and registration requirements in order
+ to simplify domestic and foreign investment. The government also has
+ been cutting public expenditures by reducing subsidies, privatizing
+ state industries, and laying off civil servants. Prospects for foreign
+ trade and investment in the 1990s remain poor, however, because of the
+ small size of the economy, its technological backwardness, its
+ remoteness, and susceptibility to natural disaster. The international
+ community provides funding for 70% of Nepal's developmental budget and
+ for 30% of total budgetary expenditures. The government, realizing
+ that attempts to reverse three years of liberalization would
+ jeopardize this vital support, almost certainly will move ahead with
+ its reform program in 1995-96.
+
+ National product: GDP - purchasing power parity - $22.4 billion (1994
+ est.)
+
+ National product real growth rate: 5% (1994 est.)
+
+ National product per capita: $1,060 (1994 est.)
+
+ Inflation rate (consumer prices): 9.6% (June 1994)
+
+ Unemployment rate: NA%; note - there is substantial underemployment
+ (1994)
+
+ Budget:
+ revenues: $455 million
+ expenditures: $854 million, including capital expenditures of $427
+ million (FY93/94 est.)
+
+ Exports: $593 million (f.o.b., 1993) but does not include unrecorded
+ border trade with India
+ commodities: carpets, clothing, leather goods, jute goods, grain
+ partners: India, US, Germany, UK
+
+ Imports: $899 million (c.i.f., 1993)
+ commodities: petroleum products 20%, fertilizer 11%, machinery 10%
+ partners: India, Singapore, Japan, Germany
+
+ External debt: $2 billion (1993 est.)
+
+ Industrial production: NA
+
+ Electricity:
+ capacity: 280,000 kW
+ production: 920 million kWh
+ consumption per capita: 41 kWh (1993)
+
+ Industries: small rice, jute, sugar, and oilseed mills; cigarette,
+ textile, carpet, cement, and brick production; tourism
+
+ Agriculture: rice, corn, wheat, sugarcane, root crops, milk, buffalo
+ meat; not self-sufficient in food, particularly in drought years
+
+ Illicit drugs: illicit producer of cannabis for the domestic and
+ international drug markets; transit point for heroin from Southeast
+ Asia to the West
+
+ Economic aid:
+ recipient: US commitments, including Ex-Im (FY70-89), $304 million;
+ Western (non-US) countries, ODA and OOF bilateral commitments
+ (1980-89), $2.23 billion; OPEC bilateral aid (1979-89), $30 million;
+ Communist countries (1970-89), $286 million
+
+ Currency: 1 Nepalese rupee (NR) = 100 paisa
+
+ Exchange rates: Nepalese rupees (NRs) per US$1 - 49.884 (January
+ 1995), 49.398 (1994), 48.607 (1993), 42.742 (1992), 37.255 (1991),
+ 29.370 (1990)
+
+ Fiscal year: 16 July - 15 July
+
+@Nepal:Transportation
+
+ Railroads:
+ total: 101 km; note - all in Terai close to Indian border
+ narrow gauge: 101 km 0.762-m gauge
+
+ Highways:
+ total: 7,400 km
+ paved: 3,000 km
+ unpaved: 4,400 km
+
+ Ports: none
+
+ Airports:
+ total: 44
+ with paved runways over 3,047 m: 1
+ with paved runways 1,524 to 2,437 m: 3
+ with paved runways 914 to 1,523 m: 1
+ with paved runways under 914 m: 28
+ with unpaved runways 1,524 to 2,438 m: 1
+ with unpaved runways 914 to 1,523 m: 10
+
+@Nepal:Communications
+
+ Telephone system: 50,000 telephones (1990); poor telephone and
+ telegraph service; fair radio communication service
+ local: NA
+ intercity: NA
+ international: international radio communication service is fair; 1
+ INTELSAT (Indian Ocean) earth station
+
+ Radio:
+ broadcast stations: AM 88, FM 0, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 1
+ televisions: NA
+
+@Nepal:Defense Forces
+
+ Branches: Royal Nepalese Army, Royal Nepalese Army Air Service,
+ Nepalese Police Force
+
+ Manpower availability: males age 15-49 5,163,703; males fit for
+ military service 2,682,284; males reach military age (17) annually
+ 247,978 (1995 est.)
+
+ Defense expenditures: exchange rate conversion - $36 million, 1.2% of
+ GDP (FY92/93)
+
+
+________________________________________________________________________
+
+NETHERLANDS
+
+@Netherlands:Geography
+
+ Location: Western Europe, bordering the North Sea, between Belgium and
+ Germany
+
+ Map references: Europe
+
+ Area:
+ total area: 37,330 sq km
+ land area: 33,920 sq km
+ comparative area: slightly less than twice the size of New Jersey
+
+ Land boundaries: total 1,027 km, Belgium 450 km, Germany 577 km
+
+ Coastline: 451 km
+
+ Maritime claims:
+ exclusive fishing zone: 200 nm
+ territorial sea: 12 nm
+
+ International disputes: none
+
+ Climate: temperate; marine; cool summers and mild winters
+
+ Terrain: mostly coastal lowland and reclaimed land (polders); some
+ hills in southeast
+
+ Natural resources: natural gas, petroleum, fertile soil
+
+ Land use:
+ arable land: 26%
+ permanent crops: 1%
+ meadows and pastures: 32%
+ forest and woodland: 9%
+ other: 32%
+
+ Irrigated land: 5,500 sq km (1989 est.)
+
+ Environment:
+ current issues: water pollution in the form of heavy metals, organic
+ compounds, and nutrients such as nitrates and phosphates; air
+ pollution from vehicles and refining activities; acid rain
+ natural hazards: the extensive system of dikes and dams, protects
+ nearly one-half of the total area from being flooded
+ international agreements: party to - Air Pollution, Air
+ Pollution-Nitrogen Oxides, Air Pollution-Sulphur 85, Air
+ Pollution-Volatile Organic Compounds, Antarctic-Environmental
+ Protocol, Antarctic Treaty, Biodiversity, Climate Change, Endangered
+ Species, Environmental Modification, Hazardous Wastes, Marine Dumping,
+ Marine Life Conservation, Nuclear Test Ban, Ozone Layer Protection,
+ Ship Pollution, Tropical Timber 83, Wetlands, Whaling; signed, but not
+ ratified - Air Pollution-Sulphur 94, Biodiversity, Desertification,
+ Law of the Sea
+
+ Note: located at mouths of three major European rivers (Rhine, Maas or
+ Meuse, and Schelde)
+
+@Netherlands:People
+
+ Population: 15,452,903 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 18% (female 1,382,057; male 1,445,451)
+ 15-64 years: 68% (female 5,184,224; male 5,369,018)
+ 65 years and over: 14% (female 1,238,336; male 833,817) (July 1995
+ est.)
+
+ Population growth rate: 0.52% (1995 est.)
+
+ Birth rate: 12.42 births/1,000 population (1995 est.)
+
+ Death rate: 8.48 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 1.29 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 6 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 77.95 years
+ male: 74.9 years
+ female: 81.17 years (1995 est.)
+
+ Total fertility rate: 1.56 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Dutchman(men), Dutchwoman(women)
+ adjective: Dutch
+
+ Ethnic divisions: Dutch 96%, Moroccans, Turks, and other 4% (1988)
+
+ Religions: Roman Catholic 34%, Protestant 25%, Muslim 3%, other 2%,
+ unaffiliated 36% (1991)
+
+ Languages: Dutch
+
+ Literacy: age 15 and over can read and write (1979 est.)
+ total population: 99%
+
+ Labor force: 6.4 million (1993)
+ by occupation: services 71.4%, manufacturing and construction 24.6%,
+ agriculture 4.0% (1992)
+
+@Netherlands:Government
+
+ Names:
+ conventional long form: Kingdom of the Netherlands
+ conventional short form: Netherlands
+ local long form: Koninkrijk de Nederlanden
+ local short form: Nederland
+
+ Digraph: NL
+
+ Type: constitutional monarchy
+
+ Capital: Amsterdam; The Hague is the seat of government
+
+ Administrative divisions: 12 provinces (provincien, singular -
+ provincie); Drenthe, Flevoland, Friesland, Gelderland, Groningen,
+ Limburg, Noord-Brabant, Noord-Holland, Overijssel, Utrecht, Zeeland,
+ Zuid-Holland
+
+ Dependent areas: Aruba, Netherlands Antilles
+
+ Independence: 1579 (from Spain)
+
+ National holiday: Queen's Day, 30 April (1938)
+
+ Constitution: 17 February 1983
+
+ Legal system: civil law system incorporating French penal theory;
+ judicial review in the Supreme Court of legislation of lower order
+ rather than Acts of the States General; accepts compulsory ICJ
+ jurisdiction, with reservations
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch:
+ chief of state: Queen BEATRIX Wilhelmina Armgard (since 30 April
+ 1980); Heir Apparent WILLEM-ALEXANDER, Prince of Orange, son of Queen
+ Beatrix (born 27 April 1967)
+ head of government: Prime Minister Willem (Wim) KOK (since 22 August
+ 1994); Vice Prime Minister Hans DIJKSTAL and Hans VAN MIERLO (since 22
+ August 1994)
+ cabinet: Cabinet; appointed by the prime minister
+
+ Legislative branch: bicameral legislature (Staten Generaal)
+ First Chamber (Eerste Kamer): members indirectly elected by the
+ country's 12 provincial councils for four-year terms; elections last
+ held 9 June l991 (next to be held 9 June 1995); results - percent of
+ vote by party NA; seats - (75 total) number of seats by party NA
+ Second Chamber (Tweede Kamer): members directly elected for four-year
+ terms; elections last held on 3 May 1994 (next to be held in May
+ 1999); results - PvdA 24.3%, CDA 22.3%, VVD 20.4%, D'66 16.5%, other
+ 16.5%; seats - (150 total) PvdA 37, CDA 34, VVD 31, D'66 24, other 24
+
+ Judicial branch: Supreme Court (De Hoge Raad)
+
+ Political parties and leaders: Christian Democratic Appeal (CDA), Hans
+ HELGERS; Labor (PvdA), Wim KOK; Liberal (VVD - People's Party for
+ Freedom and Democracy), Frits BOLKESTEIN; Democrats '66 (D'66), Hans
+ van MIERLO; a host of minor parties
+
+ Other political or pressure groups: large multinational firms;
+ Federation of Netherlands Trade Union Movement (comprising Socialist
+ and Catholic trade unions) and a Protestant trade union; Federation of
+ Catholic and Protestant Employers Associations; the nondenominational
+ Federation of Netherlands Enterprises; and Interchurch Peace Council
+ (IKV)
+
+ Member of: AfDB, AG (observer), AsDB, Australia Group, Benelux, BIS,
+ CCC, CE, CERN, EBRD, EC, ECE, ECLAC, EIB, ESA, ESCAP, FAO, G-10, GATT,
+ IADB, IAEA, IBRD, ICAO, ICC, ICFTU, ICRM, IDA, IEA, IFAD, IFC, IFRCS,
+ ILO, IMF, IMO, INMARSAT, INTELSAT, INTERPOL, IOC, IOM, ISO, ITU, MTCR,
+ NACC, NAM (guest), NATO, NEA, NSG, OAS (observer), OECD, OSCE, PCA,
+ UN, UNAVEM II, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNOMOZ, UNOMUR,
+ UNPROFOR, UNTSO, UNU, UPU, WCL, WEU, WHO, WIPO, WMO, WTO, ZC
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Adriaan JACOBOVITS DE SZEGED
+ chancery: 4200 Linnean Avenue NW, Washington, DC 20008
+ telephone: [1] (202) 244-5300
+ FAX: [1] (202) 362-3430
+ consulate(s) general: Chicago, Houston, Los Angeles, New York
+
+ US diplomatic representation:
+ chief of mission: Ambassador Kirk Terry DORNBUSH
+ embassy: Lange Voorhout 102, 2514 EJ The Hague
+ mailing address: PSC 71, Box 1000, the Hague; APO AE 09715
+ telephone: [31] (70) 310-9209
+ FAX: [31] (70) 361-4688
+ consulate(s) general: Amsterdam
+
+ Flag: three equal horizontal bands of red (top), white, and blue;
+ similar to the flag of Luxembourg, which uses a lighter blue and is
+ longer
+
+@Netherlands:Economy
+
+ Overview: This highly developed and affluent economy is based on
+ private enterprise. The government makes its presence felt, however,
+ through many regulations, permit requirements, and welfare programs
+ affecting most aspects of economic activity. The trade and financial
+ services sector contributes over 50% of GDP. Industrial activity
+ provides about 25% of GDP and is led by the food-processing,
+ oil-refining, and metalworking industries. The highly mechanized
+ agricultural sector employs only 4% of the labor force, but provides
+ large surpluses for export and the domestic food-processing industry.
+ Indeed the Netherlands ranks third worldwide in value of agricultural
+ exports, behind the US and France. High unemployment and a sizable
+ budget deficit are currently the most serious economic problems. Many
+ of the economic issues of the 1990s will reflect the course of
+ European economic integration.
+
+ National product: GDP - purchasing power parity - $275.8 billion (1994
+ est.)
+
+ National product real growth rate: 2% (1994 est.)
+
+ National product per capita: $17,940 (1994 est.)
+
+ Inflation rate (consumer prices): 2.5% (December 1994)
+
+ Unemployment rate: 8.8% (December 1994)
+
+ Budget:
+ revenues: $109.9 billion
+ expenditures: $122.1 billion, including capital expenditures of $NA
+ (1992 est.)
+
+ Exports: $153 billion (f.o.b., 1994 est.)
+ commodities: metal products, chemicals, processed food and tobacco,
+ agricultural products
+ partners: EC 77% (Germany 27%, Belgium-Luxembourg 15%, UK 10%),
+ Central and Eastern Europe 10%, US 4% (1991)
+
+ Imports: $137 billion (f.o.b., 1994 est.)
+ commodities: raw materials and semifinished products, consumer goods,
+ transportation equipment, crude oil, food products
+ partners: EC 64% (Germany 26%, Belgium-Luxembourg 14%, UK 8%), US 8%
+ (1991)
+
+ External debt: $0
+
+ Industrial production: growth rate -1.5% (1993 est.); accounts for 25%
+ of GDP
+
+ Electricity:
+ capacity: 17,520,000 kW
+ production: 72.4 billion kWh
+ consumption per capita: 5,100 kWh (1993)
+
+ Industries: agroindustries, metal and engineering products, electrical
+ machinery and equipment, chemicals, petroleum, fishing, construction,
+ microelectronics
+
+ Agriculture: accounts for 4.6% of GDP; animal production predominates;
+ crops - grains, potatoes, sugar beets, fruits, vegetables; shortages
+ of grain, fats, and oils
+
+ Illicit drugs: important gateway for cocaine, heroin, and hashish
+ entering Europe; European producer of illicit amphetamines and other
+ synthetic drugs
+
+ Economic aid:
+ donor: ODA and OOF commitments (1970-89), $19.4 billion
+
+ Currency: 1 Netherlands guilder, gulden, or florin (f.) = 100 cents
+
+ Exchange rates: Netherlands guilders, gulden, or florins (f.) per US$1
+ - 1.7178 (January 1995), 1.8200 (1994), 1.8573 (1993), 1.7585 (1992),
+ 1.8697 (1991), 1.8209 (1990)
+
+ Fiscal year: calendar year
+
+@Netherlands:Transportation
+
+ Railroads:
+ total: 2,757 km
+ standard gauge: 2,757 km km 1.435-m gauge (1,991 km electrified; 1,800
+ km double track) (1994)
+
+ Highways:
+ total: 104,831 km
+ paved: 92,251 km (2,118 km of expressway)
+ unpaved: gravel, crushed stone 12,580 km (1992)
+
+ Inland waterways: 6,340 km, of which 35% is usable by craft of 1,000
+ metric ton capacity or larger
+
+ Pipelines: crude oil 418 km; petroleum products 965 km; natural gas
+ 10,230 km
+
+ Ports: Amsterdam, Delfzijl, Dordrecht, Eemshaven, Groningen, Haarlem,
+ Ijmuiden, Maastricht, Rotterdam, Terneuzen, Utrecht
+
+ Merchant marine:
+ total: 343 ships (1,000 GRT or over) totaling 2,629,578 GRT/3,337,307
+ DWT
+ ships by type: bulk 2, cargo 195, chemical tanker 21, combination bulk
+ 3, container 33, liquefied gas tanker 12, livestock carrier 1,
+ multifunction large-load carrier 1, oil tanker 37, railcar carrier 1,
+ refrigerated cargo 18, roll-on/roll-off cargo 14, short-sea passenger
+ 3, specialized tanker 2
+ note: many Dutch-owned ships are also registered on the Netherlands
+ Antilles register
+
+ Airports:
+ total: 29
+ with paved runways over 3,047 m: 1
+ with paved runways 2,438 to 3,047 m: 9
+ with paved runways 1,524 to 2,437 m: 5
+ with paved runways 914 to 1,523 m: 3
+ with paved runways under 914 m: 8
+ with unpaved runways 914 to 1,523 m: 3
+
+@Netherlands:Communications
+
+ Telephone system: 9,418,000 telephones; highly developed, well
+ maintained, and integrated; extensive redundant system of
+ multiconductor cables, supplemented by microwave radio relay links
+ local: nationwide mobile phone system
+ intercity: microwave radio relay
+ international: 5 submarine cables; 3 INTELSAT (1 Indian Ocean and 2
+ Atlantic Ocean) and 1 EUTELSAT earth station
+
+ Radio:
+ broadcast stations: AM 3 (relays 3), FM 12 (repeaters 39), shortwave 0
+
+ radios: NA
+
+ Television:
+ broadcast stations: 8 (repeaters 7)
+ televisions: NA
+
+@Netherlands:Defense Forces
+
+ Branches: Royal Netherlands Army, Royal Netherlands Navy (includes
+ Naval Air Service and Marine Corps), Royal Netherlands Air Force,
+ Royal Constabulary
+
+ Manpower availability: males age 15-49 4,177,555; males fit for
+ military service 3,656,529; males reach military age (20) annually
+ 94,771 (1995 est.)
+
+ Defense expenditures: exchange rate conversion - $7.1 billion, 2.2% of
+ GDP (1994)
+
+
+________________________________________________________________________
+
+NETHERLANDS ANTILLES
+
+ (part of the Dutch realm) 
+
+@Netherlands Antilles:Geography
+
+ Location: Caribbean, two island groups in the Caribbean Sea - one
+ includes Curacao and Bonaire north of Venezuela and the other is east
+ of the Virgin Islands
+
+ Map references: Central America and the Caribbean
+
+ Area:
+ total area: 960 sq km
+ land area: 960 sq km
+ comparative area: slightly less than 5.5 times the size of Washington,
+ DC
+ note: includes Bonaire, Curacao, Saba, Sint Eustatius, and Sint
+ Maarten (Dutch part of the island of Saint Martin)
+
+ Land boundaries: 0 km
+
+ Coastline: 364 km
+
+ Maritime claims:
+ exclusive fishing zone: 12 nm
+ territorial sea: 12 nm
+
+ International disputes: none
+
+ Climate: tropical; ameliorated by northeast trade winds
+
+ Terrain: generally hilly, volcanic interiors
+
+ Natural resources: phosphates (Curacao only), salt (Bonaire only)
+
+ Land use:
+ arable land: 8%
+ permanent crops: 0%
+ meadows and pastures: 0%
+ forest and woodland: 0%
+ other: 92%
+
+ Irrigated land: NA sq km
+
+ Environment:
+ current issues: NA
+ natural hazards: Curacao and Bonaire are south of Caribbean hurricane
+ belt, so rarely threatened; Sint Maarten, Saba, and Sint Eustatius are
+ subject to hurricanes from July to October
+ international agreements: party to - Whaling (extended from
+ Netherlands)
+
+@Netherlands Antilles:People
+
+ Population: 203,505 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 26% (female 25,349; male 26,577)
+ 15-64 years: 67% (female 69,273; male 67,485)
+ 65 years and over: 7% (female 8,599; male 6,222) (July 1995 est.)
+
+ Population growth rate: 1.06% (1995 est.)
+
+ Birth rate: 16.23 births/1,000 population (1995 est.)
+
+ Death rate: 5.26 deaths/1,000 population (1995 est.)
+
+ Net migration rate: -0.38 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 9 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 76.94 years
+ male: 74.67 years
+ female: 79.33 years (1995 est.)
+
+ Total fertility rate: 1.9 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Netherlands Antillean(s)
+ adjective: Netherlands Antillean
+
+ Ethnic divisions: mixed African 85%, Carib Indian, European, Latin,
+ Oriental
+
+ Religions: Roman Catholic, Protestant, Jewish, Seventh-Day Adventist
+
+ Languages: Dutch (official), Papiamento a
+ Spanish-Portuguese-Dutch-English dialect predominates, English widely
+ spoken, Spanish
+
+ Literacy: age 15 and over can read and write (1981)
+ total population: 98%
+ male: 98%
+ female: 99%
+
+ Labor force: 89,000
+ by occupation: government 65%, industry and commerce 28% (1983)
+
+@Netherlands Antilles:Government
+
+ Names:
+ conventional long form: none
+ conventional short form: Netherlands Antilles
+ local long form: none
+ local short form: Nederlandse Antillen
+
+ Digraph: NT
+
+ Type: part of the Dutch realm; full autonomy in internal affairs
+ granted in 1954
+
+ Capital: Willemstad
+
+ Administrative divisions: none (part of the Dutch realm)
+
+ Independence: none (part of the Dutch realm)
+
+ National holiday: Queen's Day, 30 April (1938)
+
+ Constitution: 29 December 1954, Statute of the Realm of the
+ Netherlands, as amended
+
+ Legal system: based on Dutch civil law system, with some English
+ common law influence
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch:
+ chief of state: Queen BEATRIX Wilhelmina Armgard (since 30 April
+ 1980), represented by Governor General Jaime SALEH (since NA October
+ 1989)
+ head of government: Prime Minister Miguel POURIER (since 25 February
+ 1994)
+ cabinet: Council of Ministers; appointed with the advice and approval
+ of the unicameral legislature
+
+ Legislative branch: unicameral
+ Staten: elections last held on 25 February 1994 (next to be held March
+ 1998); results - percent of vote by party NA; seats - (23 total) PAR
+ 8, PNP 3, SPA 2, PDB 2, UPB 1, MAN 2, DP 1, WIPM 1, DP-St.E 1, DP-St.M
+ 1, Nos Patria 1
+ note: the government of Prime Minister Miguel POURIER is a coalition
+ of several parties
+
+ Judicial branch: Joint High Court of Justice
+
+ Political parties and leaders: political parties are indigenous to
+ each island
+ Bonaire: Patriotic Union of Bonaire (UPB), Rudy ELLIS; Democratic
+ Party of Bonaire (PDB), Franklin CRESTIAN
+ Curacao: Antillean Restructuring Party (PAR), Miguel POURIER; National
+ People's Party (PNP), Maria LIBERIA-PETERS; New Antilles Movement
+ (MAN), Domenico Felip Don MARTINA; Workers' Liberation Front (FOL),
+ Wilson (Papa) GODETT; Socialist Independent (SI), George HUECK and
+ Nelson MONTE; Democratic Party of Curacao (DP), Augustin DIAZ; Nos
+ Patria, Chin BEHILIA
+ Saba: Windward Islands People's Movement (WIPM Saba), Will JOHNSON;
+ Saba Democratic Labor Movement, Vernon HASSELL; Saba Unity Party,
+ Carmen SIMMONDS
+ Sint Eustatius: Democratic Party of Sint Eustatius (DP-St.E), K. Van
+ PUTTEN; Windward Islands People's Movement (WIPM); St. Eustatius
+ Alliance (SEA), Ralph BERKEL
+ Sint Maarten: Democratic Party of Sint Maarten (DP-St.M), Claude
+ WATHEY; Patriotic Movement of Sint Maarten (SPA), Vance JAMES
+
+ Member of: CARICOM (observer), ECLAC (associate), ICFTU, INTERPOL,
+ IOC, UNESCO (associate), UPU, WMO, WTO (associate)
+
+ Diplomatic representation in US: none (self-governing part of the
+ Netherlands)
+
+ US diplomatic representation:
+ chief of mission: Consul General Bernard J. WOERZ
+ consulate(s) general: Saint Anna Boulevard 19, Willemstad, Curacao
+ mailing address: P. O. Box 158, Willemstad, Curacao
+ telephone: [599] (9) 61-3066
+ FAX: [599] (9) 61-6489
+
+ Flag: white with a horizontal blue stripe in the center superimposed
+ on a vertical red band also centered; five white five-pointed stars
+ are arranged in an oval pattern in the center of the blue band; the
+ five stars represent the five main islands of Bonaire, Curacao, Saba,
+ Sint Eustatius, and Sint Maarten
+
+@Netherlands Antilles:Economy
+
+ Overview: Tourism and offshore finance are the mainstays of the
+ economy. The islands enjoy a high per capita income and a
+ well-developed infrastructure as compared with other countries in the
+ region. Almost all consumer and capital goods are imported, with
+ Venezuela and the US being the major suppliers. Poor soils and
+ inadequate water supplies hamper the development of agriculture.
+
+ National product: GDP - purchasing power parity - $1.85 billion (1993
+ est.)
+
+ National product real growth rate: 1.8% (1994 est.)
+
+ National product per capita: $10,000 (1993 est.)
+
+ Inflation rate (consumer prices): 1.5% (1994 est.)
+
+ Unemployment rate: 13.4% (1993 est.)
+
+ Budget:
+ revenues: $209 million
+ expenditures: $232 million, including capital expenditures of $8
+ million (1992 est.)
+
+ Exports: $240 million (f.o.b., 1993)
+ commodities: petroleum products 98%
+ partners: US 39%, Brazil 9%, Colombia 6%
+
+ Imports: $1.2 billion (f.o.b., 1993)
+ commodities: crude petroleum 64%, food, manufactures
+ partners: Venezuela 26%, US 18%, Colombia 6%, Netherlands 6%, Japan 5%
+
+ External debt: $672 million (December 1991)
+
+ Industrial production: growth rate NA%
+
+ Electricity:
+ capacity: 200,000 kW
+ production: 810 million kWh
+ consumption per capita: 4,054 kWh (1993)
+
+ Industries: tourism (Curacao and Sint Maarten), petroleum refining
+ (Curacao), petroleum transshipment facilities (Curacao and Bonaire),
+ light manufacturing (Curacao)
+
+ Agriculture: chief products - aloes, sorghum, peanuts, vegetables,
+ tropical fruit
+
+ Illicit drugs: money-laundering center; transshipment point for South
+ American cocaine and marijuana bound for the US and Europe
+
+ Economic aid:
+ recipient: Western (non-US) countries, ODA and OOF bilateral
+ commitments (1970-89), $513 million
+
+ Currency: 1 Netherlands Antillean guilder, gulden, or florin (NAf.) =
+ 100 cents
+
+ Exchange rates: Netherlands Antillean guilders, gulden, or florins
+ (NAf.) per US$1 - 1.79 (fixed rate since 1989; 1.80 fixed rate
+ 1971-88)
+
+ Fiscal year: calendar year
+
+@Netherlands Antilles:Transportation
+
+ Railroads: 0 km
+
+ Highways:
+ total: 950 km
+ paved: 300 km
+ unpaved: gravel, earth 650 km
+
+ Ports: Kralendijk, Philipsburg, Willemstad
+
+ Merchant marine:
+ total: 110 ships (1,000 GRT or over) totaling 1,044,553 GRT/1,343,842
+ DWT
+ ships by type: barge carrier 1, bulk 2, cargo 36, chemical tanker 6,
+ combination ore/oil 1, liquefied gas tanker 4, multifunction
+ large-load carrier 20, oil tanker 2, passenger 4, refrigerated cargo
+ 27, roll-on/roll-off cargo 7
+
+ Airports:
+ total: 5
+ with paved runways over 3,047 m: 1
+ with paved runways 1,524 to 2,437 m: 2
+ with paved runways 914 to 1,523 m: 1
+ with paved runways under 914 m: 1
+
+@Netherlands Antilles:Communications
+
+ Telephone system: NA telephones; generally adequate facilities
+ local: NA
+ intercity: extensive interisland microwave radio relay links
+ international: 2 submarine cables; 2 INTELSAT (Atlantic Ocean) earth
+ stations
+
+ Radio:
+ broadcast stations: AM 9, FM 4, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 1
+ televisions: NA
+
+@Netherlands Antilles:Defense Forces
+
+ Branches: Royal Netherlands Navy, Marine Corps, Royal Netherlands Air
+ Force, National Guard, Police Force
+
+ Manpower availability: males age 15-49 56,058; males fit for military
+ service 31,558; males reach military age (20) annually 1,734 (1995
+ est.)
+
+ Note: defense is responsibility of the Netherlands
+
+
+________________________________________________________________________
+
+NEW CALEDONIA
+
+ (overseas territory of France) 
+
+@New Caledonia:Geography
+
+ Location: Oceania, islands in the South Pacific Ocean, east of
+ Australia
+
+ Map references: Oceania
+
+ Area:
+ total area: 19,060 sq km
+ land area: 18,760 sq km
+ comparative area: slightly smaller than New Jersey
+
+ Land boundaries: 0 km
+
+ Coastline: 2,254 km
+
+ Maritime claims:
+ exclusive economic zone: 200 nm
+ territorial sea: 12 nm
+
+ International disputes: none
+
+ Climate: tropical; modified by southeast trade winds; hot, humid
+
+ Terrain: coastal plains with interior mountains
+
+ Natural resources: nickel, chrome, iron, cobalt, manganese, silver,
+ gold, lead, copper
+
+ Land use:
+ arable land: 0%
+ permanent crops: 0%
+ meadows and pastures: 14%
+ forest and woodland: 51%
+ other: 35%
+
+ Irrigated land: NA sq km
+
+ Environment:
+ current issues: NA
+ natural hazards: typhoons most frequent from November to March
+ international agreements: NA
+
+@New Caledonia:People
+
+ Population: 184,552 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 31% (female 27,712; male 28,677)
+ 15-64 years: 64% (female 58,462; male 60,169)
+ 65 years and over: 5% (female 4,997; male 4,535) (July 1995 est.)
+
+ Population growth rate: 1.75% (1995 est.)
+
+ Birth rate: 22.04 births/1,000 population (1995 est.)
+
+ Death rate: 4.9 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 0.4 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 14.4 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 74.02 years
+ male: 70.73 years
+ female: 77.48 years (1995 est.)
+
+ Total fertility rate: 2.57 children born/woman (1995 est.)
+
+ Nationality:
+ noun: New Caledonian(s)
+ adjective: New Caledonian
+
+ Ethnic divisions: Melanesian 42.5%, European 37.1%, Wallisian 8.4%,
+ Polynesian 3.8%, Indonesian 3.6%, Vietnamese 1.6%, other 3%
+
+ Religions: Roman Catholic 60%, Protestant 30%, other 10%
+
+ Languages: French, 28 Melanesian-Polynesian dialects
+
+ Literacy: age 15 and over can read and write (1976)
+ total population: 91%
+ male: 92%
+ female: 90%
+
+ Labor force: 50,469 foreign workers for plantations and mines from
+ Wallis and Futuna, Vanuatu, and French Polynesia (1980 est.)
+ by occupation: NA
+
+@New Caledonia:Government
+
+ Names:
+ conventional long form: Territory of New Caledonia and Dependencies
+ conventional short form: New Caledonia
+ local long form: Territoire des Nouvelle-Caledonie et Dependances
+ local short form: Nouvelle-Caledonie
+
+ Digraph: NC
+
+ Type: overseas territory of France since 1956
+
+ Capital: Noumea
+
+ Administrative divisions: none (overseas territory of France); there
+ are no first-order administrative divisions as defined by the US
+ Government, but there are 3 provinces named Iles Loyaute, Nord, and
+ Sud
+
+ Independence: none (overseas territory of France; a referendum on
+ independence will be held in 1998)
+
+ National holiday: National Day, Taking of the Bastille, 14 July (1789)
+
+ Constitution: 28 September 1958 (French Constitution)
+
+ Legal system: the 1988 Matignon Accords grant substantial autonomy to
+ the islands; formerly under French law
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch:
+ chief of state: President Francois MITTERRAND (since 21 May 1981)
+ head of government: High Commissioner and President of the Council of
+ Government Didier CULTIAUX (since NA July 1994; appointed by the
+
+Back to Full Books

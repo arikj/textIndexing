@@ -1,0 +1,2004 @@
+Acetylene, The Principles Of Its Generation And UsebyF. H. Leeds and W. J. Atkinson Butterfield
+
+or oxy-coal-gas blowpipe.
+
+
+
+CHAPTER X
+
+CARBURETTED ACETYLENE
+
+Now that atmospheric or Bunsen burners for the consumption of acetylene
+for use in lighting by the incandescent system and in heating have been
+so much improved that they seem to be within measurable reach of a state
+of perfection, there appears to be but little use at the present time for
+a modified or diluted acetylene which formerly seemed likely to be
+valuable for heating and certain other purposes. Nevertheless, the facts
+relating to this so-called carburetted acetylene are in no way traversed
+by its failure to establish itself as an active competitor with simple
+acetylene for heating purposes, and since it is conceivable that the
+advantages which from the theoretical standpoint the carburetted gas
+undoubtedly possesses in certain directions may ultimately lead to its
+practical utilisation for special purposes, it has been deemed expedient
+to continue to give in this work an account of the principles underlying
+the production and application of carburetted acetylene.
+
+It has already been explained that acetylene is comparatively a less
+efficient heating agent than it is an illuminating material, because, per
+unit of volume, its calorific power is not so much greater than that of
+coal-gas as is its illuminating capacity. It has also been shown that the
+high upper explosive limit of mixtures of acetylene and air--a limit so
+much higher than the corresponding figure with coal-gas and other gaseous
+fuels--renders its employment in atmospheric burners (either for lighting
+or for heating) somewhat troublesome, or dependent upon considerable
+skill in the design of the apparatus. If, therefore, either the upper
+explosive limit of acetylene could be reduced, or its calorific value
+increased (or both), by mixing with it some other gas or vapour which
+should not seriously affect its price and convenience as a self-luminous
+illuminant, acetylene would compare more favourably with coal-gas in its
+ready applicability to the most various purposes. Such a method has been
+suggested by Heil, and has been found successful on the Continent. It
+consists in adding to the acetylene a certain proportion of the vapour of
+a volatile hydrocarbon, so as to prepare what is called "carburetted
+acetylene." In all respects the method of making carburetted acetylene is
+identical with that of making "air-gas," which was outlined in Chapter
+I., viz., the acetylene coming from an ordinary generating plant is led
+over or through a mass of petroleum spirit, or other similar product, in
+a vessel which exposes the proper amount of superficial area to the
+passing gas. In all respects save one the character of the product is
+similar to that of air-gas, _i.e._, it is a mixture of a permanent
+gas with a vapour; the vapour may possibly condense in part within the
+mains if they are exposed to a falling temperature, and if the product is
+to be led any considerable distance, deposition of liquid may occur
+(conceivably followed by blockage of the mains) unless the proportion of
+vapour added to the gas is kept below a point governed by local climatic
+and similar conditions. But in one most important respect carburetted
+acetylene is totally different from air-gas: partial precipitation of
+spirit from air-gas removes more or less of the solitary useful
+constituent of the material, reducing its practical value, and causing
+the residue to approach or overpass its lower explosive limit (_cf._
+Chapter I.); partial removal of spirit from carburetted acetylene only
+means a partial reconversion of the material into ordinary acetylene,
+increasing its natural illuminating power, lowering its calorific
+intensity somewhat, and causing the residue to have almost its primary
+high upper explosive limit, but essentially leaving its lower explosive
+limit unchanged. Thus while air-gas may conceivably become inefficient
+for every purpose if supplied from any distance in very cold weather, and
+may even pass into a dangerous explosive within the mains; carburetted
+acetylene can never become explosive, can only lose part of its special
+heating value, and will actually increase in illuminating power.
+
+It is manifest that, like air-gas, carburetted acetylene is of somewhat
+indefinite composition, for the proportion of vapour, and the chemical
+nature of that vapour, may vary. 100 litres of acetylene will take up 40
+grammes of petroleum spirit to yield 110 litres of carburetted acetylene
+evidently containing 9 per cent. of vapour, or 100 litres of acetylene
+may be made to absorb as much as 250 grammes of spirit yielding 200
+litres of carburetted acetylene containing 50 per cent. of vapour; while
+the petroleum spirit may be replaced, if prices are suitable, by benzol
+or denatured alcohol.
+
+The illuminating power of acetylene carburetted with petroleum spirit has
+been examined by Caro, whose average figures, worked out in British
+units, are:
+
+            ILLUMINATING POWER OF CARBURETTED ACETYLENE.
+                         HALF-FOOT BURNERS.
+
+   _Self-luminous._                |          _Incandescent_
+1 litre      =  1.00 candle.       |   1 litre      =  3.04 candles.
+1 cubic foot = 28.4 candles.       |   1 cubic foot = 86.2 candles.
+1 candle     =  1.00 litre.        |   1 candle     =  0.33 litre.
+1 candle     =  0.035 cubic foot.  |   1 candle     =  0.012 cubic foot.
+
+Those results may be compared with those referring to air-gas, which
+emits in incandescent burners from 3.0 to 12.4 candles per cubic foot
+according to the amount of spirit added to the air and the temperature to
+which the gas is exposed.
+
+The calorific values of carburetted acetylene (Caro), and those of other
+gaseous fuels are:
+
+                                                    Large Calories per
+                                    _                  Cubic Foot.
+                                   | (Lewes)  .  320
+                                   | (Gand)   .  403
+    Ordinary acetylene     .    .  | (Heil)   .  365
+                                   |             ___
+                                   |_Mean          .    .    363
+
+                                   | Maximum  .  680
+    Carburetted acetylene  .    .  | Minimum  .  467
+     (petroleum spirit)            |             ___
+                                   |_Mean          .    .    573
+
+    Carburetted acetylene (50 per cent. benzol by volume)    685
+    Carburetted acetylene (50 per cent. alcohol by volume)   364
+    Coal-gas (common, unenriched)   .    .    .    .    .    150
+                                    _
+                                   | Maximum  .  178
+    Air-gas, self-luminous flame   | Minimum  .   57
+                                   |             ___
+                                   |_Mean     .    .    .    114
+                                    _
+                                   | Maximum  .   26
+    Air-gas, non-luminous flame    | Minimum  .   18
+                                   |             ___
+                                   |_Mean     .    .    .     22
+
+    Water-gas (Strache) from coke    .   .    .    .    .     71
+    Mond gas (from bituminous coal)  .   .    .    .    .     38
+    Semi-water-gas from coke or anthracite    .    .    .     36
+    Generator (producer) gas    .    .   .    .    .    .     29
+
+
+Besides its relatively low upper explosive limit, carburetted acetylene
+exhibits a higher temperature of ignition than ordinary acetylene, which
+makes it appreciably safer in presence of a naked light. It also
+possesses a somewhat lower flame temperature and a slower speed of
+propagation of the explosive wave when mixed with air. These data are:
+
+ ______________________________________________________________________
+|                        |             |                  |            |
+|                        | Explosive   |   Temperature.   |            |
+|                        |  Limits.    |    Degrees C.    | Explosive  |
+|                        |19 mm. Tube. |                  | Explosive  |
+|                        |_____________|__________________|   Wave.    |
+|                        |      |      |        |         | Metres per |
+|                        |      |      |Of Igni-|         |  Second.   |
+|                        |Lower.|Upper.| tion.  |Of Flame.|            |
+|________________________|______|______|________|_________|____________|
+|                        |      |      |        |         |            |
+| Acetylene (theoretical)| ---  |  --- |  ---   |1850-2420|     ---    |
+|   "      (observed)    | 3.35 | 52.3 |  480   |1630-2020|  0.18-100  |
+| Carburetted \     from | 2.5  | 10.2 |  582   |   1620  |     3.2    |
+|  acetylene  /  .  . to | 5.4  | 30.0 |  720   |   1730  |     5.3    |
+| Carburetted acetylene\ | 3.4  | 22.0 |  ---   |   1820  |     1.3    |
+|  (benzol)   .  .  .  / |      |      |        |         |            |
+| Carburetted acetylene\ | 3.1  | 12.0 |  ---   |   1610  |     1.1    |
+|  (alcohol)  .  .  .  / |      |      |        |         |            |
+| Air-gas, self-luminous\|15.0  | 50.0 |  ---   |1510-1520|     ---    |
+|  flame   .  .  .  .   /|      |      |        |         |            |
+| Coal-gas    .  .  .    | 7.9  | 19.1 |  600   |   ---   |     ---    |
+|________________________|______|______|________|_________|____________|
+
+In making carburetted acetylene, the pressure given by the ordinary
+acetylene generator will be sufficient to drive the gas through the
+carburettor, and therefore there will be no expense involved beyond the
+cost of the spirit vaporised. Thus comparisons may fairly be made between
+ordinary and carburetted acetylene on the basis of material only, the
+expense of generating the original acetylene being also ignored. In Great
+Britain the prices of calcium carbide, petroleum spirit, and 90s benzol
+delivered in bulk in country places may be taken at 15L per ton, and
+1s. per gallon respectively, petroleum spirit having a specific
+gravity of 0.700 and benzol of 0.88. On this basis, a unit volume (100
+cubic metres) of plain acetylene costs 1135d., of "petrolised"
+acetylene containing 66 per cent. of acetylene costs 1277d., and
+of "benzolised" acetylene costs 1180d. In other words, 100 volumes
+of plain acetylene, 90 volumes of petrolised acetylene, and 96 volumes of
+benzolised acetylene are of equal pecuniary value. Employing the data
+given in previous tables, it appears that 38.5 candles can be won from
+plain acetylene in a self-luminous burner, and 103 candles therefrom in
+an incandescent burner at the same price as 25.5-29.1 and 78-87 candles
+can be obtained from carburetted acetylene; whence it follows that at
+English prices petrolised acetylene is more expensive as an illuminant in
+either system of combustion than the simple gas, while benzolised
+acetylene, burnt under the mantle only, is more nearly equal to the
+simple gas from a pecuniary aspect. But considering the calorific value,
+it appears that for a given sum of money only 363 calories can be
+obtained from plain acetylene, while petrolised acetylene yields 516, and
+benzolised acetylene 658; so that for all heating or cooking purposes
+(and also for driving small motors) carburetted acetylene exhibits a
+notable economy. Inasmuch as the partial saturation of acetylene with any
+combustible vapour is an operation of extreme simplicity, requiring no
+power or supervision beyond the occasional recharging of the carburettor,
+it is manifest that the original main coming from the generator supplying
+any large establishment where much warming, cooking (or motor driving)
+might conveniently be done with the gas could be divided within the
+plant-house, one branch supplying all, or nearly all, the lighting
+burners with plain acetylene, and the other branch communicating with a
+carburettor, so that all, or nearly all, the warming and cooking stoves
+(and the motor) should be supplied with the more economical carburetted
+acetylene. Since any water pump or similar apparatus would be in an
+outhouse or basement, and the most important heating stove (the cooker)
+be in the kitchen, such an arrangement would be neither complicated nor
+involve a costly duplication of pipes.
+
+It follows from the fact that even a trifling proportion of vapour
+reduces the upper limit of explosibility of mixtures of acetylene with
+air, that the gas may be so lightly carburetted as not appreciably to
+suffer in illuminating power when consumed in self-luminous jets, and yet
+to burn satisfactorily in incandescent burners, even if it has been
+generated in an apparatus which introduces some air every time the
+operation of recharging is performed. To carry out this idea, Caro has
+suggested that 5 kilos. of petroleum spirit should be added to the
+generator water for every 50 cubic metres of gas evolved, _i.e._, 1
+lb. per 160 cubic feet, or, say, 1 gallon per 1000 cubic feet, or per 200
+lb. of carbide decomposed. Caro proposed this addition in the case of
+central installations supplying a district where the majority of the
+consumers burnt the gas in self-luminous jets, but where a few preferred
+the incandescent system; but it is clearly equally suitable for
+employment in all private plants of sufficient magnitude.
+
+A lowering of the upper limit of explosibility is also produced by the
+presence of the acetone which remains in acetylene when obtained from a
+cylinder holding the compressed gas (_cf._ Chapter XI.). According
+to Wolff and Caro such gas usually carries with it from 30 to 60 grammes
+of acetone vapour per cubic metre, _i.e._, 1.27 grammes per cubic
+foot on an average; and this amount reduces the upper limit of
+explosibility by about 16 per cent., so that to this extent the gas
+behaves more smoothly in an incandescent burner of imperfect design.
+
+Lepinay has described some experiments on the comparative technical value
+of ordinary acetylene, carburetted acetylene, denatured alcohol and
+petroleum spirit as fuels for small explosion engines. One particular
+motor of 3 (French) h.p. consumed 1150 grammes of petroleum spirit per
+hour at full load; but when it was supplied with carburetted acetylene
+its consumption fell to 150 litres of acetylene and 700 grammes of spirit
+(specific gravity 0.680). A 1-1/4 h.p. engine running light required 48
+grammes of 90 per cent. alcohol per horse-power-hour and 66 litres of
+acetylene; at full load it took 220 grammes of alcohol and 110 litres of
+acetylene. A 6 h.p. engine at full load required 62 litres of acetylene
+carburetted with 197 grammes of petroleum spirit per horse-power-hour
+(uncorrected); while a similar motor fed with low-grade Taylor fuel-gas
+took 1260 litres per horse-power-hour, but on an average developed the
+same amount of power from 73 litres when 10 per cent. of acetylene was
+added to the gas. Lepinay found that with pure acetylene ignition of the
+charge was apt to be premature; and that while the consumption of
+carburetted acetylene in small motors still materially exceeded the
+theoretical, further economics could be attained, which, coupled with the
+smooth and regular running of an engine fed with the carburetted gas,
+made carburetted acetylene distinctly the better power-gas of the two.
+
+
+
+CHAPTER XI
+
+COMPRESSED AND DISSOLVED ACETYLENE--MIXTURES WITH OTHER GASES
+
+In all that was said in Chapters II., III., IV., and V. respecting the
+generation and employment of acetylene, it was assumed that the gas would
+be produced by the interaction of calcium carbide and water, either by
+the consumer himself, or in some central station delivering the acetylene
+throughout a neighbourhood in mains. But there are other methods of using
+the gas, which have now to be considered.
+
+COMPRESSED ACETYLENE.--In the first place, like all other gases,
+acetylene is capable of compression, or even of conversion into the
+liquid state; for as a gas, the volume occupied by any given weight of it
+is not fixed, but varies inversely with the pressure under which it is
+stored. A steel cylinder, for instance, which is of such size as to hold
+a cubic foot of water, also holds a cubic foot of acetylene at
+atmospheric pressure, but holds 2 cubic feet if the gas is pumped into it
+to a pressure of 2 atmospheres, or 30 lb. per square inch; while by
+increasing the pressure to 21.53 atmospheres at 0 deg. C. (Ansdell, Willson
+and Suckert) the gas is liquefied, and the vessel may then contain 1
+cubic foot of liquid acetylene, which is equal to some 400 cubic feet of
+gaseous acetylene at normal pressure. It is clear that for many purposes
+acetylene so compressed or liquefied would be convenient, for if the
+cylinders could be procured ready charged, all troubles incidental to
+generation would be avoided. The method, however, is not practically
+permissible; because, as pointed out in Chapters II. and VI., acetylene
+does not safely bear compression to a point exceeding 2 atmospheres; and
+the liability to spontaneous dissociation or explosion in presence of
+spark or severe blow, which is characteristic of compressed gaseous
+acetylene, is greatly enhanced if compression has been pushed to the
+point of liquefaction.
+
+However, two methods of retaining the portability and convenience of
+compressed acetylene with complete safety have been discovered. In one,
+due to the researches of Claude and Hess, the gas is pumped under
+pressure into acetone, a combustible organic liquid of high solvent power,
+which boils at 56 deg. C. As the solvent capacity of most liquids for
+most gases rises with the pressure, a bottle partly filled with acetone
+may be charged with acetylene at considerable effective pressure until
+the vessel contains much more than its normal quantity of gas; and when
+the valve is opened the surplus escapes, ready for employment, leaving
+the acetone practically unaltered in composition or quantity, and fit to
+receive a fresh charge of gas. In comparison with liquefied acetylene,
+its solution in acetone under pressure is much safer; but since the
+acetone expands during absorption of gas, the bottle cannot be entirely
+filled with liquid, and therefore either at first, or during consumption
+(or both), above the level of the relatively safe solution, the cylinder
+contains a certain quantity of gaseous acetylene, which is compressed
+above its limit of safety. The other method consists in pumping acetylene
+under pressure into a cylinder apparently quite full of some highly
+porous solid matter, like charcoal, kieselguhr, unglazed brick, &c.; This
+has the practical result that the gas is held under a high state of
+compression, or possibly as a liquid, in the minute crevices of the
+material, which are almost of insensible magnitude; or it may be regarded
+as stored in vessels whose diameter is less than that in which an
+explosive wave can be propagated (_cf._ Chapter VI.).
+
+DISSOLVED ACETYLENE.--According to Fouche, the simple solution of
+acetylene in acetone has the same coefficient of expansion by heat as
+that of pure acetone, viz., 0.0015; the corresponding coefficient of
+liquefied acetylene is 0.007 (Fouche), or 0.00489 (Ansdell) _i.e._,
+three or five times as much. The specific gravity of liquid acetylene is
+0.420 at 16.4 deg. C. (Ansdell), or 0.528 at 20.6 deg. C. (Willson and
+Suckert); while the density of acetylene dissolved in acetone is 0.71 at 15
+deg. C. (Claude). The tension of liquefied acetylene is 21.53 atmospheres at
+0 deg. C., and 39.76 atmospheres at 20.15 deg. C. (Ansdell); 21.53 at 0 deg.
+C., and 39.76 at 19.5 deg. C. (Willson and Suckert); or 26.5 at 0 deg. C.,
+and 42.8 at 20.0 deg. C. (Villard). Averaging those results, it may be said
+that the tension rises from 23.2 atmospheres at 0 deg. C. to 40.77 at 20 deg.
+C., which is an increment of 1/26 or 0.88 atmosphere, per 1 deg. Centigrade;
+while, of course, liquefied acetylene cannot be kept at all at a temperature
+of 0 deg. unless the pressure is 21 atmospheres or upwards. The solution of
+acetylene in acetone can be stored at any pressure above or below that of
+the atmosphere, and the extent to which the pressure will rise as the
+temperature increases depends on the original pressure. Berthelot and
+Vieille have shown that when (_a_) 301 grammes of acetone are
+charged with 69 grammes of acetylene, a pressure of 6.74 atmospheres at
+14.0 deg. C. rises to 10.55 atmospheres at 35.7 deg. C.; (_b_) 315 grammes
+of acetone are charged with 118 grammes of acetylene, a pressure of 12.25
+atmospheres at 14.0 deg. C. rises to 19.46 at 36.0 deg. C.; (_c_) 315
+grammes of acetone are charged with 203 grammes of acetylene, a pressure
+of 19.98 atmospheres at 13.0 deg. C. rises to 30.49 at 36.0 deg. C.
+Therefore in (_a_) the increase in pressure is 0.18 atmosphere, in (_b_)
+O.33 atmosphere, and in (_c_) 0.46 atmosphere per 1 deg. Centigrade
+within the temperature limits quoted. Taking case (_b_) as the
+normal, it follows that the increment in pressure per 1 deg. C. is 1/37
+(usually quoted as 1/30); so that, measured as a proportion of the
+existing pressure, the pressure in a closed vessel containing a solution
+of acetylene in acetone increases nearly as much (though distinctly less)
+for a given rise in temperature as does the pressure in a similar vessel
+filled with liquefied acetylene, but the absolute increase is roughly
+only one-third with the solution as with the liquid, because the initial
+pressure under which the solution is stored is only one-half, or less,
+that at which the liquefied gas must exist.
+
+Supposing, now, that acetylene contained in a closed vessel, either as
+compressed gas, as a solution in acetone, or as a liquid, were brought to
+explosion by spark or shock, the effects capable of production have to be
+considered. Berthelot and Vieille have shown that if gaseous acetylene is
+stored at a pressure of 11.23 kilogrammes per square centimetre,
+[Footnote: 1 kilo. per sq. cm. is almost identical with 1 atmosphere, or
+15 lb. per sq. inch.] the pressure after explosion reaches 92.33
+atmospheres on an average, which is an increase of 8.37 times the
+original figure; if the gas is stored at 21.13 atmospheres, the mean
+pressure after explosion is 213.15 atmospheres, or 10.13 times the
+original amount. If liquid acetylene is tested similarly, the original
+pressure, which must clearly be more than 21.53 atmospheres (Ansdell) at
+0 deg. C., may rise to 5564 kilos, per square centimetre, as Berthelot and
+Vieille observed when a steel bomb having a capacity of 49 c.c. was
+charged with 18 grammes of liquefied acetylene. In the case of the
+solution in acetone, the magnitudes of the pressures set up are of two
+entirely different orders according as the original pressure 20
+atmospheres or somewhat less; but apart from this, they vary considerably
+with the extent to which the vessel is filled with the liquid, and they
+also depend on whether the explosion is produced in the solution or in
+the gas space above. Taking the lower original pressure first, viz., 10
+atmospheres, when a vessel was filled with solution to 33 per cent. of
+its capacity, the pressure after explosion reached about 95 atmospheres
+if the spark was applied to the gas space; but attained 117.4 atmospheres
+when the spark was applied to the acetone. When the vessel was filled 56
+per cent. full, the pressures after explosion reached about 89, or 155
+atmospheres, according as the gas or the liquid was treated with the
+spark. But when the original pressure was 20 atmospheres, and the vessel
+was filled to 35 per cent. of its actual capacity with solution, the
+final pressures ranged from 303 to 568 atmospheres when the gas was
+fired, and from 2000 to 5100 when the spark was applied to the acetone.
+Examining these figures carefully, it will be seen that the phenomena
+accompanying the explosion of a solution of acetylene in acetone resemble
+those of the explosion of compressed gaseous acetylene when the original
+pressure under which the solution is stored is about 10 atmospheres; but
+resemble those of the explosion of liquefied acetylene when the original
+pressure of the solution reaches 20 atmospheres, this being due to the
+fact that at an original pressure of 10 atmospheres the acetone itself
+does not explode, but, being exothermic, rather tends to decrease the
+severity of the explosion; whereas at an original pressure of 20
+atmospheres the acetone does explode (or burn), and adds its heat of
+combustion to the heat evolved by the acetylene. Thus at 10 atmospheres
+the presence of the acetone is a source of safety; but at 20 atmospheres
+it becomes an extra danger.
+
+Since sound steel cylinders may easily be constructed to boar a pressure
+of 250 atmospheres, but would be burst by a pressure considerably less
+than 5000 atmospheres, it appears that liquefied acetylene and its
+solution in acetone at a pressure of 20 atmospheres are quite unsafe; and
+it might also seem that both the solution at a pressure of 10 atmospheres
+and the simple gas compressed to the same limit should be safe. But there
+is an important difference here, in degree if not in kind, because, given
+a cylinder of known capacity containing (1) gaseous acetylene compressed
+to 10 atmospheres, or (2) containing the solution at the same pressure,
+if an explosion were to occur, in case (1) the whole contents would
+participate in the decomposition, whereas in case (2), as mentioned
+already, only the small quantity of gaseous acetylene above the solution
+would be dissociated.
+
+It is manifest that of the three varieties of compressed acetylene now
+under consideration, the solution in acetone is the only one fit for
+general employment; but it exhibits the grave defects (_a_) that the
+pressure under which it is prepared must be so small that the pressure in
+the cylinders can never approach 20 atmospheres in the hottest weather or
+in the hottest situation to which they may be exposed, (_b_) that
+the gas does not escape smoothly enough to be convenient from large
+vessels unless those vessels are agitated, and (_c_) that the
+cylinders must always be used in a certain position with the valve at the
+top, lest part of the liquid should run out into the pipes. For these
+reasons the simple solution of acetylene in acetone has not become of
+industrial importance; but the processes of absorbing either the gas, or
+better still its solution in acetone, in porous matter have already
+achieved considerable success. Both methods have proved perfectly safe
+and trustworthy; but the combination of the acetone process with the
+porous matter makes the cylinders smaller per unit volume of acetylene
+they contain. Several varieties of solid matter appear to work
+satisfactorily, the only essential feature in their composition being
+that they shall possess a proper amount of porosity and be perfectly free
+from action upon the acetylene or the acetone (if present). Lime does
+attack acetone in time, and therefore it is not a suitable ingredient of
+the solid substance whenever acetylene is to be compressed in conjunction
+with the solvent; so that at present either a light brick earth which has
+a specific gravity of 0.5 is employed, or a mixture of charcoal with
+certain inorganic salts which has a density of 0.3, and can be introduced
+through a small aperture into the cylinder in a semi-fluid condition.
+Both materials possess a porosity of 80 per cent., that is to say, when a
+cylinder is apparently filled quite full, only 20 per cent, of the space
+is really occupied by the solid body, the remaining 80 per cent, being
+available for holding the liquid or the compressed gas. If all
+comparisons as to degree of explosibility and effects of explosion are
+omitted, an analogy may be drawn between liquefied acetylene or its
+compressed solution in acetone and nitroglycerin, while the gas or
+solution of the gas absorbed in porous matter resembles dynamite.
+Nitroglycerin is almost too treacherous a material to handle, but as an
+explosive (which in reason absorbed or dissolved acetylene is not)
+dynamite is safe, and even requires special arrangements to explode it.
+
+In Paris, where the acetone process first found employment on a large
+scale, the company supplying portable cylinders to consumers uses large
+storage vessels filled, as above mentioned, apparently full of porous
+solid matter, and also charged to about 43 per cent, of their capacity
+with acetone, thus leaving about 37 per cent. of the apace for the
+expansion which occurs as the liquid takes up the gas. Acetylene is
+generated, purified, and thoroughly dried according to the usual methods;
+and it is then run through a double-action pump which compresses it first
+to a pressure of 3.5 kilos., next to a pressure of 3.5 x 3.5 = 12 kilos,
+per square centimetre, and finally drives it into the storage vessels.
+Compression is effected in two stages, because the process is accompanied
+by an evolution of much heat, which might cause the gas to explode during
+the operation; but since the pump is fitted with two cylinders, the
+acetylene can be cooled after the first compression. The storage vessels
+then contain 100 times their apparent volume of acetylene; for as the
+solubility of acetylene in acetone at ordinary temperature and pressure
+is about 25 volumes of gas in 1 of liquid, a vessel holding 100 volumes
+when empty takes up 25 x 43 = 1000 volumes of acetylene roughly at
+atmospheric pressure; which, as the pressure is approximately 10
+atmospheres, becomes 1000 x 10 = 10,000 volumes per 100 normal capacity,
+or 100 times the capacity of the vessel in terms of water. From these
+large vessels, portable cylinders of various useful dimensions, similarly
+loaded with porous matter and acetone, are charged simply by placing them
+in mutual contact, thus allowing the pressure and the surplus gas to
+enter the small one; a process which has the advantage of renewing the
+small quantity of acetone vaporised from the consumers' cylinders as the
+acetylene is burnt (for acetone is somewhat volatile, cf. Chapter X.), so
+that only the storage vessels ever need to have fresh solvent introduced.
+
+Where it is procurable, the use of acetylene compressed in this fashion
+is simplicity itself; for the cylinders have only to be connected with
+the house service-pipes through a reducing valve of ordinary
+construction, set to give the pressure which the burners require. When
+exhausted, the bottle is simply replaced by another. Manifestly, however,
+the cost of compression, the interest on the value of the cylinders, and
+the carriage, &c.;, make the compressed gas more expensive per unit of
+volume (or light) than acetylene locally generated from carbide and
+water; and indeed the value of the process does not lie so much in the
+direction of domestic illumination as in that of the lighting, and
+possibly driving, of vehicles and motor-cars--more especially in the
+illumination of such vehicles as travel constantly, or for business
+purposes, over rough road surfaces and perform mostly out-and-home
+journeys. Nevertheless, absorbed acetylene may claim close attention for
+one department of household illumination, viz., the portable table-lamp;
+for the base of such an apparatus might easily be constructed to imitate
+the acetone cylinder, and it could be charged by simple connexion with a
+larger one at intervals. In this way the size of the lamp for a given
+number of candle-hours would be reduced below that of any type of actual
+generator, and the troubles of after-generation, always more or less
+experienced in holderless generators, would be entirely done away with.
+Dissolved acetylene is also very useful for acetylene welding or
+autogenous soldering.
+
+The advantages of compressed and absorbed acetylene depend on the small
+bulk and weight of the apparatus per unit of light, on the fact that no
+amount of agitation can affect the evolution of gas (as may happen with
+an ordinary acetylene generator), on the absence of any liquid which may
+freeze in winter, and on there being no need for skilled attention except
+when the cylinders are being changed. These vessels weigh between 2.5 and
+3 kilos, per 1 litre capacity (normal) and since they are charged with
+100 times their apparent volume of acetylene, they may be said to weigh 1
+kilo, per 33 litres of available acetylene, or roughly 2 lb. per cubic
+foot, or, again, if half-foot burners are used, 2 lb. per 36 candle-
+hours. According to Fouche, if electricity obtained from lead
+accumulators is compared with acetylene on the basis of the weight of
+apparatus needed to evolve a certain quantify of light, 1 kilo, of
+acetylene cylinder is equal to 1.33 kilos, of lead accumulator with arc
+lamps, or to 4 kilos. of accumulator with glow lamps; and moreover the
+acetylene cylinder can be charged and discharged, broadly speaking, as
+quickly or as slowly as may be desired; while, it may be added, the same
+cylinder will serve one or more self-luminous jets, one or more
+incandescent burners, any number and variety of heating apparatus,
+simultaneously or consecutively, at any pressure which may be required.
+From the aspect of space occupied, dissolved acetylene is not so
+concentrated a source of artificial light as calcium carbide; for 1
+volume of granulated carbide is capable of omitting as much light as 4
+volumes of compressed gas; although, in practice, to the 1 volume of
+carbide must be added that of the apparatus in which it is decomposed.
+
+LIQUEFIED ACETYLENE.--In most civilised countries the importation,
+manufacture, storage, and use of liquefied acetylene, or of the gas
+compressed to more than a fraction of one effective atmosphere, is quite
+properly prohibited by law. In Great Britain this has been done by an
+Order in Council dated November 26, 1897, which specifies 100 inches of
+water column as the maximum to which compression may be pushed. Power
+being retained, however, to exempt from the order any method of
+compressing acetylene that might be proved safe, the Home Secretary
+issued a subsequent Order on March 28, 1898, permitting oil-gas
+containing not more than 20 per cent, by volume of acetylene (see below)
+to be compressed to a degree not exceeding 150 lb. per square inch,
+_i.e._, to about 10 atmospheres, provided the gases are mixed
+together before compression; while a third Order, dated April 10, 1901,
+allows the compression of acetylene into cylinders filled as completely
+as possible with porous matter, with or without the presence of acetone,
+to a pressure not exceeding 150 lb. per square inch provided the
+cylinders themselves have been tested by hydraulic pressure for at least
+ten minutes to a pressure not less than double [Footnote: In France the
+cylinders are tested to six times and in Russia to five times their
+working pressure.] that which it is intended to use, provided the solid
+substance is similar in every respect to the samples deposited at the
+Home Office, provided its porosity does not exceed 80 per cent., provided
+air is excluded from every part of the apparatus before the gas is
+compressed, provided the quantity of acetone used (if used at all) is not
+sufficient to fill the porosity of the solid, provided the temperature is
+not permitted to rise during compression, and provided compression only
+takes place in premises approved by H.M.'s Inspectors of Explosives.
+
+DILUTED ACETYLENE.--Acetylene is naturally capable of admixture or
+dilution with any other gas or vapour; and the operation may be regarded
+in either of two ways; (1) as a, means of improving the burning qualities
+of the acetylene itself, or (2) as a means of conferring upon some other
+gas increased luminosity. In the early days of the acetylene industry,
+generation was performed in so haphazard a fashion, purification so
+generally omitted, and the burners were so inefficient, that it was
+proposed to add to the gas a comparatively small proportion of some other
+gaseous fluid which should be capable of making it burn without
+deposition of carbon while not seriously impairing its latent
+illuminating power. One of the first diluents suggested was carbon
+dioxide (carbonic acid gas), because this gas is very easy and cheap to
+prepare; and because it was stated that acetylene would bear an addition
+of 5 or even 8 per cent, of carbon dioxide and yet develop its full
+degree of luminosity. This last assertion requires substantiation; for it
+is at least a grave theoretical error to add a non-inflammable gas to a
+combustible one, as is seen in the lower efficiency of all flames when
+burning in common air in comparison with that which they exhibit in
+oxygen; while from the practical aspect, so harmful is carbon dioxide in
+an illuminating gas, that coal-gas and carburetted water-gas are
+frequently most rigorously freed from it, because a certain gain in
+illuminating power may often thus be achieved more cheaply than by direct
+enrichment of the gas by addition of hydrocarbons. Being prepared from
+chalk and any cheap mineral acid, hydrochloric by preference, in the
+cold, carbon dioxide is so cheap that its price in comparison with that
+of acetylene is almost _nil_; and therefore, on the above
+assumption, 105 volumes of diluted acetylene might be made essentially
+for the same price as 100 volumes of neat acetylene, and according to
+supposition emit 5 per cent. more light per unit of volume.
+
+It is reported that several railway trains in Austria are regularly
+lighted with acetylene containing 0.4 to 1.0 per cent. of carbon dioxide
+in order to prevent deposition of carbon at the burners. The gas is
+prepared according to a patent process which consists in adding a certain
+proportion of a "carbonate" to the generator water. In the United
+Kingdom, also, there are several installations supplying an acetylene
+diluted with carbon dioxide, the gas being produced by putting into that
+portion of a water-to-carbide generator which lies nearest to the water-
+supply some solid carbonate like chalk, and using a dilute acid to attack
+the material. Other inventors have proposed placing a solid acid, like
+oxalic, in the former part of a generator and decomposing it with a
+carbonate solution; or they have suggested putting into the generator a
+mixture of a solid acid and a solid soluble carbonate, and decomposing it
+with plain water.
+
+Clearly, unless the apparatus in which such mixtures as these are
+intended to be prepared is designed with considerable care, the amount of
+carbon dioxide in the gas will be liable to vary, and may fall to zero.
+If any quantity of carbide present has been decomposed in the ordinary
+way, there will be free calcium hydroxide in the generator; and if the
+carbon dioxide comes into contact with this, it will be absorbed, unless
+sufficient acid is employed to convert the calcium carbonate (or
+hydroxide) into the corresponding normal salt of calcium. Similarly,
+during purification, a material containing any free lime would tend to
+remove the carbon dioxide, as would any substance which became alkaline
+by retaining the ammonia of the crude gas.
+
+It cannot altogether be granted that the value of a process for diluting
+acetylene with carbon dioxide has been established, except in so far as
+the mere presence of the diluent may somewhat diminish the tendency of
+the acetylene to polymerise as it passes through a hot burner (_cf._
+Chapter VIII.). Certainly as a fuel-gas the mixture would be less
+efficient, and the extra amount of carbon dioxide produced by each flame
+is not wholly to be ignored. Moreover, since properly generated and
+purified acetylene can be consumed in proper burners without trouble, all
+reason for introducing carbon dioxide has disappeared.
+
+MIXTURES OF ACETYLENE AND AIR.--A further proposal for diluting acetylene
+was the addition to it of air. Apart from questions of explosibility,
+this method has the advantage over that of adding carbon dioxide that the
+air, though not inflammable, is, in virtue of its contained oxygen, a
+supporter of combustion, and is required in a flame; whereas carbon
+dioxide is not only not a supporter of combustion, but is actually a
+product thereof, and correspondingly more objectionable. According to
+some experiments carried out by Dufour, neat acetylene burnt under
+certain conditions evolved between 1.0 and 1.8 candle-power per litre-
+hour; a mixture of 1 volume of acetylene with 1 volume of air evolved 1.4
+candle-power; a mixture of 1 volume of acetylene with 1.2 volumes of air,
+2.25 candle-power; and a mixture of 1 volume of acetylene with 1.3
+volumes of air, 2.70 candle-power per litre-hour of acetylene in the
+several mixtures. Averaging the figures, and calculating into terms of
+acetylene (only) burnt, Dufour found neat acetylene to develop 1.29
+candle-power per litre-hour, and acetylene diluted with air to develop
+1.51 candle-power. When, however, allowance is made for the cost and
+trouble of preparing such mixtures the advantage of the process
+disappears; and moreover it is accompanied by too grave risks, unless
+conducted on a largo scale and under most highly skilled supervision, to
+be fit for general employment.
+
+Fouche, however, has since found the duty, per cubic foot of neat
+acetylene consumed in a twin injector burner at the most advantageous
+rate of 3.2 inches, to be as follows for mixtures with air in the
+proportions stated:
+
+Percentage of air          0       17       27       33.5
+Candles per cubic feet    38.4     36.0     32.8     26.0
+
+At lower pressures, the duty of the acetylene when diluted appears to be
+relatively somewhat higher. Figures which have been published in regard
+to a mixture of 30 volumes of air and 70 volumes of acetylene obtained by
+a particular system of producing such a mixture, known as the "Molet-
+Boistelle," indicate that the admixture of air causes a slight increase
+in the illuminating duty obtained from the acetylene in burners of
+various sizes. The type of burner and the pressure employed in these
+experiments were not, however, stated. This system has been used at
+certain stations on the "Midi" railway in France. Nevertheless even where
+the admixture of air to acetylene is legally permissible, the risk of
+obtaining a really dangerous product and the nebulous character of the
+advantages attainable should preclude its adoption.
+
+In Great Britain the manufacture, importation, storage, and use of
+acetylene mixed with air or oxygen, in all proportions and at all
+pressures, with or without the presence of other substances, is
+prohibited by an Order in Council dated July 1900; to which prohibition
+the mixture of acetylene and air that takes place in a burner or
+contrivance in which the mixture is intended to be burnt, and the
+admixture of air with acetylene that may unavoidably occur in the first
+use or recharging of an apparatus (usually a water-to-carbide generator),
+properly designed and constructed with a view to the production of pure
+acetylene, are the solitary exceptions.
+
+MIXED CARBIDES.--In fact the only processes for diluting acetylene which
+possess real utility are that of adding vaporised petroleum spirit or
+benzene to the gas, as was described in Chapter X. under the name of
+carburetted acetylene, and one other possible method of obtaining a
+diluted acetylene directly from the gas-generator, to which a few words
+will now be devoted. [Footnote: Mixtures of acetylene with relatively
+large proportions of other illuminating gases, such as are referred to on
+subsequent pages, are also, from one aspect, forms of diluted acetylene.]
+Calcium carbide is only one particular specimen of a large number of
+similar metallic compounds, which can be prepared in the electric
+furnace, or otherwise. Some of those carbides yield acetylene when
+treated with water, some are not attacked, some give liquid products, and
+some yield methane, or mixtures of methane and hydrogen. Among the latter
+is manganese carbide. If, then, a mixture of manganese carbide and
+calcium carbide is put into an ordinary acetylene generator, the gas
+evolved will be a mixture of acetylene with methane and hydrogen in
+proportions depending upon the composition of the carbide mixture. It is
+clear that a suitable mixture of the carbides might be made by preparing
+them separately and bulking the whole in the desired proportions; while
+since manganese carbide can be won in the electric furnace, it might be
+feasible to charge into such a furnace a mixture of lime, coke, and
+manganese oxide calculated to yield a simple mixture of the carbides or a
+kind of double carbide. Following the lines which have been adopted in
+writing the present book, it is not proposed to discuss the possibility
+of making mixed carbides; but it may be said in brief that Brame and
+Lewes have carried out several experiments in this direction, using
+charges of lime and coke containing (_a_) up to 20 per cent. of
+manganese oxide, and (_b_) more than 60 per cent. of manganese
+oxide. In neither case did they succeed in obtaining a material which
+gave a mixture of acetylene and methane when treated with water; in case
+(_a_) they found the gas to be practically pure acetylene, so that
+the carbide must have been calcium carbide only; in case (_b_) the
+gas was mainly methane and hydrogen, so that the carbide must have been
+essentially that of manganese alone. Mixed charges containing between 20
+and 60 per cent. of manganese oxide remain to be studied; but whether
+they would give mixed carbides or no, it would be perfectly simple to mix
+ready-made carbides of calcium and manganese together, if any demand for
+a diluted acetylene should arise on a sufficiently large scale. It is,
+however, somewhat difficult to appreciate the benefits to be obtained
+from forms of diluted acetylene other than those to which reference is
+made later in this chapter.
+
+There is, nevertheless, one modification of calcium carbide which, in a
+small but important sphere, finds a useful _role_. It has been
+pointed out that a carbide containing much calcium phosphide is usually
+objectionable, because the gas evolved from it requires extra
+purification, and because there is the (somewhat unlikely) possibility
+that the acetylene obtained from such material before purification may be
+spontaneously inflammable. If, now, to the usual furnace charge of lime
+and coke a sufficient quantity of calcium phosphate is purposely added,
+it is possible to win a mixture of calcium phosphide and carbide, or, as
+Bradley, Read, and Jacobs call it, a "carbophosphide of calcium," having
+the formula Ca_5C_6P_2, which yields a spontaneously inflammable mixture
+of acetylene, gaseous phosphine, and liquid phosphine when treated with
+water, and which, therefore, automatically gives a flame when brought
+into contact with the liquid. The value of this material will be
+described in Chapter XIII.
+
+GAS-ENRICHING.--Other methods of diluting acetylene consist in adding a
+comparatively small proportion of it to some other gas, and may be
+considered rather as processes for enriching that other gas with
+acetylene. Provided the second gas is well chosen, such mixtures exhibit
+properties which render them peculiarly valuable for special purposes.
+They have, usually, a far lower upper limit of explosibility than that of
+neat acetylene, and they admit of safe compression to an extent greatly
+exceeding that of acetylene itself, while they do not lose illuminating
+power on compression. The second characteristic is most important, and
+depends on the phenomena of "partial pressure," which have been referred
+to in Chapter VI. When a single gas is stored at atmospheric pressure, it
+is insensibly withstanding on all sides and in all directions a pressure
+of roughly 15 lb. per square inch, which is the weight of the atmosphere
+at sea-level; and when a mixture of two gases, X and Y, in equal volumes
+is similarly stored it, regarded as an entity, is also supporting a
+pressure of 15 lb. per square inch. But in every 1 volume of that mixture
+there is only half a volume of X and Y each; and, ignoring the presence
+of its partner, each half-volume is evenly distributed throughout a space
+of 1 volume. But since the volume of a gas stands in inverse ratio to the
+pressure under which it is stored, the half-volume of X in the 1 volume
+of X + Y apparently stands at a pressure of half an atmosphere, for it
+has expanded till it fills, from a chemical and physical aspect, the
+space of 1 volume: suitable tests proving that it exhibits the properties
+which a gas stored at a pressure of half an atmosphere should do.
+Therefore, in the mixture under consideration, X and Y are both said to
+be at a "partial pressure" of half an atmosphere, which is manifestly 7.5
+lb. per square inch. Clearly, when a gas is an entity (either an element
+or one single chemical compound) partial and total pressure are
+identical. Now, it has been shown that acetylene ceases to be a safe gas
+to handle when it is stored at a pressure of 2 atmospheres; but the limit
+of safety really occurs when the gas is stored at a _partial_
+pressure of 2 atmospheres. Neat acetylene, accordingly, cannot be
+compressed above the mark 30 lb. shown on a pressure gauge; but diluted
+acetylene (if the diluent is suitable) may be compressed in safety till
+the partial pressure of the acetylene itself reaches 2 atmospheres. For
+instance, a mixture of equal volumes of X and Y (X being acetylene)
+contains X at a partial pressure of half the total pressure, and may
+therefore be compressed to (2 / 1/2 =) 4 atmospheres before X reaches the
+partial pressure of 2 atmospheres; and therewith the mixture is brought
+just to the limit of safety, any effect of Y one way or the other being
+neglected. Similarly, a mixture of 1 volume of acetylene with 4 volumes
+of Y may be safely compressed to a pressure of (2 / 1/5 =) 10
+atmospheres, or, broadly, a mixture in which the percentage of acetylene
+is _x_ may be safely compressed to a pressure not exceeding (2 /
+_x_/100) atmospheres. This fact permits acetylene after proper
+dilution to be compressed in the same fashion as is allowable in the case
+of the dissolved and absorbed gas described above.
+
+If the latent illuminating power of acetylene is not to be wasted, the
+diluent must not be selected without thought. Acetylene burns with a very
+hot flame, the luminosity of which is seriously decreased if the
+temperature is lowered. As mentioned in Chapter VIII., this may be done
+by allowing too much air to enter the flame; but it may also be effected
+to a certain extent by mixing with the acetylene before combustion some
+combustible gas or vapour which burns at a lower temperature than
+acetylene itself. Manifestly, therefore, the ideal diluent for acetylene
+is a substance which possesses as high a flame temperature as acetylene
+and a certain degree of intrinsic illuminating power, while the lower the
+flame temperature of the diluent and the less its intrinsic illuminating
+power, the less efficiently will the acetylene act as an enriching
+material. According to Love, Hempel, Wedding, and others, if acetylene is
+mixed with coal-gas in amounts up to 8 per cent. or thereabouts, the
+illuminating power of the mixture increases about 1 candle for every 1
+per cent. of acetylene present: a fact which is usually expressed by
+saying that with coal-gas the enrichment value of acetylene is 1 candle
+per 1 per cent. Above 8 per cent., the enrichment value of acetylene
+rises, Love having found an increase in illuminating power, for each 1
+per cent. of acetylene in the mixture, of 1.42 candles with 11.28 per
+cent. of acetylene; and of 1.54 candles with 17.62 per cent. of
+acetylene. Theoretically, if the illuminating power of acetylene is taken
+at 240 candles, its enrichment value should be (240 / 100 =) 2.4 candles
+per 1 per cent.; and since, in the case of coal-gas, its actual
+enrichment value falls seriously below this figure, it is clear that
+coal-gas is not an economical diluent for it. Moreover, coal-gas can be
+enriched by other methods much more cheaply than with acetylene. Simple
+("blue") water-gas, according to Love, requires more than 10 per cent. of
+acetylene to be added to it before a luminous flame is produced; while a
+mixture of 20.3 per cent. of acetylene and 79.7 per cent. of water-gas
+had an illuminating power of 15.47 candles. Every addition to the
+proportion of acetylene when it amounted to 20 per cent. and upwards of
+the mixture had a very appreciable effect on the illuminating power of
+the latter. Thus with 27.84 per cent. of acetylene, the illuminating
+power of the mixture was 40.87 candles; with 38.00 per cent. of acetylene
+it was 73.96 candles. Acetylene would not be an economical agent to
+employ in order to render water-gas an illuminating gas of about the
+quality of coal-gas, but the economy of enrichment of water-gas by
+acetylene increases rapidly with the degree of enrichment demanded of it.
+Carburetted water-gas which, after compression under 16 atmospheres
+pressure, had an illuminating power of about 17.5 candles, was enriched
+by additions of acetylene. 4.5 per cent. of acetylene in the mixture gave
+an illuminating power of 22.69 candles; 8.4 per cent., 29.54 candles;
+11.21 per cent., 35.05 candles; 15.06 per cent., 42.19 candles; and 21.44
+per cent., 52.61 candles. It is therefore evident that the effect of
+additions of acetylene on the illuminating power of carburetted water-gas
+is of the same order as its effect on coal-gas. The enrichment value of
+the acetylene increases with its proportion in the mixture; but only when
+the proportion becomes quite considerable, and, therefore, the gas of
+high illuminating power, does enrichment by acetylene become economical.
+Methane (marsh-gas), owing to its comparatively high flame temperature,
+and to the fact that it has an intrinsic, if small, illuminating power,
+is a better diluent of acetylene than carbon monoxide or hydrogen, in
+that it preserves to a greater extent the illuminative value of the
+acetylene.
+
+Actually comparisons of the effect of additions of various proportions of
+a richly illuminating gas, such as acetylene, on the illuminative value
+of a gas which has little or no inherent illuminating power, are largely
+vitiated by the want of any systematic method for arriving at the
+representative illuminative value of any illuminating gas. A statement
+that the illuminating power of a gas is _x_ candles is, strictly
+speaking, incomplete, unless it is supplemented by the information that
+the gas during testing was burnt (1) in a specified type of burner, and
+(2) either at a specified fixed rate of consumption or so as to afford a
+light of a certain specified intensity. There is no general agreement,
+even in respect of the statutory testing of the illuminating power of
+coal-gas supplies, as to the observance of uniform conditions of burning
+of the gas under test, and in regard to more highly illuminating gases
+there is even greater diversity of conditions. Hence figures such as
+those quoted above for the enrichment value of acetylene inevitably show
+a certain want of harmony which is in reality due to the imperfection or
+incompleteness of the modes of testing employed. Relatively to another,
+one gas appears advantageously merely in virtue of the conditions of
+assessing illuminating power having been more favourable to it. Therefore
+enrichment values, such as those given, must always be regarded as only
+approximately trustworthy in instituting comparisons between either
+different diluent gases or different enriching agents.
+
+ACETYLENE MIXTURES FOR RAILWAY-CARRIAGE LIGHTING.--In modern practice,
+the gases which are most commonly employed for diluents of acetylene,
+under the conditions now being considered, are cannel-coal gas (in
+France) and oil-gas (elsewhere). Fowler has made a series of observations
+on the illuminating value of mixtures of oil-gas and acetylene. 13.41 per
+cent. of acetylene improved the illuminating power of oil-gas from 43 to
+49 candles. Thirty-nine-candle-power oil-gas had its illuminating power
+raised to about 60 candles by an admixture of 20 per cent. of acetylene,
+to about 80 candles by 40 per cent. of acetylene, and to about 110
+candles by 60 per cent. of acetylene. The difficulty of employing
+mixtures fairly rich in acetylene, or pure acetylene, for railway-
+carriage lighting, lies in the poor efficiency of the small burners which
+yield from such rich gas a light of 15 to 20 candle-power, such as is
+suitable for the purpose. For the lighting of railway carriages it is
+seldom deemed necessary to have a flame of more than 20 candle-power, and
+it is somewhat difficult to obtain such a flame from oil-gas mixtures
+rich in acetylene, unless the illuminative value of the gas is wasted to
+a considerable extent. According to Bunte, 15 volumes of coal-gas, 8
+volumes of German oil-gas, and 1.5 volumes of acetylene all yield an
+equal amount of light; from which it follows that 1 volume of acetylene
+is equivalent to 5.3 volumes of German oil-gas.
+
+A lengthy series of experiments upon the illuminating power of mixtures
+of oil-gas and acetylene in proportions ranging between 10 and 50 per
+cent. of the latter, consumed in different burners and at different
+pressures, has been carried out by Borck, of the German State Railway
+Department. The figures show that per unit of volume such mixtures may
+give anything up to 6.75 times the light evolved by pure oil-gas; but
+that the latent illuminating power of the acetylene is less
+advantageously developed if too much of it is employed. As 20 per cent.
+of acetylene is the highest proportion which may be legally added to oil-
+gas in this country, Borck's results for that mixture may be studied:
+
+ ______________________________________________________________________
+|           |        |       |          |         |          |         |
+|           |        |       |          |         |          | Propor- |
+|           |        |       | Consump- |         | Consump- | tionate |
+|  Kind of  | No. of | Pres- | tion per | Candle- | tion per | Illum-  |
+|  Burner.  | Burner | sure. | Hour.    | Power.  | Candle-  | inating |
+|           |        |  mm.  | Litres.  |         | Hour.    | Power   |
+|           |        |       |          |         | Litres.  | to Pure |
+|           |        |       |          |         |          | Oil-Gas.|
+|___________|________|_______|__________|_________|__________|_________|
+|           |        |       |          |         |          |         |
+| Bray      |   00   |  42   |   82     |  56.2   |   1.15   |  3.38   |
+| "         |  000   |  35   |   54     |  28.3   |   1.91   |  4.92   |
+| "         | 0000   |  35   |   43.3   |  16     |   2.71   |  4.90   |
+| Oil-gas   |        |       |          |         |          |         |
+|    burner |   15   |  24   |   21     |   7.25  |   2.89   |  4.53   |
+| "    "    |   30   |  15   |   22     |  10.5   |   2.09   |  3.57   |
+| "    "    |   40   |  16   |   33.5   |  20.2   |   1.65   |  3.01   |
+| "    "    |   60   |  33   |   73     |  45.2   |   1.62   |  3.37   |
+|                                                                      |
+|     The oil-gas from which this mixture was prepared showing:        |
+|                                                                      |
+| Bray      |   00   |  34   |   73.5   |  16.6   |   4.42   |   ...   |
+| "         |  000   |  30   |   48     |   6.89  |   6.96   |   ...   |
+| "         | 0000   |  28   |   39     |   3.26  |  11.6    |   ...   |
+| Oil-gas   |        |       |          |         |          |         |
+|   burner  |   15   |  21   |   19     |   1.6   |  11.8    |   ...   |
+| "    "    |   30   |  14   |   21.5   |   2.94  |   7.31   |   ...   |
+| "    "    |   40   |  15   |   33     |   6.7   |   4.92   |   ...   |
+| "    "    |   60   |  25   |   60     |  13.4   |   4.40   |   ...   |
+|___________|________|_______|__________|_________|__________|_________|
+
+It will be seen that the original oil-gas, when compressed to 10
+atmospheres, gave a light of 1 candle-hour for an average consumption of
+7.66 litres in the Bray burners, and for a consumption of 7.11 litres in
+the ordinary German oil-gas jets; while the mixture containing 20 per
+cent. of acetylene evolved the same amount of light for a consumption of
+2.02 litres in Bray burners, or of 2.06 litres in the oil-gas jets.
+Again, taking No. 40 as the most popular and useful size of burner, 1
+volume of acetylene oil-gas may be said to be equal to 3 volumes of
+simple oil-gas, which is the value assigned to the mixture by the German
+Government officials, who, at the prices ruling there, hold the mixture
+to be twice as expensive as plain oil-gas per unit of volume, which means
+that for a given outlay 50 per cent. more light may be obtained from
+acetylene oil-gas than from oil-gas alone.
+
+This comparison of cost is not applicable, as it stands, to compressed
+oil-gas, with and without enrichment by acetylene, in this country, owing
+to the oils from which oil-gas is made being much cheaper and of better
+quality here than in Germany, where a heavy duty is imposed on imported
+petroleum. Oil-gas as made from Scotch and other good quality gas-oil in
+this country, usually has, after compression, an illuminating duty of
+about 8 candles per cubic foot, which is about double that of the
+compressed German oil-gas as examined by Borck.
+
+Hence the following table, containing a summary of results obtained by H.
+Fowler with compressed oil-gas, as used on English railways, must be
+accepted rather than the foregoing, in so far as conditions prevailing in
+this country are concerned. It likewise refers to a mixture of oil-gas
+and acetylene containing 20 per cent. of acetylene.
+
+ ______________________________________________________________________
+|             |         |           |      |           |               |
+|             |         |           |      |           |   Ratio of    |
+|             |         |Consumption|      |Candles per| Illuminating  |
+|   Burner.   |Pressure.| per Hour. |Candle| Cubic Foot| Power to that |
+|             | Inches. |Cubic Feet.|Power.| per Hour. |of Oil-gas [1] |
+|             |         |           |      |           |  in the same  |
+|             |         |           |      |           |    Burner.    |
+|_____________|_________|___________|______|___________|_______________|
+|             |         |           |      |           |               |
+| Oil-gas . . |   0.7   |   0.98    | 12.5 |   12.72   |      1.65     |
+| Bray 000  . |   0.7   |   1.17    | 14.4 |   12.30   |      1.57     |
+|  "   0000 . |   0.7   |   0.97    | 10.4 |   10.74   |      1.41     |
+|  "   00000  |   0.7   |   0.78    |  5.6 |    7.16   |      1.08     |
+|  "   000000 |   0.7   |   0.55    |  1.9 |    3.52   |      1.14     |
+|_____________|_________|___________|______|___________|_______________|
+
+[Footnote 1: Data relating to the relative pecuniary values of acetylene
+(carburetted or not), coal-gas, paraffin, and electricity as heating or
+illuminating agents, are frequently presented to British readers after
+simple recalculation into English equivalents of the figures which obtain
+in France and Germany. Such a method of procedure is utterly incorrect,
+as it ignores the higher prices of coal, coal-gas, and especially
+petroleum products on the Continent of Europe, which arise partly from
+geographical, but mainly from political causes.]
+
+The mixture was tried also at higher pressures in the same burners, but
+with less favourable results in regard to the duty realised. The oil-gas
+was also tried at various pressures, and the most favourable result is
+taken for computing the ratio in the last column. It is evident from this
+table that 1 volume of this acetylene-oil-gas mixture is equal at the
+most to 1.65 volume of the simple oil-gas. Whether the mixture will prove
+cheaper under particular conditions must depend on the relative prices of
+gas-oil and calcium carbide at the works where the gas is made and
+compressed. At the prevailing prices in most parts of Britain, simple
+oil-gas is slightly cheaper, but an appreciable rise in the price of gas-
+oil would render the mixture with acetylene the cheaper illuminant. The
+fact remains, however, that per unit weight or volume of cylinder into
+which the gas is compressed, acetylene oil-gas evolves a higher candle-
+power, or the same candle-power for a longer period, than simple,
+unenriched British oil-gas. Latterly, however, the incandescent mantle
+has found application for railway-carriage lighting, and poorer
+compressed gases have thereby been rendered available. Thus coal-gas, to
+which a small proportion of acetylene has been added, may advantageously
+displace the richer oil-gas and acetylene mixtures.
+
+Patents have been taken out by Schwander for the preparation of a mixture
+of acetylene, air, and vaporised petroleum spirit. A current of naturally
+damp, or artificially moistened, air is led over or through a mass of
+calcium carbide, whereby the moisture is replaced by an equivalent
+quantity of acetylene; and this mixture of acetylene and air is
+carburetted by passing it through a vessel of petroleum spirit in the
+manner adopted with air-gas. No details as to the composition,
+illuminating power, and calorific values of the gas so made have been
+published. It would clearly tend to be of highly indefinite constitution
+and might range between what would be virtually inferior carburetted
+acetylene, and a low-grade air-gas. It is also doubtful whether the
+combustion of such gas would not be accompanied by too grave risks to
+render the process useful.
+
+
+
+CHAPTER XII
+
+SUNDRY USES
+
+There are sundry uses for acetylene, and to some extent for carbide,
+which are not included in what has been said in previous chapters of this
+book; and to them a few words may be devoted.
+
+In orchards and market gardens enormous damage is frequently done to the
+crops by the ravages of caterpillars of numerous species. These
+caterpillars cannot be caught by hand, and hitherto it has proved
+exceedingly difficult to cope with them. However, when they have changed
+into the perfect state, the corresponding butterflies and moths, like
+most other winged insects, are strongly attracted by a bright light. As
+acetylene can easily be burnt in a portable apparatus, and as the burners
+can be supplied with gas at such comparatively high pressure that the
+flames are capable of withstanding sharp gusts of wind even when not
+protected by glass, the brilliant light given by acetylene forms an
+excellent method of destroying the insects before they have had time to
+lay their eggs. Two methods of using the light have been tried with
+astonishing success: in one a naked flame is supported within some
+receptacle, such as a barrel with one end knocked out, the interior of
+which is painted heavily with treacle; in the other the flame is
+supported over an open dish filled with some cheap heavy oil (or perhaps
+treacle would do equally well). In the first case the insects are
+attracted by the light and are caught by the adhesive surfaces; in the
+second they are attracted and singed, and then drowned in, or caught by,
+the liquid. Either a well-made, powerful, vehicular lamp with its bull's-
+eye (if any) removed could be used for this purpose, or a portable
+generator of any kind might be connected with the burner through a
+flexible tube. It is necessary that the lights should be lit just before
+dusk when the weather is fine and the nights dark, and for some twenty
+evenings in June or July, exactly at the period of the year when the
+perfect insects are coming into existence. In some of the vineyards of
+Beaujolais, in France, where great havoc has been wrought by the pyralid,
+a set of 10-candle-power lamps were put up during July 1901, at distances
+of 150 yards apart, using generators containing 6 oz. of carbide, and
+dishes filled with water and petroleum 18 or 20 inches in diameter. In
+eighteen nights, some twenty lamps being employed, the total catch of
+insects was 170,000, or an average of 3200 per lamp per night. At French
+prices, the cost is reported to have been 8 centimes per night, or 32
+centimes per hectare (2.5 acres). In Germany, where school children are
+occasionally paid for destroying noxious moths, two acetylene lamps
+burning for twelve evenings succeeded in catching twice as many insects
+as the whole juvenile population of a village during August 1902. A
+similar process has been recommended for the destruction of the malarial
+mosquito, and should prove of great service to mankind in infected
+districts. The superiority of acetylene in respect of brilliancy and
+portability will at once suggest its employment as the illuminant in the
+"light" moth-traps which entomologists use for entrapping moths. In these
+traps, the insects, attracted by the light, flutter down panes of glass,
+so inclined that ultimate escape is improbable; while they are protected
+from injury through contact with the flame by moans of an intervening
+sheet of glass.
+
+Methods of spraying with carbide dust have been found useful in treating
+mildew in vines; while a process of burying small quantities of carbide
+at the roots has proved highly efficacious in exterminating phylloxera in
+the French and Spanish vineyards. It was originally believed that the
+impurities of the slowly formed acetylene, the phosphine in particular,
+acted as toxic agents upon the phylloxera; and therefore carbide
+containing an extra amount of decomposable phosphides was specially
+manufactured for the vine-growers. But more recently it has been argued,
+with some show of reason, that the acetylene itself plays a part in the
+process, the effects produced being said to be too great to be ascribed
+wholly to the phosphine. It is well known that many hydrocarbon vapours,
+such as the vapour of benzene or of naphthalene, have a highly toxic
+action on low organisms, and the destructive effect of acetylene on
+phylloxera may be akin to this action.
+
+As gaseous acetylene will bear a certain amount of pressure in safety--a
+pressure falling somewhat short of one effective atmosphere--and as
+pressure naturally rises in a generating apparatus where calcium carbide
+reacts with water, it becomes possible to use this pressure as a source
+of energy for several purposes. The pressure of the gas may, in fact, be
+employed either to force a stream of liquid through a pipe, or to propel
+certain mechanism. An apparatus has been constructed in France on the
+lines of some portable fire-extinguishing appliances in which the
+pressure set up by the evolution of acetylene in a closed space produces
+a spray of water charged with lime and gas under the pressure obtaining;
+the liquid being thrown over growing vines or other plants in order to
+destroy parasitic and other forms of life. The apparatus consists of a
+metal cylinder fitted with straps so that it can be carried by man or
+beast. At one end it has an attachment for a flexible pipe, at the other
+end a perforated basket for carbide introduced and withdrawn through a
+"man-hole" that can be tightly closed. The cylinder is filled with water
+to a point just below the bottom of the basket when the basket is
+uppermost; the carbide charge is then inserted, and the cover fastened
+down. As long as the cylinder is carried in the same position, no
+reaction between the carbide and the water occurs, and consequently no
+pressure arises; but on inverting the vessel, the carbide is wetted, and
+acetylene is liberated in the interior. On opening the cock on the outlet
+pipe, a stream of liquid issues and may be directed as required. By
+charging the cylinder in the first place with a solution of copper
+sulphate, the liquid ejected becomes a solution and suspension of copper
+and calcium salts and hydroxides, resembling "Bordeaux mixture," and may
+be employed as such. In addition, it is saturated with acetylene which
+adds to its value as a germicide.
+
+The effective gas pressure set up in a closed generator has also been
+employed in Italy to drive a gas-turbine, and so to produce motion. The
+plant has been designed for use in lighthouses where acetylene is burnt,
+and where a revolving or flashing light is required. The gas outlet from
+a suitably arranged generator communicates with the inlet of a gas-
+turbine, and the outlet of the turbine is connected to a pipe leading to
+the acetylene burners. The motion of the turbine is employed to rotate
+screens, coloured glasses, or any desired optical arrangements round the
+flames; or, in other situations, periodically to open and close a cock on
+the gas-main leading to the burners. In the latter case, a pilot flame
+fed separately is always alight, and serves to ignite the gas issuing
+from the main burners when the cock is opened.
+
+Another use for acetylene, which is only dependent upon a suitably
+lowered price for carbide to become of some importance, consists in the
+preparation of a black pigment to replace ordinary lampblack. One method
+for this purpose has been elaborated by Hubou. Acetylene is prepared from
+carbide smalls or good carbide, according to price, and the gas is pumped
+into small steel cylinders to a pressure of 2 atmospheres. An electric
+spark is then passed, and the gas, standing at its limit of safety,
+immediately dissociates, yielding a quantitative amount of hydrogen and
+free carbon. The hydrogen is drawn off, collected in holders, and used
+for any convenient purpose; the carbon is withdrawn from the vessel, and
+is ready for sale. At present the pigment is much too expensive, at least
+in British conditions, to be available in the manufacture of black paint;
+but its price would justify its employment in the preparation of the best
+grades of printers' ink. One of the authors has examined an average
+sample and has found it fully equal in every way to blacks, such as those
+termed "spirit blacks," which fetch a price considerably above their real
+value. It has a pure black cast of tint, is free from greasy matter, and
+can therefore easily be ground into water, or into linseed oil without
+interfering with the drying properties of the latter. Acetylene black has
+also been tried in calico printing, and has given far better results in
+tone and strength than other blacks per unit weight of pigment. It may be
+added that the actual yield of pigment from creosote oils, the commonest
+raw material for the preparation of lampblack ("vegetable black"), seldom
+exceeds 20 or 25 per cent., although the oil itself contains some 80 per
+cent, of carbon. The yield from acetylene is clearly about 90 per cent.,
+or from calcium carbide nearly 37.5 per cent, of the original weight.
+
+An objection urged against the Hubou process is that only small
+quantities of the gas can be treated with the spark at one time; if the
+cylinders are too large, it is stated, tarry by-products are formed. A
+second method of preparing lampblack (or graphite) from acetylene is that
+devised by Frank, and depends on utilising the reactions between carbon
+monoxide or dioxide and acetylene or calcium carbide, which have already
+been sketched in Chapter VI. When acetylene is employed, the yield is
+pure carbon, for the only by-product is water vapour; but if the carbide
+process is adopted, the carbon remains mixed with calcium oxide. Possibly
+such a material as Frank's carbide process would give, viz., 36 parts by
+weight of carbon mixed with 56 parts of quicklime or 60 parts of carbon
+mixed with 112 parts of quicklime, might answer the purpose of a pigment
+in some black paints where the amount of ash left on ignition is not
+subject to specification. Naturally, however, the lime might be washed
+away from the carbon by treatment with hydrochloric acid; but the cost of
+such a purifying operation would probably render the residual pigment too
+expensive to be of much service except (conceivably) in the manufacture
+of certain grades of printers' ink, for which purpose it might compete
+with the carbon obtainable by the Hubou process already referred to.
+
+Acetylene tetrachloride, or tetrachlorethane, C_2H_2Cl_4, is now produced
+for sale as a solvent for chlorine, sulphur, phosphorus, and organic
+substances such as fats. It may be obtained by the direct combination of
+acetylene and chlorine as explained in Chapter VI., but the liability of
+the reaction to take place with explosive violence would preclude the
+direct application of it on a commercial scale. Processes free from such
+risk have now, however, been devised for the production of
+tetrachlorethane. One patented by the Salzbergwerk Neu-Stassfurt consists
+in passing acetylene into a mixture of finely divided iron and chloride
+of sulphur. The iron acts as a catalytic. The liquid is kept cool, and as
+soon as the acetylene passes through unabsorbed, its introduction is
+stopped and chlorine is passed in. Acetylene and chlorine are then passed
+in alternately until the liquid finally is saturated with acetylene. The
+tetrachlorethane, boiling at 147 deg. C., is then distilled off, and the
+residual sulphur is reconverted to the chloride for use again in the
+process. A similar process in which the chlorine is used in excess is
+applicable also to the production of hexachlorethane.
+
+Dependent upon price, again, are several uses for calcium carbide as a
+metallurgical or reducing reagent; but as those are uses for carbide only
+as distinguished from acetylene, they do not fall within the purview of
+the present book.
+
+When discussing, in Chapter III., methods for disposing of the lime
+sludge coming from an acetylene generator, it was stated that on occasion
+a use could be found for this material. If the carbide has been entirely
+decomposed in an apparatus free from overheating, the waste lime is
+recovered as a solid mass or as a cream of lime practically pure white in
+colour. Sometimes, however, as explained in Chapter II., the lime sludge
+is of a bluish grey tint, even in cases where the carbide decomposed was
+of good quality and there was no overheating in the generator. Such
+discoloration is of little moment for most of the uses to which the
+sludge may be put. The residue withdrawn from a carbide-to-water
+generator is usually quite fluid; but when allowed to rest in a suitable
+pit or tank, it settles down to a semi-solid or pasty mass which contains
+on a rough average 47 per cent. of water and 53 per cent. of solid
+matter, the amount of lime present, calculated as calcium oxide, being
+about 40 per cent. Since 64 parts by weight of pure calcium carbide yield
+74 parts of dry calcium hydroxide, it may be said that 1 part of ordinary
+commercial carbide should yield approximately 1.1 parts of dry residue,
+or 2.1 parts of a sludge containing 47 per cent. of moisture; and sludge
+of this character has been stated by Vogel to weigh about 22.5 cwt. per
+cubic yard.
+
+Experience has shown that those pasty carbide residues can be employed
+very satisfactorily, and to the best advantage from the maker's point of
+view, by builders and decorators for the preparation of ordinary mortar
+or lime-wash. The mortar made from acetylene lime has been found equal in
+strength and other properties to mortar compounded from fresh slaked
+lime; while the distemper prepared by diluting the sludge has been used
+most successfully in all places where a lime-wash is required,
+_e.g._, on fruit-trees, on cattle-pens, farm-buildings, factories,
+and the "offices" of a residence. Many of the village installations
+abroad sell their sludge to builders for the above-mentioned purposes at
+such a price that their revenue accounts are materially benefited by the
+additional income. The sludge is also found serviceable for softening the
+feed-water of steam boilers by the common liming process; although it has
+been stated that the material contains certain impurities--notably "fatty
+matter"--which becomes hydrolysed by the steam, yielding fatty acids that
+act corrosively upon the boiler-plates. This assertion would appear to
+require substantiation, but a patent has been taken out for a process of
+drying the sludge at a temperature of 150 deg. to 200 deg. C. in order to
+remove the harmful matter by the action of the steam evolved. So purified,
+it is claimed, the lime becomes fit for treating any hard potable or
+boiler-feed water. It is very doubtful, however, whether the intrinsic value
+of acetylene lime is such in comparison with the price of fresh lime that,
+with whatever object in view, it would bear the cost of any method of
+artificial drying if obtained from the generators in a pasty state.
+
+When, on the other hand, the residue is naturally dry, or nearly so, it
+is exactly equal to an equivalent quantity of quick or slaked lime as a
+dressing for soil. In this last connexion, however, it must be remembered
+that only certain soils are improved by an addition of lime in any shape,
+and therefore carbide residues must not be used blindly; but if analysis
+indicates that a particular plot of ground would derive benefit from an
+application of lime, acetylene lime is precisely as good as any other
+description. Naturally a residue containing unspent carbide, or
+contaminated with tarry matter, is essentially valueless (except as
+mentioned below); while it must not be forgotten that a solid residue if
+it is exposed to air, or a pasty residue if not kept under water, will
+lose many of its useful properties, because it will be partially
+converted into calcium carbonate or chalk.
+
+Nevertheless, in some respects, the residue from a good acetylene
+generator is a more valuable material, agriculturally speaking, than pure
+lime. It contains a certain amount of sulphur, &c.;, and it therefore
+somewhat resembles the spent or gas lime of the coal-gas industry. This
+sulphur, together, no doubt, with the traces of acetylene clinging to it,
+renders the residue a valuable material for killing the worms and vermin
+which tend to infest heavily manured and under-cultivated soil. Acetylene
+lime has been found efficacious in exterminating the "finger-and-toe" of
+carrots, the "peach-curl" of peach-trees, and in preventing cabbages from
+being "clubbed." It may be applied to the ground alone, or after
+admixture with some soil or stable manure. The residue may also be
+employed, either alone or mixed with some agglomerate, in the
+construction of garden paths and the like.
+
+If the residues are suitably diluted with water and boiled with (say)
+twice their original weight of flowers of sulphur, the product consists
+of a mixture of various compounds of calcium and sulphur, or calcium
+sulphides--which remain partly in solution and partly in the solid state.
+This material, used either as a liquid spray or as a moist dressing, has
+been said to prove a useful garden insecticide and weed-killer.
+
+There are also numerous applications of the acetylene light, each of much
+value, but involving no new principle which need be noticed. The light is
+so actinic, or rich in rays acting upon silver salts, that it is
+peculiarly useful to the photographer, either for portraiture or for his
+various positive printing operations. Acetylene is very convenient for
+optical lantern work on the small scale, or where the oxy-hydrogen or
+oxy-coal-gas light cannot be used. Its intensity and small size make its
+self-luminous flame preferable on optical grounds to the oil-lamp or the
+coal-gas mantle; but the illuminating surface is nevertheless too large
+to give the best results behind such condensers as have been carefully
+worked to suit a source of light scarcely exceeding the dimensions of a
+point. For lantern displays on very large screens, or for the projection
+of a powerful beam of light to great distances in one direction (as in
+night signalling, &c.;), the acetylene blowpipe fed with pure oxygen, or
+with air containing more than its normal proportion of oxygen, which is
+discussed in Chapter IX., is specially valuable, more particularly if the
+ordinary cylinder of lime is replaced by one of magnesia, zirconia, or
+other highly refractory oxide.
+
+
+
+CHAPTER XIII
+
+PORTABLE ACETYLENE LAMPS AND PLANT
+
+It will be apparent from what has been said in past chapters that the
+construction of a satisfactory generator for portable purposes must be a
+problem of considerable complexity. A fixed acetylene installation tends
+to work the more smoothly, and the gas evolved therefrom to burn the more
+pleasantly, the more technically perfect the various subsidiary items of
+the plant are; that is to say, the more thoroughly the acetylene is
+purified, dried, and delivered at a strictly constant pressure to the
+burners and stoves. Moreover, the efficient behaviour of the generator
+itself will depend more upon the mechanical excellence and solidity of
+its construction than (with one or two exceptions) upon the precise
+system to which it belongs. And, lastly, the installation will, broadly
+speaking, work the better, the larger the holder is in proportion to the
+demands ever made upon it; while that holder will perform the whole duty
+of a gasholder more effectually if it belongs to the rising variety than
+if it is a displacement holder. All these requirements of a good
+acetylene apparatus have to be sacrificed to a greater or less extent in
+portable generators; and since the sacrifice becomes more serious as the
+generator is made smaller and lighter in weight, it may be said in
+general terms that the smaller a portable (or, indeed, other) acetylene
+apparatus is, the less complete or permanent satisfaction will it give
+its user. Again, small portable apparatus are only needed to develop
+intensities of light insignificant in comparison with those which may
+easily be won from acetylene on a larger scale; they are therefore fitted
+with smaller burners, and those burners are not merely small in terms of
+consumption and illuminating power, but not infrequently are very badly
+constructed, and are relatively deficient in economy or duty. Thus any
+comparisons which may be made on lines similar to those adopted in
+Chapter I., or between unit weights, volumes, or monetary equivalents of
+calcium carbide, paraffin, candles, and colza oil, become utterly
+incorrect if the carbide is only decomposed in a small portable generator
+fitted with an inefficient jet; first, because the latent illuminating
+power of the acetylene evolved is largely wasted; secondly, because any
+gas produced over and above that capable of instant combustion must be
+blown off from a vent-pipe; and thirdly, because the carbide itself tends
+to be imperfectly decomposed, either through a defect in the construction
+of the lamp, or through the brief and interrupted requirements of the
+consumer.
+
+In several important respects portable acetylene apparatus may be divided
+into two classes from a practical point of view. There is the portable
+table or stand lamp intended for use in an occupied room, and there is
+the hand or supported lamp intended for the illumination of vehicles or
+open-air spaces. Economy apart, no difficulty arises from imperfect
+combustion or escape of unburnt gas from an outdoor lamp, but in a room
+the presence of unburnt acetylene must always be offensive even if it is
+not dangerous; while the combustion products of the impurities--and in a
+portable generator acetylene cannot be chemically purified--are highly
+objectionable. It is simply a matter of good design to render any form of
+portable apparatus safe against explosion (employment of proper carbide
+being assumed), for one or more vent-pipes can always be inserted in the
+proper places; but from an indoor lamp those vent-pipes cannot be made to
+discharge into a place of safety, while, as stated before, a generator in
+which the vent-pipes come into action with any frequency is but an
+extravagant piece of apparatus for the decomposition of so costly a
+material as calcium carbide. Looked at from one aspect the holder of a
+fixed apparatus is merely an economical substitute for the wasteful vent-
+pipe, because it is a place in which acetylene can be held in reserve
+whenever the make exceeds the consumption in speed. It is perhaps
+possible to conceive of a large table acetylene lamp fitted with a water-
+sealed rising holder; but for vehicular purposes the displacement holder
+is practically the only one available, and in small apparatus it becomes
+too minute in size to be of much service as a store for the gas produced
+by after-generation. Other forms of holder have been suggested by
+inventors, such as a collapsible bag of india-rubber or the like; but
+rubber is too porous, weak, and perishable a material to be altogether
+suitable. If it is possible, by bringing carbide and water into mutual
+contact in predetermined quantities, to produce gas at a uniform rate,
+and at one which corresponds with the requirements of the burner, in a
+small apparatus--and experience has shown it to be possible within
+moderately satisfactory limits--it is manifest that the holder is only
+needed to take up the gas of after-generation; and in Chapters II. and
+III. it was pointed out that after-generation only occurs when water is
+brought into contact with an excess of carbide. If, then, the opposite
+system of construction is adopted, and carbide is fed into water
+mechanically, no after-generation can take place; and provided the make
+of gas can be controlled in a small carbide-feed generator as accurately
+as is possible in a small water-to-carbide generator, the carbide-feed
+principle will exhibit even greater advantages in portable apparatus than
+it does in plant of domestic size. Naturally almost every variety of
+carbide-feeding gear, especially when small, requires or prefers
+granulated (or granulated and "treated") carbide; and granulated carbide
+must inevitably be considerably more expensive per unit of light evolved
+than the large material, but probably in the application to which the
+average portable acetylene apparatus is likely to be put, strict economy
+is not of first consequence. In portable acetylene generators of the
+carbide-feed type, the supply is generally governed by the movements of a
+mushroom-headed or conical valve at the mouth of a conical carbide
+vessel; such movements occurring in sympathy with the alterations in
+level of the water in the decomposing chamber, which is essentially a
+small displacement holder also, or being produced by the contraction of a
+flexible chamber through which the gas passes on its way to the burner.
+So far as it is safe to speak definitely on a matter of this kind, the
+carbide-feed device appears to work satisfactorily in a stationary
+(_e.g._, table) lamp; but it is highly questionable whether it could
+be applied to a vehicular apparatus exposed to any sensible amount of
+vibration. The device is satisfactory on the table of an occupied room so
+far, be it understood, as any small portable generators can be: it has no
+holder, but since no after-generation occurs, no holder is needed; still
+the combustion products contaminate the room with all the sulphur and
+phosphorus of the crude acetylene.
+
+For vehicular lamps, and probably for hand lanterns, the water-to-carbide
+system has practically no alternative (among actual generators), and
+safety and convenience have to be gained at the expense of the carbide.
+In such apparatus the supply of water is usually controlled ultimately by
+pressure, though a hand-operated needle-valve is frequently put on the
+water tube. The water actually reaches the carbide either by dropping
+from a jet, by passing along, upwards or downwards, a "wick" such as is
+used in oil-lamps, or by percolating through a mass of porous material
+like felt. The carbide is held in a chamber closed except at the gas exit
+to the burner and at the inlet from the water reservoir: so that if gas
+is produced more rapidly than the burner takes it, more water is
+prevented from entering, or the water already present is driven backwards
+out of the decomposing chamber into some adjoining receptacle. It is
+impossible to describe in detail all the lamps which have been
+constructed or proposed for vehicular use; and therefore the subject must
+be approached in general terms, discussing simply the principles involved
+in the design of a safe portable generator.
+
+In all portable apparatus, and indeed in generators of larger dimensions,
+the decomposing chamber must be so constructed that it can never, even by
+wrong manipulation, be sealed hermetically against the atmosphere. If
+there is a cock on the water inlet tube which is capable of being
+completely shut, there must be no cock between the decomposing chamber
+and the burner. If there is a cock between the carbide vessel and the
+burner, the water inlet tube must only be closed by the water, being
+water-sealed, in fact, so that if pressure rises among the carbide the
+surplus gas may blow the seal or bubble through the water in the
+reservoir. If the water-supply is mainly controlled by a needle-valve, it
+is useful to connect the burner with the carbide vessel through a short
+length of rubber tube; and if this plan is adopted, a cock can, if
+desired, be put close to the burner. The rubber should not be allowed to
+form a bend hanging down, or water vapour, &c.;, may condense and
+extinguish the flame. In any case there should be a steady fall from the
+burner to the decomposing chamber, or to some separate catch-pit for the
+products of condensation. Much of the success attainable with small
+generators will depend on the water used. If it is contaminated with
+undissolved matter, the dirt will eventually block the fine orifices,
+especially the needle-valve, or will choke the pores of the wick or the
+felt pad. If the water contains an appreciable amount of "temporary
+hardness," and if it becomes heated much in the lamp, fur will be
+deposited sooner or later, and will obviously give trouble. Where the
+water reservoir is at the upper part of the lamp, and the liquid is
+exposed to the heat of the flame, fur will appear quickly if the water is
+hard. Considerable benefit would accrue to the user of a portable lamp by
+the employment of rain water filtered, if necessary, through fabric or
+paper. The danger of freezing in very severe weather may be prevented by
+the use of calcium chloride, or preferably, perhaps, methylated spirit in
+the water (_cf._ Chapter III., p. 92). The disfavour with which
+cycle and motor acetylene lamps are frequently regarded by nocturnal
+travellers, other than the users thereof, is due to thoughtless design in
+the optical part of such lamps, and is no argument against the employment
+of acetylene. By proper shading or deflection of the rays, the eyes of
+human beings and horses can be sufficiently protected from the glare, and
+the whole of the illumination concentrated more perfectly on the road
+surface and the lower part of approaching objects--a beam of light never
+reaching a height of 5 feet above the ground is all that is needed to
+satisfy all parties.
+
+As the size of the generator rises, conditions naturally become more
+suited to the construction of a satisfactory apparatus; until generators
+intended to supply light to the whole of (say) a railway carriage, or the
+head and cab lamps of a locomotive, or for the outside and inside
+lighting of an omnibus are essentially generators of domestic dimensions
+somewhat altered in internal construction to withstand vibration and
+agitation. As a rule there is plenty of space at the side of a locomotive
+to carry a generator fitted with a displacement holder of sufficient
+size, which is made tall rather than wide, to prevent the water moving
+about more than necessary. From the boiler, too, steam can be supplied to
+a coil to keep the liquid from freezing in severe weather. Such apparatus
+need not be described at length, for they can be, and are, made on lines
+resembling those of domestic generators, though more compactly, and
+having always a governor to give a constant pressure. For carriage
+lighting any ordinary type of generator, preferably, perhaps, fitted with
+a displacement holder, can be erected either in each corridor carriage,
+or in a brake van at the end of the train. Purifiers may be added, if
+desired, to save the burners from corrosion; but the consumption of
+unpurified gas will seldom be attended by hygienic disadvantages, because
+the burners will be contained in closed lamps, ventilating into the
+outside air. The generator, also, may conveniently be so constructed that
+it is fed with carbide from above the roof, and emptied of lime sludge
+from below the floor of the vehicle. It can hardly be said that the use
+of acetylene generated on board adds a sensible risk in case of
+collision. In the event of a subsequent fire, the gas in the generator
+would burn, but not explode; but in view of the greater illuminating
+power per unit volume of carbide than per equal volume of compressed oil-
+gas, a portable acetylene generator should be somewhat less objectionable
+than broken cylinders of oil-gas if a fire should follow a railway
+accident of the usual kind. More particularly by the use of "cartridges"
+of carbide, a railway carriage generator can be constructed of sufficient
+capacity to afford light for a long journey, or even a double journey, so
+that attention would be only required (in the ordinary way) at one end of
+the line.
+
+Passing on from the generators used for the lighting of vehicles and for
+portable lamps for indoor lighting to the considerably larger portable
+generators now constructed for the supply of acetylene for welding
+purposes and for "flare" lamps, it will be evident that they may embody
+most or all of the points which are essential to the proper working of a
+fixed generator for the supply of a small establishment. The holder will
+generally be of the displacement type, but some of these larger portable
+generators are equipped with a rising holder. The generators are,
+naturally, automatic in action, but may be either of the water-to-carbide
+or carbide-to-water type--the latter being preferable in the larger sizes
+intended for use with the oxy-acetylene blow-pipe for welding, &c.;, for
+which use a relatively large though intermittent supply of acetylene is
+called for. The apparatus is either carried by means of handles or poles
+attached to it, or is mounted on a wheelbarrow or truck for convenience
+of transport to the place where it is to be used. The so called "flare"
+lamps, which are high power burners mounted, with or without a reflector,
+above a portable generator, are extremely useful for lighting open spaces
+where work has to be carried on temporarily after nightfall, and are
+rapidly displacing oil-flares of the Lucigen type for such purposes.
+
+The use of "cartridges" of calcium carbide has already been briefly
+referred to in Chapters II. and III. These cartridges are usually either
+receptacles of thin sheet-metal, say tin plate, or packages of carbide
+wrapped up in grease proof paper or the like. If of metal, they may have
+a lid which is detached or perforated before they are put into the
+generator, or the generator (when automatic and of domestic size) may be
+so arranged that a cartridge is punctured in one or more places whenever
+more gas is required. If wrapped in paper, the cartridges may be dropped
+into water by an automatic generator at the proper times, the liquid then
+loosening the gum and so gaining access to the interior; or one spot may
+be covered by a drape of porous material (felt) only, through which the
+water penetrates slowly. The substance inside the cartridge may be
+ordinary, granulated, or "treated" carbide. Cartridges or "sticks" of
+carbide are also made without wrappings, either by moistening powdered
+carbide with oil and compressing the whole into moulds, or by compressing
+dry carbide dust and immersing the sticks in oil or molten grease. The
+former process is said to cause the carbide to take up too much oil, so
+that sticks made by the second method are reputed preferable. All these
+cartridges have the advantage over common carbide of being more permanent
+in damp air, of being symmetrical in shape, of decomposing at a known
+speed, and of liberating acetylene in known quantity; but evidently they
+are more expensive, owing to the cost of preparing them, &c.; They may be
+made more cheaply from the dust produced in the braking of carbide, but
+in that case the yield of gas will be relatively low.
+
+It is manifest that, where space is to spare, purifiers containing the
+materials mentioned in Chapter V. can be added to any portable acetylene
+apparatus, provided also that the extra weight is not prohibitive. Cycle
+lamps and motor lamps must burn an unpurified gas unpurified from
+phosphorus and sulphur; but it is always good and advisable to filter the
+acetylene from dust by a plug of cotton wool or the like, in order to
+keep the burners as clear as may be. A burner with a screwed needle for
+cleaning is always advantageous. Formerly the burners used on portable
+acetylene lamps were usually of the single jet or rat-tail, or the union
+jet or fish tail type, and exhibited in an intensified form, on account
+of their small orifices, all the faults of these types of burners for the
+consumption of acetylene (see Chapter VIII.). Now, however, there are
+numerous special burners adapted for use in acetylene cycle and motor
+lamps, &c.;, and many of these are of the impinging jet type, and some
+have steatite heads to prevent distortion by the heat. One such cycle-
+lamp burner, as sold in England by L. Wiener, of Fore Street, London, is
+shown in Fig. 21. A burner constructed like the "Kona" (Chapter VIII.) is
+made in small sizes (6, 8 and 10 litres per hour) for use in vehicular
+lamps, under the name of the "Konette," by Falk, Stadelmann and Co.,
+Ltd., of London, who also make a number of other small impinging jet
+burners. A single jet injector burner on the "Phos" principle is made in
+small sizes by the Phos Co., of London, specially for use in lamps on
+vehicles.
+
+[Illustration: FIG. 21.--CYCLE-LAMP BURNER NO. 96042A.]
+
+Nevertheless, although satisfactory medium-sized vehicular lamps for the
+generation of acetylene have been constructed, the best way of using
+acetylene for all such employments as these is to carry it ready made in
+a state of compression. For railway purposes, where an oil-gas plant is
+in existence, and where it is merely desired to obtain a somewhat
+brighter light, the oil-gas may be enriched with 20 per cent. of
+acetylene, and the mixed gas pumped into the same cylinders to a pressure
+of 10 atmospheres, as mentioned in Chapter XI.; the only alteration
+necessary being the substitution of suitable small burners for the common
+oil-gas jets. As far as the plant is concerned, all that is required is a
+good acetylene generator, purifier, and holder from which the acetylene
+can be drawn or forced through a meter into a larger storage holder, the
+meter being connected by gearing with another meter on the pipe leading
+from the oil-gas holder to the common holder, so that the necessary
+proportions of the two gases shall be introduced into the common holder
+simultaneously. From this final holder the enriched gas will be pumped
+into the cylinders or into a storage cylinder, by means of a thoroughly
+cooled pump, so that the heat set free by the compression may be safely
+dissipated.
+
+Whenever still better light is required in railway carriages, as also for
+the illumination of large, constantly used vehicles, such as omnibuses,
+the acetone process (_cf._ Chapter XI.) exhibits notable advantages.
+The light so obtained is the light of neat acetylene, but the gas is
+acetylene having an upper limit of explosibility much lower than usual
+because of the vapour of acetone in it. In all other respects the
+presence of the acetone will be unnoticeable, for it is a fairly pure
+organic chemical body, which burns in the flame completely to carbon
+dioxide and water, exactly as acetylene itself does. If the acetylene is
+merely compressed into porous matter without acetone, the gas burnt is
+acetylene simply; but per unit of volume or weight the cylinders will not
+be capable of developing so much light.
+
+In the United States, at least one railway system (The Great Northern)
+has a number of its passenger coaches lighted by means of plain acetylene
+carried in a state of compression in cylinders without porous matter. The
+gas is generated, filtered from dust, and stored in an ordinary rising
+holder at a factory alongside the line; being drawn from this holder
+through a drier to extract moisture, and through a safety device, by a
+pump which, in three stages, compresses the acetylene into large storage
+reservoirs. The safety device consists of a heavy steel cylinder filled
+with some porous substance which, like the similar material of the
+acetone cylinders, prevents any danger of the acetylene contained in the
+water-sealed holder being implicated in an explosion starting backwards
+from the compression, by extinguishing any spark which might be produced
+there. The plant on the trains comprises a suitable number of cylinders,
+filled by contact with the large stores of gas to a pressure of 10
+atmospheres, pipes of fusible metal communicating with the lamps, and
+ordinary half-foot acetylene burners. The cylinders are provided with
+fusible plugs, so that, in the event of a fire, they and the service-
+pipes would melt, allowing the gas to escape freely and burn in the air,
+instead of exploding or dissociating explosively within the cylinders
+should the latter be heated by any burning woodwork or the like. It is
+stated that this plan of using acetylene enables a quantity of gas to be
+carried under each coach which is sufficient for a run of from 53 to 70
+hours' duration, or of over 3600 miles; that is to say, enables the
+train, in the conditions obtaining on the line in question, to make a
+complete "round trip" without exhaustion of its store of artificial
+light. The system has been in operation for some years, and appears to
+have been so carefully managed that no accident has arisen; but it is
+clear that elements of danger are present which are eliminated when the
+cylinders are loaded with porous matter and acetone. The use of a similar
+system of compressed acetylene train lighting in South America has been
+attended with a disastrous explosion, involving loss of life.
+
+It may safely be said that the acetone system, or less conveniently
+perhaps the mere compression into porous matter, is the best to adopt for
+the table-lamp which is to be used in occupied rooms Small cylinders of
+such shapes as to form an elegant base for a table-lamp on more or less
+conventional lines would be easy to make. They would be perfectly safe to
+handle. If accidentally or wilfully upset, no harm would arise. By
+deliberate ill-treatment they might be burst, or the gas-pipe fractured
+below the reducing valve, so that gas would escape under pressure for a
+time; but short of this they would be as devoid of extra clangor in times
+of fire as the candle or the coal-gas burner. Moreover, they would only
+contaminate the air with carbon dioxide and water vapour, for the gas is
+purified before compression; and modern investigations have conclusively
+demonstrated that the ill effects produced in the air of an imperfectly
+ventilated room by the extravagant consumption of coal-gas depend on the
+accumulation of the combustion products of the sulphur in the gas rather
+than upon the carbon dioxide set free.
+
+One particular application of the portable acetylene apparatus is of
+special interest. As calcium carbide evolves an inflammable gas when it
+merely comes into contact with water, it becomes possible to throw into
+the sea or river, by hand or by ejection from a mortar, a species of bomb
+or portable generator which is capable of emitting a powerful beam of
+light if only facilities are present for inflaming the acetylene
+generated; and it is quite easy so to arrange the interior of such
+apparatus that they can be kept ready for instant use for long periods of
+time without sensible deterioration, and that they can be recharged after
+employment. Three methods of firing the gas have been proposed. In one
+the shock or contact with the water brings a small electric battery into
+play which produces a spark between two terminals projecting across the
+burner orifice; in the second, a cap at the head of the generator
+contains a small quantity of metallic potassium, which decomposes water
+with such energy that the hydrogen liberated catches fire; and in the
+third a similar cap is filled with the necessary quantity of calcium
+phosphide, or the "carbophosphide of calcium" mentioned in Chapter XI.,
+which yields a flame by the immediate ignition of the liquid phosphine
+produced on the attack of water. During the two or three seconds consumed
+in the production of the spark or pilot flame, the water is penetrating
+the main charge of calcium carbide in the interior of the apparatus,
+until the whole is ready to give a bright light for a time limited only
+by the capacity of the generator. It is obvious that such apparatus may
+be of much service at sea: they may be thrown overboard to illuminate
+separate lifebuoys in case of accident, or be attached to the lifebuoys
+they are required to illuminate, or be used as lifebuoys themselves if
+fitted with suitable chains or ropes; they may be shot ahead to
+illuminate a difficult channel, or to render an enemy visible in time of
+war. Several such apparatus have already been constructed and severely
+tested; they appear to give every satisfaction. They are, of course, so
+weighted that the burner floats vertically, while buoyancy is obtained
+partly by the gas evolved, and partly by a hollow portion of the
+structure containing air. Cartridges of carbide and caps yielding a self-
+inflammable gas can be carried on board ship, by means of which the
+torches or lifebuoys may be renewed after service in a few minutes' time.
+
+
+
+CHAPTER XIV
+
+VALUATION AND ANALYSIS OF CARBIDE
+
+The sale and purchase of calcium carbide in this country will, under
+existing conditions, usually be conducted in conformity with the set of
+regulations issued by the British Acetylene Association, of which a copy,
+revised to date, is given below:
+
+"REGULATIONS AS TO CARBIDE OF CALCIUM."
+
+1. The carbide shall be guaranteed by the seller to yield, when broken
+to standard size, _i.e._, in lumps varying from 1 to 2-1/2 inches or
+larger, not less than 4.8 cubic feet per lb., at a barometric pressure of
+30 inches and temperature of 60 deg. Fahr. (15.55 deg. Centigrade). The
+actual gas yield shall be deemed to be the gas yield ascertained by the
+analyst, plus 5 per cent.
+
+"Carbide yielding less than 4.8 cubic feet in the sizes given above shall
+be paid for in proportion to the gas yield, _i.e._, the price to be
+paid shall bear the same relation to the contract price as the gas yield
+bears to 4.8 cubic feet per lb.
+
+"2. The customer shall have the right to refuse to take carbide yielding
+in the sizes mentioned above less than 4.2 cubic foot, per lb., and it
+shall lie, in case of refusal and as from the date of the result, of the
+analysis being made known to either party, at the risk and expense of the
+seller.
+
+"3. The carbide shall not contain higher figures of impurities than shall
+from time to time be fixed by the Association.
+
+"4. No guarantee shall be given for lots of less than 3 cwt., or for
+carbide crushed to smaller than the above sizes.
+
+"5. In case of dispute as to quality, either the buyer or the seller
+shall have the right to have one unopened drum per ton of carbide, or
+part of a ton, sent for examination to one of the analysts appointed by
+the Association, and the result of the examination shall be held to apply
+to the whole of the consignment to which the drum belonged.
+"6. A latitude of 5 per cent, shall be allowed for analysis; consequently
+differences of 5 per cent. above or below the yields mentioned in 1 and 2
+shall not be taken into consideration.
+
+"7. Should the yield of gas be less than 4.8 cubic feet less 5 per cent.,
+the carriage of the carbide to and from the place of analysis and the
+cost of the analysis shall be paid for by the seller. Should the yield be
+more than 4.8 cubic feet less 5 per cent., the carriage and costs of
+analysis shall be borne by the buyer, who, in addition, shall pay an
+increase of price for the carbide proportionate to the gas yield above
+4.8 cubic feet plus 5 per cent.
+
+"8. Carbide of 1 inch mesh and above shall not contain more than 5 per
+cent. of dust, such dust to be defined as carbide capable of passing
+through a mesh of one-sixteenth of an inch.
+
+"9. The seller shall not be responsible for deterioration of quality
+caused by railway carriage in the United Kingdom, unless he has sold
+including carriage to the destination indicated by the buyer.
+
+"10. Carbide destined for export shall, in case the buyer desires to have
+it tested, be sampled at the port of shipment, and the guarantee shall
+cease after shipment.
+
+"11. The analyst shall take a sample of not less than 1 lb. each from the
+top, centre, and bottom of the drum. The carbide shall be carefully
+broken up into small pieces, due care being taken to avoid exposure to
+the air as much as possible, carefully screened and tested for gas yield
+by decomposing it in water, previously thoroughly saturated by exposure
+to acetylene for a period of not less than 48 hours.
+
+"12. Carbide which, when properly decomposed, yields acetylene containing
+from all phosphorus compounds therein more than .05 per cent. by volume
+of phosphoretted hydrogen, may be refused by the buyer, and any carbide
+found to contain more than this figure, with a latitude of .01 per cent.
+for the analysis, shall lie at the risk and expense of the seller in the
+manner described in paragraph 2.
+
+"The rules mentioned in paragraph 7 shall apply as regards the carriage
+and costs of analysis; in other words, the buyer shall pay these costs if
+the figure is below 0.05 per cent. plus 0.01 per cent., and the seller if
+the figure is above 0.05 per cent. plus 0.01 per cent.
+
+"The sampling shall take place in the manner prescribed in paragraphs 5
+and 11, and the analytical examination shall be effected in the manner
+prescribed by the Association and obtainable upon application to the
+Secretary."
+
+   *    *    *    *    *
+
+The following is a translation of the corresponding rules issued by the
+German Acetylene Association (_Der Deutsche Acetylenverein_) in
+regard to business dealings in calcium carbide, as put into force on
+April 1, 1909:
+
+"REGULATIONS OF THE GERMAN ACETYLENE ASSOCIATION FOR TRADE IN CARBIDE.
+
+"_Price_.
+
+"The price is to be fixed per 100 kilogrammes (= 220 lb.) net weight of
+carbide in packages containing about 100 kilogrammes.
+
+"By packages containing about 100 kilogrammes are meant packages
+containing within 10 per cent. above or below that weight.
+
+"The carbide shall be packed in gas- and water-tight vessels of sheet-
+iron of the strength indicated in the prescriptions of the carrying
+companies.
+
+"The prices for other descriptions of packing must be specially stated.
+
+"_Place of Delivery_.
+
+"For consignment for export, the last European shipping port shall be
+taken as the place of delivery.
+
+"_Quality_.
+
+"Commercial carbide shall be of such quality that in the usual lumps of
+15 to 80 mm. (about 3/5 to 3 inches) diameter it shall afford a yield of
+at least 300 litres at 15 deg. C. and 760 mm. pressure of crude acetylene
+per kilogramme for each consignment (= 4.81 cubic feet at 60 deg. F. and
+30 inches per lb.). A margin of 2 per cent. shall be allowed for the
+analysis. Carbide which yields less than 300 litres per kilogramme, but
+not less than 270 litres (= 4.33 cubic feet) of crude acetylene per
+kilogramme (with the above-stated 2 per cent. margin for analysis) must
+be accepted by the buyer. The latter, however, is entitled to make a
+proportionate deduction from the price and also to deduct the increased
+freight charges to the destination or, if the latter is not settled at
+the time when the transaction is completed, to the place of delivery.
+Carbide which yields less than 270 litres of crude acetylene per
+kilogramme need not be accepted.
+
+"Carbide must not contain more than 5 per cent. of dust. By dust is to be
+understood all which passes through a screen of 1 mm. (0.04 inch) square,
+clear size of holes.
+
+"Small carbide of from 4 to 15 mm. (= 1/6 to 3/5 inch) in size (and
+intermediate sizes) must yield on the average for each delivery at least
+270 litres at 15 deg. C. and 760 mm. pressure of crude acetylene per
+kilogramme (= 4.33 cubic feet at 60 deg. F. and 30 inches per lb.) A margin
+of 2 per cent. shall be allowed for the analysis. Small carbide of from 4
+to 15 mm. in size (and intermediate sizes) which yields less than 270
+litres but not less than 250 litres (= 4.01 cubic feet per lb.) of crude
+acetylene per kilogramme (with the above-stated 2 per cent. margin for
+analysis) must be accepted by the buyer. The latter, however, is entitled
+to make a proportionate deduction from the price and also to deduct the
+increased freight charges to the destination or, if the latter is not
+settled at the time when the transaction is completed, to the place of
+delivery. Small carbide of from 4 to 15 mm. in size (and intermediate
+sizes) which yields less than 250 litres per kilogramme need not be
+accepted.
+
+"Carbide shall only be considered fit for delivery if the proportion of
+phosphoretted hydrogen in the crude acetylene does not amount to more
+than 0.04 volume per cent. A margin of 0.01 volume per cent. shall be
+allowed for the analysis for phosphoretted hydrogen. The whole of the
+phosphorus compounds contained in the gas are to be calculated as
+phosphoretted hydrogen.
+
+"_Period for Complaints._
+
+"An interval of four weeks from delivery shall be allowed for complaints
+for consignments of 5000 kilogrammes (= 5 tons) and over, and an interval
+of two weeks for smaller consignments. A complaint shall refer only to a
+quantity of carbide remaining at the time of taking the sample.
+
+"_Determination of Quality._
+
+"1. In case the parties do not agree that the consignee is to send to the
+analyst for the determination of the quality one unopened and undamaged
+drum when the consignment is less than 5000 kilogrammes, and two such
+drums when it is over 5000 kilogrammes, a sample for the purpose of
+testing the quality is to be taken in the following manner:
+
+"A sample having a total weight of at least 2 kilogrammes (= 4.4 lb.) is
+to be taken. If the delivery to be tested does not comprise more than ten
+drums, the sample is to be taken from an unopened and undamaged drum
+selected at random. With deliveries of more than ten drums, the sample is
+to be drawn from not fewer than 10 per cent, of the lot, and from each of
+the unopened and undamaged drums drawn for the purpose not less than 1
+kilogramme (= 2.2 lb.) is to be taken.
+
+"The sampling is to be carried out by a trustworthy person appointed by
+the two parties, or by one of the experts regularly recognised by the
+German Acetylene Association, thus: Each selected drum, before opening,
+is to be turned over twice (to got rid of any local accumulation of dust)
+and the requisite quantity is to be withdrawn with a shovel (not with the
+hand) from any part of it. These samples are immediately shot into one or
+more vessels which are closed air- and water-tight. The lid is secured by
+a seal. No other description of package, such as cardboard cases, boxes,
+&c.;, is permissible.
+
+"If there is disagreement as to the choice of a trustworthy person, each
+of the two parties is to take the required quantity, as specified above.
+
+"2. The yield of gas and the proportion of phosphoretted hydrogen
+contained in it are to be determined by the methods prescribed by the
+German Acetylene Association. If there are different analyses giving non-
+concordant results, an analysis is to be made by the German Acetylene
+Association, which shall be accepted as final and binding.
+
+"In cases, however, where the first analysis has been made in the
+Laboratory of the German Acetylene Association and arbitration is
+required, the decisive analysis shall be made by the Austrian Acetylene
+Association. If one of the parties prevents the arbitrator's analysis
+being carried out, the analysis of the other party shall be absolutely
+binding on him.
+
+"3. The whole of the cost of sampling and analysis is to be borne by the
+party in the wrong."
+
+   *    *    *    *    *
+
+The corresponding regulations issued by the Austrian Acetylene
+Association (_Der Oesterreichische Acetylenverein_) are almost
+identical with those of the German Association. They contain, however,
+provisions that the price is to include packing, that the carbide must
+not be delivered in lumps larger than the fist, that the sample may be
+sealed in a glass vessel with well-ground glass stopper, that the sample
+is to be transmitted to the testing laboratory with particulars of the
+size of the lots and the number of drums drawn for sampling, and that the
+whole of it is to be gasified in lots of upwards of 1 kilogramme (= 2.2
+lb.) apiece.
+
+In Italy, it is enacted by the Board of Agriculture, Commerce and
+Industry that by calcium carbide is to be understood for legal purposes
+also any other carbide, or carbide-containing mixture, which evolves
+acetylene by interaction with water. Also that only calcium carbide,
+which on admixture with water yields acetylene containing less than 1 per
+cent. of its volume of sulphuretted hydrogen and phosphoretted hydrogen
+taken together, may be put on the market.
+
+It is evident from the regulations quoted that the determination of the
+volume of gas which a particular sample of calcium carbide is capable of
+yielding, when a given weight of it is decomposed under the most
+favourable conditions, is a matter of the utmost practical importance to
+all interested in the trafficking of carbide, _i.e._, to the makers,
+vendors, brokers, and purchasers of that material, as well as to all
+makers and users of acetylene generating plant. The regulations of the
+British Association do not, however, give details of the method which the
+analyst should pursue in determining the yield of acetylene; and while
+this may to a certain extent be advantageously left to the discretion of
+the competent analyst, it is desirable that the results of the experience
+already won by those who have had special opportunities for practising
+this branch of analytical work should be embodied in a set of directions
+for the analysis of carbide, which may be followed in all ordinary
+analyses of that material. By the adoption of such a set of directions as
+a provisional standard method, disputes as to the quantity of carbide
+will be avoided, while it will still be open to the competent analyst to
+modify the method of procedure to meet the requirements of special cases.
+It would certainly be unadvisable in the present state of our analytical
+methods to accept any hard and fast of rules for analysis for determining
+the quality of carbide, but it is nevertheless well to have the best of
+existing methods codified for the guidance of analysts. The substance of
+the directions issued by the German Association (_Der Deutsche
+Acetylenverein_) is reproduced below.
+
+"METHODS FOR THE DETERMINATION OF TILE YIELD OF GAS FROM CALCIUM CARBIDE.
+
+"The greatest precision is attained when the whole of the sample
+submitted to the analyst is gasified in a carbide-to-water apparatus, and
+the gas evolved is measured in an accurately graduated gasholder.
+
+"The apparatus used for this analysis must not only admit of all the
+precautionary rules of gas-analytical work being observed, but must also
+fulfil certain other experimental conditions incidental to the nature of
+the analysis.
+
+"(_a_) The apparatus must be provided with an accurate thermometer
+to show the temperature of the confining water, and with a pressure
+gauge, which is in communication with the gasholder.
+
+"(_b_) The generator must either be provided with a gasholder which
+is capable of receiving the quantity of gas evolved from the whole amount
+of carbide, or the apparatus must be so constructed that it becomes
+possible with a gasholder which in not too large (up to 200 litres = say
+7 cubic feet capacity) to gasify a larger amount of carbide.
+
+"(_c_) The generator must be constructed so that escape of the
+evolved gas from it to the outer air is completely avoided.
+
+"(_d_) The gasholder must be graduated in parts up to 1/4 per cent.
+of its capacity, must travel easily, and be kept, as far as may be in
+suspension by counterweighting.
+
+"(_e_) The water used for decomposing the carbide and the confining
+water must be saturated, before use, with acetylene, and, further, the
+generator must, before the analysis proper, be put under the pressure of
+the confining (or sealing) liquid."
+
+The following is a description of a typical form of apparatus
+corresponding with the foregoing requirements:
+
+"The apparatus, shown in the annexed figure, consists of the generator A,
+the washer B, and the gasholder C.
+
+[Illustration: FIG. 22.--LARGE-SCALE APPARATUS FOR DETERMINING YIELD OF
+GAS FROM CARBIDE.]
+
+"The generator A consists of a cylindrical vessel with sloping bottom,
+provided with a sludge outlet _a_, a gas exit-pipe _b_, and a
+lid _b'_ fastened by screws. In the upper part ten boxes _c_
+are installed for the purpose of receiving the carbide. The bottoms of
+those boxes are flaps which rest through their wire projections on a
+revolvable disc _d_, which is mounted on a shaft _l_. This
+shaft passes through a stuffing-box to the outside of the generator and
+can be rotated by moans of the chains _f_, the pulleys _g_ and
+_h_, and the winch _i_. Its rotation causes rotation of the
+disc _d_. The disc _d_, on which the bottoms of the carbide-
+holders are supported, is provided with a slot _e_. On rotating the
+disc, on which the supporting wires of the bottoms of the carbide-holders
+rest, the slot is brought beneath these wires in succession; and the
+
+Back to Full Books

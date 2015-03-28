@@ -1,0 +1,2004 @@
+Acetylene, The Principles Of Its Generation And UsebyF. H. Leeds and W. J. Atkinson Butterfield
+
+OF ITS GENERATION AND USE ***
+
+
+
+
+E-text prepared by Richard Prairie, Tonya Allen, Juliet Sutherland, Charles
+Franks, and the Online Distributed Proofreading Team
+
+
+
+ACETYLENE
+
+THE PRINCIPLES OF ITS GENERATION AND USE
+
+A PRACTICAL HANDBOOK ON THE PRODUCTION, PURIFICATION, AND SUBSEQUENT
+TREATMENT OF ACETYLENE FOR THE DEVELOPMENT OF LIGHT, HEAT, AND POWER
+
+Second Edition
+
+REVISED AND ENLARGED
+
+BY
+
+F. H. LEEDS, F.I.C.
+
+FOR SOME YEARS TECHNICAL EDITOR OF THE JOURNAL "ACETYLENE"
+
+AND
+
+W. J. ATKINSON BUTTERFIELD, M.A.
+
+AUTHOR OF "THE CHEMISTRY OF GAS MANUFACTURE"
+
+
+
+
+
+
+
+PREFATORY NOTE TO THE FIRST EDITION
+
+In compiling this work on the uses and application of acetylene, the
+special aim of the authors has been to explain the various physical and
+chemical phenomena:
+
+(1) Accompanying the generation of acetylene from calcium carbide and
+water.
+
+(2) Accompanying the combustion of the gas in luminous or incandescent
+burners, and
+
+(3) Its employment for any purpose--(a) neat, (b) compressed into
+cylinders, (c) diluted, and (d) as an enriching material.
+
+They have essayed a comparison between the value of acetylene and other
+illuminants on the basis of "illuminating effect" instead of on the
+misleading basis of pure "illuminating power," a distinction which they
+hope and believe will do much to clear up the misconceptions existing on
+the subject. Tables are included, for the first time (it is believed) in
+English publications, of the proper sizes of mains and service-pipes for
+delivering acetylene at different effective pressures, which, it is
+hoped, will prove of use to those concerned in the installation of
+acetylene lighting systems.
+
+_June_ 1903
+
+NOTE TO THE SECOND EDITION
+
+The revision of this work for a new edition was already far advanced when
+it was interrupted by the sudden death on April 30, 1908, of Mr. F. H.
+Leeds. The revision was thereafter continued single-handed, with the help
+of very full notes which Mr. Leeds had prepared, by the undersigned. It
+had been agreed prior to Mr. Leeds' death that it would add to the
+utility of the work if descriptions of a number of representative
+acetylene generators were given in an Appendix, such as that which now
+appears at the conclusion of this volume. Thanks are due to the numerous
+firms and individuals who have assisted by supplying information for use
+in this Appendix.
+
+W. J. ATKINSON BUTTERFIELD
+
+WESTMINSTER
+
+_August 1909_
+
+CONTENTS
+
+CHAPTER I
+
+INTRODUCTORY--THE COST AND ADVANTAGES OF ACETYLENE LIGHTING
+
+Intrinsic advantages
+Hygienic advantages
+Acetylene and paraffin oil
+Blackened ceilings
+Cost of acetylene lighting
+Cost of acetylene and coal-gas
+Cost of acetylene and electric lighting
+Cost of acetylene and paraffin oil
+Cost of acetylene and air-gas
+Cost of acetylene and candles
+Tabular statement of costs (_to face_)
+Illuminating power and effect
+
+
+CHAPTER II
+
+THE PHYSICS AND CHEMISTRY OF THE REACTION BETWEEN CARBIDE AND WATER
+
+Nature of calcium carbide
+Storage of calcium carbide
+Fire risks of acetylene lighting
+Purchase of carbide
+Quality and sizes of carbide
+Treated and scented carbide
+Reaction between carbide and water
+  chemical nature
+  heat evolved
+  difference between heat and temperature
+  amount of heat evolved
+  effect of heat on process of generation
+Reaction:
+  effects of heat
+  effect of heat on the chemical reaction
+  effects of heat on the acetylene
+  effects of heat on the carbide
+Colour of spent carbide
+Maximum attainable temperatures
+Soft solder in generators
+Reactions at low temperatures
+Reactions at high temperatures
+Pressure in generators
+
+CHAPTER III
+
+THE GENERAL PRINCIPLES OF ACETYLENE GENERATION ACETYLENE GENERATING
+APPARATUS
+
+Automatic and non-automatic generators
+Control of the chemical reaction
+Non-automatic carbide-to-water generators
+Non-automatic water-to-carbide generators
+Automatic devices
+Displacement gasholders
+Action of water-to-carbide generators
+Action of carbide-to-water generators
+Use of oil in generator
+Rising gasholder
+Deterioration of acetylene on storage
+Freezing and its avoidance
+Corrosion in apparatus
+Isolation of holder from generator
+Water-seals
+Vent pipes and safety valve
+Frothing in generator
+Dry process of generation
+Artificial lighting of generator sheds
+
+CHAPTER IV
+
+THE SELECTION OF AN ACETYLENE GENERATOR
+
+Points to be observed
+Recommendations of Home Office Committee
+British and Foreign regulations for the construction and installation of
+   acetylene generating plant
+
+CHAPTER V
+
+THE TREATMENT OF ACETYLENE AFTER GENERATION
+
+Impurities in calcium carbide
+Impurities of acetylene
+Removal of moisture
+Generator impurities in acetylene
+Filters
+Carbide impurities in acetylene
+Washers
+Reasons for purification
+Necessary extent of purification
+Quantity of impurities in acetylene
+Purifying materials
+Bleaching powder
+Heratol, frankoline, acagine, and puratylene
+Efficiency of purifying material
+Minor reagent
+Method of a gas purifier
+Methods of determining exhaustion of purifying material
+Regulations for purification
+Drying
+Position of purifier
+Filtration
+General arrangement of plans
+Generator residues
+Disposal of residue
+
+CHAPTER VI
+
+THE CHEMICAL AND PHYSICAL PROPERTIES OF ACETYLENE
+
+Physical properties
+Leakage
+Heat of combustion
+Explosive limits
+Range of explosibility
+Solubility in liquids
+Toxicity
+Endothermic nature
+Polymerisation
+Heats of formation and combustion
+Colour of flame
+Radiant efficiency
+Chemical properties
+Reactions with copper
+
+CHAPTER VII
+
+MAINS AND SERVICE-PIPES--SUBSIDIARY APPARATUS
+
+Meters
+Governors
+Gasholder pressure
+Pressure-gauges
+Dimensions of mains and pipes
+Velocity of flow in pipes
+Service-pipes and mains
+Leakage
+Pipes and fittings
+Laying mains
+Expelling air from pipes
+Tables of pipes and mains
+
+CHAPTER VIII
+
+COMBUSTION OF ACETYLENE IN LUMINOUS BURNERS--THEIR DISPOSITION
+
+Nature of luminous flames
+Illuminating power
+Early burners
+Injector and twin-flame burners
+Illuminating power of self-luminous burners
+Glassware for burners
+
+CHAPTER IX
+
+INCANDESCENT BURNERS--HEATING APPARATUS--MOTORS--AUTOGENOUS SOLDERING
+
+Merits of incandescent lighting
+Conditions for incandescent lighting
+Illuminating power of incandescent burners
+Durability of mantles
+Typical incandescent burners
+Acetylene for heating and cooking
+Acetylene motors
+Blowpipes
+Autogenous soldering and welding
+
+CHAPTER X
+
+CARBURETTED ACETYLENE
+
+Carburetted acetylene
+Illuminating power of carburetted acetylene
+Carburetted acetylene for "power"
+
+
+CHAPTER XI
+
+COMPRESSED AND DISSOLVED ACETYLENE--MIXTURES WITH OTHER GASES
+
+Compression
+Dissolved acetylene
+Solution in acetone
+Liquefied acetylene
+Dilution with carbon dioxide
+Dilution with air
+Mixed carbides
+Dilution with, methane and hydrogen
+Self-inflammable acetylene
+Enrichment with acetylene
+Partial pressure
+Acetylene-oil-gas
+
+CHAPTER XII
+
+SUNDRY USES
+
+Destruction of noxious moths
+Destruction of phylloxera and mildew
+Manufacture of lampblack
+Production of tetrachlorethane
+Utilisation of residues
+Sundry uses for the gas
+
+CHAPTER XIII
+
+PORTABLE ACETYLENE LAMPS AND PLANT
+
+Table and vehicular lamps
+Flare lamps
+Cartridges of carbide
+Cycle-lamp burners
+Railway lighting
+
+CHAPTER XIV
+
+VALUATION AND ANALYSIS OF CARBIDE
+
+Regulations of British Acetylene Association
+Regulations oL German Acetylene Association
+Regulations of Austrian Acetylene Association
+Sampling carbide
+Yield of gas from small carbide
+Correction of volumes for temperature and pressure
+Estimation of impurities
+Tabular numbers
+
+APPENDIX
+
+DESCRIPTIONS OP GENERATORS
+
+America: Canada
+America: United States
+Austria-Hungary
+Belgium
+France
+Germany
+Great Britain and Ireland
+
+INDEX
+
+INDEX TO APPENDIX
+
+
+
+ACETYLENE
+
+
+
+CHAPTER I
+
+INTRODUCTORY--THE COST AND ADVANTAGES OF ACETYLENE LIGHTING
+
+Acetylene is a gas [Footnote: For this reason the expression, "acetylene
+gas," which is frequently met with, would be objectionable on the ground
+of tautology, even if it were not grammatically and technically
+incorrect. "Acetylene-gas" is perhaps somewhat more permissible, but it
+is equally redundant and unnecessary.] of which the most important
+application at the present time is for illuminating purposes, for which
+its properties render it specially well adapted. No other gas which can
+be produced on a commercial scale is capable of giving, volume for
+volume, so great a yield of light as acetylene. Hence, apart from the
+advantages accruing to it from its mode of production and the nature of
+the raw material from which it is produced, it possesses an inherent
+advantage over other illuminating gases in the smaller storage
+accommodation and smaller mains and service-pipes requisite for the
+maintenance of a given supply of artificial light. For instance, if a
+gasholder is required to contain sufficient gas for the lighting of an
+establishment or district for twenty-four hours, its capacity need not be
+nearly so great if acetylene is employed as if oil-gas, coal-gas, or
+other illuminating gas is used. Consequently, for an acetylene supply the
+gasholder can be erected on a smaller area and for considerably less
+outlay than for other gas supplies. In this respect acetylene has an
+unquestionable economical advantage as a competitor with other varieties
+of illuminating gas for supplies which have generally been regarded as
+lying peculiarly within their preserves. The extent of this advantage
+will be referred to later.
+
+The advantages that accrue to acetylene from its mode of production, and
+the nature of the raw material from which it is obtained, are in reality
+of more importance. Acetylene is readily and quickly produced from a raw
+material--calcium carbide--which, relatively to the yield of light of the
+gaseous product, is less bulky than the raw materials of other gases. In
+comparison also with oils and candles, calcium carbide is capable of
+yielding, through the acetylene obtainable from it, more light per unit
+of space occupied by it. This higher light-yielding capacity of calcium
+carbide, ready to be developed through acetylene, gives the latter gas a
+great advantage over all other illuminants in respect of compactness for
+transport or storage. Hence, where facilities for transport or storage
+are bad or costly, acetylene may be the most convenient or cheapest
+illuminant, notwithstanding its relatively high cost in many other cases.
+For example, in a district to which coal and oil must be brought great
+distances, the freight on them may be so heavy that--regarding the
+question as simply one of obtaining light in the cheapest manner--it may
+be more economical to bring calcium carbide an equal or even greater
+distance and generate acetylene from it on the spot, than to use oil or
+make coal-gas for lighting purposes, notwithstanding that acetylene may
+not be able to compete on equal terms with oil--or coal-gas at the place
+from which the carbide is brought. Likewise where storage accommodation
+is limited, as in vehicles or in ships or lighthouses, calcium carbide
+may be preferable to oil or other illuminants as a source of light.
+Disregarding for the moment intrinsic advantages which the light
+obtainable from acetylene has over other lights, there are many cases
+where, owing to saving in cost of carriage, acetylene is the most
+economical illuminant; and many other cases where, owing to limited space
+for storage, acetylene far surpasses other illuminants in convenience,
+and is practically indispensable.
+
+The light of the acetylene flame has, however, some intrinsic advantages
+over the light of other artificial illuminants. In the first place, the
+light more closely resembles sunlight in composition or "colour." It is
+more nearly a pure "white" light than is any other flame or incandescent
+body in general use for illuminating purposes. The nature or composition
+of the light of the acetylene flame will be dealt with more exhaustively
+later, and compared with that afforded by other illuminants; but,
+speaking generally, it may be said that the self-luminous acetylene light
+is superior in tint, to all other artificial lights, for which reason it
+is invaluable for colour-judging and shade-matching. In the second
+place, when the gas issues from a suitable self-luminous burner under
+proper pressure, the acetylene flame is perfectly steady; and in this
+respect it in preferable to most types of electric light, to all self-
+luminous coal-gas flames and candles, and to many varieties of oil-lamp.
+In steadiness and freedom from flicker it is fully equal to incandescent
+coal-gas light, but it in distinctly superior to the latter by virtue of
+its complete freedom from noise. The incandescent acetylene flame emits a
+slight roaring, but usually not more than that coming from an
+atmospheric coal-gas burner. With the exception of the electric arc,
+self-luminous acetylene yields a flame of unsurpassed intensity, and yet
+its light is agreeably soft. In the third place, where electricity is
+absent, a brilliancy of illumination which can readily be obtained from
+self-luminous acetylene can otherwise only be procured by the employment
+of the incandescent system applied either to coal-gas or to oil; and
+there are numerous situations, such as factories, workshops, and the
+like, where the vibration of the machinery or the prevalence of dust
+renders the use of mantles troublesome if not impossible. Anticipating
+what will be said later, in cases like these, the cost of lighting by
+self-luminous acetylene may fairly be compared with self-luminous coal-
+gas or oil only; although in other positions the economy of the Welsbach
+mantle must be borne in mind.
+
+Acetylene lighting presents also certain important hygienic advantages
+over other forms of flame lighting, in that it exhausts, vitiates, and
+heats the air of a room to a less degree, for a given yield of light,
+than do either coal-gas, oils, or candles. This point in favour of
+acetylene is referred to here only in general terms; the evidence on
+which the foregoing statement is based will be recorded in a tabular
+comparison of the cost and qualities of different illuminants. Exhaustion
+of the air means, in this connexion, depletion of the oxygen normally
+present in it. One volume of acetylene requires 2-1/2 volumes of oxygen
+for its complete combustion, and since 21 volumes of oxygen are
+associated in atmospheric air with 79 volumes of inert gases--chiefly
+nitrogen--which do not actively participate in combustion, it follows
+that about 11.90 volumes of air are wholly exhausted, or deprived of
+oxygen, in the course of the combustion of one volume of acetylene. If
+the light which may be developed by the acetylene is brought into
+consideration, it will be found that, relatively to other illuminants,
+acetylene causes less exhaustion of the air than any other illuminating
+agent except electricity. For instance, coal-gas exhausts only about 6-
+1/2 times its volume of air when it is burnt; but since, volume for
+volume, acetylene ordinarily yields from three to fifteen times as much
+light as coal-gas, it follows that the same illuminative value is
+obtainable from acetylene by considerably less exhaustion of the air than
+from coal-gas. The exact ratio depends on the degree of efficiency of the
+burners, or of the methods by which light is obtained from the gases, as
+will be realised by reference to the table which follows. Broadly
+speaking, however, no illuminant which evolves light by combustion
+(oxidation), and which therefore requires a supply of oxygen or air for
+its maintenance, affords light with so little exhaustion of the air as
+acetylene. Hence in confined, ill-ventilated, or crowded rooms, the air
+will suffer less exhaustion, and accordingly be better for breathing, if
+acetylene is chosen rather than any other illuminant, except electricity.
+
+Next, in regard to vitiation of the air, by which is meant the alteration
+in its composition resulting from the admixture of products of combustion
+with it. Electric lighting is as superior to other modes of lighting in
+respect of direct vitiation as of exhaustion of the air, because it does
+not depend on combustion. Putting it aside, however, light is obtainable
+by means of acetylene with less attendant vitiation of the air than by
+means of any other gas or of oil or candles. The principal vitiating
+factor in all cases is the carbonic acid produced by the combustion. Now
+one volume of acetylene on combustion yields two volumes of carbonic
+acid, whereas one volume of coal-gas yields about 0.6 volume of carbonic
+acid. But even assuming that the incandescent system of lighting is
+applied in the case of coal-gas and not of acetylene, the ratio of the
+consumption of the two gases for the development of a given illuminative
+effect will be such that no more carbonic acid will be produced by the
+acetylene; and if the incandescent system is applied either in both cases
+or in neither, the ratio will be greatly in favour of acetylene. The
+other factors which determine the vitiation of the air of a room in which
+the gas is burning are likewise under ordinary conditions more in favour
+of acetylene. They are not, however, constant, since the so-called
+"impurities," which on combustion cause vitiation of the air, vary
+greatly in amount according to the extent to which the gases have been
+purified. London coal-gas, which was formerly purified to the highest
+degree practically attainable, used to contain on the average only 10 to
+12 grains of sulphur per 100 cubic feet, and virtually no other impurity.
+But now coal-gas, in London and most provincial towns, contains 40 to 50
+grains of sulphur per 100 cubic foot. At least 5 grains of ammonia per
+100 cubic foot in also present in coal-gas in some towns. Crude acetylene
+also contains sulphur and ammonia, that coming from good quality calcium
+carbide at the present day including about 31 grains of the former and
+25 grains of the latter per 100 cubic feet. But crude acetylene is also
+accompanied by a third impurity, viz., phosphoretted hydrogen or
+phosphine, which in unknown in coal-gas, and which is considerably more
+objectionable than either ammonia or sulphur. The formation, behaviour,
+and removal of those various impurities will be discussed in Chapter V.;
+but here it may be said that there is no reason why, if calcium carbide
+of a fair degree of purity has been used, and if the gas has been
+generated from it in a properly designed and smoothly working apparatus--
+this being quite as important as, or even more important than, the purity
+of the original carbide--the gas should not be freed from phosphorus,
+sulphur, and ammonia to the utmost necessary or desirable extent, by
+processes which are neither complicated nor expensive. And if this is
+done, as it always should be whenever the acetylene is required for
+domestic lighting, the vitiation of the air of a room due to the
+"impurities" in the gas will become much less in the case of acetylene
+than in that of even well-purified coal-gas; taking equal illuminating
+effect as the basis for comparison.
+
+Acetylene is similarly superior, speaking generally, to petroleum in
+respect of impurities, though the sulphur present in petroleum oils, such
+as are sold in this country for household use, though very variable, is
+often quite small in amount, and seldom is responsible for serious
+vitiation of the atmosphere.
+
+Regarding somewhat more closely the relative convenience and safety of
+acetylene and paraffin for the illumination of country residences, it may
+be remarked that an extraordinarily great amount of care must he bestowed
+upon each separate lamp if the whole house is to be kept free from an
+odour which is very offensive to the nostrils; and the time occupied in
+this process, which of itself is a disagreeable one, reaches several
+hours every day. Habit has taught the country dweller to accept as
+inevitable this waste of time, and largely to ignore the odour of
+petroleum in his abode; but the use of acetylene entirely does away with
+the daily cleaning of lamps, and, if the pipe-fitting work has been done
+properly, yields light absolutely unaccompanied by smell. Again, unless
+most carefully managed, the lamp-room of a large house, with its store of
+combustible oil, and its collection of greasy rags, must unavoidably
+prove a sensible addition to the risk of fire. The analogue of the lamp-
+room when acetylene is employed is the generator-house, and this is a
+separate building at some distance from the residence proper. There need
+be no appreciable odour in the generator-house, except during the times
+of charging the apparatus; but if there is, it passes into the open air
+instead of percolating into the occupied apartments.
+
+The amount of heat developed by the combustion of acetylene also is less
+for a given yield of light than that developed by most other illuminants.
+The gas, indeed, is a powerful heating gas, but owing to the amount
+consumed being so small in proportion to the light developed, the heat
+arising from acetylene lighting in a room is less than that from most
+other illuminating agents, if the latter are employed to the extent
+required to afford equally good illumination. The ratio of the heat
+developed in acetylene lighting to that developed in, _e.g._,
+lighting by ordinary coal-gas, varies considerably according to the
+degree of efficiency of the burners, or, in other words, of the methods
+by which light is obtained from the gases. Volume for volume, acetylene
+yields on combustion about three and a half times as much heat as coal-
+gas, yet, owing to its superior efficiency as an illuminant, any required
+light may be obtained through it with no greater evolution of heat than
+the best practicable (incandescent) burners for coal-gas produce. The
+heat evolved by acetylene burners adequate to yield a certain light is
+very much less than that evolved by ordinary flat-flame coal-gas burners
+or by oil-lamps giving the same light, and is not more than about three
+times as much as that from ordinary electric lamps used in numbers
+sufficient to give the same light. More exact figures for the ratio
+between the heat developed in acetylene lighting and that in other modes
+of lighting are given in the table already referred to.
+
+In connexion with the smaller amount of heat developed per unit of light
+when acetylene is the illuminant, the frequently exaggerated claim that
+acetylene does not blacken ceilings at all may be studied. Except it be a
+carelessly manipulated petroleum-lamp, no form of artificial illuminant
+employed nowadays ever emits black smoke, soot, or carbon, in spite of
+the fact that all luminous flames commercially capable of utilisation do
+contain free carbon in the elemental state. The black mark on a ceiling
+over a source of light is caused by a rising current of hot air and
+combustion products set up by the heat accompanying the light, which
+current of hot gas carries with it the dust and dirt always present in
+the atmosphere of an inhabited room. As this current of air and burnt gas
+travels in a fairly concentrated vertical stream, and as the ceiling is
+comparatively cool and exhibits a rough surface, that dust and dirt are
+deposited on the ceiling above the flame, but the stain is seldom or
+never composed of soot from the illuminant itself. Proof of this
+statement may be found in the circumstance that a black mark is
+eventually produced over an electric glow-lamp and above a pipe
+delivering hot water. Clearly, therefore, the depth and extent of the
+mark will depend on the volume and temperature of the hot gaseous
+current; and since per unit of light acetylene emits a far smaller
+quantity of combustion products and a far smaller amount of heat than any
+other flame illuminant except incandescent coal-gas, the inevitable black
+mark over its flame takes very much longer to appear. Quite roughly
+speaking, as may be deduced from what has already been said on this
+subject, the luminous flame of acetylene "blackens" a ceiling at about
+the same rate as a coal-gas burner of the best Welsbach type.
+
+There is one respect in which acetylene and other flame illuminants are
+superior to electric lighting, viz., that they sterilise a larger volume
+of air. All the air which is needed to support combustion, as well as the
+excess of air which actually passes through the burner tube and flame in
+incandescent burners, is obviously sterilised; but so also is the much
+larger volume of air which, by virtue of the up-current due to the heat
+of the flame, is brought into anything like close proximity with the
+light. The electric glow-lamp, and the most popular and economical modern
+enclosed electric arc-lamp, sterilise only the much smaller volume of air
+which is brought into direct contact with their glass bulbs. Moreover,
+when large numbers of persons are congregated in insufficiently
+ventilated buildings--and many public rooms are insufficiently
+ventilated--the air becomes nauseous to inspire and positively
+detrimental to the health of delicate people, by reason of the human
+effluvia which arise from soiled raiment and uncleansed or unhealthy
+bodies, long before the proportion of carbonic acid by itself is high
+enough to be objectionable. Thus a certain proportion of carbonic acid
+coming from human lungs and skin is more harmful than the same proportion
+of carbonic acid derived from the combustion of gas or oil. Hence
+acetylene and flame illuminants generally have the valuable hygienic
+advantages over electric lighting, not only of killing a far larger
+number of the micro-organisms that may be present in the air, but, by
+virtue of their naked flames, of burning up and destroying a considerable
+quantity of the aforesaid odoriferous matter, thus relieving the nose and
+materially assisting in the prevention of that lassitude and anaemia
+occasionally follow the constant inspiration of air rendered foul by
+human exhalations.
+
+The more important advantages of acetylene as an illuminant have now been
+indicated, and it remains to discuss the cost of acetylene lighting in
+comparison with other modes of procuring artificial light. At the outset
+it may be stated that a very much greater reduction in the price of
+calcium carbide--from which acetylene is produced--than is likely to
+ensue under the present methods and conditions of manufacture will be
+required to make acetylene lighting as cheap as ordinary gas lighting in
+towns in this country, provided incandescent burners are used for the
+gas. On the score of cheapness (and of convenience, unless the acetylene
+were delivered to the premises from some central generating station)
+acetylene cannot compete as an illuminant with coal-gas where the latter
+costs, say, not more than 5s. per 1000 cubic feet, if only
+reasonable attention is given to the gas-burners, and at least a quarter
+of them are on the incandescent system. If, on the other hand, coal-gas
+is misused and wasted through the employment only of interior or worn-out
+flat-flame burners, while the best types of burner are used for
+acetylene, the latter gas may prove as cheap for lighting as coal-gas at,
+say, 2s. 6d. per 1000 cubic feet (and be far better hygienically);
+whereas, contrariwise, if coal-gas is used only with good and properly
+maintained incandescent burners, it may cost over 10s. per 1000 cubic
+feet, and be cheaper than acetylene burned in good burners (and as good
+from the hygienic standpoint). More precise figures on the relative costs
+of coal-gas lighting and acetylene lighting are given in the tabular
+statement at the close of this chapter.
+
+With regard to electric lighting it is somewhat difficult to lay down a
+fair basis of comparison, owing to the wide variations in the cost of
+current, and in the efficiency of lamps, and to the undoubted hygienic
+and aesthetic claims of electric lighting to precedence. But in towns in
+this country where there is a public electricity supply, electric
+lighting will be used rather than acetylene for the same reasons that it
+is preferred to coal-gas. Cost is only a secondary consideration in such
+cases, and where coal-gas is reasonably cheap, and nevertheless gives
+place to electric lighting, acetylene clearly cannot hope to supplant the
+latter. [Footnote: Where, however, as is frequently the case with small
+public electricity-supply works, the voltage of the supply varies
+greatly, the fluctuations in the light of the lamps, and the frequent
+destruction of fuses and lamps, are such manifest inconveniences that
+acetylene is in fact now being generally preferred to electric lighting
+in such circumstances.] But where current cannot be had from an
+electricity-supply undertaking, and it is a question, in the event of
+electric lighting being adopted, of generating current by driving a
+dynamo, either by means of a gas-engine supplied from public gas-mains,
+by means of a special boiler installation, or by means of an oil-engine
+or of a power gas-plant and gas-engine, the claims of acetylene to
+preference are very strong. An important factor in the estimation of the
+relative advantages of electricity and acetylene in such cases is the
+cost of labour in looking after the generating plant. Where a gas-engine
+supplied from public gas-mains is used for driving the dynamo, electric
+lighting can be had at a relatively small expenditure for attendance on
+the generating plant. But the cost of the gas consumed will be high, and
+actually light could be obtained directly from the gas by means of
+incandescent mantles at far loss cost than by consuming the gas in a
+motor for the indirect production of light by means of electric current.
+Therefore electric lighting, if adopted under these conditions, must be
+preferred to gas lighting from considerations which are deemed to
+outweigh those of a much higher cost, and acetylene does not present so
+great advantages over coal-gas as to affect the choice of electric
+lighting. But in the cases where there is no public gas-supply, and
+current must be generated from coal or coke or oil consumed on the spot,
+the cost of the skilled labour required to look after either a boiler,
+steam-engine and dynamo, or a power gas-plant and gas-engine or oil-
+engine and dynamo, will be so heavy that unless the capacity of the
+installation is very great, acetylene will almost certainly prove a
+cheaper and more convenient method of obtaining light. The attention
+required by an acetylene installation, such as a country house of upwards
+of thirty rooms would want, is limited to one or two hours' labour per
+diem at any convenient time during daylight. Moreover, the attendant need
+not be highly paid, as he will not have required an engineman's training,
+as will the attendant on an electric lighting plant. The latter, too,
+must be present throughout the hours when light is wanted unless a heavy
+expenditure has been incurred on accumulators. Furthermore, the capital
+outlay on generating plant will be very much less for acetylene than for
+electric lighting. General considerations such as these lead to the
+conclusion that in almost all country districts in this country a house
+or institution could be lighted more cheaply by means of acetylene than
+by electricity. In the tabular statement of comparative costs of
+different modes of lighting, electric lighting has been included only on
+the basis of a fixed cost per unit, as owing to the very varied cost of
+generating current by small installations in different parts of the
+country it would be futile to attempt to give the cost of electric
+lighting on any other basis, such as the prime cost of coal or coke in a
+particular district. Where current is supplied by a public electricity-
+supply undertaking, the cost per unit is known, and the comparative costs
+of electric light and acetylene can be arrived at with tolerable
+precision. It has not been thought necessary to include in the tabular
+statement electric arc-lamps, as they are only suitable for the lighting
+of large spaces, where the steadiness and uniformity of the illumination
+are of secondary importance. Under such conditions, it may be stated
+parenthetically, the electric arc-light is much less costly than
+acetylene lighting would be, but it is now in many places being
+superseded by high-pressure gas or oil incandescent lights, which are
+steady and generally more economical than the arc light.
+
+The illuminant which acetylene is best fitted to supersede on the score
+of convenience, cleanliness, and hygienic advantages is oil. By oil is
+meant, in this connection, the ordinary burning petroleum, kerosene, or
+paraffin oil, obtained by distilling and refining various natural oils
+and shales, found in many countries, of which the United States
+(principally Pennsylvania), Russia (the Caucasus chiefly), and Scotland
+are practically the only ones which supply considerable quantities for
+use in Great Britain. Attempts are often made to claim superiority for
+particular grades of these oils, but it may be at once stated that so for
+as actual yield of light is concerned, the same weight of any of the
+commercial oils will give practically the same result. Hence in the
+comparative statement of the cost of different methods of lighting, oil
+will be taken at the cheapest rate at which it could ordinarily be
+obtained, including delivery charges, at a country house, when bought by
+the barrel. This rate at the present time is about ninepence per gallon.
+A higher price may be paid for grades of mineral oil reputed to be safer
+or to give a "brighter" or "clearer" light; but as the quantity of light
+depends mainly upon the care and attention bestowed on the burner and
+glass fittings of the lamp, and partly upon the employment of a suitable
+wick, while the safety of each lamp depends at least as much upon the
+design of that lamp, and the accuracy with which the wick fits the burner
+tube, as upon the temperature at which the oil "flashes," the extra
+expense involved in burning fancy-priced oils will not be considered
+here.
+
+The efficiency (_i.e._, the light yielded per pint or other unit
+volume consumed) of oil-lamps varies greatly, and, speaking broadly,
+increases with the power of the lamp. But as large or high-power lamps
+are not needed throughout a house, it is fairer to assume that the light
+obtainable from oil in ordinary household use is the mean of that
+afforded by large and that afforded by small lamps. A large oil-lamp as
+commonly used in country houses will give a light of about 20 candle-
+power, while a convenient small lamp will give a light of not more than
+about 5 candle-power. The large lamp will burn about 55 hours for every
+gallon of oil consumed, or give an illuminating duty of about 1100
+candle-hours (_i.e._, the product of candle-power by burning-hours)
+per gallon. The small lamp, on the other hand, will burn about 140 hours
+for every gallon of oil consumed, or give an illuminating duty of about
+700 candle-hours per gallon. Actually large lamps would in most country
+houses be used only in the entrance hall, living-rooms, and kitchen,
+while passages and minor rooms on the lower floors would be lighted by
+small lamps. Hence, making due allowance for the lower rate of
+consumption of the small lamps, it will be seen that, given equal numbers
+of large and small lamps in use, the mean illuminating duty of a gallon
+of oil as burnt in country houses will be 987, or, in round figures, 990
+candle-hours. Usually candles are used in the bedrooms of country houses
+where the lower floors are lighted by means of petroleum lamps; but when
+acetylene is installed in such a house it will frequently be adopted in
+the principal bed- and dressing-rooms as well as in the living-rooms, as,
+unless candles are employed very lavishly, they are really totally
+inadequate to meet the reasonable demands for light of, _e.g._, a
+lady dressing for dinner. Where acetylene displaces candles as well as
+lamps in a country house, it is necessary, in comparing the cost of the
+new illuminant with that of the candles and oil, to bear in mind the
+superior degree of illumination which is secured in all rooms, at least
+where candles were formerly used.
+
+In regard to exhaustion and vitiation of the air, and to heat evolved,
+self-luminous petroleum lamps stand on much the same footing as coal-gas
+when the latter is burned in flat-flame burners, if the comparison is
+based on a given yield of light. A large lamp, owing to its higher
+illuminating efficiency, is better in this respect than a small one--
+light for light, it is more hygienic than ordinary flat-flame coal-gas
+burners, while a small lamp is less hygienic. It will therefore be
+understood at once, from what has already been said about the superiority
+on hygienic grounds of acetylene to flat-flame coal-gas lighting, that
+acetylene is in this respect far superior to petroleum lamps. The degree
+of its superiority is indicated more precisely by the figures quoted in
+the tabular statement which concludes this chapter.
+
+Before giving the tabular statement, however, it is necessary to say a
+few words in regard to one method of lighting which, may possibly develop
+into a more serious competitor with acetylene for the lighting of the
+better class of country house than any of the illuminating agents and
+modes of lighting so far referred to. The method in question is lighting
+by so-called air-gas used for raising mantles to incandescence in
+upturned or inverted burners of the Welsbach-Kern type. "Air-gas" is
+ordinary atmospheric air, more or less completely saturated with the
+vapour of some highly volatile hydrocarbon. The hydrocarbons practically
+applied have so far been only "petroleum spirit" or "carburine," and
+"benzol." "Petroleum spirit" or "carburine" consists of the more highly
+volatile portion of petroleum, which is removed by distillation before
+the kerosene or burning oil is recovered from the crude oil. Several
+grades of this highly volatile petroleum distillate are distinguished in
+commerce; they differ in the temperature at which they begin to distil
+and the range of temperature covered by their distillation, and, speaking
+more generally, in their degree of volatility, uniformity, and density.
+If the petroleum distillate is sufficiently volatile and fairly uniform
+in character, good air-gas may be produced merely by allowing air to pass
+over an extended surface of the liquid. The vapour of the petroleum
+spirit is of greater density than air, and hence, if the course of the
+air-gas is downward from the apparatus at which it is produced, the flow
+of air into the apparatus and over the surface of the spirit will be
+automatically maintained by the "pull" of the descending air-gas when
+once the flow has been started until the outlet for the air-gas is
+stopped or the spirit in the apparatus is exhausted. Hence, if the
+apparatus for saturating air with the vapour of the light petroleum is
+placed well above all the points at which the air-gas is to be burnt--
+_e.g._, on the roof of the house--the production of the air-gas may
+by simple devices become automatic, and the only attention the apparatus
+will require will be the replenishing of its reservoir from time to time
+with light petroleum. But a number of precautions are required to make
+this simple process operate without interruption or difficulty. For
+instance, the evaporation of the spirit must not be so rapid relatively
+to its total bulk as to lower its temperature, and thereby that of the
+overflowing air, too much; the reservoir must be protected from extreme
+cold and extreme heat; and the risk of fire from the presence of a highly
+volatile and highly inflammable liquid on or near the roof of the house
+must be met. This risk is one to which fire insurance companies take
+exception.
+
+More commonly, however, air-gas is made non-automatically, or more or
+less automatically by the employment of some mechanical means. The light
+petroleum, benzol, or other suitable volatile hydrocarbon is volatilised,
+where necessary, by the application of gentle heat, while air is driven
+over or through it by means of a small motor, which in some cases is a
+hot-air engine operated by heat supplied by a flame of the air-gas
+produced. These air-gas producers, or at least the reservoir of volatile
+hydrocarbon, may be placed in an outbuilding, so that the risk of fire in
+the house itself is minimised. They require, however, as much attention
+as an acetylene generator, usually more. It is difficult to give reliable
+data as to the cost of air-gas, inclusive of the expenses of production.
+It varies considerably with the description of hydrocarbon employed, and
+its market price. Air-gas is only slightly inferior hygienically to
+acetylene, and the colour of its light is that of the incandescent light
+as produced by coal-gas or acetylene. Air-gas of a certain grade may be
+used for lighting by flat-flame burners, but it has been available thus
+for very many years, and has failed to achieve even moderate success. But
+the advent of the incandescent burner has completely changed its position
+relatively to most other illuminants, and under certain conditions it
+seems likely to be the most formidable competitor with acetylene. Since
+air-gas, and the numerous chemically identical products offered under
+different proprietary names, is simply atmospheric air more or less
+loaded with the vapour of a volatile hydrocarbon which is normally
+liquid, it possesses no definite chemical constitution, but varies in
+composition according to the design of the generating plant, the
+atmospheric temperature at the time of preparation, the original degree
+of volatility of the hydrocarbon, the remaining degree of volatility
+after the more volatile portions have been vaporised, and the speed at
+which the air is passed through the carburettor. The illuminating power
+and the calorific value of air-gas, unless the manufacture is very
+precisely controlled, are apt to be variable, and the amount of light,
+emitted, either in self-luminous or in incandescent burners, is somewhat
+indeterminate. The generating plant must be so constructed that the air
+cannot at any time be mixed with as much hydrocarbon vapour as
+constitutes an explosive mixture with it, otherwise the pipes and
+apparatus will contain a gas which will forthwith explode if it is
+ignited, _i.e._, if an attempt is made to consume it otherwise than
+in burners with specially small orifices. The safely permissible mixtures
+are (1) air with less hydrocarbon vapour than constitutes an explosive
+mixture, and (2) air with more hydrocarbon vapour than constitutes an
+explosive mixture. The first of these two mixtures is available for
+illuminating purposes only with incandescent mantles, and to ensure a
+reasonable margin of safety the mixing apparatus must be so devised that
+the proportion of hydrocarbon vapour in the air-gas can never exceed 2
+per cent. From Chapter VI. it will be evident that a little more than 2
+per cent. of benzene, pentane or benzoline vapour in air forms an
+explosive mixture. What is the lowest proportion of such vapours in
+admixture with air which will serve on combustion to maintain a mantle in
+a state of incandescence, or even to afford a flame at all, does not
+appear to have been precisely determined, but it cannot be much below 1-
+1/2 per cent. Hence the apparatus for producing air-gas of this first
+class must be provided with controlling or governing devices of such
+nicety that the proportion of hydrocarbon vapour in the air-gas is
+maintained between about 1-1/2 and 2 per cent. It is fair to say that in
+normal working conditions a number of devices appear to fulfil this
+requirement satisfactorily. The second of the two mixtures referred to
+above, viz., air with more hydrocarbon vapour than constitutes an
+explosive mixture, is primarily suitable for combustion in self-luminous
+burners, but may also be consumed in properly designed incandescent
+burners. But the generating apparatus for such air-gas must be equipped
+with some governing or controlling device which will ensure the
+proportion of hydrocarbon vapour in the mixture never falling below, say,
+7 per cent. On the other hand, if saturation of the air with the vapour
+is practically attained, should the temperature of the gas fall before it
+arrives at the point of combustion, part of the spirit will condense out,
+and the product will thus lose part of its illuminating or calorific
+intensity, besides partially filling the pipes with liquid products of
+condensation. The loss of intensity in the gas during cold weather may or
+may not be inconvenient according to circumstances; but the removal of
+part of the combustible material brings the residual air-gas nearer to
+its limit of explosibility--for it is simply a mixture of combustible
+vapour with air, which, normally, is not explosive because the proportion
+of spirit is too high--and thus, when led into an atmospheric burner, the
+extra amount of air introduced at the injector jets may cause the mixture
+to be an explosive mixture of air and spirit, so that it will take fire
+within the burner tube instead of burning quietly at the proper orifice.
+This matter will be made clearer on studying what is said about explosive
+limits in Chapter VI., and what is stated about incandescent acetylene
+(carburetted or not) in Chapters IX. and X. Clearly, however, high-grade
+air-gas is only suitable for preparation at the immediate spot where it
+is to be consumed; it cannot be supplied to a complete district unless it
+is intentionally made of such lower intensity that the proportion of
+spirit is too small ever to allow of partial deposition in the mains
+during the winter.
+
+It is perhaps necessary to refer to the more extended use of candles for
+lighting in some few houses in which lamps are disliked on aesthetic, or,
+in some cases, ostensibly on hygienic grounds. Candle lighting, speaking
+broadly, is either very inadequate so far as ordinary living-rooms are
+concerned, or, if adequate, is very costly. Tests specially carried out
+by one of the authors to determine some of the figures required in the
+ensuing table show that ordinary paraffin or "wax" candles usually emit
+about 20 per cent. more light than that given by the standard spermaceti
+candle, whose luminosity is the unit by which the intensity of other
+lights is reckoned in Great Britain; and also that the light so emitted
+by domestic candles is practically unaffected by the sizes--"sixes,"
+"eights," or "twelves"--burnt. In the sizes examined the light evolved
+has varied between 1.145 and 1.298 "candles," perhaps tending to increase
+slightly with the diameter of the candle tested. Hence, to obtain
+illumination in a room equal on the average to that afforded by 100
+standard candles, or some other light or lights aggregating 100 candle-
+power, would require the use of only 80 to 85 ordinary paraffin,
+ozokerite, or wax candles. But actually the essential objects in a room
+could be equally well illuminated by, say, 30 candles well distributed,
+as by two or three incandescent gas-burners, or four or five large oil-
+lamps. Lights of high intensity, such as powerful gas-burners or oil-
+lamps, must give a higher degree of illumination in their immediate
+vicinity than is really necessary, if they are to illuminate adequately
+the more distant objects. The dissemination and diffusion of their light
+can be greatly aided by suitable colouring of ceilings, walls and
+drapings; but unless the illumination by means of lights of relatively
+high intensity is made almost wholly indirect, candles or other lights of
+low intensity, such as small electric glow-lamps, can, by proper
+distribution, be made to give more uniform or more suitably apportioned
+illumination. In this respect candles have an economical and, in some
+measure, a material advantage over acetylene also. (But when the method
+of lighting is by flames--candle or other--the multiplication of the
+number of units which is involved when they are of low intensity,
+seriously increases the risk of fire through accidental contact of
+inflammable material with any one of the flames. This risk is much
+greater with naked flames, such as candles, than with, say, inverted
+incandescent gas flames, which are to all intents and purposes fully
+protected by a closed glass globe.) Hence, in the tabular statement which
+follows of the comparative cost, &c.;, of different illuminants, it will
+be assumed that 30 good candles would in practice be equally efficient in
+regard to the illumination of a room as large oil-lamps, acetylene
+flames, or incandescent gas-burners aggregating 100 candle-power.
+
+For the same reason it will be assumed that electric glow-lamps of low
+intensity (nominally of 8 candle-power or less), aggregating 70-80
+candle-power, will practically serve, if suitably distributed, equally as
+well as 100 candle-power obtained from more powerful sources of light.
+Electric glow-lamps of a nominal intensity of 16 candles or thereabouts,
+and good flat-flame gas-burners, aggregating 90-95 candle-power, will
+similarly be taken as equivalent, if suitably distributed, to 100 candle-
+power from more powerful sources of light. Of the latter it will be
+assumed that each source has an intensity between 20 and 30 candle-power,
+such as is afforded by a large oil-lamp, a No. 1 Welsbach-Kern upturned,
+or a "Bijou" inverted incandescent gas-burner, or a 0.70-cubic-foot-per-
+hour acetylene burner. Either of these sources of light, when used in
+sufficient numbers, so that with proper distribution they light a room
+adequately, will be taken in the tabular statement which follows as
+affording, per candle-power evolved, the standard illuminating effect
+required in that room. The same illuminating effect will be regarded as
+attainable by means of candles aggregating only 35 per cent., or small
+electric glow-lamps aggregating 77 per cent., or large electric glow-
+lamps and flat-flame gas-burners aggregating 90 to 95 per cent. of this
+candle-power; while if sources of light of higher intensity are used,
+such as Osram or Tantalum electric lamps, or the larger incandescent gas-
+burners (the Welsbach "C" or "York," or the Nos. 3 or 4 Welsbach-Kern
+upturned, or the No. 1 or larger size inverted burners) or incandescent
+acetylene burners, it will be assumed that their aggregate candle-power
+must be in excess by about 15 per cent., in order to compensate for the
+impossibility of obtaining equally well distributed illumination. These
+assumptions are based on general considerations and data as to the effect
+of sources of light of different intensities in giving practically the
+same degree of illumination in a room; it would occupy too much space
+here to discuss more fully the grounds on which they have been made. It
+must suffice to say that they have been adopted with the object of being
+perfectly fair to each means of illumination.
+
+COST PER HOUR AND HYGIENIC EFFECT OF LIGHTING BY DIFFERENT MEANS
+
+The data (except in the column headed "cost per 100 candle-hours") refer
+to the illumination afforded by medium-sized (0.5 to 0.7 cubic foot per
+hour) acetylene burners yielding together a light of about 100 candle-
+power, and to the approximately equivalent illumination as afforded by
+other means of illumination, when the lighting-units or sources of light
+are rationally distributed.
+
+Interest and depreciation charges on the outlay on piping or wiring a
+house, on brackets, fittings, lamps, candelabra, and storage
+accommodation (for carbide and oil) have been taken as equivalent for all
+modes of lighting, and omitted in computing the total cost. The cost of
+labour for attendance on acetylene plant, oil lamps, and candles is an
+uncertain and variable item--approximately equal for all these modes of
+lighting, but saved in coal-gas and electric lighting from public supply
+mains.
+
+ ______________________________________________________________________
+|            |                    |        |         |         |       |
+|            |                    |Candle- | Number  |Aggregate| Cost  |
+|            |                    |Power of|   of    | Candle- | per   |
+|            |  Description of    |  each  |Lighting | Power   | 100   |
+|Illuminant. |  Burner or Lamp.   |Lighting|  Units  |Afforded.|Candle-|
+|            |                    |  Unit. |Required.|(About.) |Hours. |
+|            |                    |(About.)|         |         |Pence. |
+|____________|____________________|________|_________|_________|_______|
+|            |                    |        |         |         |       |
+|            |Self-luminous; 0.5  |        |         |         |       |
+|            | cubic foot per hour|  18    |    5    |    90   | 1.11  |
+|            |Self-luminous; 0.7  |        |         |         |       |
+| Acetylene  | cubic foot per hour|  27    |    4    |   108   | 1.02  |
+|            |Self-luminous; 1.0  |        |         |         |       |
+|            | cubic foot per hour|  45.5  |    3    |   136   | 0.85  |
+|            |Incandescent; 0.5   |        |         |         |       |
+|            | cubic foot per hour|  50    |    3    |   150   | 0.49  |
+|____________|____________________|________|_________|_________|_______|
+|            |                    |        |         |         |       |
+| Petroleum  | Large lamp . . . . |  20    |    5    |   100   | 0.84  |
+| (paraffin  |                    |        |         |         |       |
+|   oil)     | Small lamp . . . . |   5    |   14    |    70   | 1.31  |
+|____________|____________________|________|_________|_________|_______|
+|            |                    |        |         |         |       |
+|            |Flat flame (bad) 5  |        |         |         |       |
+|            | cubic feet per hour|   8    |   10    |    80   | 3.75  |
+|            |Flat flame (good) 6 |        |         |         |       |
+| Coal Gas   | cubic feet per hour|  16    |    6    |    96   | 2.25  |
+|            |Incandescent (No. 1 |        |         |         |       |
+|            | Kern or Bijou In-  |  25    |    4    |   100   | 0.38  |
+|            | verted); 1-1/2     |        |         |         |       |
+|            | cubic feet per hour|        |         |         |       |
+|____________|____________________|________|_________|_________|_______|
+|            |                    |        |         |         |       |
+| Candles    |"Wax" (so-called) . |   1.2  |   30    |    35   | 6.14  |
+|____________|____________________|________|_________|_________|_______|
+|            |                    |        |         |         |       |
+|            | Small glow . . . . |   7    |   11    |    77   | 2.81  |
+|            | Large glow . . . . |  13    |    7    |    91   | 2.90  |
+| Electricity|                    |        |         |         |       |
+|            | Tantalum . . . . . |  19    |    5    |    95   | 1.52  |
+|            | Osram  . . . . . . |  14    |    7    |    98   | 1.00  |
+|____________|____________________|________|_________|_________|_______|
+
+ ___________________________________________________________________
+|            |                    |                    |            |
+|            |                    |                    |            |
+|            |                    |                    | Equivalent |
+|            |  Description of    |   Assumed Cost     |  Illumin-  |
+|Illuminant. |  Burner or Lamp.   |  of Illuminant.    |   ation.   |
+|            |                    |                    |   Pence.   |
+|            |                    |                    |            |
+|____________|____________________|____________________|____________|
+|            |                    |                    |            |
+|            |Self-luminous; 0.5  | Calcium carbide    |            |
+|            | cubic foot per hour|  (yielding 5       |    1.00    |
+|            |Self-luminous; 0.7  |  cubic feet of     |            |
+| Acetylene  | cubic foot per hour|  acetylene per     |    1.10    |
+|            |Self-luminous; 1.0  |  lb.) at 15s.      |            |
+|            | cubic foot per hour|  per cwt., inclu-  |    1.16    |
+|            |Incandescent; 0.5   |  ding delivery     |            |
+|            | cubic foot per hour|  charges.          |    0.74    |
+|____________|____________________|____________________|____________|
+|            |                    |                    |            |
+| Petroleum  | Large lamp . . . . | Oil, 9d. per gal-  |    0.84    |
+| (paraffin  |                    |  lon, including    |            |
+|   oil)     | Small lamp . . . . |  delivery charges. |    0.92    |
+|____________|____________________|____________________|____________|
+|            |                    |                    |            |
+|            |Flat flame (bad) 5  |                    |            |
+|            | cubic feet per hour| Public supply      |    3.00    |
+|            |Flat flame (good) 6 |  from small        |            |
+| Coal Gas   | cubic feet per hour|  country works,    |    2.16    |
+|            |Incandescent (No. 1 |  at 5s. per 1000   |            |
+|            | Kern or Bijou In-  |  cubic feet.       |    0.38    |
+|            | verted); 1-1/2     |                    |            |
+|            | cubic feet per hour|                    |            |
+|____________|____________________|____________________|____________|
+|            |                    |                    |            |
+| Candles    |"Wax" (so-called) . | 5d. per lb.        |    2.60    |
+|____________|____________________|____________________|____________|
+|            |                    |                    |            |
+|            | Small glow . . . . | Public supply      |    2.16    |
+|            | Large glow . . . . |  from small        |    2.64    |
+| Electricity|                    |  town works        |            |
+|            | Tantalum . . . . . |  at 6d. per        |    1.45    |
+|            | Osram  . . . . . . |  B.O.T. unit.      |    0.98    |
+|____________|____________________|____________________|____________|
+
+ _______________________________________________________________________
+|            |                    |      |         |          |         |
+|            |                    |Inci- | Exhaus- |Vitiation |  Heat   |
+|            |                    | den- | tion of | of Air.  |Produced.|
+|            |  Description of    | tal  |Air.Cubic|Cubic Feet|Number of|
+|Illuminant. |  Burner or Lamp.   |Expen-|Feet Dep-| of Car-  |Units of |
+|            |                    | ces. |rived of |bonic Acid|  Heat.  |
+|            |                    |      | Oxygen. | Formed.  |Calories.|
+|____________|____________________|______|_________|__________|_________|
+|            |                    |      |         |          |         |
+|            |Self-luminous; 0.5  |      |         |          |         |
+|            | cubic foot per hour| [1]  |   29.8  |   5.0    |   900   |
+|            |Self-luminous; 0.7  |      |         |          |         |
+| Acetylene  | cubic foot per hour|      |   33.3  |   5.6    |  1010   |
+|            |Self-luminous; 1.0  |      |         |          |         |
+|            | cubic foot per hour|      |   35.7  |   6.0    |  1000   |
+|            |Incandescent; 0.5   |      |         |          |         |
+|            | cubic foot per hour| [2]  |   17.9  |   3.0    |   545   |
+|____________|____________________|______|_________|__________|_________|
+|            |                    |      |         |          |         |
+| Petroleum  | Large lamp . . . . |      |  140.0  |  19.6    |  3630   |
+| (paraffin  |                    | [3]  |         |          |         |
+|   oil)     | Small lamp . . . . |      |  154.0  |  21.6    |  4000   |
+|____________|____________________|______|_________|__________|_________|
+|            |                    |      |         |          |         |
+|            |Flat flame (bad) 5  |      |         |          |         |
+|            | cubic feet per hour| Nil  |  270.0  |  27.0    |  7750   |
+|            |Flat flame (good) 6 |      |         |          |         |
+| Coal Gas   | cubic feet per hour| Nil  |  195.0  |  19.5    |  5580   |
+|            |Incandescent (No. 1 |      |         |          |         |
+|            | Kern or Bijou In-  | [4]  |   27.0  |   2.7    |   775   |
+|            | verted); 1-1/2     |      |         |          |         |
+|            | cubic feet per hour|      |         |          |         |
+|____________|____________________|______|_________|__________|_________|
+|            |                    |      |         |          |         |
+| Candles    |"Wax" (so-called) . | Nil  |  100.5  |   13.7   |  2700   |
+|____________|____________________|______|_________|__________|_________|
+|            |                    |      |         |          |         |
+|            | Small glow . . . . |2s.6d.|   Nil   |    Nil   |   285   |
+|            | Large glow . . . . |2s.6d.|    "    |     "    |   360   |
+| Electricity|                    | [5]  |         |          |         |
+|            | Tantalum . . . . . |7s.6d.|    "    |     "    |   172   |
+|            | Osram  . . . . . . | 6s.  |    "    |     "    |    96   |
+|____________|____________________|______|_________|__________|_________|
+
+[Footnote 1: Interest and depreciation charges on generating and
+purifying plant = 0.15 penny. Purifying material and burner renewals =
+0.05 penny.]
+
+[Footnote 2: Mantle renewals as for coal-gas.]
+
+[Footnote 3: Renewals of wicks and chimneys = 0.02 penny.]
+
+[Footnote 4: Renewals and mantles (and chimneys) at contract rate of 3s.
+per burner per annum.]
+
+[Footnote 5: Renewals of lamps and fuses, at price indicated per lamp per
+annum.]
+
+The conventional method of making pecuniary comparisons between different
+sources of artificial light consists in simply calculating the cost of
+developing a certain number of candle-hours of light--_i.e._, a
+certain amount of standard candle-power for a given number of hours--on
+the assumption that as many separate sources of light are employed as may
+be required to bring the combined illuminating power up to the total
+amount wanted. In view of the facts as to dissemination and diffusion, or
+the difference between sheer illuminating power and useful illuminating
+effect, which have just been elaborated, and in view of the different
+intensities of the different unit sources of light (which range from the
+single candle to a powerful large incandescent gas-burner or a metallic
+filament electric lamp), such a method of calculation is wholly illusory.
+The plan adopted in the following table may also appear unnecessarily
+complicated; but it is not so to the reader if he remembers that the
+apparently various amount of illumination is corrected by the different
+numbers of illuminating units until the amount of simple candle-power
+developed, whatever illuminant be employed, suffices to light a room
+having an area of about 300 square feet (_i.e._, a room, 17-1/2 feet
+square, or one 20 feet long by 15 feet wide), so that ordinary print may
+be read comfortably in any part of the room, and the titles of books,
+engravings, &c.;, in any position on the walls up to a height of 8 feet
+from the ground may be distinguished with ease. The difference in cost,
+&c.;, of a greater or less degree of illumination, or of lighting a larger
+or smaller room by acetylene or any other of the illuminants named, will
+be almost directly proportional to the cost given for the stated
+conditions. Nevertheless, it should be recollected that when the
+conventional system is retained--useful illuminating effect being
+sacrificed to absolute illuminating power--acetylene is made to appear
+cheaper in comparison with all weaker unit sources of light, and dearer
+in comparison with all stronger unit sources of light than the
+accompanying table indicates it to be. In using the comparative figures
+given in the table, it should be borne in mind that they refer to more
+general and more brilliant illumination of a room than is commonly in
+vogue where the lighting is by means of electric light, candles, or oil-
+lamps. The standard of illumination adopted for the table is one which is
+only gaining general recognition where incandescent gas or acetylene
+lighting is available, though in exceptional cases it has doubtless been
+attained by means of oil-lamps or flat-flame gas-burners, but very rarely
+if ever by means of carbon-filament electric glow-lamps, or candles. It
+assumes that the occupants of a room do not wish to be troubled to bring
+work or book "to the light," but wish to be able to work or read
+wheresoever in the room they will, without consideration of the
+whereabouts of the light or lights.
+
+It should, perhaps, be added that so high a price as 5s. per 1000
+cubic feet for coal-gas rarely prevails in Great Britain, except in small
+outlying towns, whereas the price of 6d. per Board of Trade unit
+for electricity is not uncommonly exceeded in the few similar country
+places in which there is a public electricity supply.
+
+
+
+CHAPTER II
+
+THE PHYSICS AND CHEMISTRY OF THE REACTION BETWEEN CARBIDE AND WATER
+
+THE NATURE OF CALCIUM CARBIDE.--The raw material from which, by
+interaction with water, acetylene is obtained, is a solid body called
+calcium carbide or carbide of calcium. Inasmuch as this substance can at
+present only be made on a commercial scale in the electric furnace--and
+so far as may be foreseen will never be made on a large scale except by
+means of electricity--inasmuch as an electric furnace can only be worked
+remuneratively in large factories supplied with cheap coal or water
+power; and inasmuch as there is no possibility of the ordinary consumer
+of acetylene ever being able to prepare his own carbide, all descriptions
+of this latter substance, all methods of winning it, and all its
+properties except those which concern the acetylene-generator builder or
+the gas consumer have been omitted from the present book. Hitherto
+calcium carbide has found but few applications beyond that of evolving
+acetylene on treatment with water or some aqueous liquid, hygroscopic
+solid, or salt containing water of crystallisation; but it has
+possibilities of further employment, should its price become suitable,
+and a few words will be devoted to this branch of the subject in Chapter
+XII. Setting these minor uses aside, calcium carbide has no intrinsic
+value except as a producer of acetylene, and therefore all its
+characteristics which interest the consumer of acetylene are developed
+incidentally throughout this volume as the necessity for dealing with
+them arises.
+
+It is desirable, however, now to discuss one point connected with solid
+carbide about which some misconception prevails. Calcium carbide is a
+body which evolves an inflammable, or on occasion an explosive, gas when
+treated with water; and therefore its presence in a building has been
+said to cause a sensible increase in the fire risk because attempts to
+extinguish a fire in the ordinary manner with water may cause evolution
+of acetylene which should determine a further production of flame and
+heat. In the absence of water, calcium carbide is absolutely inert as
+regards fire; and on several occasions drums of it have been recovered
+uninjured from the basement of a house which has been totally destroyed
+by fire. With the exception of small 1-lb. tins of carbide, used only by
+cyclists, &c.;, the material is always put into drums of stout sheet-iron
+with riveted or folded seams. Provided the original lid has not been
+removed, the drums are air- and water-tight, so that the fireman's hose
+may be directed upon them with impunity. When a drum has once been
+opened, and not all of its contents have been put into the generator,
+ordinary caution--not merely as regards fire, but as regards the
+deterioration of carbide when exposed to the atmosphere--suggests either
+that the lid must be made air-tight again (not by soldering it),
+[Footnote: Carbide drums are not uncommonly fitted with self-sealing or
+lever-top lids, which are readily replaced hermetically tight after
+opening and partial removal of the contents of the drum.] or preferably
+that the rest of the carbide shall be transferred to some convenient
+receptacle which can be perfectly closed. [Footnote: It would be a
+refinement of caution, though hardly necessary in practice, to fit such a
+receptacle with a safety-valve. If then the vessel were subjected to
+sudden or severe heating, the expansion of the air and acetylene in it
+could not possibly exert a disruptive effect upon the walls of the
+receptacle, which, in the absence of the safety-valve, is imaginable.]
+Now, assuming this done, the drums are not dependent upon soft solder to
+keep them sound, and so they cannot open with heat. Fire and water,
+accordingly, cannot affect them, and only two risks remain: if stored in
+the basement of a tall building, falling girders, beams or brickwork may
+burst them; or if stored on an upper floor, they may fall into the
+basement and be burst with the shock--in either event water then having
+free access to the contents. But drums of carbide would never be stored
+in such positions: a single one would be kept in the generator-house;
+several would be stored in a separate room therein, or in some similar
+isolated shed. The generator-house or shed would be of one story only;
+the drums could neither fall nor have heavy weights fall on them during a
+fire; and therefore there is no reason why, if a fire should occur, the
+firemen should not be permitted to use their hose in the ordinary
+fashion. Very similar remarks apply to an active acetylene generator.
+Well built, such plant will stand much heat and fire without failure; if
+it is non-automatic, and of combustible materials contains nothing but
+gas in the holder, the worst that could happen in times of fire would be
+the unsealing of the bell or its fracture, and this would be followed,
+not at all by any explosion, but by a fairly quiet burning of the
+escaping gas, which would be over in a very short time, and would not add
+to the severity of the conflagration unless the generator-house were so
+close to the residence that the large flame of burning gas could ignite
+part of the main building. Even if the heat were so great near the holder
+that the gas dissociated, it is scarcely conceivable that a dangerous
+explosion should arise. But it is well to remember, that if the
+generator-house is properly isolated from the residence, if it is
+constructed of non-inflammable materials, if the attendant obeys
+instructions and refrains from taking a naked light into the
+neighbourhood of the plant, and if the plant itself is properly designed
+and constructed, a fire at or near an acetylene generator is extremely
+unlikely to occur. At the same time, before the erection of plant to
+supply any insured premises is undertaken, the policy or the company
+should be consulted to ascertain whether the adoption of acetylene
+lighting is possibly still regarded by the insurers as adding an extra
+risk or even as vitiating the whole insurance.
+
+REGULATIONS FOR THE STORAGE OF CARBIDE: BRITISH.--There are also certain
+regulations imposed by many local authorities respecting the storage of
+carbide, and usually a licence for storage has to be obtained if more
+than 5 lb. is kept at a time. The idea of the rule is perfectly
+justifiable, and it is generally enforced in a sensible spirit. As the
+rules may vary in different localities, the intending consumer of
+acetylene must make the necessary inquiries, for failure to comply with
+the regulations may obviously be followed by unpleasantness.
+
+Having regard to the fact that, in virtue of an Order in Council dated
+July 7, 1897, carbide may be stored without a licence only in separate
+substantial hermetically closed metal vessels containing not more than 1
+lb. apiece and in quantities not exceeding 5 lb. in the aggregate, and
+having regard also to the fact that regulations are issued by local
+authorities, the Fire Offices' Committee of the United Kingdom has not up
+to the present deemed it necessary to issue special rules with reference
+to the storage of carbide of calcium.
+
+The following is a copy of the rules issued by the National Board of Fire
+Underwriters of the UNITED STATES OF AMERICA for the storage of calcium
+carbide on insured premises:
+
+RULES FOR THE STORAGE OF CALCIUM CARBIDE.
+
+(_a_) Calcium carbide in quantities not to exceed six hundred (600)
+pounds may be stored, when contained in approved metal packages not to
+exceed one hundred (100) pounds each, inside insured property, provided
+that the place of storage be dry, waterproof and well ventilated, and
+also provided that all but one of the packages in any one building shall
+be sealed and the seals shall not be broken so long as there is carbide
+in excess of one (1) pound in any other unsealed package in the building.
+
+(_b_) Calcium carbide in quantities in excess of six hundred (600)
+pounds must be stored above ground in detached buildings, used
+exclusively for the storage of calcium carbide, in approved metal
+packages, and such buildings shall be constructed to be dry, waterproof
+and well ventilated.
+
+(_c_) Packages to be approved must be made of metal of sufficient
+strength to insure handling the package without rupture, and be provided
+with a screwed top or its equivalent.
+
+They must be constructed so as to be water- and air-tight without the use
+of solder, and conspicuously marked "CALCIUM CARBIDE--DANGEROUS IF NOT
+KEPT DRY."
+
+The following is a summary of the AUSTRIAN GOVERNMENT rules relating to
+the storage and handling of carbide:
+
+(1) It must be sold and stored only in closed water-tight vessels, which,
+if the contents exceed 10 kilos., must be marked in plain letters
+"CALCIUM CARBIDE--TO BE KEPT CLOSED AND DRY." They must not be of copper
+and if soldered must be opened by mechanical means and not by
+unsoldering. They must be stored out of the reach of water.
+
+(2) Quantities not exceeding 300 kilos. may be stored in occupied houses,
+provided the single drums do not exceed 100 kilos. nominal capacity. The
+storage-place must be dry and not underground.
+
+(3) The limits specified in Rule 2 apply also to generator-rooms, with
+the proviso also that in general the amount stored shall not exceed five
+days' consumption.
+
+(4) Quantities ranging from 300 to 1000 kilos. must be stored in special
+well-ventilated uninhabited non-basement rooms in which lights and
+smoking are not allowed.
+
+(5) Quantities exceeding 1000 kilos. must be stored in isolated fireproof
+magazines with light water-tight roofs. The floors must be at least 8
+inches above ground-level.
+
+(6) Carbide in water-tight drums may be stored in the open in a fenced
+enclosure at least 30 feet from buildings, adjoining property, or
+inflammable materials. The drums must be protected from wet by a light
+roof.
+
+(7) The breaking of carbide must be done by men provided with respirators
+and goggles, and care taken to avoid the formation of dust.
+
+(8) Local or other authorities will issue from time to time special
+regulations in regard to carbide trade premises.
+
+The ITALIAN GOVERNMENT rules relating to the storage and transport of
+carbide follow in the main those of the Austrian Government, but for
+quantities between 300 and 2000 kilos sanction is required from the local
+authorities, and for larger quantities from superior authorities. The
+storage of quantities ranging from 300 to 2000 kilos is forbidden in
+dwelling-houses and above the latter quantity the storage-place must be
+isolated and specially selected. No special permit is required for the
+storage of quantities not exceeding 300 kilos. Workmen exposed to carbide
+dust arising from the breaking of carbide or otherwise must have their
+eyes and respiratory organs suitably protected.
+
+THE PURCHASE OF CARBIDE.--Since calcium carbide is only useful as a means
+of preparing acetylene, it should be bought under a guarantee (1) that it
+contains less impurities than suffice to render the crude gas dangerous
+in respect of spontaneous inflammability, or objectionable in a manner to
+be explained later on, when consumed; and (2) that it is capable of
+evolving a fixed minimum quantity of acetylene when decomposed by water.
+Such determination, however, cannot be carried out by the ordinary
+consumer for himself. A generator which is perfectly satisfactory in
+general behaviour, and which evolves a sufficient proportion of the
+possible total make of gas to be economical, does not of necessity
+decompose the carbide quantitatively; nor is it constructed in a fashion
+to render an exact measurement of the gas liberated at standard
+temperature and pressure easy to obtain. For obvious reasons the careful
+consumer of acetylene will keep a record of the carbide decomposed and of
+the acetylene generated--the latter perhaps only in terms of burner-
+hours, or the like; but in the event of serious dispute as to the gas-
+making capacity of his raw material, he must have a proper analysis made
+by a qualified chemist.
+
+Calcium carbide is crushed by the makers into several different sizes, in
+each of which all the lumps exceed a certain size and are smaller than
+another size. It is necessary to find out by experiment, or from the
+maker, what particular size suits the generator best, for different types
+of apparatus require different sizes of carbide. Carbide cannot well be
+crushed by the consumer of acetylene. It is a difficult operation, and
+fraught with the production of dust which is harmful to the eyes and
+throat, and if done in open vessels the carbide deteriorates in gas-
+making power by its exposure to the moisture of the atmosphere. True dust
+in carbide is objectionable, and practically useless for the generation
+of acetylene in any form of apparatus, but carbide exceeding 1 inch in
+mesh is usually sold to satisfy the suggestions of the British Acetylene
+Association, which prescribes 5 per cent, of dust as the maximum. Some
+grades of carbide are softer than others, and therefore tend to yield
+more dust if exposed to a long journey with frequent unloadings.
+
+There are certain varieties of ordinary carbide known as "treated
+carbide," the value of which is more particularly discussed in Chapter
+III. The treatment is of two kinds, or of a combination of both. In one
+process the lumps are coated with a strong solution of glucose, with the
+object of assisting in the removal of spent lime from their surface when
+the carbide is immersed in water. Lime is comparatively much more soluble
+in solutions of sugar (to which class of substances glucose belongs) than
+in plain water; so that carbide treated with glucose is not so likely to
+be covered with a closely adherent skin of spent lime when decomposed by
+the addition of water to it. In the other process, the carbide is coated
+with or immersed in some oil or grease to protect it from premature
+decomposition. The latter idea, at least, fulfils its promises, and does
+keep the carbide to a large extent unchanged if the lumps are exposed to
+damp air, while solving certain troubles otherwise met with in some
+generators (cf. Chapter III.); but both operations involve additional
+expense, and since ordinary carbide can be used satisfactorily in a good
+fixed generator, and can be preserved without serious deterioration by
+the exercise of reasonable care, treated carbide is only to be
+recommended for employment in holderless generators, of which table-lamps
+are the most conspicuous forms. A third variant of plain carbide is
+occasionally heard of, which is termed "scented" carbide. It is difficult
+to regard this material seriously. In all probability calcium carbide is
+odourless, but as it begins to evolve traces of gas immediately
+atmospheric moisture reaches it, a lump of carbide has always the
+unpleasant smell of crude acetylene. As the material is not to be stored
+in occupied rooms, and as all odour is lost to the senses directly the
+carbide is put into the generator, scented carbide may be said to be
+devoid of all utility.
+
+THE REACTION BETWEEN CARBIDE AND WATER.--The reaction which occurs when
+calcium carbide and water are brought into contact belongs to the class
+that chemists usually term double decompositions. Calcium carbide is a
+chemical compound of the metal calcium with carbon, containing one
+chemical "part," or atomic weight, of the former united to two chemical
+parts, or atomic weights, of the latter; its composition expressed in
+symbols being CaC_2. Similarly, water is a compound of two chemical parts
+of hydrogen with one of oxygen, its formula being H_2O. When those two
+substances are mixed together the hydrogen of the water leaves its
+original partner, oxygen, and the carbon of the calcium carbide leaves
+the calcium, uniting together to form that particular compound of
+hydrogen and carbon, or hydrocarbon, which is known as acetylene, whose
+formula is C_2H_2; while the residual calcium and oxygen join together to
+produce calcium oxide or lime, CaO. Put into the usual form of an
+equation, the reaction proceeds thus--
+
+(1) CaC_2 + H_2O = C_2H_2 + CaO.
+
+This equation not only means that calcium carbide and water combine to
+yield acetylene and lime, it also means that one chemical part of carbide
+reacts with one chemical part of water to produce one chemical part of
+acetylene and one of lime. But these four chemical parts, or molecules,
+which are all equal chemically, are not equal in weight; although,
+according to a common law of chemistry, they each bear a fixed proportion
+to one another. Reference to the table of "Atomic Weights" contained in
+any text-book of chemistry will show that while the symbol Ca is used,
+for convenience, as a contraction or sign for the element calcium simply,
+it bears a more important quantitative significance, for to it will be
+found assigned the number 40. Against carbon will be seen the number 12;
+against oxygen, 16; and against hydrogen, 1. These numbers indicate that
+if the smallest weight of hydrogen ever found in a chemical compound is
+called 1 as a unit of comparison, the smallest weights of calcium,
+carbon, and oxygen, similarly taking part in chemical reactions are 40,
+12, and 16 respectively. Thus the symbol CaC_2, comes to convoy three
+separate ideas: (_a_) that the substance referred to is a compound
+of calcium and carbon only, and that it is therefore a carbide of
+calcium; (_b_) that it is composed of one chemical part or atom of
+calcium and two atoms of carbon; and (_c_) that it contains 40 parts
+by weight of calcium combined with twice twelve, or 24, parts of carbon.
+It follows from (_c_) that the weight of one chemical part, now
+termed a molecule as the substance is a compound, of calcium carbide is
+(40 + 2 x 12) = 64. By identical methods of calculation it will be found
+that the weight of one molecule of water is 18; that of acetylene, 26;
+and that of lime, 56. The general equation (1) given above, therefore,
+states in chemical shorthand that 64 parts by weight of calcium carbide
+react with 18 parts of water to give 26 parts by weight of acetylene and
+56 parts of lime; and it is very important to observe that just as there
+are the same number of chemical parts, viz., 2, on each side, so there
+are the same number of parts by weight, for 64 + 18 = 56 + 26 = 82. Put
+into other words equation (1) shows that if 64 grammes, lb., or cwts. of
+calcium carbide are treated with 18 grammes, lb., or cwts. of water, the
+whole mass will be converted into acetylene and lime, and the residue
+will not contain any unaltered calcium carbide or any water; whence it
+may be inferred, as is the fact, that if the weights of carbide and water
+originally taken do not stand to one another in the ratio 64 : 18, both
+substances cannot be entirely decomposed, but a certain quantity of the
+one which was in excess will be left unattacked, and that quantity will
+be in exact accordance with the amount of the said excess--indifferently
+whether the superabundant substance be carbide or water.
+
+Hitherto, for the sake of simplicity, the by-product in the preparation
+of acetylene has been described as calcium oxide or quicklime. It is,
+however, one of the leading characteristics of this body to be
+hygroscopic, or greedy of moisture; so that if it is brought into the
+presence of water, either in the form of liquid or as vapour, it
+immediately combines therewith to yield calcium hydroxide, or slaked
+lime, whose chemical formula is Ca(OH)_2. Accordingly, in actual
+practice, when calcium carbide is mixed with an excess of water, a
+secondary reaction takes place over and above that indicated by equation
+(1), the quicklime produced combining with one chemical part or molecule
+of water, thus--
+
+CaO + H_2O = Ca(OH)_2.
+
+As these two actions occur simultaneously, it is more usual, and more in
+agreement with the phenomena of an acetylene generator, to represent the
+decomposition of calcium carbide by the combined equation--
+
+(2) CaC_2 + 2H_2O = C_2H_2 + Ca(OH)_2.
+
+By the aid of calculations analogous to those employed in the preceding
+paragraph, it will be noticed that equation (2) states that 1 molecule of
+calcium carbide, or 64 parts by weight, combines with 2 molecules of
+water, or 36 parts by weight, to yield 1 molecule, or 26 parts by weight
+of acetylene, and 1 molecule, or 74 parts by weight of calcium hydroxide
+(slaked lime). Here again, if more than 36 parts of water are taken for
+every 64 parts of calcium carbide, the excess of water over those 36
+parts is left undecomposed; and in the same fashion, if less than 36
+parts of water are taken for every 64 parts of calcium carbide, some of
+the latter must remain unattacked, whilst, obviously, the amount of
+acetylene liberated cannot exceed that which corresponds with the
+quantity of substance suffering complete decomposition. If, for example,
+the quantity of water present in a generator is more than chemically
+sufficient to attack all the carbide added, however largo or small that
+excess may be, no more, and, theoretically speaking, no less, acetylene
+can ever be evolved than 26 parts by weight of gas for every 64 parts by
+weight of calcium carbide consumed. It is, however, not correct to invert
+the proposition, and to say that if the carbide is in excess of the water
+added, no more, and, theoretically speaking, no less, acetylene can ever
+be evolved than 26 parts by weight of gas for every 36 parts of water
+consumed, as might be gathered from equation (2); because equation (1)
+shows that 26 parts of acetylene may, on occasion, be produced by the
+decomposition of 18 parts by weight of water. From the purely chemical
+point of view this apparent anomaly is explained by the circumstance that
+of the 36 parts of water present on the left-hand aide of equation (2),
+only one-half, _i.e._, 18 parts by weight, are actually decomposed
+into hydrogen and oxygen, the other 18 parts remaining unattacked, and
+merely attaching themselves as "water of hydration" to the 56 parts of
+calcium oxide in equation (1) so as to produce the 74 parts of calcium
+hydroxide appearing on the right-hand side of equation (2). The matter is
+perhaps rendered more intelligible by employing the old name for calcium
+hydroxide or slaked lime, viz., hydrated oxide of calcium, and by writing
+its formula in the corresponding form, when equation (2) becomes
+
+CaC_2 + 2H_2O = C_2H_2 + CaO.H_2O.
+
+It is, therefore, absolutely correct to state that if the amount of
+calcium carbide present in an acetylene generator is more than chemically
+sufficient to decompose all the water introduced, no more, and
+theoretically speaking no less, acetylene can ever be liberated than 26
+parts by weight of gas for every 18 parts by weight of water attacked.
+This, it must be distinctly understood, is the condition of affairs
+obtaining in the ideal acetylene generator only; since, for reasons which
+will be immediately explained, when the output of gas is measured in
+terms of the water decomposed, in no commercial apparatus, and indeed in
+no generator which can be imagined fit for actual employment, does that
+output of gas ever approach the quantitative amount; but the volume of
+water used, if not actually disappearing, is always vastly in excess of
+the requirements of equation (2). On the contrary, when the make of gas
+is measured in terms of the calcium carbide consumed, the said make may,
+and frequently does, reach 80, 90, or even 99 per cent. of what is
+theoretically possible. Inasmuch as calcium carbide is the one costly
+ingredient in the manufacture of acetylene, so long as it is not wasted--
+so long, that is to say, as nearly the theoretical yield of gas is
+obtained from it--an acetylene generator is satisfactory or efficient in
+this particular; and except for the matter of solubility discussed in the
+following chapter, the quantity of water consumed is of no importance
+whatever.
+
+HEAT EVOLVED IN THE REACTION.--The chemical reaction between calcium
+carbide and water is accompanied by a large evolution of heat, which,
+unless due precautions are taken to prevent it, raises the temperature of
+the substances employed, and of the apparatus containing them, to a
+serious and often inconvenient extent. This phenomenon is the most
+important of all in connexion with acetylene manufacture; for upon a
+proper recognition of it, and upon the character of the precautions taken
+to avoid its numerous evil effects, depend the actual value and capacity
+for smooth working of any acetylene generator. Just as, by an immutable
+law of chemistry, a given weight of calcium carbide yields a given weight
+of acetylene, and by no amount of ingenuity can be made to produce either
+more or less; so, by an equally immutable law of physics, the
+decomposition of a given weight of calcium carbide by water, or the
+decomposition of a given weight of water by calcium carbide, yields a
+perfectly definite quantity of heat--a quantity of heat which cannot be
+reduced or increased by any artifice whatever. The result of a production
+of heat is usually to raise the temperature of the material in which it
+is produced; but this is not always the case, and indeed there is no
+necessary connexion or ratio between the quantity of heat liberated in
+any form of chemical reaction--of which ordinary combustion is the
+commonest type--and the temperature attained by the substances concerned.
+This matter has so weighty a bearing upon acetylene generation, and
+appears to be so frequently misunderstood, that a couple of illustrations
+may with advantage be studied. If a vessel full of cold water, and
+containing also a thermometer, is placed over a lighted gas-burner, at
+first the temperature of the liquid rises steadily, and there is clearly
+a ratio between the size of the flame and the speed at which the mercury
+mounts up the scale. Finally, however, the thermometer indicates a
+certain point, viz., 100 deg. C, and the water begins to boil; yet although
+the burner is untouched, and consequently, although heat must be passing
+into the vessel at the same rate as before, the mercury refuses to move
+as long as any liquid water is left. By the use of a gas meter it might
+be shown that the same volume of gas is always consumed (_a_) in
+raising the temperature of a given quantity of cold water to the boiling-
+point, and another equally constant volume of gas is always consumed
+(_b_) in causing the boiling water to disappear as steam. Hence, as
+coal-gas is assumed for the present purpose to possess invariably the
+same heating power, it appears that the same quantity of heat is always
+needed to convert a given amount of cold water at a certain temperature
+into steam; but inasmuch as reference to the meter would show that about
+5 times the volume of gas is consumed in changing the boiling water into
+steam as is used in heating the cold water to the boiling-point, it will
+be evident that the temperature of the mass is raised as high by the heat
+evolved during the combustion of one part of gas as it is by that
+liberated on the combustion of 6 times that amount.
+
+A further example of the difference between quantity of heat and sensible
+temperature may be seen in the combustion of coal, for (say) one
+hundredweight of that fuel might be consumed in a very few minutes in a
+furnace fitted with a powerful blast of air, the operation might be
+spread over a considerable number of hours in a domestic grate, or the
+coal might be allowed to oxidise by exposure to warm air for a year or
+more. In the last case the temperature might not attain that of boiling
+water, in the second it would be about that of dull redness, and in the
+first it would be that of dazzling whiteness; but in all three cases the
+total quantity of heat produced by the time the coal was entirely
+consumed would be absolutely identical. The former experiment with water
+and a gas-burner, too, might easily be modified to throw light upon
+another problem in acetylene generation, for it would be found that if
+almost any other liquid than water were taken, less gas (_i.e._, a
+smaller quantity of heat) would be required to raise a given weight of it
+from a certain low to a certain high temperature than in the case of
+water itself; while if it were possible similarly to treat the same
+weight of iron (of which acetylene generators are constructed), or of
+calcium carbide, the quantity of heat used to raise it through a given
+number of thermometric degrees would hardly exceed one-tenth or one-
+quarter of that needed by water itself. In technical language this
+difference is due to the different specific heats of the substances
+mentioned; the specific heat of a body being the relative quantity of
+heat consumed in raising a certain weight of it a certain number of
+degrees when the quantity of heat needed to produce the same effect on
+the same weight of water is called unity. Thus, the specific heat of
+water being termed 1.0, that of iron or steel is 0.1138, and that of
+calcium carbide 0.247, [Footnote: This is Carlson's figure. Morel has
+taken the value 0.103 in certain calculations.] both measured at
+temperatures where water is a liquid. Putting the foregoing facts in
+another shape, for a given rise in temperature that substance will absorb
+the most heat which has the highest specific heat, and therefore, in this
+respect, 1 part by weight of water will do the work of roughly 9 parts by
+weight of iron, and of about 4 parts by weight of calcium carbide.
+
+From the practical aspect what has been said amounts to this: During the
+operation of an acetylene generator a large amount of heat is produced,
+the quantity of which is beyond human control. It is desirable, for
+various reasons, that the temperature shall be kept as low as possible.
+There are three substances present to which the heat may be compelled to
+transfer itself until it has opportunity to pass into the surrounding
+atmosphere: the material of which the apparatus is constructed, the gas
+which is in process of evolution, and whichever of the two bodies--
+calcium carbide or water--is in excess in the generator. Of these, the
+specific heat at constant pressure of acetylene has unfortunately not yet
+been determined, but its relative capacity for absorbing heat is
+undoubtedly small; moreover the gas could not be permitted to become
+sufficiently hot to carry off the heat without grave disadvantages. The
+specific heat of calcium carbide is also comparatively small, and there
+are similar disadvantages in allowing it to become hot; moreover it is
+deficient in heat-conducting power, so that heat communicated to one
+portion of the mass does not extend rapidly throughout, but remains
+concentrated in one spot, causing the temperature to rise objectionably.
+Steel has a sufficient amount of heat-conducting power to prevent undue
+concentration in one place; but, as has been stated, its specific heat is
+only one-ninth that of water. Water is clearly, therefore, the proper
+substance to employ for the dissipation of the heat generated, although
+it is strictly speaking almost devoid of heat-conducting power; for not
+only is the specific heat of water much greater than that of any other
+material present, but it possesses in a high degree the faculty of
+absorbing heat throughout its mass, by virtue of the action known as
+convection, provided that heat is communicated to it at or near the
+bottom, and not too near its upper surface. Moreover, water is a much
+more valuable substance for dissipating heat than appears from the
+foregoing explanation; for reference to the experiment with the gas-
+burner will show that six and a quarter times as much heat can be
+absorbed by a given weight of water if it is permitted to change into
+steam, as if it is merely raised to the boiling-point; and since by no
+urging of the gas-burner can the temperature be raised above 100 deg. C. as
+long as any liquid water remains unevaporated, if an excess of water is
+employed in an acetylene generator, the temperature inside can never--
+except quite locally--exceed 100 deg. C., however fast the carbide be
+decomposed. An indefinitely large consumption of water by evaporation in
+a generator matters nothing, for the liquid may be considered of no
+pecuniary value, and it can all be recovered by condensation in a
+subsequent portion of the plant.
+
+It has been said that the quantity of heat liberated when a certain
+amount of carbide suffers decomposition is fixed; it remains now to
+consider what that quantity is. Quantities of heat are always measured in
+terms of the amount needed to raise a certain weight of water a certain
+number of degrees on the thermometric scale. There are several units in
+use, but the one which will be employed throughout this book is the
+"Large Calorie"; a large calorie being the amount of heat absorbed in
+raising 1 kilogramme of water 1 deg. C. Referring for a moment to what has
+been said about specific heats, it will be apparent that if 1 large
+calorie is sufficient to heat 1 kilo, of water through 1 deg. C. the same
+quantity will heat 1 kilo. of steel, whose specific heat is roughly 0.11,
+through (10/011) = 9 deg. C., or, which comes to the same thing, will heat 9
+kilos, of steel through 1 deg. C.; and similarly, 1 large calorie will raise
+4 kilos. of calcium carbide 1 deg. C. in temperature, or 1 kilo. 4 deg. C.
+The fact that a definite quantity of heat is manifested when a known weight
+of calcium carbide is decomposed by water is only typical; for in every
+chemical process some disturbance of heat, though not necessarily of
+sensible (or thermometric) character, occurs, heat being either absorbed
+or set free. Moreover, if when given weights of two or more substances
+unite to form a given weight of another substance, a certain quantity of
+heat is set free, precisely the same amount of heat is absorbed, or
+disappears, when the latter substance is decomposed to form the same
+quantities of the original substances; and, _per contra_, if the
+combination is attended by a disappearance of heat, exactly the same
+amount is liberated when the compound is broken up into its first
+constituents. Compounds are therefore of two kinds: those which absorb
+heat during their preparation, and consequently liberate heat when they
+are decomposed--such being termed endothermic; and those which evolve
+heat during their preparation, and consequently absorb heat when they are
+decomposed--such being called exothermic. If a substance absorbs heat
+during its formation, it cannot be produced unless that heat is supplied
+to it; and since heat, being a form of motion, is equally a form of
+energy, energy must be supplied, or work must be done, before that
+substance can be obtained. Conversely, if a substance evolves heat during
+its formation, its component parts evolve energy when the said substance
+is being produced; and therefore the mere act of combination is
+accompanied by a facility for doing work, which work may be applied in
+assisting some other reaction that requires heat, or may be usefully
+employed in any other fashion, or wasted if necessary. Seeing that there
+is a tendency in nature for the steady dissipation of energy, it follows
+that an exothermic substance is stable, for it tends to remain as it is
+unless heat is supplied to it, or work is done upon it; whereas,
+according to its degree of endothermicity, an endothermic substance is
+more or less unstable, for it is always ready to emit heat, or to do
+work, as soon as an opportunity is given to it to decompose. The
+theoretical and practical results of this circumstance will be elaborated
+in Chapter VI., when the endothermic nature of acetylene is more fully
+discussed.
+
+A very simple experiment will show that a notable quantity of heat is set
+free when calcium carbide is brought into contact with water, and by
+arranging the details of the apparatus in a suitable manner, the quantity
+of heat manifested may be measured with considerable accuracy. A lengthy
+description of the method of performing this operation, however, scarcely
+comes within the province of the present book, and it must be sufficient
+to say that the heat is estimated by decomposing a known weight of
+carbide by means of water in a small vessel surrounded on all sides by a
+carefully jacketed receptacle full of water and provided with a sensitive
+thermometer. The quantity of water contained in the outer vessel being
+known, and its temperature having been noted before the reaction
+commences, an observation of the thermometer after the decomposition is
+finished, and when the mercury has reached its highest point, gives data
+which show that the reaction between water and a known weight of calcium
+carbide produces heat sufficient in amount to raise a known weight of
+water through a known thermometric distance; and from these figures the
+corresponding number of large calories may easily be calculated. A
+determination of this quantity of heat has been made experimentally by
+several investigators, including Lewes, who has found that the heat
+evolved on decomposing 1 gramme of ordinary commercial carbide with water
+is 0.406 large calorie. [Footnote: Lewes returns his result as 406
+calories, because he employs the "small calorie." The small calorie is
+the quantity of heat needed to raise 1 gramme of water 1 deg. C.; but as
+there are 1000 grammes in 1 kilogramme, the large calorie is equal to
+1000 small calories. In many respects the former unit is to be
+preferred.] As the material operated upon contained only 91.3 per cent.
+of true calcium carbide, he estimates the heat corresponding with the
+decomposition of 1 gramme of pure carbide to be 0.4446 large calorie. As,
+however, it is better, and more in accordance with modern practice, to
+quote such data in terms of the atomic or molecular weight of the
+substance concerned, and as the molecular weight of calcium carbide is
+64, it is preferable to multiply these figures by 64, stating that,
+according to Lewes' researches, the heat of decomposition of "1 gramme-
+molecule" (_i.e._, 64 grammes) of a calcium carbide having a purity
+of 91.3 per cent. is just under 26 calories, or that of 1 gramme-molecule
+of pure carbide 28.454 calories. It is customary now to omit the phrase
+"one gramme-molecule" in giving similar figures, physicists saying simply
+that the heat of decomposition of calcium carbide by water when calcium
+hydroxide is the by-product, is 28.454 large calories.
+
+Assuming all the necessary data known, as happens to be the case in the
+present instance, it is also possible to calculate theoretically the heat
+which should be evolved on decomposing calcium carbide by means of water.
+Equation (2), given on page 24, shows that of the substances taking part
+in the reaction 1 molecular weight of calcium carbide is decomposed, and
+1 molecular weight of acetylene is formed. Of the two molecules of water,
+only one is decomposed, the other passing to the calcium hydroxide
+unchanged; and the 1 molecule of calcium hydroxide is formed by the
+combination of 1 atom of free calcium, 1 atom of free oxygen, and 1
+molecule of water already existing as such. Calcium hydroxide and water
+are both exothermic substances, absorbing heat when they are decomposed,
+liberating it when they are formed. Acetylene is endothermic, liberating
+heat when it is decomposed, absorbing it when it is produced.
+Unfortunately there is still some doubt about the heat of formation of
+calcium carbide, De Forcrand returning it as -0.65 calorie, and Gin as
++3.9 calories. De Forcrand's figure means, as before explained, that 64
+grammes of carbide should absorb 0.65 large calorie when they are
+produced by the combination of 40 grammes of calcium with 24 grammes of
+carbon; the minus sign calling attention to the belief that calcium
+carbide is endothermic, heat being liberated when it suffers
+decomposition. On the contrary, Gin's figure expresses the idea that
+calcium carbide is exothermic, liberating 3.9 calories when it is
+produced, and absorbing them when it is decomposed. In the absence of
+corroborative evidence one way or the other, Gin's determination will be
+accepted for the ensuing calculation. In equation (2), therefore, calcium
+carbide is decomposed and absorbs heat; water is decomposed and absorbs
+heat; acetylene is produced and absorbs heat; and calcium hydroxide is
+produced liberating heat. On consulting the tables of thermo-chemical
+data given in the various text-books on physical chemistry, all the other
+constants needed for the present purpose will be found; and it will
+appear that the heat of formation of water is +69 calories, that of
+acetylene -58.1 calories, and that of calcium hydroxide, when 1 atom of
+calcium, 1 atom of oxygen, and 1 molecule of water unite together, is
++160.1 calories. [Footnote: When 1 atom of calcium, 2 atoms of oxygen,
+and 2 atoms of hydrogen unite to form solid calcium hydroxide, the heat
+of formation of the latter is 229.1 (cf. _infra_). This value is
+simply 160.1 + 69.0 = 229.1; 69.0 being the heat of formation of water.]
+Collecting the results into the form of a balance-sheet, the effect of
+decomposing calcium carbide with water is this:
+
+_Heat liberated._              | _Heat absorbed._
+                               |
+Formation of Ca(OH)_2   16O.1  | Formation of acetylene    58.1
+| Decomposition of water    69.0
+                               | Decomposition of carbide   3.9
+                               |         Balance           29.1
+                        _____  |                           _____
+                               |
+         Total          160.1  |       Total              160.1
+
+Therefore when 64 grammes of calcium carbide are decomposed by water, or
+when 18 grammes of water are decomposed by calcium carbide (the by-
+product in each case being calcium hydroxide or slaked lime, for the
+formation of which a further 18 grammes of water must be present in the
+second instance), 29.1 large calories are set free. It is not possible
+yet to determine thermo-chemical data with extreme accuracy, especially
+on such a material as calcium carbide, which is hardly to be procured in
+a state of chemical purity; and so the value 28.454 calories
+experimentally found by Lewes agrees very satisfactorily, considering all
+things, with the calculated value 29.1 calories. It is to be noticed,
+however, that the above calculated value has been deduced on the
+assumption that the calcium hydroxide is obtained as a dry powder; but as
+slaked lime is somewhat soluble in water, and as it evolves 3 calories in
+so dissolving, if sufficient water is present to take up the calcium
+hydroxide entirely into the liquid form (_i.e._, that of a
+solution), the amount of heat set free will be greater by those 3
+calories, _i.e._, 32.1 large calories altogether.
+
+THE PROCESS OF GENERATION.--Taking 28 as the number of large calories
+developed when 64 grammes of ordinary commercial calcium carbide are
+decomposed with sufficient water to leave dry solid calcium hydroxide as
+the by-product in acetylene generation, this quantity of heat is capable
+of exerting any of the following effects. It is sufficient (1) to raise
+1000 grammes of water through 28 deg. C., say from 10 deg. C. (50 deg. F.,
+which is roughly the temperature of ordinary cold water) to 38 deg. C. It
+is sufficient (2) to raise 64 grammes of water (a weight equal to that of
+the carbide decomposed) through 438 deg. C., if that were possible. It would
+raise (3) 311 grammes of water through 90 deg. C., _i.e._, from 10 deg. C.
+to the boiling-point. If, however, instead of remaining in the liquid state,
+the water were converted into vapour, the same quantity of heat would
+suffice (4) to change 44.7 grammes of water at 10 deg. C. into steam at
+100 deg. C.; or (5) to change 46.7 grammes of water at 10 deg. C. into
+vapour at the same temperature. It is an action of the last character which
+takes place in acetylene generators of the most modern and usual pattern,
+some of the surplus water being evaporated and carried away as vapour at a
+comparatively low temperature with the escaping gas; for it must be
+remembered that although steam, as such, condenses into liquid water
+immediately the surrounding temperature falls below 100 deg. C., the vapour
+of water remains uncondensed, even at temperatures below the freezing-
+point, when that vapour is distributed among some permanent gas--the
+precise quantity of vapour so remaining being a function of the
+temperature and barometric height. Thus it appears that if the heat
+evolved during the decomposition of calcium carbide is not otherwise
+consumed, it is sufficient in amount to vaporise almost exactly 3 parts
+by weight of water for every 4 parts of carbide attacked; but if it were
+expended upon some substance such as acetylene, calcium carbide, or
+steel, which, unlike water, could not absorb an extra amount by changing
+its physical state (from solid to liquid, or from liquid to gas), the
+heat generated during the decomposition of a given weight of carbide
+would suffice to raise an equal weight of the particular substance under
+consideration to a temperature vastly exceeding 438 deg. C. The temperature
+attained, indeed, measured in Centigrade degrees, would be 438 multiplied
+by the quotient obtained on dividing the specific heat of water by the
+specific heat of the substance considered: which quotient, obviously, is
+the "reciprocal" of the specific heat of the said substance.
+
+The analogy to the combustion of coal mentioned on a previous page shows
+that although the quantity of heat evolved during a certain chemical
+reaction is strictly fixed, the temperature attained is dependent on the
+time over which the reaction is spread, being higher as the process is
+more rapid. This is due to the fact that throughout the whole period of
+reaction heat is escaping from the mass, and passing into the atmosphere
+at a fairly constant speed; so that, clearly, the more slowly heat is
+produced, the better opportunity has it to pass away, and the less of it
+is left to collect in the material under consideration. During the action
+of an acetylene generator, there is a current of gas constantly
+travelling away from the carbide, there is vapour of water constantly
+escaping with the gas, there are the walls of the generator itself
+constantly exposed to the cooling action of the atmosphere, and there is
+either a mass of calcium carbide or of water within the generator. It is
+essential for good working that the temperature of both the acetylene and
+the carbide shall be prevented from rising to any noteworthy extent;
+while the amount of heat capable of being dissipated into the air through
+the walls of the apparatus in a given time is narrowly limited, depending
+upon the size and shape of the generator, and the temperature of the
+surrounding air. If, then, a small, suitably designed generator is
+working quite slowly, the loss of heat through the external walls of the
+apparatus may easily be rapid enough to prevent the internal temperature
+from rising objectionably high; but the larger the generator, and the
+more rapidly it is evolving gas, the less does this become possible.
+Since of the substances in or about a generator water is the one which
+has by far the largest capacity for absorbing heat, and since it is the
+only substance to which any necessary quantity of heat can be safely or
+conveniently transmitted, it follows that the larger in size an acetylene
+generator is, or the more rapidly that generator is made to deliver gas,
+the more desirable is it to use water as the means for dissipating the
+surplus heat, and the more necessary is it to employ an apparatus in
+which water is in large chemical excess at the actual place of
+decomposition.
+
+The argument is sometimes advanced that an acetylene generator containing
+carbide in excess will work satisfactorily without exhibiting an
+undesirable rise in internal temperature, if the vessel holding the
+carbide is merely surrounded by a large quantity of cold water. The idea
+is that the heat evolved in that particular portion of the charge which
+is suffering decomposition will be communicated with sufficient speed
+throughout the whole mass of calcium carbide present, whence it will pass
+through the walls of the containing vessel into the water all round.
+Provided the generator is quite small, provided the carbide container is
+so constructed as to possess the maximum of superficial area with the
+minimum of cubical capacity (a geometrical form to which the sphere, and
+in one direction the cylinder, are diametrically opposed), and provided
+the walls of the container do not become coated internally or externally
+with a coating of lime or water scale so as to diminish in heat-
+transmitting power, an apparatus designed in the manner indicated is
+undoubtedly free from grave objection; but immediately any of those
+provisions is neglected, trouble is likely to ensue, for the heat will
+not disappear from the place of actual reaction at the necessary speed.
+Apparent proof that heat is not accumulating unduly in a water-jacketed
+carbide container even when the generator is evolving gas at a fair speed
+is easy to obtain; for if, as usually happens, the end of the container
+through which the carbide is inserted is exposed to the air, the hand may
+be placed upon it, and it will be found to be only slightly warm to the
+touch. Such a test, however, is inconclusive, and frequently misleading,
+because if more than a pound or two of carbide is present as an undivided
+mass, and if water is allowed to attack one portion of it, that
+particular portion may attain a high temperature while the rest is
+comparatively cool: and if the bulk of the carbide is comparatively cool,
+naturally the walls of the containing vessel themselves remain
+practically unheated. Three causes work together to prevent this heat
+being dissipated through the walls of the carbide vessel with sufficient
+rapidity. In the first place, calcium carbide itself is a very bad
+conductor of heat. So deficient in heat-conducting power is it that a
+lump a few inches in diameter may be raised to redness in a gas flame at
+one spot, and kept hot for some minutes, while the rest of the mass
+remains sufficiently cool to be held comfortably in the fingers. In the
+second place, commercial carbide exists in masses of highly irregular
+shape, so that when they are packed into any vessel they only touch at
+their angles and edges; and accordingly, even if the material were a
+fairly good heat conductor of itself, the air or gas present between each
+lump would act as an insulator, protecting the second piece from the heat
+generated in the first. In the third place, the calcium hydroxide
+produced as the by-product when calcium carbide is decomposed by water
+occupies considerably more space than the original carbide--usually two
+or three times as much space, the exact figures depending upon the
+conditions in which it is formed--and therefore a carbide container
+cannot advisedly be charged with more than one-third the quantity of
+solid which it is apparently capable of holding. The remaining two-thirds
+of the space is naturally full of air when the container is first put
+into the generator, but the air is displaced by acetylene as soon as gas
+production begins. Whether that space, however, is occupied by air, by
+acetylene, or by a gradually growing loose mass of slaked lime, each
+separate lump of hot carbide is isolated from its neighbours by a
+material which is also a very bad heat conductor; and the heat has but
+little opportunity of distributing itself evenly. Moreover, although iron
+or steel is a notably better conductor of heat than any of the other
+substances present in the carbide vessel, it is, as a metal, only a poor
+conductor, being considerably inferior in this respect to copper. If heat
+dissipation were the only point to be studied in the construction of an
+acetylene apparatus, far better results might be obtained by the
+employment of copper for the walls of the carbide container; and possibly
+in that case a generator of considerable size, fitted with a water-
+
+Back to Full Books

@@ -1,0 +1,1502 @@
+The Aeroplane SpeaksbyH. Barber
+
+
+Whichever method is used, be sure that after the job is
+done the spars are perfectly straight.
+
+
+STAGGER.--The stagger is the distance the top surface
+is in advance of the bottom surface when the aeroplane
+is in flying position. The set measurement is obtained as
+follows:
+
+Plumb-lines must be dropped over the leading edge of
+the top surface wherever struts occur, and also near the
+fuselage. The set measurement is taken from the front of the
+lower leading edge to the plumb-lines. It makes a difference
+whether the measurement is taken along a horizontal line
+(which can be found by using a straight-edge and a spirit-
+level) or along a projection of the chord. The line along
+which the measurement should be taken is laid down in the
+aeroplane's specifications.
+
+If a mistake is made and the measurement taken along
+the wrong line, it may result in a difference of perhaps 1/4
+will, in flight, be nose-heavy or tail-heavy.
+
+After the adjustments of the angles of incidence, dihedral,
+and stagger have been secured, it is as well to confirm all of
+them, as, in making the last adjustment, the first one may
+have been spoiled.
+
+
+OVER-ALL ADJUSTMENTS.--The following over-all check
+measurements should now be taken.
+
+The straight lines AC and BC should be equal to within
+1/8 inch. The point C is the centre of the propeller, or, in the
+case of a ``pusher'' aeroplane, the centre of the nacelle.
+The points A and B are marked on the main spar, and must
+in each case be the same distance from the butt of the spar.
+The rigger should not attempt to make A and B merely the
+sockets of the outer struts, as they may not have been placed
+quite accurately by the manufacturer. The lines AC and BC
+must be taken from both top and bottom spars--two measurements
+on each side of the aeroplane.
+
+The two measurements FD and FE should be equal to
+within 1/8 inch. F is the centre of the fuselage or rudder-
+post. D and E are points marked on both top and bottom
+rear spars, and each must be the same fixed distance from
+the butt of the spar. Two measurements on each side of the
+aeroplane.
+
+If these over-all measurements are not correct, then it
+is probably due to some of the drift or anti-drift wires being
+too tight or too slack. It may possibly be due to the fuselage
+being out of truth, but of course the rigger should have made
+quite sure that the fuselage was true before rigging the rest
+of the machine. Again, it may be due to the internal bracing
+wires within the lifting surfaces not being accurately adjusted,
+but of course this should have been seen to before covering the
+surfaces with fabric.
+
+
+FUSELAGE.--The method of truing the fuselage is laid
+down in the aeroplane's specifications. After it has been
+adjusted according to the specified directions, it should then
+be arranged on trestles in such a way as to make about three-
+quarters of it towards the tail stick out unsupported. In
+this way it will assume a condition as near as possible to
+flying conditions, and when it is in this position the set
+measurements should be confirmed. If this is not done it
+may be out of truth, but perhaps appear all right when
+supported by trestles at both ends, as, in such case, its
+weight may keep it true as long as it is resting upon the
+trestles.
+
+
+THE TAIL-PLANE (EMPENNAGE).--The exact angle of
+incidence of the tail-plane is laid down in the aeroplane's
+specifications. It is necessary to make sure that the spars
+are horizontal when the aeroplane is in flying position and
+the tail unsupported as explained above under the heading
+of Fuselage. If the spars are tapered, then make sure that
+their centre lines are horizontal.
+
+
+UNDERCARRIAGE.--The undercarriage must be very carefully
+aligned as laid down in the specifications.
+
+1. The aeroplane must be placed in its flying position
+and sufficiently high to ensure the wheels being off the ground
+when rigged. When in this position the axle must be hori-
+
+nontal and the bracing wires adjusted to secure the various
+set measurements stated in the specifications.
+
+2. Make sure that the struts bed well down into their
+sockets.
+
+3. Make sure that the shock absorbers are of equal
+tension. In the case of rubber shock absorbers, both the
+number of turns and the lengths must be equal.
+
+
+HOW TO DIAGNOSE FAULTS IN FLIGHT, STABILITY, AND CONTROL.
+
+
+DIRECTIONAL STABILITY will be badly affected if there is
+more drift (i.e., resistance) on one side of the aeroplane than
+there is on the other side. The aeroplane will tend to turn
+towards the side having the most drift. This may be caused
+as follows:
+
+1. The angle of incidence of the main surface or the tail
+surface may be wrong. The greater the angle of incidence,
+the greater the drift. The less the angle, the less the drift.
+
+2. If the alignment of the fuselage, fin in front of the
+rudder, the struts or stream-line wires, or, in the case of
+the Maurice Farman, the front outriggers, are not absolutely
+correct--that is to say, if they are turned a little to the
+left or to the right instead of being in line with the direction
+of flight--then they will act as a rudder and cause the aeroplane
+to turn off its course.
+
+3. If any part of the surface is distorted, it will cause
+the aeroplane to turn off its course. The surface is cambered,
+i.e., curved, to pass through the air with the least possible
+drift. If, owing perhaps to the leading edge, spars, or trailing
+edge becoming bent, the curvature is spoiled, that will
+result in changing the amount of drift on one side of the aeroplane,
+which will then have a tendency to turn off its course.
+
+
+LATERAL INSTABILITY (FLYING ONE WING DOWN).--The only possible
+reason for such a condition is a difference in the lifts
+of right and left wings. That may be caused as follows:
+
+1. The angle of incidence may be wrong. If it is too
+great, it will produce more lift than on the other side of the
+aeroplane; and if too small, it will produce less lift than on
+the other side--the result being that, in either case, the aeroplane
+will try to fly one wing down.
+
+2. Distorted Surfaces.--If some part of the surface is
+distorted, then its camber is spoiled, and the lift will not be
+the same on both sides of the aeroplane, and that, of course,
+will cause it to fly one wing down.
+
+
+LONGITUDINAL INSTABILITY may be due to the following reasons:
+
+1. The stagger may be wrong. The top surface may have
+drifted back a little owing to some of the wires, probably
+the incidence wires, having elongated their loops or having
+pulled the fittings into the wood. If the top surface is not
+staggered forward to the correct degree, then consequently
+the whole of its lift is too far back, and it will then have a
+tendency to lift up the tail of the machine too much. The
+aeroplane would then be said to be ``nose-heavy.''
+
+A 1/4-inch area in the stagger will make a very considerable
+difference to the longitudinal stability.
+
+2. If the angle of incidence of the main surface is not right,
+it will have a bad effect, especially in the case of an aeroplane
+with a lifting tail-plane.
+
+If the angle is too great, it will produce an excess of lift,
+and that may lift up the nose of the aeroplane and result in
+a tendency to fly ``tail-down.'' If the angle is too small,
+it will produce a decreased lift, and the aeroplane may have a
+tendency to fly ``nose-down.''
+
+3. The fuselage may have become warped upward or
+downward, thus giving the tail-plane an incorrect angle of
+incidence. If it has too much angle, it will lift too much,
+and the aeroplane will be ``nose-heavy.'' If it has too little
+angle, then it will not lift enough, and the aeroplane will be
+``tail-heavy.''
+
+4. (The least likely reason.) The tail-plane may be
+mounted upon the fuselage at a wrong angle of incidence,
+in which case it must be corrected. If nose-heavy, it should
+be given a smaller angle of incidence. If tail-heavy, it should
+be given a larger angle; but care should be taken not to give
+it too great an angle, because the longitudinal stability
+entirely depends upon the tail-plane being set at a much
+smaller angle of incidence than is the main surface, and if
+that difference is decreased too much, the aeroplane will
+become uncontrollable longitudinally. Sometimes the tail-
+plane is mounted on the aeroplane at the same angle as the
+main surface, but it actually engages the air at a lesser angle,
+owing to the air being deflected downwards by the main
+surface. There is then, in effect, a longitudinal dihedral
+as explained and illustrated in Chapter I.
+
+
+CLIMBS BADLY.--Such a condition is, apart from engine
+or propeller trouble, probably due to (1) distorted surfaces,
+or (2) too small an angle of incidence.
+
+
+FLIGHT SPEED POOR.--Such a condition is, apart from
+engine or propeller trouble, probably due to (1) distorted
+surfaces, (2) too great an angle of incidence, or (3) dirt or
+mud, and consequently excessive skin-friction.
+
+
+INEFFICIENT CONTROL is probably due to (1) wrong setting
+of control surfaces, (2) distortion of control surfaces, or
+(3) control cables being badly tensioned.
+
+
+WILL NOT TAXI STRAIGHT.--If the aeroplane is uncontrollable
+on the ground, it is probably due to (1) alignment
+of undercarriage being wrong, or (2) unequal tension of shock
+absorbers.
+
+
+
+CHAPTER IV
+
+THE PROPELLER, OR ``AIR-SCREW''
+
+The sole object of the propeller is to translate the power
+of the engine into thrust.
+
+The propeller screws through the air, and its blades, being
+set at an angle inclined to the direction of motion, secure
+a reaction, as in the case of the aeroplane's lifting surface.
+
+This reaction may be conveniently divided into two
+component parts or values, namely, Thrust and Drift.
+
+The Thrust is opposed to the Drift of the aeroplane, and
+must be equal and opposite to it at flying speed. If it falls
+off in power, then the flying speed must decrease to a velocity,
+at which the aeroplane drift equals the decreased thrust.
+
+The Drift of the propeller may be conveniently divided
+into the following component values:
+
+
+Active Drift, produced by the useful thrusting part of the propeller.
+
+
+Passive Drift, produced by all the rest of the propeller,
+i.e., by its detrimental surface.
+
+
+Skin Friction, produced by the friction of the air with
+roughnesses of surface.
+
+
+Eddies attending the movement of the air caused by
+the action of the propeller.
+
+
+Cavitation (very marked at excessive speed of revolution).
+A tendency of the propeller to produce a
+cavity or semi-vacuum in which it revolves, the
+thrust decreasing with increase of speed and
+cavitation.
+
+
+THRUST-DRIFT RATIO.--The proportion of thrust to drift
+is of paramount importance, for it expresses the efficiency
+of the propeller. It is affected by the following factors:
+Speed of Revolution.--The greater the speed, the greater
+the proportion of drift to thrust. This is due to
+the increase with speed of the passive drift, which
+carries with it no increase in thrust. For this
+reason propellers are often geared down to revolve
+at a lower speed than that of the engine.
+
+
+Angle of Incidence.--The same reasons as in the case of
+the aeroplane surface.
+
+Surface Area.--Ditto.
+
+Aspect Ratio.--Ditto.
+
+Camber.--Ditto.
+
+In addition to the above factors there are, when it comes
+to actually designing a propeller, mechanical difficulties to
+consider. For instance, the blades must be of a certain
+strength and consequent thickness. That, in itself, limits
+the aspect ratio, for it will necessitate a chord long enough
+in proportion to the thickness to make a good camber possible.
+Again, the diameter of the propeller must be limited, having
+regard to the fact that greater diameters than those used
+to-day would not only result in excessive weight of construction,
+but would also necessitate a very high undercarriage
+to keep the propeller off the ground, and such undercarriage
+would not only produce excessive drift, but would also tend
+to make the aeroplane stand on its nose when alighting.
+The latter difficulty cannot be overcome by mounting the
+propeller higher, as the centre of its thrust must be approximately
+coincident with the centre of aeroplane drift.
+
+
+MAINTENANCE OF EFFICIENCY.
+
+
+The following conditions must be observed:
+
+
+1. PITCH ANGLE.--The angle, at any given point on the
+propeller, at which the blade is set is known as the pitch
+angle, and it must be correct to half a degree if reasonable
+efficiency is to be maintained.
+
+This angle secures the ``pitch,'' which is the distance the
+propeller advances during one revolution, supposing the air
+to be solid. The air, as a matter of fact, gives back to the
+thrust of the blades just as the pebbles slip back as one
+ascends a shingle beach. Such ``give-back'' is known as
+Slip. If a propeller has a pitch of, say, 10 feet, but actually
+advances, say, only 8 feet owing to slip, then it will be said
+to possess 20 per cent. slip.
+
+Thus, the pitch must equal the flying speed of the
+aeroplane plus the slip of the propeller. For example,
+let us find the pitch of a propeller, given the following
+conditions:
+          Flying speed .............. 70 miles per hour.
+          Propeller revolutions ..... 1,200 per minute.
+          Slip ...................... 15 per cent.
+
+First find the distance in feet the aeroplane will travel
+forward in one minute. That is--
+
+   369,600 feet (70 miles)
+   ------------------------ = 6,160 feet per minute.
+      60     `` (minutes)
+
+
+Now divide the feet per minute by the propeller revolutions
+per minute, add 15 per cent. for the slip, and the result
+will be the propeller pitch:
+
+     6,160 
+     ----- + 15 per cent. = 5 feet 1 3/5 inches.
+     1,200
+
+
+In order to secure a constant pitch from root to tip of
+blade, the pitch angle decreases towards the tip. This is
+necessary, since the end of the blade travels faster than its
+root, and yet must advance forward at the same speed as
+the rest of the propeller. For example, two men ascending
+a hill. One prefers to walk fast and the other slowly, but they
+wish to arrive at the top of the hill simultaneously. Then
+the fast walker must travel a farther distance than the slow
+one, and his angle of path (pitch angle) must be smaller
+than the angle of path taken by the slow walker. Their
+pitch angles are different, but their pitch (in this case altitude
+reached in a given time) is the same.
+
+In order to test the pitch angle, the propeller must be
+mounted upon a shaft at right angles to a beam the face of
+which must be perfectly level, thus:
+
+First select a point on the blade at some distance (say
+about 2 feet) from the centre of the propeller. At that
+point find, by means of a protractor, the angle a projection
+of the chord makes with the face of the beam. That angle
+is the pitch angle of the blade at that point.
+
+Now lay out the angle on paper, thus:
+
+The line above and parallel to the circumference line must
+be placed in a position making the distance between the
+two lines equal to the specified pitch, which is, or should be,
+marked upon the boss of the propeller.
+
+Now find the circumference of the propeller where the
+pitch angle is being tested. For example, if that place is
+2 feet radius from the centre, then the circumference will
+be 2 feet X 2 = 4 feet diameter, which, if multiplied by
+3.1416 = 15.56 feet circumference.
+
+Now mark off the circumference distance, which is
+represented above by A-B, and reduce it in scale for convenience.
+
+The distance a vertical line makes between B and the
+chord dine is the pitch at the point where the angle is being
+tested, and it should coincide with the specified pitch. You
+will note, from the above illustration, that the actual pitch
+line should meet the junction of the chord line and top
+line.
+
+The propeller should be tested at several points, about
+a foot apart, on each blade; and the diagram, provided the
+propeller is not faulty, will then look like this:
+
+At each point tested the actual pitch coincides with the
+specified pitch: a satisfactory condition.
+
+A faulty propeller will produce a diagram something
+like this:
+
+
+At every point tested the pitch angle is wrong, for nowhere
+does the actual pitch coincide with the specified pitch.
+Angles A, C, and D, are too large, and B is too small. The
+angle should be correct to half a degree if reasonable efficiency
+is to be maintained.
+
+A fault in the pitch angle may be due to (1) faulty manufacture,
+(2) distortion, or (3) the shaft hole through the boss
+being out of position.
+
+
+2. STRAIGHTNESS.--To test for straightness the propeller
+must be mounted upon a shaft. Now bring the tip of one
+blade round to graze some fixed object. Mark the point it
+grazes. Now bring the other tip round, and it should come
+within 1/8 inch of the mark. If it does not do so, it is due to
+(1) faulty manufacture, (2) distortion, or (3) to the hole
+through the boss being out of position.
+
+
+3. LENGTH.--The blades should be of equal length to
+inch.
+
+
+4. BALANCE.--The usual method of testing a propeller
+for balance is as follows: Mount it upon a shaft, which must
+be on ball-bearings. Place the propeller in a horizontal
+position, and it should remain in that position. If a weight
+of a trifle over an ounce placed in a bolt-hole on one side of
+the boss fails to disturb the balance, then the propeller is
+usually regarded as unfit for use.
+
+The above method is rather futile, as it does not test for
+the balance of centrifugal force, which comes into play as
+soon as the propeller revolves. It can be tested as follows:
+
+
+The propeller must be in a horizontal position, and then
+weighed at fixed points, such as A, B, C, D, E, and F, and
+the weights noted. The points A, B, and C must, of course,
+be at the same fixed distances from the centre of the propeller
+as the points D, E, and F. Now reverse the propeller and
+weigh at each point again. Note the results. The first
+series of weights should correspond to the second series,
+thus:
+
+      Weight A should equal weight F.
+         ``  B   ``     ``     ``  E.
+         ``  C   ``     ``     ``  D.
+
+
+There is no standard practice as to the degree of error
+permissible, but if there are any appreciable differences the
+propeller is unfit for use.
+
+
+5. SURFACE AREA.--The surface area of the blades should
+be equal. Test with callipers thus:
+
+The points between which the distances are taken must,
+of course, be at the same distance from the centre in the
+case of each blade.
+
+There is no standard practice as to the degree of error
+permissible. If, however, there is an error of over 1/8 inch,
+the propeller is really unfit for use.
+
+
+6. CAMBER.--The camber (curvature) of the blades should
+be (1) equal, (2) decrease evenly towards the tips of the blades,
+and (3) the greatest depth of the curve should, at any point
+of the blade, be approximately at the same percentage of
+the chord from the leading edge as at other points.
+
+It is difficult to test the top camber without a set of
+templates, but a fairly accurate idea of the concave camber
+can be secured by slowly passing a straight-edge along the
+blade, thus:
+
+The camber can now be easily seen, and as the straight-
+edge is passed along the blade, the observer should look for
+any irregularities of the curvature, which should gradually
+and evenly decrease towards the tip of the blade.
+
+
+7. THE JOINTS.--The usual method for testing the glued
+joints is by revolving the propeller at greater speed than it
+will be called upon to make during flight, and then carefully
+examining the joints to see if they have opened. It is not
+likely, however, that the reader will have the opportunity
+of making this test. He should, however, examine all the
+joints very carefully, trying by hand to see if they are quite
+sound. Suspect a propeller of which the joints appear to
+hold any thickness of glue. Sometimes the joints in the
+boss open a little, but this is not dangerous unless they extend
+to the blades, as the bolts will hold the laminations together.
+
+
+8. CONDITION OF SURFACE.--The surface should be very
+smooth, especially towards the tips of the blades. Some
+propeller tips have a speed of over 30,000 feet a minute,
+and any roughness will produce a bad drift or resistance
+and lower the efficiency.
+
+
+9. MOUNTING.--Great care should be taken to see that
+the propeller is mounted quite straight on its shaft. Test in
+the same way as for straightness. If it is not straight, it
+is possibly due to some of the propeller bolts being too slack
+or to others having been pulled up too tightly.
+
+
+FLUTTER.--Propeller ``flutter,'' or vibration, may be due
+to faulty pitch angle, balance, camber, or surface area. It
+causes a condition sometimes mistaken for engine trouble,
+and one which may easily lead to the collapse of the propeller.
+
+
+CARE OF PROPELLERS.--The care of propellers is of the
+greatest importance, as they become distorted very easily.
+
+
+1. Do not store them in a very damp or a very dry place.
+
+
+2. Do not store them where the sun will shine upon them.
+
+
+3. Never leave them long in a horizontal position or
+leaning up against a wall.
+
+
+4. They should be hung on horizontal pegs, and the
+position of the propellers should be vertical.
+
+
+If the points I have impressed upon you in these notes
+are not attended to, you may be sure of the following results:
+
+
+1. Lack of efficiency, resulting in less aeroplane speed
+and climb than would otherwise be the case.
+
+
+2. Propeller ``flutter'' and possible collapse.
+
+
+3. A bad stress upon the propeller shaft and its bearings.
+
+
+TRACTOR.--A propeller mounted in front of the main
+surface.
+
+
+PUSHER.--A propeller mounted behind the main surface.
+
+
+FOUR-BLADED PROPELLERS.--Four- bladed propellers are
+suitable only when the pitch is comparatively large.
+
+For a given pitch, and having regard to ``interference,''
+they are not so efficient as two-bladed propellers.
+
+The smaller the pitch, the less the ``gap,'' i.e., the distance,
+measured in the direction of the thrust, between the
+spiral courses of the blades.
+
+If the gap is too small, then the following blade will
+engage air which the preceding blade has put into motion,
+with the result that the following blade will not secure as
+good a reaction as would otherwise be the case. It is very
+much the same as in the case of the aeroplane gap.
+
+For a given pitch, the gap of a four-bladed propeller is
+only half that of a two-bladed one. Therefore the four-
+bladed propeller is only suitable for large pitch, as such
+pitch produces spirals with a large gap, thus offsetting the
+decrease in gap caused by the numerous blades.
+
+The greater the speed of rotation, the less the pitch for
+a given aeroplane speed. Then, in order to secure a large
+pitch and consequently a good gap, the four-bladed propeller
+is usually geared to rotate at a lower speed than would be
+the case if directly attached to the engine crank-shaft.
+
+
+
+CHAPTER V
+
+MAINTENANCE
+
+CLEANLINESS.--The fabric must be kept clean and free
+from oil, as that will rot it. To take out dirt or oily patches,
+try acetone. If that will not remedy matters, then try
+petrol, but use it sparingly, as otherwise it will take off an
+unnecessary amount of dope. If that will not remove the
+dirt, then hot water and soap will do so, but, in that case,
+be sure to use soap having no alkali in it, as otherwise it may
+injure the fabric. Use the water sparingly, or it may get
+inside the planes and rust the internal bracing wires, or cause
+some of the wooden framework to swell.
+
+The wheels of the undercarriage have a way of throwing
+up mud on to the lower surface. This should, if possible, be
+taken off while wet. It should never be scraped off when
+dry, as that may injure the fabric. If dry, then it should
+be moistened before being removed.
+
+Measures should be taken to prevent dirt from collecting
+upon any part of the aeroplane, as, otherwise, excessive skin-
+friction will be produced with resultant loss of flight speed.
+The wires, being greasy, collect dirt very easily.
+
+
+CONTROL CABLES.--After every flight the rigger should
+pass his hand over the control cables and carefully examine
+them near pulleys. Removal of grease may be necessary
+to make a close inspection possible. If only one strand is
+broken the wire should be replaced. Do not forget the aileron
+balance wire on the top surface.
+
+Once a day try the tension of the control cables by smartly
+moving the control levers about as explained elsewhere.
+
+
+WIRES.--All the wires should be kept well greased or
+oiled, and in the correct tension. When examining the wires,
+it is necessary to place the aeroplane on level ground, as
+otherwise it may be twisted, thus throwing some wires into
+undue tension and slackening others. The best way, if there
+is time, is to pack the machine up into its ``flying position.''
+
+If you see a slack wire, do not jump to the conclusion
+that it must be tensioned. Perhaps its opposition wire is
+too tight, in which case slacken it, and possibly you will
+find that will tighten the slack wire.
+
+Carefully examine all wires and their connections near
+the propeller, and be sure that they are snaked round with
+safety wire, so that the latter may keep them out of the way
+of the propeller if they come adrift.
+
+The wires inside the fuselage should be cleaned and regreased
+about once a fortnight.
+
+
+STRUTS AND SOCKETS.--These should be carefully examined
+to see if any splitting has occurred.
+
+
+DISTORTION.--Carefully examine all surfaces, including
+the controlling surfaces, to see whether any distortion has
+occurred. If distortion can be corrected by the adjustment
+of wires, well and good; but if not, then some of the internal
+framework probably requires replacement.
+
+
+ADJUSTMENTS.--Verify the angles of incidence; dihedral,
+and stagger, and the rigging position of the controlling-
+surfaces, as often as possible.
+
+
+UNDERCARRIAGE.--Constantly examine the alignment and
+fittings of the undercarriage, and the condition of tyres and
+shock absorbers. The latter, when made of rubber, wear
+quickest underneath. Inspect axles and skids to see if
+there are any signs of them becoming bent. The wheels
+should be taken off occasionally and greased.
+
+
+LOCKING ARRANGEMENTS.--Constantly inspect the locking
+arrangements of turnbuckles, bolts, etc. Pay particular
+attention to the control cable connections, and to all moving
+parts in respect of the controls.
+
+
+LUBRICATION.--Keep all moving parts, such as pulleys,
+control levers, and hinges of controlling surfaces, well greased.
+
+
+SPECIAL INSPECTION.--Apart from constantly examining
+the aeroplane with reference to the above points I have made,
+I think that, in the case of an aeroplane in constant use
+it is an excellent thing to make a special inspection of every
+part, say once a week. This will take from two to three
+hours, according to the type of aeroplane. In order to carry
+it out methodically, the rigger should have a list of every part
+down to the smallest split-pin. He can then check the parts
+as he examines them, and nothing will be passed over. This,
+I know from experience, greatly increases the confidence of
+the pilot, and tends to produce good work in the air.
+
+
+WINDY WEATHER.--The aeroplane, when on the ground,
+should face the wind; and it is advisable to lash the control
+lever fast, so that the controlling surfaces may not be blown
+about and possibly damaged.
+
+
+``VETTING'' BY EYE.--This should be practiced at every
+opportunity, and, if persevered in, it is possible to become
+quite expert in diagnosing by eye faults in flight efficiency,
+stability and control.
+
+The aeroplane should be standing upon level ground, or,
+better than that, packed up into its ``flying position.''
+
+Now stand in front of it and line up the leading edge
+with the main spar, rear spar, and trailing edge. Their
+shadows can usually be seen through the fabric. Allowance
+must, of course, be made for wash-in and wash-out; otherwise,
+the parts I have specified should be parallel with each other.
+
+Now line up the centre part of the main-plane with the
+tail-plane. The latter should be horizontal.
+
+Next, sight each interplane front strut with its rear
+strut. They should be parallel.
+
+Then, standing on one side of the aeroplane, sight all
+the front struts. The one nearest to you should cover all
+the others. This applies to the rear struts also.
+
+Look for distortion of leading edges, main and rear spars,
+trailing edges, tail-plane and controlling surfaces.
+
+This sort of thing, if practiced constantly, will not only
+develop an expert eye for diagnosis of faults, but will also
+greatly assist in impressing upon the memory the characteristics
+and possible troubles of the various types of aeroplanes.
+
+
+MISHANDLING OF THE GROUND.--This is the cause of a
+lot of unnecessary damage. The golden rule to observe is:
+PRODUCE NO BENDING STRESSES.
+
+Nearly all the wood in an aeroplane is designed to take
+merely the stress of direct compression, and it cannot be bent
+safely. Therefore, in packing an aeroplane up from the
+ground, or in pulling or pushing it about, be careful to stress
+it in such a way as to produce, as far as possible, only direct
+compression stresses. For instance, if it is necessary to
+support the lifting surface, then the packing should be
+arranged to come directly under the struts so that they may
+take the stress in the form of compression for which they are
+designed. Such supports should be covered with soft packing
+in order to prevent the fabric from becoming damaged.
+
+When pulling an aeroplane along, if possible, pull from
+the top of the undercarriage struts. If necessary to pull
+from elsewhere, then do so by grasping the interplane struts
+as low down as possible.
+
+Never lay fabric-covered parts upon a concrete floor.
+Any slight movement will cause the fabric to scrape over the
+floor with resultant damage.
+
+Struts, spars, etc., should never be left about the floor,
+as in such position they are likely to become scored. I
+have already explained the importance of protecting the outside
+fibres of the wood. Remember also that wood becomes
+distorted easily. This particularly applies to interplane
+struts. If there are no proper racks to stand them in, then
+the best plan is to lean them up against the wall in as near a
+vertical position as possible.
+
+
+TIME.--Learn to know the time necessary to complete
+any of the various rigging jobs. This is really important.
+Ignorance of this will lead to bitter disappointments in civil
+life; and, where Service flying is concerned, it will, to say the
+least of it, earn unpopularity with senior officers, and fail to
+develop respect and good work where men are concerned.
+
+
+THE AEROPLANE SHED.--This should be kept as clean and
+orderly as possible. A clean, smart shed produces briskness,
+energy, and pride of work. A dirty, disorderly shed nearly
+always produces slackness and poor quality of work, lost
+tools and mislaid material.
+
+
+GLOSSARY
+
+Aeronautics--The science of aerial navigation.
+
+Aerofoil--A rigid structure, of large superficial area relative to its
+thickness, designed to obtain, when driven through the air at an
+angle inclined to the direction of motion, a reaction from the air
+approximately at right angles to its surface. Always cambered
+when intended to secure a reaction in one direction only. As the
+term ``aerofoil'' is hardly ever used in practical aeronautics,
+I have, throughout this book, used the term SURFACE, which,
+while academically incorrect, since it does not indicate thickness,
+is a term usually used to describe the cambered lifting surfaces,
+i.e., the ``planes'' or ``wings,'' and the stabilizers and the
+controlling aerofoils.
+
+Aerodrome--The name usually applied to a ground used for the
+practice of aviation. It really means ``flying machine,'' but is
+never used in that sense nowadays.
+
+Aeroplane--A power-driven aerofoil with stabilizing and controlling
+surfaces.
+
+Acceleration--The rate of change of velocity.
+
+Angle of Incidence--The angle at which the ``neutral lift line'' of
+a surface attacks the air.
+
+Angle of Incidence, Rigger's--The angle the chord of a surface makes
+with a line parallel to the axis of the propeller.
+
+Angle of Incidence, Maximum--The greatest angle of incidence at
+which, for a given power, surface (including detrimental surface),
+and weight, horizontal flight can be maintained.
+
+Angle of Incidence, Minimum--The smallest angle of incidence at
+which, for a given power, surface (including detrimental surface),
+and weight, horizontal flight can be maintained.
+
+Angle of Incidence, Best Climbing--That angle of incidence at which
+an aeroplane ascends quickest. An angle approximately halfway
+between the maximum and optimum angles.
+
+Angle of Incidence, Optimum--The angle of incidence at which the
+lift-drift ratio is the highest.
+
+
+Angle, Gliding--The angle between the horizontal and the path along
+which an aeroplane at normal flying speed, but not under engine
+power, descends in still air.
+
+Angle, Dihedral--The angle between two planes.
+
+Angle, Lateral Dihedral--The lifting surface of an aeroplane is said to
+be at a lateral dihedral angle when it is inclined upward towards
+its wing-tips.
+
+Angle, Longitudinal Dihedral--The main surface and tail surface are
+said to be at a longitudinal dihedral angle when the projections
+of their neutral lift lines meet and produce an angle above them.
+
+Angle, Rigger's Longitudinal Dihedral--Ditto, but substituting
+``chords'' for ``neutral life lines.''
+
+Angle, Pitch--The angle at any given point of a propeller, at which
+the blade is inclined to the direction of motion when the propeller
+is revolving but the aeroplane stationary.
+
+Altimeter--An instrument used for measuring height.
+
+Air-Speed Indicator--An instrument used for measuring air pressures
+or velocities. It consequently indicates whether the surface is
+securing the requisite reaction for flight. Usually calibrated in
+miles per hour, in which case it indicates the correct number of
+miles per hour at only one altitude. This is owing to the density
+of the air decreasing with increase of altitude and necessitating
+a greater speed through space to secure the same air pressure
+as would be secured by less speed at a lower altitude. It would
+be more correct to calibrate it in units of air pressure.
+
+Air Pocket--A local movement or condition of the air causing an
+aeroplane to drop or lose its correct attitude.
+
+Aspect-Ratio--The proportion of span to chord of a surface.
+
+Air-Screw (Propeller)--A surface so shaped that its rotation about
+an axis produces a force (thrust) in the direction of its axis.
+
+Aileron--A controlling surface, usually situated at the wing-tip, the
+operation of which turns an aeroplane about its longitudinal axis;
+causes an aeroplane to tilt sideways.
+
+
+Aviation--The art of driving an aeroplane.
+
+Aviator--The driver of an aeroplane.
+
+Barograph--A recording barometer, the charts of which can be calibrated
+for showing air density or height.
+
+Barometer--An instrument used for indicating the density of air.
+
+Bank, to--To turn an aeroplane about its longitudinal axis (to tilt
+sideways) when turning to left or right.
+
+Biplane--An aeroplane of which the main lifting surface consists
+of a surface or pair of wings mounted above another surface or
+pair of wings.
+
+Bay--The space enclosed by two struts and whatever they are fixed to.
+
+Boom--A term usually applied to the long spars joining the tail of a
+``pusher'' aeroplane to its main lifting surface.
+
+Bracing--A system of struts and tie wires to transfer a force from
+one point to another.
+
+Canard--Literally ``duck.'' The name which was given to a type of
+aeroplane of which the longitudinal stabilizing surface (empennage)
+was mounted in front of the main lifting surface. Sometimes
+termed ``tail-first'' aeroplanes, but such term is erroneous,
+as in such a design the main lifting surface acts as, and is, the
+empennage.
+
+Cabre--To fly or glide at an excessive angle of incidence; tail down.
+
+Camber--Curvature.
+
+Chord--Usually taken to be a straight line between the trailing and
+leading edges of a surface.
+
+Cell--The whole of the lower surface, that part of the upper surface
+directly over it, together with the struts and wires holding them
+together.
+
+Centre (Line) of Pressure--A line running from wing-tip to wing-tip,
+and through which all the air forces acting upon the surface may
+be said to act, or about which they may be said to balance.
+
+Centre (Line) of Pressure, Resultant--A line transverse to the
+longitudinal axis, and the position of which is the resultant of the
+centres of pressure of two or more surfaces.
+
+Centre of Gravity--The centre of weight.
+
+Cabane--A combination of two pylons, situated over the fuselage,
+and from which anti-lift wires are suspended. 
+
+Cloche--Literally ``bell.'' Is applied to the bell-shaped construction
+which forms the lower part of the pilot's control lever in
+a Bleriot monoplane, and to which the control cables are
+attached.
+
+Centrifugal Force--Every body which moves in a curved path is
+urged outwards from the centre of the curve by a force termed
+``centrifugal.''
+
+Control Lever--A lever by means of which the controlling surfaces
+are operated. It usually operates the ailerons and elevator. The
+``joy-stick".
+
+Cavitation, Propeller--The tendency to produce a cavity in the air.
+
+Distance Piece--A long, thin piece of wood (sometimes tape) passing
+through and attached to all the ribs in order to prevent them from
+rolling over sideways.
+
+Displacement--Change of position.
+
+Drift (of an aeroplane as distinct from the propeller)--The horizontal
+component of the reaction produced by the action of driving
+through the air a surface inclined upwards and towards its direction
+of motion PLUS the horizontal component of the reaction produced
+by the ``detrimental'' surface PLUS resistance due to
+``skin-friction.'' Sometimes termed ``head-resistance.''
+
+Drift, Active--Drift produced by the lifting surface.
+
+Drift, Passive--Drift produced by the detrimental surface.
+
+Drift (of a propeller)--Analogous to the drift of an aeroplane. It is
+convenient to include ``cavitation'' within this term.
+
+Drift, to--To be carried by a current of air; to make leeway.
+
+Dive, to--To descend so steeply as to produce a speed greater than the
+normal flying speed.
+
+Dope, to--To paint a fabric with a special fluid for the purpose of
+tightening and protecting it.
+
+Density--Mass of unit volume, for instance, pounds per cubic foot.
+
+Efficiency--Output
+            Input
+
+Efficiency (of an aeroplane as distinct from engine and propeller)--
+         Lift and Velocity
+    Thrust (= aeroplane drift)
+
+Efficiency, Engine--Brake horse-power
+                    Indicated horse-power
+
+Efficiency, Propeller--        Thrust horse-power
+                       Horse-power received from engine
+                               (= propeller drift)
+
+NOTE.--The above terms can, of course, be expressed in foot-
+pounds. It is then only necessary to divide the upper term by
+the lower one to find the measure of efficiency.
+
+Elevator--A controlling surface, usually hinged to the rear of the tail-
+plane, the operation of which turns an aeroplane about an axis
+which is transverse to the direction of normal horizontal flight.
+
+Empennage--See ``Tail-plane.''
+
+Energy--Stored work. For instance, a given weight of coal or petroleum
+stores a given quantity of energy which may be expressed
+in foot-pounds.
+
+Extension--That part of the upper surface extending beyond the
+span of the lower surface.
+
+Edge, Leading--The front edge of a surface relative to its normal
+direction of motion.
+
+Edge, Trailing--The rear edge of a surface relative to its normal
+direction of motion.
+
+Factor of Safety--Usually taken to mean the result found by dividing
+the stress at which a body will collapse by the maximum stress
+it will be called upon to bear.
+
+Fineness (of stream-line)--The proportion of length to maximum width.
+
+Flying Position--A special position in which an aeroplane must be
+placed when rigging it or making adjustments. It varies with
+different types of aeroplanes. Would be more correctly described
+as ``rigging position.''
+
+Fuselage--That part of an aeroplane containing the pilot, and to which
+is fixed the tail-plane.
+
+Fin--Additional keel-surface, usually mounted at the rear of an
+aeroplane.
+
+Flange (of a rib)--That horizontal part of a rib which prevents it
+from bending sideways.
+
+Flight--The sustenance of a body heavier than air by means of its
+action upon the air.
+
+Foot-pound--A measure of work representing the weight of 1 lb.
+raised 1 foot.
+
+Fairing--Usually made of thin sheet aluminum, wood, or a light
+construction of wood and fabric; and bent round detrimental
+surface in order to give it a ``fair'' or ``stream-like'' shape.
+
+Gravity--Is the force of the Earth's attraction upon a body. It
+decreases with increase of distance from the Earth. See ``Weight.''
+
+Gravity, Specific--Density of substance
+                   Density of water.
+Thus, if the density of water is 10 lb. per unit volume, the same
+unit volume of petrol, if weighing 7 lb., would be said to have a
+specific gravity of  7/10, i.e., 0.7.
+
+Gap (of an aeroplane)--The distance between the upper and lower
+surfaces of a biplane. In a triplane or multiplane, the distance
+between a surface and the one first above it.
+
+Gap, Propeller--The distance, measured in the direction of the thrust,
+between the spiral courses of the blades.
+
+Girder--A structure designed to resist bending, and to combine lightness
+and strength.
+
+Gyroscope--A heavy circular wheel revolving at high speed, the effect
+of which is a tendency to maintain its plane of rotation against
+disturbing forces.
+
+Hangar--An aeroplane shed.
+
+Head-Resistance--Drift. The resistance of the air to the passage of
+a body.
+
+Helicopter--An air-screw revolving about a vertical axis, the direction
+of its thrust being opposed to gravity.
+
+Horizontal Equivalent--The plan view of a body whatever its attitude
+may be.
+
+Impulse--A force causing a body to gain or lose momentum.
+
+Inclinometer--A curved form of spirit-level used for indicating the
+attitude of a body relative to the horizontal.
+
+Instability--An inherent tendency of a body, which, if the body is
+disturbed, causes it to move into a position as far as possible away
+from its first position.
+
+Instability, Neutral--An inherent tendency of a body to remain in the
+position given it by the force of a disturbance, with no tendency
+to move farther or to return to its first position.
+
+Inertia--The inherent resistance to displacement of a body as distinct
+from resistance the result of an external force.
+
+Joy-Stick--See ``Control Lever.''
+
+Keel-Surface--Everything to be seen when viewing an aeroplane from
+the side of it.
+
+King-Post--A bracing strut; in an aeroplane, usually passing through
+a surface and attached to the main spar, and from the end or ends
+of which wires are taken to spar, surface, or other part of the
+construction in order to prevent distortion. When used in connection
+with a controlling surface, it usually performs the additional
+function of a lever, control cables connecting its ends with the
+pilot's control lever.
+
+Lift--The vertical component of the reaction produced by the action
+of driving through the air a surface inclined upwards and towards
+its direction of motion.
+
+Lift, Margin of--The height an aeroplane can gain in a given time and
+starting from a given altitude.
+
+Lift-Drift Ratio--The proportion of lift to drift.
+
+Loading--The weight carried by an aerofoil. Usually expressed in
+pounds per square foot of superficial area.
+
+Longeron--The term usually applied to any long spar running length-
+ways of a fuselage.
+
+Mass--The mass of a body is a measure of the quantity of material
+in it.
+
+Momentum--The product of the mass and velocity of a body is known
+as ``momentum.''
+
+Monoplane--An aeroplane of which the main lifting surface consists
+of one surface or one pair of wings.
+
+Multiplane--An aeroplane of which the main lifting surface consists
+of numerous surfaces or pairs of wings mounted one above the
+other.
+
+Montant--Fuselage strut.
+
+Nacelle--That part of an aeroplane containing the engine and
+pilot and passenger, and to which the tail plane is not fixed.
+
+Neutral Lift Line--A line taken through a surface in a forward direction
+relative to its direction of motion, and starting from its
+trailing edge. If the attitude of the surface is such as to make
+the said line coincident with the direction of motion, it results
+in no lift, the reaction then consisting solely of drift. The position
+of the neutral lift line, i.e., the angle it makes with the chord,
+varies with differences of camber, and it is found by means of
+wind-tunnel research.
+
+Newton's Laws of Motion--1. If a body be at rest, it will remain at
+rest; or, if in motion, it will move uniformly in a straight line
+until acted upon by some force.
+
+2. The rate of change of the quantity of motion (momentum) is
+proportional to the force which causes it, and takes place in the
+direction of the straight line in which the force acts. If a body
+be acted upon by several forces, it will obey each as though the
+others did not exist, and this whether the body be at rest or in
+motion.
+
+3. To every action there is opposed an equal and opposite
+reaction.
+
+Ornithopter (or Orthopter)--A flapping wing design of aircraft intended
+to imitate the flight of a bird.
+
+Outrigger--This term is usually applied to the framework connecting
+the main surface with an elevator placed in advance of it. Sometimes
+applied to the ``tail-boom'' framework connecting the
+tail-plane with the main lifting surface.
+
+Pancake, to--To ``stall ''
+
+Plane--This term is often applied to a lifting surface. Such application
+is not quite correct, since ``plane'' indicates a flat surface,
+and the lifting surfaces are always cambered.
+
+Propeller--See ``Air-Screw.''
+
+Propeller, Tractor--An air-screw mounted in front of the main lifting
+surface.
+
+Propeller, Pusher--An air-screw mounted behind the main lifting surface.
+
+Pusher--An aeroplane of which the propeller is mounted behind the
+main lifting surface.
+
+Pylon--Any V-shaped construction from the point of which wires
+are taken.
+
+Power--Rate of working.
+
+Power, Horse--One horse-power represents a force sufficient to raise
+33,000 lbs. 1 foot in a minute.
+
+Power, Indicated Horse--The I.H.P. of an engine is a measure of the
+rate at which work is done by the pressure upon the piston or
+pistons, as distinct from the rate at which the engine does work.
+The latter is usually termed ``brake horse-power,'' since it may be
+measured by an absorption brake.
+
+Power, Margin of--The available quantity of power above that necessary
+to maintain horizontal flight at the optimum angle.
+
+Pitot Tube--A form of air-speed indicator consisting of a tube with
+open end facing the wind, which, combined with a static pressure
+or suction tube, is used in conjunction with a gauge for measuring
+air pressures or velocities. (No. 1 in diagram.)
+
+Pitch, Propeller--The distance a propeller advances during one revolution
+supposing the air to be solid.
+
+Pitch, to--To plunge nose-down.
+
+Reaction--A force, equal and opposite to the force of the action producing
+it.
+
+Rudder--A controlling surface, usually hinged to the tail, the operation
+of which turns an aeroplane about an axis which is vertical in
+normal horizontal flight; causes an aeroplane to turn to left or
+right of the pilot.
+
+Roll, to--To turn about the longitudinal axis.
+
+Rib, Ordinary--A light curved wooden part mounted in a fore and aft
+direction within a surface. The ordinary ribs give the surface
+its camber, carry the fabric, and transfer the lift from the fabric
+to the spars.
+
+Rib, Compression--Acts as an ordinary rib, besides bearing the stress
+of compression produced by the tension of the internal bracing
+wires.
+
+Rib, False--A subsidiary rib, usually used to improve the camber of
+the front part of the surface.
+
+Right and Left Hand--Always used relative to the position of the
+pilot. When observing an aeroplane from the front of it, the
+right hand side of it is then on the left hand of the observer.
+
+Remou--A local movement or condition of the air which may cause
+displacement of an aeroplane.
+
+Rudder-Bar--A control lever moved by the pilot's feet, and operating
+the rudder.
+
+Surface--See ``Aerofoil.''
+
+Surface, Detrimental--All exterior parts of an aeroplane including
+the propeller, but excluding the (aeroplane) lifting and (propeller)
+thrusting surfaces.
+
+Surface, Controlling--A surface the operation of which turns an aeroplane
+about one of its axes.
+
+Skin-Friction--The friction of the air with roughness of surface. A
+form of drift.
+
+Span---The distance from wing-tip to wing-tip.
+
+Stagger--The distance the upper surface is forward of the lower surface
+when the axis of the propeller is horizontal.
+
+Stability--The inherent tendency of a body, when disturbed, to return
+to its normal position.
+
+Stability, Directional--The stability about an axis which is vertical
+during normal horizontal flight, and without which an aeroplane
+has no natural tendency to remain upon its course.
+
+Stability, Longitudinal--The stability of an aeroplane about an axis
+transverse to the direction of normal horizontal flight, and without
+which it has no tendency to oppose pitching and tossing.
+
+Stability, Lateral--The stability of an aeroplane about its longitudinal
+axis, and without which it has no tendency to oppose sideways
+rolling.
+
+Stabilizer--A surface, such as fin or tail-plane, designed to give an
+aeroplane inherent stability.
+
+Stall, to--To give or allow an aeroplane an angle of incidence greater
+than the ``maximum'' angle, the result being a fall in the lift-
+drift ratio, the lift consequently becoming less than the weight of
+the aeroplane, which must then fall, i.e., ``stall'' or ``pancake.''
+
+Stress--Burden or load.
+
+Strain--Deformation produced by stress.
+
+Side-Slip, to--To fall as a result of an excessive ``bank'' or ``roll.''
+
+Skid, to--To be carried sideways by centrifugal force when turning
+to left or right.
+
+Skid, Undercarriage--A spar, mounted in a fore and aft direction, and
+to which the wheels of the undercarriage are sometimes attached.
+Should a wheel give way the skid is then supposed to act like the
+runner of a sleigh and to support the aeroplane.
+
+Skid, Tail--A piece of wood or other material, orientable, and fitted
+with shock absorbers, situated under the tail of an aeroplane in
+order to support it upon the ground and to absorb the shock of
+alighting. 
+
+
+Section--Any separate part of the top surface, that part of the bottom
+surface immediately underneath it, with their struts and wires.
+
+Spar--Any long piece of wood or other material.
+
+Spar, Main--A spar within a surface and to which all the ribs are
+attached, such spar being the one situated nearest to the centre
+of pressure. It transfers more than half the lift from the ribs
+to the bracing. 
+
+Spar, Rear--A spar within a surface, and to which all the ribs are
+attached, such spar being situated at the rear of the centre of
+pressure and at a greater distance from it than is the main spar.
+It transfers less than half of the lift from the ribs to the bracing.
+
+Strut--Any wooden member intended to take merely the stress of
+direct compression.
+
+Strut, Interplane--A strut holding the top and bottom surfaces apart.
+
+Strut, Fuselage--A strut holding the fuselage longerons apart. It
+should be stated whether top, bottom, or side. If side, then it
+should be stated whether right or left hand. Montant. 
+
+Strut, Extension--A strut supporting an ``extension'' when not in
+flight. It may also prevent the extension from collapsing upwards
+during flight.
+
+Strut, Undercarriage--
+
+Strut, Dope--A strut within a surface, so placed as to prevent the
+tension of the doped fabric from distorting the framework.
+
+Serving--To bind round with wire, cord, or similar material. Usually
+used in connection with wood joints and wire cable splices.
+
+Slip, Propeller--The pitch less the distance the propeller advances
+during one revolution.
+
+Stream-Line--A form or shape of detrimental surface designed to
+produce minimum drift.
+
+Toss, to--To plunge tail-down.
+
+Torque, Propeller--The tendency of a propeller to turn an aeroplane
+about its longitudinal axis in a direction opposite to that in which
+the propeller revolves.
+
+Tail-Slide--A fall whereby the tail of an aeroplane leads.
+
+Tractor--An aeroplane of which the propeller is mounted in front of
+the main lifting surface.
+
+Triplane--An aeroplane of which the main lifting surface consists of
+three surfaces or pairs of wings mounted one above the other.
+
+Tail-Plane--A horizontal stabilizing surface mounted at some distance
+behind the main lifting surface. Empennage. 
+
+Turnbuckle--A form of wire-tightener, consisting of a barrel into each
+end of which is screwed an eyebolt. Wires are attached to the
+eyebolts and the required degree of tension is secured by means
+of rotating the barrel.
+
+Thrust, Propeller--See ``Air-Screw.''
+
+Undercarriage--That part of an aeroplane beneath the fuselage or
+nacelle, and intended to support the aeroplane when at rest, and
+to absorb the shock of alighting. 
+
+Velocity--Rate of displacement; speed.
+
+Volplane--A gliding descent.
+
+Weight--Is a measure of the force of the Earth's attraction (gravity)
+upon a body. The standard unit of weight in this country is
+1 lb., and is the force of the Earth's attraction on a piece of platinum
+called the standard pound, deposited with the Board of Trade
+in London. At the centre of the Earth a body will be attracted
+with equal force in every direction. It will therefore have no
+weight, though its mass is unchanged. Gravity, of which weight
+is a measure, decreases with increase of altitude.
+
+Web (of a rib)--That vertical part of a rib which prevents it from
+bending upwards.
+
+Warp, to--To distort a surface in order to vary its angle of incidence.
+To vary the angle of incidence of a controlling surface.
+
+Wash--The disturbance of air produced by the flight of an aeroplane.
+
+Wash-in--An increasing angle of incidence of a surface towards its
+wing-tip.
+
+Wash-out--A decreasing angle of incidence of a surface towards its
+wing-tip.
+
+Wing-tip--The right- or left-hand extremity of a surface.
+
+Wire--A wire is, in Aeronautics, always known by the name of its
+function.
+
+Wire, Lift or Flying--A wire opposed to the direction of lift, and used
+to prevent a surface from collapsing upward during flight.
+
+Wire, Anti-lift or Landing--A wire opposed to the direction of gravity,
+and used to sustain a surface when it is at rest.
+
+Wire, Drift--A wire opposed to the direction of drift, and used to
+prevent a surface from collapsing backwards during flight.
+
+Wire, Anti-drift--A wire opposed to the tension of a drift wire, and
+used to prevent such tension from distorting the framework.
+
+Wire, Incidence--A wire running from the top of an interplane strut to
+the bottom of the interplane strut in front of or behind it. It
+maintains the ``stagger'' and assists in maintaining the angle
+of incidence. Sometimes termed ``stagger wire.''
+
+Wire, Bracing--Any wire holding together the framework of any part
+of an aeroplane. It is not, however, usually applied to the wires
+described above unless the function performed includes a function
+additional to those described above. Thus, a lift wire, while
+strictly speaking a bracing wire, is not usually described as one
+unless it performs the additional function of bracing some well-
+defined part such as the undercarriage. It will then be said to
+be an ``undercarriage bracing lift wire.'' It might, perhaps,
+be acting as a drift wire also, in which case it will then be de-
+scribed as an ``undercarriage bracing lift-drift wire.'' It should
+always be stated whether a bracing wire is (1) top, (2) bottom,
+(3) cross, or (4) side. If a ``side bracing wire,'' then it should be
+stated whether right- or left-hand.
+
+Wire, Internal Bracing--A bracing wire (usually drift or anti-drift)
+within a surface.
+
+Wire, Top Bracing--A bracing wire, approximately horizontal and
+situated between the top longerons of fuselate, between top tail
+booms, or at the top of similar construction.
+
+Wire, Bottom Bracing--Ditto, substituting ``bottom'' for ``top.''
+
+Wire, Side Bracing--A bracing wire crossing diagonally a side bay
+of fuselage, tail boom bay, undercarriage side bay or centre-section
+side bay. This term is not usually used with reference to incidence
+wires, although they cross diagonally the side bays of the
+cell. It should be stated whether right- or left-hand.
+
+Wire, Cross Bracing--A bracing wire, the position of which is diagonal
+from right to left when viewing it from the front of an aeroplane.
+
+Wire, Control Bracing--A wire preventing distortion of a controlling
+surface.
+
+Wire, Control--A wire connecting a controlling surface with the pilot's
+control lever, wheel, or rudder-bar.
+
+Wire, Aileron Gap--A wire connecting top and bottom ailerons.
+
+Wire, Aileron Balance--A wire connecting the right- and left-hand top
+ailerons. Sometimes termed the ``aileron compensating wire.''
+
+Wire, Snaking--A wire, usually of soft metal, wound spirally or tied
+round another wire, and attached at each end to the framework.
+Used to prevent the wire round which it is ``snaked'' from becoming,
+in the event of its displacement, entangled with the
+propeller.
+
+Wire, Locking--A wire used to prevent a turnbuckle barrel or other
+fitting from losing its adjustment.
+
+Wing--Strictly speaking, a wing is one of the surfaces of an ornithopter.
+The term is, however, often applied to the lifting surface of
+an aeroplane when such surface is divided into two parts, one being
+the left-hand ``wing,'' and the other the right-hand ``wing.''
+
+Wind-Tunnel--A large tube used for experimenting with surfaces and
+models, and through which a current of air is made to flow by
+artificial means.
+
+Work--Force X displacement.
+
+Wind-Screen--A small transparent screen mounted in front of the
+pilot to protect his face from the air pressure.
+
+
+
+
+
+
+Back to Full Books

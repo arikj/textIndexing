@@ -1,0 +1,2004 @@
+Acetylene, The Principles Of Its Generation And UsebyF. H. Leeds and W. J. Atkinson Butterfield
+
+bottoms, being thus deprived of their support, drop down. It is possible
+in this way to effect the discharge of the several carbide-holders by
+gradual turning of the winch _i_.
+
+"The washer B is provided with a thermometer _m_ passing through a
+sound stuffing-box and extending into the water.
+
+"The gasholder C is provided with a scale and pointer, which indicate how
+much gas there is in it. It is connected with the pressure-gauge
+_n_, and is further provided with a control thermometer _o_.
+The gas exit-pipe _q_ can be shut off by a cock. There is a cock
+between the gasholder and the washer for isolating one from the other.
+
+"The dimensions of the apparatus are such that each carbide-holder can
+contain readily about half a kilogramme (say l lb.) of carbide. The
+gasholder is of about 200 litres (say 7 cubic feet) capacity; and if the
+bell is 850 mm. (= 33-1/2 inches) high, and 550 mm. (= 21-1/2 inches) in
+diameter it will admit of the position being read off to within half a
+litre (say 0.02 cubic foot)."
+
+The directions of the German Association for sampling a consignment of
+carbide packed in drums each containing 100 kilogrammes (say 2 cwt.) have
+already been given in the rules of that body. They differ somewhat from
+those issued by the British Association (_vide ante_), and have
+evidently been compiled with a view to the systematic and rapid sampling
+of larger consignments than are commonly dealt with in this country.
+Drawing a portion of the whole sample from every tenth drum is
+substantially the same as the British Association's regulations for cases
+of dispute, viz., to have one unopened drum (_i.e._, one or two
+cwt.) per ton of carbide placed at the analyst's disposal for sampling.
+Actually the mode of drawing a portion of the whole sample from every
+tenth vessel, or lot, where a large number is concerned, is one which
+would naturally be adopted by analysts accustomed to sampling any other
+products so packed or stored, and there in no reason why it should be
+departed from in the case of large consignments of carbide. For lots of
+less than ten drums, unless there is reason to suspect want of
+uniformity, it should usually suffice to draw the sample from one drum
+selected at random by the sampler. The analyst, or person who undertakes
+the sampling, must, however, exercise discretion as to the scheme of
+sampling to be followed, especially if want of uniformity of the several
+lots constituting the consignment in suspected. The size of the lumps
+constituting a sample will be referred to later.
+
+The British Association's regulations lead to a sample weighing about 3
+lb. being obtained from each drum. If only one drum is sampled, the
+quantity taken from each position may be increased with advantage so as
+to give a sample weighing about 10 lb., while if a large number of drums
+is sampled, the several samples should be well mixed, and the ordinary
+method of quartering and re-mixing followed until a representative
+portion weighing about 10 lb. remains.
+
+A sample representative of the bulk of the consignment having been
+obtained, and hermetically sealed, the procedure of testing by means of
+the apparatus already described may be given from the German
+Association's directions:
+
+"The first carbide receptacle is filled with 300 to 400 grammes (say 3/4
+lb.) of any readily decomposable carbide, and is hung up in the apparatus
+in such a position with regard to the slot _e_ on the disc _d_
+that it will be the first receptacle to be discharged when the winch
+_i_ is turned. The tin or bottle containing the sample for analysis
+is then opened and weighed on a balance capable of weighing exactly to
+1/2 gramme (say 10 grains). The carbide in it is then distributed
+quickly, and as far as may be equally, into the nine remaining carbide
+receptacles, which are then shut and hung up quickly in the generator.
+The lid _b'_ is then screwed on the generator to close it, and the
+empty tin or bottle, from which the sample of carbide has been removed,
+is weighed.
+
+"The contents of the first carbide receptacle are then discharged by
+turning the winch _i_. Their decomposition ensures on the one hand
+that the sealing water and the generating water are saturated with
+acetylene, and on the other hand that the dead space in the generator is
+brought under the pressure of the seal, so that troublesome corrections
+which would otherwise be entailed are avoided. After the carbide is
+completely decomposed, but not before two hours at least have elapsed,
+the cock _p_ is shut, and the gasholder is run down to the zero mark
+by opening the cock _q_. The cock _q_ is then shut, _p_ is
+opened, and the analytical examination proper is begun by discharging the
+several carbide receptacles by turning the winch _i_. After the
+first receptacle has been discharged, five or ten minutes are allowed to
+elapse for the main evolution of gas to occur, and the cock _p_ is
+then shut. Weights are added to the gasholder until the manometer
+_n_ gives the zero reading; the position of the gasholder C is then
+read off, and readings of the barometer and of the thermometer _o_
+are made. The gasholder is then emptied down to the zero mark by closing
+the cock _p_ and opening _q_. When this is done _q_ is
+closed and _p_ is opened, and the winch _i_ is turned until the
+contents of the next carbide receptacle are discharged. This procedure is
+followed until the carbide from the last receptacle has been gasified;
+then, after waiting until all the carbide has been decomposed, but in any
+case not less than two hours, the position of the gasholder is read, and
+readings of the barometer and thermometer are again taken. The total of
+the values obtained represents the yield of gas from the sample
+examined."
+
+The following example is quoted:
+
+Weight of the tin received, with its contained |
+   carbide      .     .     .     .     .    ._| = 6325 grammes.
+Weight of the empty tin     .     .     .    .   = 1485    "
+                                                _______
+                   Carbide used   .     .    .   = 4840    " = 10670 lb.
+
+The carbide in question was distributed among the nine receptacles and
+gasified. The readings were:
+
+ ________________________________________________
+|      |          |              |               |
+| No.  |  Litres. |  Degrees C.  |  Millimetres. |
+|______|__________|______________|_______________|
+|      |          |              |               |
+|  1   |   152.5  |     13       |     762       |
+|  2   |   136.6  |      "       |      "        |
+|  3   |   138.5  |      "       |      "        |
+|  4   |   161.0  |      "       |      "        |
+|  5   |   131.0  |      "       |      "        |
+|  6   |   182.5  |     13.5     |      "        |
+|  7   |   146.0  |      "       |      "        |
+|  8   |   163.0  |     14.0     |      "        |
+|  9   |   178.5  |      "       |      "        |
+|______|__________|______________|_______________|
+
+After two hours, the total of the readings was 1395.0 litres at 13.5 deg. C.
+and 762 mm., which is equivalent to 1403.7 litres (= 49.57 cubic feet) at
+15 deg. C. and 760 mm. (or 60 deg. F. and 30 inches; there is no appreciable
+change of volume of a gas when the conditions under which it is measured
+are altered from 15 deg. C. and 760 mm. to 60 deg. F. and 30 inches, or
+_vice versa_).
+
+The yield of gas from this sample is therefore 1403.7/4.840 = 290 litres
+at 15 deg. C. and 760 mm. per kilogramme, or 49.57/10.67 = 4.65 cubic feet at
+60 deg. F. and 30 inches per pound of carbide. The apparatus described can,
+of course, be used when smaller samples of carbide only are available for
+gasification, but the results will be less trustworthy if much smaller
+quantities than those named are taken for the test.
+
+Other forms of carbide-to-water apparatus may of course be devised, which
+will equally well fulfil the requisite conditions for the test, viz.,
+complete decomposition of the whole of the carbide without excessive rise
+of temperature, and no loss of gas by solution or otherwise.
+
+An experimental wet gas-motor, of which the water-line has been
+accurately set (by means of the Gas Referees' 1/12 cubic foot measure, or
+a similar meter-proving apparatus), may be used in place of the graduated
+gasholder for measuring the volume of the gas evolved, provided the rate
+of flow of the gas does not exceed 1/6 cubic foot, or say 5 litres per
+minute. If the generation of gas is irregular, as when an apparatus of
+the type described above is used, it is advisable to insert a small
+gasholder or large bell-governor between the washer and the meter. The
+meter must be provided with a thermometer, according to the indications
+of which the observed volumes must be corrected to the corresponding
+volume at normal temperature.
+
+If apparatus such as that described above is not available, fairly
+trustworthy results for practical purposes may be obtained by the
+decomposition of smaller samples in the manner described below, provided
+these samples are representative of the average composition of the larger
+sample or bulk, and a number of tests are made in succession and the
+results of individual tests do not differ by more than 10 litres of gas
+per kilogramme (or 0.16 cubic foot per pound) of carbide.
+
+It is necessary at the outset to reduce large lumps of carbide in the
+sample to small pieces, and this must be done with as little exposure as
+possible to the (moist) air. Failing a good pulverising machine of the
+coffee-mill or similar type, which does its work quickly, the lumps must
+be broken as rapidly as possible in a dry iron mortar, which may with
+advantage be fitted with a leather or india-rubber cover, through a hole
+in which the pestle passes. As little actual dust as possible should be
+made during pulverisation. The decomposition of the carbide is best
+effected by dropping it into water and measuring the volume of gas
+evolved with the precautions usually practised in gas analysis. An
+example of one of the methods of procedure described by the German
+Association will show how this test can be satisfactorily carried out:
+
+"A Woulff's bottle, _a_ in the annexed figure, of blown glass and
+holding about 1/4 litre is used as the generating vessel. One neck, about
+15 mm. in internal diameter, is connected by flexible tubing with a
+globular vessel _b_, having two tubulures, and this vessel is
+further connected with a conical flask _c_, holding about 100 c.c.
+The other neck is provided with tubing _d_, serving to convey the
+gas to the inlet-tube, with tap _e_, of the 20-litre measuring
+vessel _f_, which is filled with water saturated with acetylene, and
+communicates through its lower tubulure with a similar large vessel
+_g_. The generating vessel _a_ is charged with about 150 c.c.
+of water saturated with acetylene. The vessel _f_ is filled up to
+the zero mark by raising the vessel _g_; the tap _e_ is then
+shut, and connexion is made with the tube _d_. Fifty grammes (or say
+2 oz.) of the pulverised carbide are then weighed into the flask _c_
+and this is connected by the flexible tubing with the vessel _b_.
+The carbide is then decomposed by bringing it in small portions at a time
+into the bulb _b_ by raising the flask _c_, and letting it drop
+from _b_ into the generating vessel _a_, after having opened
+the cock _e_ and slightly raised the vessel _f_. After the last
+of the carbide has been introduced two hours are allowed to elapse, and
+the volume of gas in _f_ is then read while the water stands at the
+same level in _f_ and _g_, the temperature and pressure being
+noted simultaneously."
+
+A second, but less commendable method of decomposing the carbide is by
+putting it in a dry two-necked bottle, one neck of which is connected
+with _e_, and dropping water very slowly from a tap-funnel, which
+enters the other neck, on to the carbide. The generating bottle should be
+stood in water, in order to keep it cool, and the water should be dropped
+in at the rate of about 50 c.c. in one hour. It will take about three
+hours completely to gasify the 50 grammes of carbide under these
+conditions. The gas is measured as before.
+
+[Illustration: FIG. 23.--SMALL-SCALE APPARATUS FOR DETERMINING YIELD OF
+GAS FROM CARBIDE.]
+
+Cedercreutz has carried out trials to show the difference between the
+yields found from large and small carbide taken from the same drum. One
+sample consisted of the dust and smalls up to about 3/5 inch in size,
+while the other contained large carbide as well as the small. The latter
+sample was broken to the same size as the former for the analysis. Tests
+were made both with a large testing apparatus, such as that shown in Fig.
+22, and with a small laboratory apparatus, such as that shown in Fig. 23.
+The dust was screened off for the tests made in the large apparatus. Two
+sets of testings were made on different lots of carbide, distinguished
+below as "A" and "B," and about 80 grammes wore taken for each
+determination in the laboratory apparatus, and 500 grammes in the large
+apparatus. The results are stated in litres (at normal temperature and
+pressure) per kilogramme of carbide.
+
+ ___________________________________________________________________
+|                                                     |      |      |
+|                                                     | "A"  | "B"  |
+|_____________________________________________________|______|______|
+|                                                     |      |      |
+|                                                 Lot |Litres|Litres|
+| Small carbide, unscreened, in laboratory     \  (1) |  276 |  267 |
+|   apparatus   .     .     .     .     .      /  (2) |  273 |  270 |
+| Average sample of carbide, unscreened, in    \  (1) |  318 |  321 |
+|   laboratory apparatus     .     .     .     /  (2) |  320 |  321 |
+| Small carbide, dust freed, in large apparatus   (1) |  288 |  274 |
+| Average sample of carbide, dust freed, in    \  (2) |  320 |  322 |
+|   large apparatus    .     .     .     .     /      |      |      |
+|_____________________________________________________|______|______|
+
+As the result of the foregoing researches Cedercreutz has recommended
+that in order to sample the contents of a drum, they should be tipped
+out, and about a kilogramme (say 2 to 3 lb.) taken at once from them with
+a shovel, put on an iron base and broken with a hammer to pieces of about
+2/5 inch, mixed, and the 500 grammes required for the analysis in the
+form of testing plant which he employs taken from this sample. Obviously
+a larger sample can be taken in the same manner. On the other hand the
+British and German Associations' directions for sampling the contents of
+a drum, which have already been quoted, differ somewhat from the above,
+and must generally be followed in cases of dispute.
+
+Cedercreutz's figures, given in the above table, show that it would be
+very unfair to determine the gas-making capacity of a given parcel of
+carbide in which the lumps happened to vary considerably in size by
+analysing only the smalls, results so obtained being possibly 15 per
+cent. too low. This is due to two causes: first, however carefully it be
+stored, carbide deteriorates somewhat by the attack of atmospheric
+moisture; and since the superficies of a lump (where the attack occurs)
+is larger in proportion to the weight of the lump as the lump itself is
+smaller, small lumps deteriorate more on keeping than large ones. The
+second reason, however, is more important. Not being a pure chemical
+substance, the commercial material calcium carbide varies in hardness;
+and when it is merely crushed (not reduced altogether to powder) the
+softer portions tend to fall into smaller fragments than the hard
+portions. As the hard portions are different in composition from the soft
+portions, if a parcel is sampled by taking only the smalls, practically
+that sample contains an excess of the softer part of the original
+material, and as such is not representative. Originally the German
+Acetylene Association did not lay down any rules as to the crushing of
+samples by the analyst, but subsequently they specified that the material
+should be tested in the size (or sizes) in which it was received. The
+British Association, on the contrary, requires the sample to be broken in
+small pieces. If the original sample is taken in such fashion as to
+include large and small lumps as accurately as possible in the same
+proportion as that in which they occur in the main parcel, no error will
+be introduced if that sample is crushed to a uniform size, and then
+subdivided again; but a small deficiency in gas yield will be produced,
+which will be in the consumer's favour. It is not altogether easy to see
+the advantage of the British idea of crushing the sample over the German
+plan of leaving it alone; because the analytical generator will easily
+take, or its parts could be modified to take, the largest lumps met with.
+If the sample is in very large masses, and is decomposed too quickly,
+polymerisation of gas may be set up; but on the other hand, the crushing
+and re-sampling will cause wastage, especially in damp weather, or when
+the sampling has to be done in inconvenient places. The British
+Association requires the test to be made on carbide parcels ranging
+between 1 and 2-1/2 inches or larger, because that is the "standard" size
+for this country, and because no guarantee is to be had or expected from
+the makers as to the gas-producing capacity of smaller material.
+Manifestly, if a consumer employs such a form of generator that he is
+obliged to use carbide below "standard" size, analyses may be made on his
+behalf in the ordinary way; but he will have no redress if the yield of
+acetylene is less than the normal. This may appear a defect or grievance;
+but since in many ways the use of small carbide (except in portable
+lamps) is not advantageous--either technically or pecuniarily--the rule
+simply amounts to an additional judicious incentive to the adoption of
+apparatus capable of decomposing standard-sized lumps. The German and
+Austrian Associations' regulations, however, provide a standard for the
+quality of granulated carbide.
+
+It has been pointed out that the German Association's direction that the
+water used in the testing should be saturated with acetylene by a
+preliminary decomposition of 1/2 kilogramme of carbide is not wholly
+adequate, and it has been suggested that the preliminary decomposition
+should be carried out twice with charges of carbide, each weighing not
+less than 1 per cent. of the weight of water used. A further possible
+source of error lies in the fact that the generating water is saturated
+at the prevailing temperature of the room, and liberates some of its
+dissolved acetylene when the temperature rises during the subsequent
+generation of gas. This error, of course, makes the yield from the sample
+appear higher than it actually is. Its effects may be compensated by
+allowing time for the water in the generator or gasholder to cool to its
+original temperature before the final reading is made.
+
+With regard to the measurement of the temperature of the evolved gas in
+the bell gasholder, it is usual to assume that the reading of a
+thermometer which passes through the crown of the gasholder suffices. If
+the thermometer has a very long stem, so that the bulb is at about the
+mid-height of the filled bell, this plan is satisfactory, but if an
+ordinary thermometer is used, it is better to take, as the average
+temperature of the gas in the holder, the mean of the readings of the
+thermometer in the crown, and of one dipping into the water of the holder
+seal.
+
+The following table gives factors for correcting volumes of gas observed
+at any temperature and pressure falling within its range to the normal
+temperature (60 deg. F.) and normal barometric height (30 inches). The
+normal volume thus found is, as already stated, not appreciably different
+from the volume at 15 deg. C. and 760 mm. (the normal conditions adopted
+by Continental gas chemists). To use the table, find the observed
+temperature and the observed reading of the barometer in the border of
+the table, and in the space where these vertical and horizontal columns
+meet will be found a number by which the observed volume of gas is to be
+multiplied in order to find the corresponding volume under normal
+conditions. For intermediate temperatures, &c.;, the factors may be
+readily inferred from the table by inspection. This table must only be
+applied when the gas is saturated with aqueous vapour, as is ordinarily
+the case, and therefore a drier must not be applied to the gas before
+measurement.
+
+Hammerschmidt has calculated a similar table for the correction of
+volumes of gas measured at temperatures ranging from 0 deg. to 30 deg. C.,
+and under pressures from 660 to 780 mm., to 15 deg. C. and 760 mm. It is
+based on the coefficient of expansion of acetylene given in Chapter VI.,
+but, as was there pointed out, this coefficient differs by so little from
+that of the permanent gases for which the annexed table was compiled, that
+no appreciable error results from the use of the latter for acetylene also.
+A table similar to the annexed but of more extended range is given in the
+"Notification of the Gas Referees," and in the text-book on "Gas
+Manufacture" by one of the authors.
+
+The determination of the amounts of other gases in crude or purified
+acetylene is for the most part carried out by the methods in vogue for
+the analysis of coal-gas and other illuminating gases, or by slight
+modifications of them. For an account of these methods the textbook on
+"Gas Manufacture" by one of the authors may be consulted. For instance,
+two of the three principal impurities in acetylene, viz., ammonia and
+sulphuretted hydrogen, may be detected and estimated in that gas in the
+same manner as in coal gas. The detection and estimation of phosphine
+are, however, analytical operations peculiar to acetylene among common
+illuminating gases, and they must therefore be referred to.
+
+_Table to facilitate the Correction of the Volume of Gas at different
+Temperatures and under different Atmospheric Pressures._
+
+ _____________________________________________________
+|     |                                               |
+|     |                  THERMOMETER.                 |
+| BAR.|_______________________________________________|
+|     |       |       |       |       |       |       |
+|     |  46   |  48   |  50   |  52   |  54   |  56   |
+|     |  deg. |  deg. |  deg. |  deg. |  deg. |  deg. |
+|_____|_______|_______|_______|_______|_______|_______|
+|     |       |       |       |       |       |       |
+|28.4 | 0.979 | 0.974 | 0.970 | 0.965 | 0.960 | 0.955 |
+|28.5 | 0.983 | 0.978 | 0.973 | 0.968 | 0.964 | 0.959 |
+|28.6 | 0.986 | 0.981 | 0.977 | 0.972 | 0.967 | 0.962 |
+|28.7 | 0.990 | 0.985 | 0.980 | 0.975 | 0.970 | 0.966 |
+|28.8 | 0.993 | 0.988 | 0.984 | 0.979 | 0.974 | 0.969 |
+|28.9 | 0.997 | 0.992 | 0.987 | 0.982 | 0.977 | 0.973 |
+|29.0 | 1.000 | 0.995 | 0.990 | 0.986 | 0.981 | 0.976 |
+|29.1 | 1.004 | 0.999 | 0.994 | 0.989 | 0.984 | 0.979 |
+|29.2 | 1.007 | 1.002 | 0.997 | 0.992 | 0.988 | 0.982 |
+|29.3 | 1.011 | 1.005 | 1.001 | 0.996 | 0.991 | 0.986 |
+|29.4 | 1.014 | 1.009 | 1.004 | 0.999 | 0.995 | 0.990 |
+|29.5 | 1.018 | 1.013 | 1.008 | 1.003 | 0.998 | 0.993 |
+|29.6 | 1.021 | 1.016 | 1.011 | 1.006 | 1.001 | 0.996 |
+|29.7 | 1.025 | 1.019 | 1.015 | 1.010 | 1.005 | 1.000 |
+|29.8 | 1.028 | 1.023 | 1.018 | 1.013 | 1.008 | 1.003 |
+|29.9 | 1.031 | 1.026 | 1.022 | 1.017 | 1.012 | 1.007 |
+|30.0 | 1.035 | 1.030 | 1.025 | 1.020 | 1.015 | 1.010 |
+|30.1 | 1.038 | 1.033 | 1.029 | 1.024 | 1.019 | 1.014 |
+|30.2 | 1.042 | 1.037 | 1.032 | 1.027 | 1.022 | 1.017 |
+|30.3 | 1.045 | 1.040 | 1.036 | 1.030 | 1.025 | 1.020 |
+|30.4 | 1.049 | 1.044 | 1.039 | 1.034 | 1.029 | 1.024 |
+|30.5 | 1.052 | 1.047 | 1.042 | 1.037 | 1.032 | 1.027 |
+|_____|_______|_______|_______|_______|_______|_______|
+ _____________________________________________________
+|     |                                               |
+|     |                  THERMOMETER.                 |
+| BAR.|_______________________________________________|
+|     |       |       |       |       |       |       |
+|     |  58   |  60   |  62   |  64   |  66   |  68   |
+|     |  deg. |  deg. |  deg. |  deg. |  deg. |  deg. |
+|_____|_______|_______|_______|_______|_______|_______|
+|     |       |       |       |       |       |       |
+|28.5 | 0.954 | 0.949 | 0.944 | 0.939 | 0.934 | 0.929 |
+|28.6 | 0.958 | 0.953 | 0.947 | 0.943 | 0.938 | 0.932 |
+|28.7 | 0.961 | 0.956 | 0.951 | 0.946 | 0.941 | 0.936 |
+|28.8 | 0.964 | 0.959 | 0.954 | 0.949 | 0.944 | 0.939 |
+|28.9 | 0.968 | 0.963 | 0.958 | 0.953 | 0.948 | 0.942 |
+|29.0 | 0.971 | 0.966 | 0.961 | 0.956 | 0.951 | 0.946 |
+|29.1 | 0.975 | 0.969 | 0.964 | 0.959 | 0.954 | 0.949 |
+|29.2 | 0.978 | 0.973 | 0.968 | 0.963 | 0.958 | 0.952 |
+|29.3 | 0.981 | 0.976 | 0.971 | 0.966 | 0.961 | 0.956 |
+|29.4 | 0.985 | 0.980 | 0.975 | 0.969 | 0.964 | 0.959 |
+|29.5 | 0.988 | 0.983 | 0.978 | 0.973 | 0.968 | 0.962 |
+|29.6 | 0.992 | 0.986 | 0.981 | 0.976 | 0.971 | 0.966 |
+|29.7 | 0.995 | 0.990 | 0.985 | 0.980 | 0.974 | 0.969 |
+|29.8 | 0.998 | 0.993 | 0.988 | 0.983 | 0.978 | 0.972 |
+|29.9 | 1.002 | 0.997 | 0.991 | 0.986 | 0.981 | 0.976 |
+|30.0 | 1.005 | 1.000 | 0.995 | 0.990 | 0.985 | 0.979 |
+|30.1 | 1.009 | 1.003 | 0.998 | 0.993 | 0.988 | 0.983 |
+|30.2 | 1.012 | 1.007 | 1.002 | 0.996 | 0.991 | 0.986 |
+|30.3 | 1.015 | 1.010 | 1.005 | 1.000 | 0.995 | 0.989 |
+|30.4 | 1.019 | 1.014 | 1.008 | 1.003 | 0.998 | 0.993 |
+|30.5 | 1.022 | 1.017 | 1.012 | 1.006 | 1.001 | 0.996 |
+|_____|_______|_______|_______|_______|_______|_______|
+ _____________________________________________
+|     |                                       |
+|     |                  THERMOMETER.         |
+| BAR.|_______________________________________|
+|     |       |       |       |       |       |
+|     |  70   |  72   |  74   |  76   |  78   |
+|     |  deg. |  deg. |  deg. |  deg. |  deg. |
+|_____|_______|_______|_______|_______|_______|
+|     |       |       |       |       |       |
+|28.4 | 0.921 | 0.915 | 0.910 | 0.905 | 0.900 |
+|28.5 | 0.924 | 0.919 | 0.914 | 0.908 | 0.903 |
+|28.6 | 0.927 | 0.922 | 0.917 | 0.912 | 0.906 |
+|28.7 | 0.931 | 0.925 | 0.920 | 0.915 | 0.909 |
+|28.8 | 0.934 | 0.929 | 0.924 | 0.918 | 0.913 |
+|28.9 | 0.937 | 0.932 | 0.927 | 0.921 | 0.916 |
+|29.0 | 0.941 | 0.935 | 0.930 | 0.925 | 0.919 |
+|29.1 | 0.944 | 0.939 | 0.933 | 0.928 | 0.923 |
+|29.2 | 0.947 | 0.942 | 0.937 | 0.931 | 0.926 |
+|29.3 | 0.950 | 0.945 | 0.940 | 0.935 | 0.929 |
+|29.4 | 0.954 | 0.949 | 0.943 | 0.938 | 0.932 |
+|29.5 | 0.957 | 0.952 | 0.947 | 0.941 | 0.936 |
+|29.6 | 0.960 | 0.955 | 0.950 | 0.944 | 0.939 |
+|29.7 | 0.964 | 0.959 | 0.953 | 0.948 | 0.942 |
+|29.8 | 0.967 | 0.962 | 0.957 | 0.951 | 0.946 |
+|29.9 | 0.970 | 0.965 | 0.960 | 0.954 | 0.949 |
+|30.0 | 0.974 | 0.968 | 0.963 | 0.958 | 0.952 |
+|30.1 | 0.977 | 0.972 | 0.966 | 0.961 | 0.955 |
+|30.2 | 0.980 | 0.975 | 0.970 | 0.964 | 0.959 |
+|30.3 | 0.984 | 0.978 | 0.973 | 0.968 | 0.962 |
+|30.4 | 0.987 | 0.982 | 0.976 | 0.971 | 0.965 |
+|30.5 | 0.990 | 0.985 | 0.980 | 0.974 | 0.969 |
+|_____|_______|_______|_______|_______|_______|
+
+For the detection of phosphine, Berge's solution may be used. It is a
+"solution of 8 to 10 parts of corrosive sublimate in 80 parts of water
+and 20 parts of 30 per cent. hydrochloric acid." It becomes cloudy when
+gas containing phosphine is passed into it. It is, however, applied most
+conveniently in the form of Keppeler's test-papers, which have been
+described in Chapter V. Test-papers for phosphine, the active body in
+which has not yet been divulged, have recently been produced for sale by
+F. B. Gatehouse.
+
+The estimation of phosphine will usually require to be carried out either
+(1) on gas directly evolved from carbide in order to ascertain if the
+carbide in question yields an excessive proportion of phosphine, or (2)
+upon acetylene which is presumably purified, drawn either from the outlet
+of the purifier or from the service-pipes, with the object of
+ascertaining whether an adequate purification in regard to phosphine has
+been accomplished. In either case, the method of estimation is the same,
+but in the first, acetylene should be specially generated from a small
+representative sample of the carbide and led directly into the apparatus
+for the absorption of the phosphine. If the acetylene passes into the
+ordinary gasholder, the amount of phosphine in gas drawn off from the
+holder will vary from time to time according to the temperature and the
+degree of saturation of the water in the holder-tank with phosphine, as
+well as according to the amount of phosphine in the gas generated at the
+time.
+
+A method frequently employed for the determination of phosphine in
+acetylene is one devised by Lunge and Cedercreutz. If the acetylene is to
+be evolved from a sample of carbide in order to ascertain how much
+phosphine the latter yields to the gas, about 50 to 70 grammes of the
+carbide, of the size of peas, are brought into a half-litre flask, and a
+tap-funnel, with the mouth of its stem contracted, is passed through a
+rubber plug fitting the mouth of the flask. A glass tube passing through
+the plug serves to convey the gas evolved to an absorption apparatus,
+which is charged with about 75 c.c. of a 2 to 3 per cent. solution of
+sodium hypochlorite. The absorption apparatus may be a ten-bulbed
+absorption tube or any convenient form of absorption bulbs which subject
+the gas to intimate contact with the solution. If acetylene from a
+service-pipe is to be tested, it is led direct from the nozzle of a gas-
+tap to the absorption tube, the outlet of which is connected with an
+aspirator or the inlet of an experimental meter, by which the volume of
+gas passed through the solution is measured. But if the generating flask
+is employed, water is allowed to drop from the tap-funnel on to the
+carbide in the flask at the rate of 6 to 7 drops a minute (the tap-funnel
+being filled up from time to time), and all the carbide will thus be
+decomposed in 3 to 4 hours. The flask is then filled to the neck with
+water, and disconnected from the absorption apparatus, through which a
+little air is then drawn. The absorbing liquid is then poured, and washed
+out, into a beaker; hydrochloric acid is added to it, and it is boiled in
+order to expel the liberated chlorine. It is then usual to precipitate
+the sulphuric acid by adding solution of barium chloride to the boiling
+liquid, allowing it to cool and settle, and then filtering. The weight of
+barium sulphate obtained by ignition of the filter and its contents,
+multiplied by 0.137, gives the amount of sulphur present in the acetylene
+in the form of sulphuretted hydrogen. The filtrate and washings from this
+precipitate are rendered slightly ammoniacal, and a small excess of
+"magnesia mixture" is added; the whole is stirred, left to stand for 12
+hours, filtered, the precipitate washed with water rendered slightly
+ammoniacal, dried, ignited, and weighed. The weight so found multiplied
+by 0.278 gives the weight of phosphorus in the form of phosphine in the
+volume of gas passed through the absorbent liquid.
+
+Objection may rightly be raised to the Lunge and Cedercreutz method of
+estimating the phosphine in crude acetylene on the ground that explosions
+are apt to occur when the gas is being passed into the hypochlorite
+solution. Also it must be borne in mind that it aims at estimating only
+the phosphorus which is contained in the gas in the form of phosphine,
+and that there may also be present in the gas organic compounds of
+phosphorus which are not decomposed by the hypochlorite. But when the
+acetylene is evolved from the carbide in proper conditions for the
+avoidance of appreciable heating it appears fairly well established that
+phosphorus compounds other than phosphine exist in the gas only in
+practically negligible amount, unless the carbide decomposed is of an
+abnormal character. Various methods of burning the acetylene and
+estimating the phosphorus in the products of combustion have, however
+been proposed for the purpose of determining the total amount of
+phosphorus in acetylene. Some of them are applicable to the simultaneous
+determination of the total sulphur in the acetylene, and in this respect
+become akin to the Gas Referees' method for the determination of the
+sulphur compounds in coal-gas.
+
+Eitner and Keppeler have proposed to burn the acetylene on which the
+estimation is to be made in a current of neat oxygen. But this procedure
+is rather inconvenient, and by no means essential. Lidholm liberated
+acetylene slowly from 10 grammes of carbide by immersing the carbide in
+absolute alcohol and gradually adding water, while the gas mixed with a
+stream of hydrogen leading to a burner within a flask. The flow of
+hydrogen was reduced or cut off entirely while the acetylene was coming
+off freely, but hydrogen was kept burning for ten minutes after the flame
+had ceased to be luminous in order to ensure the burning of the last
+traces of acetylene. The products of combustion were aspirated through a
+condenser and a washing bottle, which at the close were rinsed out with
+warm solution of ammonia. The whole of the liquid so obtained was
+concentrated by evaporation, filtered in order to remove particles of
+soot or other extraneous matter, and acidified with nitric acid. The
+phosphoric acid was then precipitated by addition of ammonium molybdate.
+
+J. W. Gatehouse burns the acetylene in an ordinary acetylene burner of
+from 10 to 30 litres per hour capacity, and passes the products of
+combustion through a spiral condensing tube through which water is
+dropped at the rate of about 75 c.c. per hour, and collected in a beaker.
+The burner is placed in a glass bell-shaped combustion chamber connected
+at the top through a right-angled tube with the condenser, and closed
+below by a metal base through which the burner is passed. The amount of
+gas burnt for one determination is from 50 to 100 litres. When the gas is
+extinguished, the volume consumed is noted, and after cooling, the
+combustion chamber and condenser are washed out with the liquid collected
+in the beaker and finally with distilled water, and the whole, amounting
+to about 400 c.c., is neutralised with solution of caustic alkali (if
+decinormal alkali is used, the total acidity of the liquid thus
+ascertained may be taken as a convenient expression of the aggregate
+amount of the sulphuric, phosphoric and silicic acids resulting from the
+combustion of the total corresponding impurities in the gas), acidified
+with hydrochloric acid, and evaporated to dryness with the addition
+towards the end of a few drops of nitric acid. The residue is taken up in
+dilute hydrochloric acid; and silica filtered off and estimated if
+desired. To the filtrate, ammonia and magnesia mixture are added, and the
+magnesium pyrophosphate separated and weighed with the usual precautions.
+Sulphuric acid may, if desired, be estimated in the filtrate, but in that
+case care must be taken that the magnesia mixture used was free from it.
+
+Mauricheau-Beaupre has elaborated a volumetric method for the estimation
+of the phosphine in crude acetylene depending on its decomposition by a
+known volume of excess of centinormal solution of iodine, addition of
+excess of standard solution of sodium thiosulphate, and titrating back
+with decinormal solution of iodine with a few drops of starch solution as
+an indicator. One c.c. of centinormal solution of iodine is equivalent to
+0.0035 c.c. of phosphine. This method of estimation is quickly carried
+out and is sufficiently accurate for most technical purposes.
+
+In carrying out these analytical operations many precautions have to be
+taken with which the competent analyst is familiar, and they cannot be
+given in detail in this work, which is primarily intended for ordinary
+users of acetylene, and not for the guidance of analysts. It may,
+however, be pointed out that many useful tests in connexion with
+acetylene supply can be conducted by a trained analyst, which are not of
+a character to be serviceable to the untrained experimentalist. Among
+such may be named the detection of traces of phosphine in acetylene which
+has passed through a purifier with a view to ascertaining if the
+purifying material is exhausted, and the estimation of the amount of air
+or other diluents in stored acetylene or acetylene generated in a
+particular manner. Advice on these points should be sought from competent
+analysts, who will already have the requisite information for the
+carrying out of any such tests, or know where it is to be found. The
+analyses in question are not such as can be undertaken by untrained
+persons. The text-book on "Gas Manufacture" by one of the authors gives
+much information on the operations of gas analysis, and may be consulted,
+along with Hempel's "Gas Analysis" and Winkler and Lunge's "Technical Gas
+Analysis."
+
+APPENDIX
+
+DESCRIPTIONS OF A NUMBER OF ACETYLENE GENERATORS AS MADE IN THE YEAR 1909
+
+(_The purpose of this Appendix is explained in Chapter IV., page 111,
+and a special index to it follows the general index at the end of this
+book._)
+
+AMERICA--CANADA.
+
+_Maker_: SICHE GAS CO., LTD., GEORGETOWN, ONTARIO.
+
+_Type_: Automatic; carbide-to-water.
+
+The "Siche" generator made by this firm consists of a water-tank
+_A_, having at the bottom a sludge agitator _N_ and draw-off
+faucet _O_, and rigidly secured within it a bell-shaped generating
+chamber _B_, above which rises a barrel containing the feed chamber
+_C_, surmounted by the carbide chamber _D_. The carbide used is
+granulated or of uniform size. In the generating chamber _B_ is an
+annular float _E_, nearly filling the area of the chamber, and
+connected, by two rods passing, with some lateral play, through apertures
+in the conical bottom of the feed chamber _C_, to the T-shaped
+tubular valve _F_. Consequently when the float shifts vertically or
+laterally the rods and valves at once move with it. The angle of the cone
+of the feed chamber and the curve of the tubular valve are based on the
+angle of rest of the size of carbide used, with the object of securing
+sensitiveness of the feed. The feed is thus operated by a very small
+movement of the float, and consequently there is but very slight rise and
+fall of the water in the generating chamber. Owing to the lateral play,
+the feed valve rarely becomes concentric with its seat. There is a cover
+_G_ over the feed valve _F_, designed to distribute the carbide
+evenly about the feed aperture and to prevent it passing down the hollow
+of the valve and the holes through which the connecting-rods pass. It
+also directs the course of the evolved gas on its way to the service-pipe
+through the carbide in the feed chamber _C_, whereby the gas is
+dried. The carbide chamber _D_ has at its bottom a conical valve,
+normally open, but closed by means of the spindle _H_, which is
+engaged at its upper end by the closing screw-cap _J_, which is
+furnished with a safelocking device to prevent its removal until the
+conical valve is closed and the hopper chamber _D_ thereby cut off
+from the gas-supply. The cap _J_, in addition to a leather washer to
+make a gas-tight joint when down, has a lower part fitting to make an
+almost gas-tight joint. Thus when the cap is off; the conical valve fits
+gas-tight; when it is on and screwed down it is gas-tight; and when on
+but not screwed down, it is almost gas-tight. Escape of gas is thus
+avoided. A special charging funnel _K_, shown in half-scale, is
+provided for inserting in place of the screw cap. The carbide falls from
+the funnel into the chamber _D_ when the chain is pulled. A fresh
+charge of carbide may be put in while the apparatus is in action. The
+evolved gas goes into the chamber _C_ through a pipe, with cock, to
+a dust-arrester _L_, which contains a knitted stocking lightly
+filled with raw sheep's wool through which the gas passes to the service-
+pipe. The dust-arrester needs its contents renewing once in one, two, or
+three years, according to the make of gas. The pressure of the gas is
+varied as desired by altering the height of water in the tank _A_.
+When cleaning the machine, the water must never be run below the top of
+the generating chamber.
+
+[Illustration: FIG. 24.--"SICHE" GENERATOR.]
+
+AMERICA--UNITED STATES.
+
+_Maker:_ J. B. COLT CO., 21 BARCLAY STREET, NEW YORK.
+
+_Type:_ Automatic; carbide-to-water.
+
+The "Colt" generator made by this firm comprises a carbide hopper mounted
+above a generating tank containing water, and an equalising bell
+gasholder mounted above a seal-pot having a vent-pipe _C_
+communicating with the outer air. The carbide hopper is charged with 1/4
+x 1/12 inch carbide, which is delivered from it into the water in the
+generating tank in small portions at a time through a double valve, which
+is actuated through levers connected to the crown of the equalising
+gasholder. As the bell of the gasholder falls the lever rotates a rock
+shaft, which enters the carbide hopper, and through a rigidly attached
+lever raises the inner plunger of the feed-valve. The inner plunger in
+turn raises the concentric outer stopper, thereby leaving an annular
+space at the base of the carbide hopper, through which a small delivery
+of carbide to the water in the generating tank then ensues. The gas
+evolved follows the course shown by the arrows in the figure into the
+gasholder, and raises the bell, thereby reversing the action of the
+levers and allowing the valve to fall of its own weight and so cut off
+the delivery of carbide. The outer stopper of the valve descends before
+the inner plunger and so leaves the conical delivery mouth of the hopper
+free from carbide. The inner plunger, which is capped at its lower end
+with rubber, then falls and seats itself moisture-tight on the clear
+delivery mouth of the hopper. The weight of the carbide in the hopper is
+taken by its sides and a projecting flange of the valve casing, so that
+the pressure of the carbide at the delivery point is slight and uniform.
+The outside of the delivery mouth is finished by a drip collar with
+double lip to prevent condensed moisture creeping upwards to the carbide
+in the hopper. A float in the generating tank, by its descent when the
+water falls below a certain level, automatically draws a cut off across
+the delivery mouth of the carbide hopper and so prevents the delivery of
+carbide either automatically or by hand until the water in the generating
+tank has been restored to its proper level. Interlocking levers, (11) and
+(12) in the figure, prevent the opening of the feed valve while the cap
+(10) of the carbide hopper is open for recharging the hopper. There is a
+stirrer actuated by a handle (9) for preventing the sludge choking the
+sludge cock. The gas passes into the gasholder through a floating seal,
+which serves the dual purpose of washing it in the water of the gasholder
+tank and of preventing the return of gas from the holder to the
+generating tank. From the gasholder the gas passes to the filter (6)
+where it traverses a strainer of closely woven cotton felt for the
+purpose of the removal of any lime.
+
+[Illustration: FIG. 25.--"COLT" GENERATING PLANT.]
+
+Drip pipes (30) and (31) connected to the inlet- and outlet-pipes of the
+gasholder are sealed in water to a depth of 6 inches, so that in the
+event of the pressure in the generator or gasholder rising above that
+limit the surplus gas blows through the seal and escapes through the
+vent-pipe _C_. There is also a telescopic blow-off (32) and (33),
+which automatically comes into play if the gasholder bell rises above a
+certain height.
+
+_Maker:_ DAVIS ACETYLENE CO., ELKHARDT, INDIANA.
+
+_Type:_ Automatic; carbide-to-water.
+
+The "Davis" generator made by this firm comprises an equalising bell
+gasholder with double walls, the inner wall surrounding a central tube
+rising from the top of the generating chamber, in which is placed a
+water-sealed carbide chamber with a rotatory feeding mechanism which is
+driven by a weight motor. The carbide falls from the chamber on to a wide
+disc from which it is pushed off a lump at a time by a swinging
+displacer, so arranged that it will yield in every direction and prevent
+clogging of the feeding mechanism. Carbide falls from the disk into the
+water of the generating chamber, and the evolved gas raises the bell and
+so allows a weighted lever to interrupt the action of the clockwork,
+until the bell again descends. The gas passes through a washer in the
+gasholder tank, and then through an outside scrubber to the service-pipe.
+There is an outside chamber connected by a pipe with the generating
+chamber, which automatically prevents over-filling with water, and also
+acts as a drainage chamber for the service- and blow-off-pipes. There is
+an agitator for the residuum and a sludge-cock through which to remove
+same. The feeding mechanism permits the discharge of lump carbide, and
+the weight motor affords independent power for feeding the carbide, at
+the same time indicating the amount of unconsumed carbide and securing
+uniform gas pressure.
+
+[Illustration: FIG. 26.--"DAVIS" GENERATOR.]
+
+_Maker:_ SUNLIGHT GAS MACHINE CO., 49 WARREN STREET, NEW YORK.
+
+_Type:_ Automatic; carbide-to-water.
+
+The "Omega" apparatus made by this firm consists of a generating tank
+containing water, and surmounted by a hopper which is filled with carbide
+of 1/4-inch size. The carbide is fed from the hopper into the generating
+tank through a mechanism consisting of a double oscillating cup so
+weighted that normally the feed is closed. The fall of the bell of the
+equalising gasholder, into which the gas evolved passes, operates a lever
+_B_, which rotates the weighted cup in the neck of the hopper and so
+causes a portion of carbide to fall into the water in the generating
+tank. The feed-cup consists of an upper cup into which the carbide is
+first delivered. It is then tipped from the upper cup into the lower cup
+while, at the same time, further delivery from the hopper is prevented.
+Thus only the portion of carbide which has been delivered into the lower
+cup is emptied at one discharge into the generator. There is a safety
+lock to the hopper cap which prevents the feeding mechanism coming into
+operation until the hopper cap is screwed down tightly. Provision is made
+for a limited hand-feed of carbide to start the apparatus. The gasholder
+is fitted with a telescoping vent-pipe, by which gas escapes to the open
+in the event of the bell being raised above a certain height. There is
+also an automatic cut-off of the carbide feed, which comes into operation
+it the gas is withdrawn too rapidly whether through leakage in the pipes
+or generating plant, or through the consumption being increased above the
+normal generating capacity of the apparatus. The gas evolved passes into
+a condensing or washing chamber placed beneath the gasholder tank and
+thence it travels to the gasholder. From the gasholder it goes through a
+purifier containing "chemically treated coke and cotton" to the supply-pipe.
+
+[Illustration: FIG. 27.--"OMEGA" GENERATOR.]
+
+1 Vent-cock handle.
+2 Residuum-cock handle.
+3 Agitator handle.
+4 Filling funnel.
+5 Water overflow.
+6 Hopper cap and lever.
+7 Starting feed.
+8 Rocker arm.
+9 Feed connecting-rod.
+A Pawl.
+B Lever for working feed mechanism.
+C Guide frame.
+D Residuum draw-off cock.
+G Chain from hopper cap to feed mechanism.
+H Blow-off and vent-pipe connexion.
+I Gas outlet from generator.
+J Gas service-cock.
+K Filling funnel for gasholder tank.
+L Funnel for condensing chamber.
+M Gas outlet at top of purifier.
+N Guides on gas-bell.
+O Crosshead on swinging pawl.
+P Crane carrying pawl.
+Q Shaft connecting feed mechanism.
+R Plug in gas outlet-pipe.
+S Guide-frame supports.
+U Removable plate to clean purifier.
+Z Removable plate to expose feed-cups for cleaning same.
+
+AUSTRIA-HUNGARY
+
+_Maker:_ RICH. KLINGER, GUMPOLDSKIRCHEN, NEAR VIENNA.
+
+_Type:_ Non-automatic; carbide-to-water.
+
+The generating plant made by this firm consists of the generator _A_
+which is supported in a concrete water and sludge tank _B_, a
+storage gasholder _J_, and purifiers _K_. In the top of the
+generator are guide-ways _F_, through each of which is passed a
+plunger _C_ containing a perforated cage charged with about 8 lb. of
+lump carbide. The plungers are supported by ropes passing over pulleys
+_D_, and when charged they are lowered through the guide-ways
+_F_ into the water in the tank _B_. The charge of carbide is
+thus plunged at once into the large body of water in the tank, and the
+gas evolved passes through perforations in the washer _G_ to the
+condenser _H_ and thence to the storage gasholder _J_. After
+exhaustion of the charge the plungers are withdrawn and a freshly charged
+cage of carbide inserted ready for lowering into the generating tank.
+There is a relief seal _f_ through which gas will blow and escape by
+a pipe _g_ to the open should the pressure within the apparatus
+exceed the depth of the seal, viz., about 9 inches. There is a syphon pot
+_N_ for the collection and withdrawal of condensed water. The sludge
+is allowed to accumulate in the bottom of the concrete tank _B_
+until it becomes necessary to remove it at intervals of about three
+months. Water is added to the tank daily to replace that used up in the
+generation of the gas. The gas passes from the storage holder through one
+of the pair of purifiers _K_, with water-sealed lids, which are
+charged with a chemical preparation for the removal of phosphoretted
+hydrogen. This purifying material also acts as a desiccating agent. From
+the purifiers the gas passes through the meter _L_ to the service-
+pipes.
+
+[Illustration: FIG. 28.--KLINGER'S GENERATING PLANT.]
+
+BELGIUM.
+
+_Maker_: SOC. AN. DE L'ACETYLITHE, 65 RUE DU MARCHE, BRUSSELS.
+
+_Type_: Automatic; contact.
+
+The generating apparatus made by this firm uses, instead of ordinary
+carbide, a preparation known as "acetylithe," which is carbide treated
+specially with mineral oil, glucose and sugar. The object of using this
+treated carbide is to avoid the effects of the attack of atmospheric
+humidity or water vapour, which, with ordinary carbide, give rise to the
+phenomena of after-generation. The generator comprises a water-tank
+_A_ with conical base, a basket _C_ containing the treated
+carbide inserted within a cylindrical case _B_ which is open at the
+bottom and is surmounted by a cylindrical filter _D_. At starting,
+the tank _A_ is filled with water to the level _N N'_. The
+water rises within the cylindrical case until it comes in contact with
+the treated carbide, which thereupon begins to evolve gas. The gas passes
+through the filter _D_, which is packed with dry cotton-wool, and
+escapes through the tap _M_. As soon as the contained air has been
+displaced by gas the outlet of the tap _M_ is connected by a
+flexible tube to the pipe leading to a purifier and the service-pipe.
+When the tap _M_ is closed, or when the rate of evolution of the gas
+exceeds the rate of consumption, the evolved gas accumulates within the
+cylindrical case _B_ and begins to displace the water, the level of
+which within the case is lowered from _S S'_, first to _S1 S'1_
+and ultimately to, say, _S2 S'2_. The evolution of gas is thereby
+gradually curtailed or stopped until more is required for consumption.
+The water displacement causes the water-level in the outer tank to rise
+to _N1 N'1_ and ultimately to, say _N2 N'2_. The lime formed by
+the decomposition of the carbide is loosened from the unattacked portion
+and taken more or less into solution as sucrate of lime, which is a
+soluble salt which the glucose or sugar in the treated carbide forms with
+lime. The solution is eventually run off through the cock _R_. The
+cover _T_ of the filter is screwed down on rubber packing until gas-
+tight. The purifier is charged with puratylene or other purifying
+material.
+
+[Illustration: FIG. 29.--ACETYLITHE GENERATOR.]
+
+_Maker_: L. DEBRUYNE, 22 PLACE MASUI, BRUSSELS.
+
+_Type_: (1) Automatic; carbide-to-water.
+
+The generating plant made by this firm, using granulated carbide,
+comprises an equalising gasholder _E_ alongside a generating tank
+_B_, which is surmounted by a closed carbide receptacle _A_ and
+a distributing appliance. The carbide receptacle is filled with
+granulated carbide and the lid _N_ screwed down; the carbide is then
+withdrawn from the base of the receptacle by the distributing appliance
+and discharged in measured quantities as required into the water in the
+generating tank. The distributing appliance is actuated by a weighted
+cord _H_ attached to the bell _I_ of the gasholder and
+discharges at each time a quantity of carbide only sufficient nearly to
+fill the gasholder with acetylene. The gas passes from the generator
+through the pipe _J_ and seal-pot _D_, or bypass _F_, to
+the gasholder. The generating tank is provided with a funnel _G_ for
+replacing the water consumed, a sludge-stirrer and a draw-off cock
+_L_, and a water-level cock _C_. The gas passes from the
+gasholder through a purifier _K_, charged with heratol, to the
+service-pipe.
+
+[Illustration: FIG. 30.--L. DEBRUYNE'S GENERATING PLANT FOR GRANULATED
+CARBIDE.]
+
+(2) Automatic; carbide-to-water.
+
+The "Debruyne" generator comprises an equalising bell gasholder _A_
+placed alongside a generating tank _B_ containing water into which
+lump carbide is discharged as necessary from each in turn of a series of
+chambers mounted in a ring above the generating tank. The chambers are
+removable for refilling, and when charged are hermetically sealed until
+opened in turn above the shoot _C_, through which their contents are
+discharged into the generating tank. The carbide contained in each
+chamber yields sufficient gas nearly to fill the gasholder. The
+discharging mechanism is operated through an arm _E_ attached to the
+bell _G_ of the gasholder, which sets the mechanism in motion when
+the bell has fallen nearly to its lowest position. The lip _L_
+serves for renewing the water in the generator, and the gas evolved goes
+through the pipe _K_ with tap _F_ to the gasholder. There is an
+eccentric stirrer for the sludge and a large-bore cock for discharging
+it. The gas passes from the gasholder through the pipe _J_ to the
+purifier _H_, charged with heratol, and thence to the service-pipe.
+
+[Illustration: FIG. 3l.--THE "DEBRUYNE" GENERATING PLANT FOR LUMP
+CARBIDE.]
+
+_Maker_: DE SMET VAN OVERBERGE, ALOST.
+
+_Type_: (1) Automatic; carbide-to-water.
+
+This generating apparatus comprises an equalising gasholder _A_
+placed alongside a generating tank _B_, above which is mounted on a
+rotating spindle a series of chambers _C_, arranged in a circle,
+which are filled with carbide. The generating tank is closed at the top,
+but on one side there is a shoot _D_ through which the carbide is
+discharged from the chambers in turn into the water in the tank. The
+series of chambers are rotated by means of a cord passing round a pulley
+_E_ and having a weight _F_ at one end, and being attached to
+the bell of the gasholder at the other. When the bell falls, owing to the
+consumption of gas, to a certain low position, the carbide chamber, which
+has been brought by the rotation of the pulley over the shoot, is opened
+at the bottom by the automatic liberation of a catch, and its contents
+are discharged into the generating tank. The contents of one carbide
+chamber suffice to fill the gasholder to two-thirds of its total
+capacity. The carbide chambers after filling remain hermetically closed
+until the bottom is opened for the discharge of the carbide. There is a
+sludge-cock _G_ at the bottom of the generating tank. The gas passes
+from the gasholder through a purifier _H_, which is ordinarily
+charged with puratylene.
+
+[Illustration: FIG. 32.--AUTOMATIC GENERATING PLANT OF DE SMET VAN
+OVERBERGE.]
+
+(2) Non-automatic; carbide-to-water.
+
+This apparatus comprises a storage bell gasholder _J_ placed
+alongside a generating tank in the top of which is a funnel _E_ with
+a counter-weighted lever pivoted on the arm _B_. The base of the
+funnel is closed by a flap valve _C_ hinged at _D_. When it is
+desired to generate gas the counter-weight _A_ of the lever is
+raised and the valve at the bottom of the funnel is thereby opened. A
+charge of carbide is then tipped into the funnel and drops into the water
+in the generating tank. The valve is then closed and the gas evolved goes
+through the pipe _G_ to the gasholder, whence it passes through a
+purifier to the service-pipe. There is a sludge-cock on the generating
+tank.
+
+[Illustration: FIG. 33.--NON-AUTOMATIC GENERATING PLANT OF DE SMET VAN
+OVERBERGE.]
+
+_Maker_: SOC. AN. BELGE DE LA PHOTOLITHE, 2 RUE DE HUY, LIEGE.
+
+_Type_: Automatic; carbide-to-water.
+
+The "Photolithe" generating plant made by this firm comprises an
+equalising bell gasholder _A_ in the tank _O_, alongside a
+generating tank _B_ which is surmounted by a carbide storage
+receptacle divided into a number of compartments. These compartments are
+fitted with flap bottoms secured by catches, and are charged with
+carbide. Through the middle of the storage receptacle passes a spindle,
+to the upper end of which is attached a pulley _b_. Round the pulley
+passes a chain, one end of which carries a weight _n_, while in the
+other direction it traverses guide pulleys and is attached to a loop on
+the crown of the gasholder bell. When the bell falls below a certain
+point owing to the consumption of gas, it pulls the chain and rotates the
+pulley _b_ and therewith an arm _d_, which liberates the catch
+supporting the flap-bottom of the next in order of the carbide
+compartments. The contents of this compartment are thereby discharged
+through the shoot _C_ into the generating tank _B_. The gas
+evolved passes through the cock _R_ and the pipe _T_ into the
+gasholder, the rise of the bell of which takes the pull off the chain and
+allows the weight at its other end to draw it up until it is arrested by
+the stop _f_. The arm _d_ is thereby brought into position to
+liberate the catch of the next carbide receptacle. The generating tank is
+enlarged at its base to form a sludge receptacle _E_, which is
+provided with a sludge draw-off cock _S_ and a hand-hole _P_.
+Between the generating tank proper and the sludge receptacle is a grid,
+which is cleaned by means of a rake with handle _L_. The gas passes
+from the gasholder through a purifier _H_ charged with puratylene,
+to the service-pipe.
+
+[Illustration: FIG. 34.--"PHOTOLITHE" GENERATING PLANT.]
+
+The same firm also makes a portable generating apparatus in which the
+carbide is placed in a basket in the crown of the bell of the gasholder.
+This apparatus is supplied on a trolley for use in autogenous soldering
+or welding.
+
+FRANCE.
+
+_Maker_: LA SOC. DES APPLICATIONS DE L'ACETYLENE, 26 RUE CADET,
+PARIS.
+
+_Type_: Automatic; carbide-to-water.
+
+The "Javal" generating plant made by this firm consists of an equalising
+bell gasholder _A_ in the tank _B_ with a series of buckets
+_D_, with removable bottoms _h_, mounted on a frame _F_
+round the guide framing of the holder. Alongside the gasholder stands the
+generating tank _H_ with shoot _K_, into which the carbide
+discharged from the buckets falls. On top of the generator is a tipping
+water-bucket _I_ supplied with water through a ball cock. The bell
+of the gasholder is connected by chains _a_ and _c_, and levers
+_b_ and _d_ with an arm which, when the bell descends to a
+certain point, comes in contact with the catch by which the bottom of the
+carbide bucket is held in place, and, liberating the same, allows the
+carbide to fall into the shoot. When the bell rises, in consequence of
+the evolved gas, the ring of carbide buckets is rotated sufficiently to
+bring the next bucket over the shoot. Thus the buckets are discharged in
+turn as required through the rise and fall of the gasholder bell.
+
+[Illustration: FIG. 35.--"JAVAL" GENERATOR.]
+
+The carbide falling from the opened bucket strikes the end _i_ of
+the lever _k_, and thereby tips the water-bucket _I_ and
+discharges its contents into the shoot of the generator. The rise in the
+level of the water in the generator, due to the discharge of the water
+from the bucket _I_, lifts the float _L_ and therewith, through
+the attached rod and chain _u_, the ball _s_ of the valve
+_t_. The sludge, which has accumulated in the base _N_ of the
+generator from the decomposition of the previous portion of carbide, is
+thereby discharged automatically into a special drain. The discharge-
+valve closes automatically when the float _L_ has sunk to its
+original level. The gas evolved passes from the generator through the
+seal-pot _M_ and the pipe _r_ with cock _q_ into the
+gasholder, from which it passes through the pipe _x_; with
+condensation chamber and discharge tap _y_ into the purifier
+_R_, which is charged with heratol.
+
+_Maker_: L'HERMITE, LOUVIERS, EURE.
+
+_Type_: (1) Automatic; carbide-to-water.
+
+The generating plant known as "L'Eclair," by this firm comprises an
+equalising bell gasholder _A_ floating in an annular water-seal
+_N_, formed in the upper part of a generating tank _B_ into
+which carbide enters through the shoot _K_. Mounted at the side of
+the tank is the carbide delivery device, which consists of the carbide
+containers _J_ supported on an axis beneath the water-sealed cover
+_H_. The containers are filled with ordinary lump carbide when the
+cover _H_ is removed. The tappet _O_ attached to the bell of
+the gasholder come in contact with a pawl when the gasholder bell
+descends to a certain level and thereby rotates a pinion on the
+protruding end of the axis which carries the carbide containers _J_.
+Each time the bell falls and the tappet strikes the pawl, one compartment
+of the carbide containers discharges its contents down the shoot _K_
+into the generating tank _B_. The gas evolved passes upwards and
+causes the bell _A_ to rise. The gas is prevented from rising into
+the shoot by the deflecting plates _G_. The natural level of the
+water in the generating tank, when the apparatus is in use, is shown by
+the dotted lines _L_. The lime sludge is discharged from time to
+time through the cock _E_, being stirred up by means of the agitator
+_C_ with handle _D_. When the sludge is discharged water is
+added through _M_ to the proper level. The gas evolved passes from
+the holder through the pipe with tap _F_ to the service-pipe. A
+purifier is supplied if desired.
+
+[Illustration: FIG. 36.--"L'ECLAIR," GENERATOR.]
+
+_References_
+
+A Gasholder.
+B Generator.
+C Agitator.
+D Handle of agitator.
+E Sludge-cock.
+F Gas outlet.
+G Deflecting plates.
+H Cover.
+I Carbide.
+J Automatic distributor.
+K Shoot.
+L Water-level.
+M Water-inlet.
+N Water-seal.
+O Tappet.
+
+(2) Automatic; water-to-carbide; contact.
+
+A generating plant known as "L'Etoile" made by this firm. A tappet on the
+bell of an equalising gasholder depresses a lever which causes water to
+flow into a funnel, the outlet of which leads to a generating chamber
+containing carbide.
+
+_Maker_: MAISON SIRIUS, FR. MANGIAMELI & CO., 34 RUE DES PETITS-
+HOTELS, PARIS.
+
+_Type_: (1) Automatic; carbide-to-water.
+
+The generating plant made by this firm comprises a drum-shaped carbide
+holder mounted above a generating tank, a condenser, a washer, an
+equalising gasholder, and a purifier. The drum _A_ is divided into
+eight chambers _a_ each closed by a fastening on the periphery of
+the drum. These chambers are packed with lump carbide, which is
+discharged from them in turn through the funnel _B_ into the
+generating tank, which is filled with water to the level of the overflow
+cock _b_. A deflecting plate _d_ in the tank distributes the
+carbide and prevents the evolved gas passing out by way of the funnel
+_B_. The gas evolved passes through the pipe _O_ into the
+condenser, which is packed with coke, through which the gas goes to the
+pipe _E_ and so to the washer _P_ through the water, in which
+it bubbles and issues by the pipe _G_ into the gasholder. The bell
+_L_ of the gasholder is connected by a chain _C_ to the axis of
+the drum _A_, on which is a pinion with pawl so arranged that the
+pull on the chain caused by the fall of the bell of the gasholder rotates
+the drum by 1/8 of a turn. The catch on the outside of the carbide
+chamber, which has thereby been brought to the lowest position, is at the
+same time freed, so that the contents of the chamber are discharged
+through the funnel _B_. The evolved gas causes the bell to rise and
+the drum remains at rest until, owing to the consumption of gas, the bell
+again falls and rotates the drum by another 1/8 of a turn. Each chamber
+of the drum holds sufficient carbide to make a volume of gas nearly equal
+to the capacity of the gasholder. Thus each discharge of carbide very
+nearly fills the gasholder, but cannot over-fill it. The bell is provided
+with a vent-pipe _i_, which comes into operation should the bell
+rise so high that it is on the point of becoming unsealed. From the
+gasholder the gas passes through the pipe _J_, with cock _e_,
+to the purifier, which is charged with frankoline, puratylene, or other
+purifying material, whence it passes to the pipe _N_ leading to the
+place of combustion. The generating tank is provided with a sludge-cock
+_g_, and a cleaning opening with lid _f_. This generating plant
+has been primarily designed for the use of acetylene for autogenous
+welding, and is made also mounted on a suitable trolley for transport for
+this purpose.
+
+[Illustration: FIG. 37.--"SIRIUS" GENERATOR.]
+
+(2) Automatic; carbide-to-water.
+
+A later design of generating plant, known as the Type G, also primarily
+intended for the supply of acetylene for welding, has the carbide store
+mounted in the crown of the bell of the equalising gasholder, to the
+framing of the tank of which are attached a purifier, charged with
+frankoline, and a safety water-seal or valve. The whole plant is mounted
+on a four-legged stand, and is provided with handles for carrying as a
+whole without dismounting. It is made in two sizes, for charges of 5-1/2
+and 11 lb. of carbide respectively.
+
+GERMANY.
+
+_Maker_: KELLER AND KNAPPICH, G.m.b.H., AUGSBURG.
+
+_Type_: Non-automatic; carbide-to-water.
+
+The "Knappich" generating plant made by this firm embodies a generating
+tank, one-half of which is closed, and the other half of which is open at
+the top, containing water. A small drum containing carbide is attached by
+a clamp to the end of a lever which projects above the open half of the
+tank. The lever is fastened to a horizontal spindle which is turned
+through 180 deg. by means of a counter-weighted lever handle. The carbide
+container is thus carried into the water within the closed half of the
+tank, and is opened automatically in transit. The carbide is thus exposed
+to the water and the evolved gas passes through a pipe from the top of
+the generating tank to a washer acting on the Livesey principle, and
+thence to a storage gasholder. The use of closed carbide containers in
+charging is intended to preclude the introduction of air into the
+generator, and the evolution and escape of gas to the air while the
+carbide is being introduced. Natural circulation of the water in the
+generating tank is encouraged with a view to the dissipation of heat and
+washing of the evolved gas. From the gasholder the gas passes in a
+downward direction through two purifiers arranged in series, charged with
+a material supplied under the proprietary name of "Carburylen." This
+material is stated to act as a desiccating as well as a purifying agent.
+The general arrangement of the plant is shown in the illustration. (Fig.
+38).
+
+[Illustration: FIG. 38.--"KNAPPICH" GENERATING PLANT.]
+
+_Maker_: NORDISCHE AZETYLEN-INDUSTRIE; ALTONA-OTTENSEN.
+
+_Type_: Automatic; water-to-carbide; "drawer."
+
+The apparatus made by this firm consists of an equalising gasholder with
+bell _D_ and tank _E_, a water-tank _O_, and two drawer
+generators _C_ situated in the base of the gasholder tank. The
+water-supply from the tank _O_ through the pipe _P_ with valve
+_Q_ is controlled by the rise and fall of the bell through the
+medium of the weight _J_ attached to the bell. When the bell
+descends this weight rests on _K_ and so moves a counter-weighted
+lever, which opens the valve _Q_. The water then flows through the
+nozzle _B_ into one division of the funnel _A_ and down the
+corresponding pipe to one of the generators. The generators contain trays
+with compartments intended to be half filled with carbide. The gas
+evolved passes up the pipe _T_ and through the seal _U_ into
+the bell of the gasholder. There is a safety pipe _F_, the upper end
+of which is carried outside the generator house. From the gasholder the
+gas is delivered through the cock _M_ to a purifier charged with a
+special purifying material mixed with cork waste and covered with
+wadding. There is a drainage cock _N_ at the base of the purifier.
+The nozzle _B_ of the water-supply pipe is shifted to discharge into
+either compartment of the funnel _A_, according to which of the two
+generators is required to be in action. The other generator may then be
+recharged without interfering with the continuous working of the plant.
+
+[Illustration: FIG. 39.--GENERATING PLANT OF THE NORDISCHE AZETYLEN-
+INDUSTRIE.]
+
+GREAT BRITAIN AND IRELAND.
+
+_Maker:_ THE ACETYLENE CORPORATION OF GREAT BRITAIN LTD., 49
+VICTORIA STREET, LONDON, S.W.
+
+_Type:_ (1) Automatic; water-to-carbide; contact, superposed pans.
+
+The "A1" generating plant made by this firm comprises a bell gasholder,
+with central guide, standing alongside the generator. The generator
+consists of a rectangular tank in which is a generating chamber having a
+water-sealed lid with pressure test-cock _I_. Into the generating
+chamber fit a number of pans _J_, which are charged with carbide.
+Water is supplied to the generating chamber from an overhead tank
+_B_ through the starting tap _D_ and the funnel _E_. It
+flows out of the supply-pipe near the top of the generating chamber
+through a slot in the side of the pipe facing the corner of the chamber,
+so that it runs down the latter without splashing the carbide in the
+upper pans. It enters first the lowest carbide pan through the
+perforations, which are at different levels in the side of the pan. It
+thus attacks the carbide from the bottom upwards. The evolved gas passes
+from the generating chamber through a pipe opening near the top of the
+same to the washer _A_, which forms the base of the generating tank.
+It bubbles through the water in the washer, which therefore also serves
+as a water-seal, and passes thence to the gasholder. On the bell of the
+gasholder is an arm _C_ which, when the holder descends nearly to
+its lowest point, depresses the rod _C_, which is connected by a
+chain to a piston in the outlet-pipe from the water-tank _B_. The
+fall of the gasholder thereby raises the piston and allows water to flow
+out of the tank _B_ through the tap _D_ to the funnel _E_.
+The generating tank is connected by a pipe, with tap _G_, with the
+washer _A_, and the water in the generating tank is run off through
+this pipe each time the generating chamber is opened for recharging,
+thereby flushing out the washer _A_ and renewing the water in the
+same. There is a sludge discharging tap _F_. With a view to the
+ready dissipation of the heat of generation the generating chamber is
+made rectangular and is placed in a water-tank as described. Some of the
+heat of generation is also communicated to the underlying washer and
+warms the water in it, so that the washing of the gas is effected by warm
+water. Water condensing in the gasholder inlet-pipe falls downwards to
+the washer. There is a water lip _H_ by which the level of the water
+in the washer is automatically kept constant. The gasholder is provided
+with a safety-pipe _K_, which allows gas to escape through it to the
+open before the sides of the holder become unsealed, should the holder
+for any reason become over-filled. The holder is of a capacity to take
+the whole of the gas evolved from the carbide in one pan, and the water-
+tank _B_ holds just sufficient water for the decomposition of one
+charge of the generator. From the gasholder the gas passes through a
+purifier, which is ordinarily charged with "Klenzal," and a baffle-box
+for abstraction of dust, to the service-pipe. With plants intended to
+supply more than forty lights for six hours, two or more generating
+chambers are employed, placed in separate compartments of one rectangular
+generating tank. The water delivery from the water-tank _B_ then
+takes place into a trough with outlets at different levels for each
+generating chamber. By inspection of this trough it may be seen at once
+whether the charge in any generating chamber is unattacked, in course of
+attack, or exhausted.
+
+[Illustration: FIG. 40.--THE "A1" GENERATING PLANT OF THE ACETYLENE
+CORPORATION OF GREAT BRITAIN, LTD.]
+
+(2) Automatic; water-to-carbide; contact.
+
+The same firm also makes the "Corporation Flexible-Tube Generator," which
+is less costly than the "A1" (_vide supra_). The supply of water to
+the generating vessels takes place from the tank of the equalising bell
+gasholder and is controlled by a projection on the bell which depresses a
+flexible tube delivering into the generating vessels below the level of
+the water inlet to the tube.
+
+(3) Automatic; water-to-carbide; "drawer."
+
+The same firm also makes a generator known as the "A-to-Z," which is less
+costly than either of the above. In it water is supplied from the tank of
+a bell gasholder to a drawer type of generator placed in the base of the
+gasholder tank. The supply of water is controlled by an external piston-
+valve actuated through the rise and fall of the bell of the gasholder.
+The flow of water to the generator is visible.
+
+_Maker_: THE ACETYLENE GAS AND CARBIDE OF CALCIUM CO., PONTARDAWE,
+R.S.O., GLAM.
+
+_Type_: Automatic; water-to-carbide; flooded compartment.
+
+The "Owens" generator made by this firm comprises an equalising bell
+gasholder alongside which are placed two or more inclined generating
+cylinders. The front lower end of each cylinder is fitted with a lid
+which is closed by a screw clamp. There is inserted in each cylinder a
+cylindrical trough, divided into ten compartments, each of which contains
+carbide. Water is supplied to the upper ends of the cylinders from a
+high-level tank placed at the back of the gasholder. In the larger sizes
+the tank is automatically refilled from a water service through a
+ball-cock. The outlet-valve of this tank is operated through a counter-
+weighted lever, the unweighted end of which is depressed by a loop,
+attached to the crown of the gasholder bell, when the bell has nearly
+reached its lowest position. This action of the bell on the lever opens
+the outlet-valve of the tank and allows water to flow thence into one of
+the generating cylinders. It is discharged into the uppermost of the
+compartments of the carbide trough, and when the carbide in that
+compartment is exhausted it flows over the partition into the next
+compartment, and so on until the whole trough is flooded. The gas passes
+from the generating cylinders through a water-seal and a baffle plate
+condenser placed within the water link of the gasholder to the bell of
+the latter. There is a water seal on the water supply-pipe from the tank
+to the generators, which would be forced should the pressure within the
+generators for any reason become excessive. There is also a sealed vent-
+pipe which allows of the escape of gas from the holder to the open should
+the holder for any reason be over filled. The gas passes from the holder
+through a purifier charged with "Owens" purifying material to the service
+pipe. The plant is shown in Fig 41.
+
+[Illustration: FIG. 41.--"OWENS" GENERATOR.]
+
+_Maker_ ACETYLENE ILLUMINATING CO, LTD, 268-270 SOUTH LAMBETH ROAD,
+LONDON, SW
+
+_Type_ (1) Non automatic, carbide to water
+
+The generator _A_ of this type made by this firm is provided with a
+loading box _B_, with gas tight lid, into which the carbide is put.
+It is then discharged by moving a lever which tilts the hinged bottom
+_D_ of the box _B_, and so tips the carbide through the shoot
+_E_ on to the conical distributor _F_ and into the water in the
+generating chamber. There is a sludge cock _G_ at the base of the
+generator. Gas passes as usual from the generator to a washer and storage
+gasholder. Heratol is the purifying material supplied.
+
+[Illustration: FIG. 42.--CARBIDE-TO-WATER GENERATOR OF THE ACETYLENE
+ILLUMINATING CO., LTD.]
+
+(2) Non-automatic; water-to-carbide; contact.
+
+The generator _A_ is provided with a carbide container with
+perforated base, and water is supplied to it from a delivery-pipe through
+a scaled overflow. The gas evolved passes through the pipe _E_ to
+the washer _B_, which contains a distributor, and thence to the
+storage gasholder _G_. There is a sludge-cock _F_ at the base
+of the generator. From the gasholder the gas passes through the purifier
+_D_, charged with heratol, to the service-pipe.
+
+[Illustration: FIG. 43.--WATER-TO-CARBIDE GENERATING PLANT OF THE
+ACETYLENE ILLUMINATING CO., LTD.]
+
+_Maker_: THE ALLEN CO., 106 VICTORIA STREET, LONDON, S.W.
+
+_Type_: Automatic; water-to-carbide; contact, superposed trays.
+
+The generating plant made by this firm comprises an equalising bell
+gasholder, from the tank of which water is supplied through a flexible
+tube to the top of a water-scaled generating chamber in which is a
+vertical cylinder containing a cage packed with carbide. The open end of
+the flexible tube is supported by a projection from the bell of the
+gasholder, so that as the bell rises it is raised above the level of the
+water in the tank and so ceases to deliver water to the generator until
+the bell again falls. The water supplied flows by way of the water-seal
+of the cover of the generating chamber to the cylinder containing the
+carbide cage. Larger sizes have two generating chambers, and the nozzle
+of the water delivery-pipe may be switched over from one to the other.
+There is an overflow connexion which brings the second chamber
+automatically into action when the first is exhausted. One chamber may be
+recharged while the other is in action. Spare cylinders and cages are
+provided for use when recharging. There is a cock for drawing off water
+condensing in the outlet-pipe from the gasholder. The gas passes from the
+holder to the lower part of a purifier with water-scaled cover, through
+the purifying material in which it rises to the outlet leading to the
+service-pipe. Purifying material under the proprietary name of the
+"Allen" compound is supplied. The plant is shown in Fig. 44.
+
+[Illustration: FIG. 44.--"ALLEN" FLEXIBLE-TUBE GENERATOR.]
+
+Maker: THE BON-ACCORD ACETYLENE GAS CO., 285 KING STREET, ABERDEEN.
+
+Type: Automatic; water-to-carbide; contact, superposed trays.
+
+The "Bon Accord" generating plant made by this firm comprises an
+equalising displacement gasholder _B_ immersed in a water-tank
+_A_. Alongside the tank are placed two water-jacketed generating
+chambers _G1_ and _G2_ containing cages _K_ charged with
+carbide. Water passes from within the gasholder through the water inlet-
+pipes _L1 L2_, the cock _H_, and the pipes _F1 F2_ to the
+generating chambers, from which the gas evolved travels to the holder
+_B_, in which it displaces water until the water-level falls below
+the mouths of the pipes _L1_ and _L2_, and so cuts off the
+supply of water to the generating chambers. The gas passes from the
+holder _B_ through the pipe with outlet-cock _T_ to a washer
+containing an acid solution for the neutralisation of ammonia, then
+through a purifier containing a "special mixture of chloride of lime."
+After that through a tower packed with lime, and finally through a
+pressure regulator, the outlet of which is connected to the service-pipe.
+There is an indicator _I_ to show the amount of gas in the holder.
+One generator may be charged while the other is in action.
+
+[Illustration: FIG. 45.--"BON-ACCORD" GENERATOR.]
+
+_Maker_: FREDK. BRABY AND CO., LTD., ASHTON GATE WORKS, BRISTOL; AND
+352-364 EUSTON ROAD, LONDON.
+
+_Type:_ (I) Automatic; carbide-to-water.
+
+The "A" type of generator made by this firm comprises an equalising bell
+gasholder, round the bell of which are arranged a series of buckets which
+are charged with carbide. Those buckets are discharged in turn as the
+bell falls from time to time through a mechanism operated by a weight
+suspended from a wire cord on a revolving spindle. The carbide is
+discharged on to a different spot in the generating tank from each
+bucket. There is a cock for the periodical removal of sludge. Gas passes
+through a purifier charged with puratylene to the service-pipe. The
+disposition of the parts of the plant and the operating mechanism arc
+shown in the accompanying figure, which represents the generating
+apparatus partly in elevation and partly in section. The carbide buckets
+(1) are loosely hooked on the flat ring (2) bolted to the gasholder tank
+(3). The buckets discharge through the annular water-space (4) between
+the tank and the generator (5). The rollers (6), fitted on the generator,
+support a ring (7) carrying radial pins (8) projecting outwards, one pin
+for each bucket. The ring can travel round on the rollers. Superposed on
+the ring is a tray (9) closed at the bottom except for an aperture
+beneath the throat (11), on which is mounted an inclined striker (12),
+which strikes the projecting tongues (1_a_) of the lids of the
+buckets in turn. There is fixed to the sides of the generator a funnel
+(13) with open bottom (13_a_) to direct the carbide, on to the
+rocking grid (14) which is farther below the funnel than appears from the
+figure. Gas passing up behind the funnel escapes through a duct (15) to
+the gasholder. The ring (7) is rotated through the action of the weight
+(16) suspended by the chain or rope (17) which passes round the shaft
+(18), which is supported by the bracket (19) and has a handle for winding
+up. An escapement, with upper limb (20_a_) and lower limb
+(20_b_), is pivotally centred at (21) in the bracket (19) and
+normally restrains the turning of the shaft by the weight. There is a
+fixed spindle (24) supported on the bracket (23)--which is fixed to the
+tank or one of the guide-rods--having centred on it a curved bar or
+quadrant (25) running loose on the spindle (24) and having a crank arm
+(26) to which is connected one end of a rod (27) which, at the other end,
+is connected to the arm (28) of the escapement. The quadrant bears at
+both extremities against the flat bar (29) when the bell (22) is
+sufficiently raised. The bar (29) extends above the bell and carries an
+arm (30) on which is a finger (30_a_). There is fixed on the shaft
+(18) a wheel (31), with diagonal divisions or ways extending from side to
+side of its rim, and stop-pins (32) on one side at each division. A
+clutch prevents the rotation of the wheel during winding up.
+
+[Illustration: FIG. 46.--THE "A" GENERATOR OF FRED K. BRABY AND CO.,
+LTD.]
+
+(2) Automatic; water-to-carbide; contact, superposed trays.
+
+The type "B" generator made by this firm comprises an equalising bell
+gasholder, a crescent-shaped feed water-tank placed on one side of the
+gasholder, and mechanism for controlling a tap on the pipe by which the
+feed water passes to a washer whence it overflows through a seal into a
+horizontal generating chamber containing cells packed with carbide. The
+mechanism controlling the water feed embodies the curved bar (25),
+connecting-rod (27) and flat guide-bar (29) as used for controlling the
+carbide feed in the "A" type of generator (Fig. 46). When the bell
+descends water is fed into the washer, and the water-level of the seal is
+thus automatically maintained. The gas evolved passes through a pipe,
+connecting the seal on the top of the generating chamber with the washer,
+into the gasholder. Plants of large size have two generating chambers
+with connexions to a single washer.
+
+_Maker:_ THE DARGUE ACETYLENE GAS CO., 57 GREY STREET, NEWCASTLE-ON-
+TYNE.
+
+_Type:_ Automatic; water-to-carbide; "drawer."
+
+The "Dargue" acetylene generator made by this firm comprises an
+equalising bell gasholder _B_ floating in a water-tank _A_,
+which is deeper than is necessary to submerge the bell of the gasholder.
+In the lower part of this tank are placed two or more horizontal
+generating chambers which receive carbide-containing trays divided by
+partitions into a number of compartments which are half filled with
+carbide. Water is supplied from the gasholder tank through the tap
+_E_ and pipe _F_ to the generating chambers in turn. It rises
+in the latter and floods the first compartment containing carbide before
+gaining access to the second, and so on throughout the series of
+compartments. As soon as the carbide in the first generating chamber is
+exhausted, the water overflows from it through the pipe with by-pass tap
+_J_ to the second generating chamber. The taps _G_ and _H_
+serve to disconnect one of the generating chambers from the water-supply
+during recharging or while another chamber is in action. The gas evolved
+passes from each generating chamber through a pipe _L_, terminating
+in the dip-pipe _M_, which is provided with a baffle-plate having
+very small perforations by which the stream of gas is broken up, thereby
+subjecting it to thorough washing by the upper layers of water in the
+gasholder tank. The washed gas, which thus enters the gasholder, passes
+from it through the pipe _N_ with main cock _R_ to the service-
+pipes. The water-supply to the generator is controlled through the tap
+_E_, which is operated by a chain connected to an arm attached to
+the bell of the gasholder.
+
+The water in the gasholder tank is accordingly made to serve for the
+supply of the generating chambers, for the washing of the gas, and as a
+jacket to the generating chambers. The heat evolved by the decomposition
+of the carbide in the latter creates a circulation of the water, ensuring
+thereby thorough mixing of the fresh water, which is added from time to
+time to replace that removed for the decomposition of the carbide, with
+the water already in the tank. Thus the impurities acquired by the water
+from the washing of the gas do not accumulate in it to such an extent as
+to render it necessary to run off the whole of the water and refill,
+except at long intervals. A purifier, ordinarily charged with puratylene,
+is inserted in many cases after the main cock _R_. The same firm
+makes an automatic generator on somewhat similar lines, specially
+designed for use in autogenous welding, the smaller sizes of which are
+readily portable.
+
+[Illustration: FIG. 47.--"DARGUE" GENERATOR.]
+
+_Maker_: J. AND J. DRUMMOND, 162 MARKET STREET, ABERDEEN.
+
+_Type_: Automatic; water-to-carbide; contact.
+
+The generating plant made by this firm comprises two or more generating
+vessels _B_ in which carbide is contained in removable cases
+perforated at different levels. Water is supplied to these generating
+vessels, entering them at the bottom, from an elevated tank _A_
+through a pipe _C_, in which is a tap _F_ connected by a lever
+and chain _L_ with the bell _G_ of the equalising gasholder
+_H_, into which the evolved gas passes. The lever of the tap
+_F_ is counter-weighted so that when the bell _G_ descends the
+tap is opened, and when the bell rises the tap is closed. The gas passes
+from the generating chambers _B_ through the pipe _D_ to the
+washer-cooler _E_ and thence to the gasholder. From the latter it
+passes through the dry purifier _J_ to the service-pipe. The
+gasholder bell is sealed in oil contained in an annular tank instead of
+in the usual single-walled tank containing water. The purifying material
+ordinarily supplied is puratylene. The apparatus is also made to a large
+extent in a compact form specially for use on board ships.
+
+[Illustration: FIG. 48.--J. AND J. DRUMMOND'S GENERATING PLANT.]
+
+_Agents_: FITTINGS, LTD., 112 VICTORIA STREET, S.W.
+
+_Type_: Automatic; carbide-to-water.
+
+The "Westminster" generator supplied by this firm is the "Davis"
+generator described in the section of the United States. The rights for
+the sale of this generator in Great Britain are held by this firm.
+
+_Maker_: LOCKERBIE AND WILKINSON, TIPTON, STAFFS.
+
+_Type_: (1) Automatic; water-to-carbide; contact, superposed trays.
+
+The "Thorscar" generator of this firm comprises an equalising gasholder,
+the gas-space of the bell _B_ of which is reduced by conical upper
+walls. When the bell descends and this lining enters the water in the
+tank _A_ the displacement of water is increased and its level raised
+until it comes above the mouths of the pipes _E_, through which a
+portion then flows to the generators _D_. The evolution of the gas
+in the latter causes the bell to rise and the conical lining to be lifted
+out of the water, the level of which thereupon falls below the mouths of
+the pipes _E_ in consequence of the reduced displacement of the
+bell. The supply of water to the generators is thus cut off until the
+bell again falls and the level of the water in the tank is raised above
+the mouths of the pipes _E_. The generating chambers _D_ are
+provided with movable cages _F_ in which the carbide is arranged on
+trays. The gas evolved travels through a scrubbing-box _G_
+containing charcoal, and the pipe _J_ with drainage-pipe _P_ to
+the water-seal or washer _K_ inside the holder, into which it then
+passes. The outlet-pipe for gas from the holder leads through the
+condensing coil _L_ immersed in the water in the tank to the
+condensed water-trap _N_, and thence by the tap _Q_ to the
+supply-pipe. The generating chambers are water-jacketed and provided with
+gauge-glasses _H_ to indicate when recharging is necessary, and also
+with sludge-cocks _M_. The object of the displacement cone in the
+upper part of the bell is to obtain automatic feed of water to the
+carbide without the use of cocks or movable parts. There is a funnel-
+shaped indicator in front of the tank for regulating the height of water
+to a fixed level, and also an independent purifier, the purifying
+material or which is supplied under the proprietary name of "Thorlite."
+
+[Illustration: FIG. 49.--"THORSCAR" GENERATOR.]
+
+(2) Non-automatic; water-to-carbide; "drawer."
+
+This generating plant, the "Thorlite," comprises a water-tank _A_
+from which water is admitted to the drawer generating chambers _B_,
+one of which may be recharged while the other is in operation. The gas
+evolved passes through a seal _C_ to the gasholder _D_, whence
+it issues as required for use through the purifier _E_ to the
+supply-pipe. For the larger sixes a vertical generating chamber is used.
+The purifier and purifying material are the same as for the automatic
+plant of the same firm.
+
+[Illustration: FIG. 50.--"THORLITE" GENERATING PLANT.]
+
+_Maker_: THE MANCHESTER ACETYLENE GAS CO., LTD., ACRE WORKS,
+CLAYTON, MANCHESTER.
+
+_Type_: Automatic; water-to-carbide; "drawer."
+
+The plant made by this firm comprises an equalising gasholder _A_
+from the tank of which water is supplied to generating cylinders _B_
+placed at the side of the tank, the number of which varies with the
+capacity of the plant. The cylinders receive tray carbide-containers
+divided into compartments perforated at different levels so that they are
+flooded in turn by the inflowing water. A weight _C_ carried by a
+chain _D_ from one end of a lever _E_ pivoted to the framing of
+the gasholder is supported by the bell of the gasholder when the latter
+rises; but when the holder falls the weight _C_, coming upon the
+lever _E_, raises the rod _F_, which thereupon opens the valve
+_G_, which then allows water to flow from the gasholder tank through
+the pipe _H_ to one of the generating cylinders. When the carbide in
+the first cylinder is exhausted, the water passes on to a second. One
+generating cylinder may be recharged while another is in action. The
+rising of the holder, due to the evolved gas, causes the bell to support
+the weight _C_ and thus closes the water supply-valve _G_. The
+gas evolved passes through vertical condensers _J_ into washing-
+boxes _K_, which are placed within the tank. The gas issues from the
+washing-boxes into the gasholder bell, whence it is withdrawn through the
+pipe _L_ which leads to the purifier. Puratylene is the purifying
+material ordinarily supplied by this firm.
+
+[Illustration: FIG. 51.--GENERATING PLANT OF THE MANCHESTER ACETYLENE GAS
+CO., LTD.]
+
+_Maker:_ R,. J. MOSS AND SONS, 98 SNOW HILL, BIRMINGHAM.
+
+_Type:_ (1) Automatic; water-to-carbide; superposed trays.
+
+The "Moss" generator, "Type A," made by this firm comprises an equalising
+gasholder, four, three, or two generating chambers, and an intermediate
+water-controlling chamber. Each generating chamber consists of a frame in
+which are arranged about a central tube trays half filled with carbide,
+having water inlet-holes at several different levels, and each divided
+into two compartments. Over this frame is put a bell-shaped cover or cap,
+and the whole is placed in an outer tank or bucket, in the upper part of
+which is a water inlet-orifice. The water entering by this orifice passes
+down the outside of the bell, forming a water-seal, and rises within the
+bell to the perforations in the carbide trays from the lowest upwards,
+and so reaches the carbide in successive layers until the whole has been
+exhausted. The gas evolved passes through the central tube to a water-
+seal and condensing tank, through which it escapes to the controlling
+chamber, which consists of a small water displacement chamber, the gas
+outlet of which is connected to the equalising gasholder. The bell of the
+equalising gasholder is weighted or balanced so that when it rises to a
+certain point the pressure is increased to a slight extent and
+consequently the level of the water in the displacement controlling
+chamber is lowered. In this chamber is a pipe perforated at about the
+water-level, so that when the level is lowered through the increased
+pressure thrown by the rising gasholder the water is below the
+perforations and cannot enter the pipe. The pipe leads to the water
+inlet-orifices of the generating tanks and when the equalising gasholder
+falls, and so reduces the pressure within the controlling chamber, the
+water in the latter rises and flows through the pipe to the generating
+tanks. The water supplied to the carbide is thus under the dual control
+of the controlling chamber and of the differential pressure within the
+generating tank. The four generators are coupled so that they come into
+action in succession automatically, and their order of operation is
+naturally reversed after each recharging. An air-cock is provided in the
+crown of the bell of each generator and, in case there should be need of
+examination when charged, cocks are provided in other parts of the
+apparatus for withdrawing water. There is a sludge-cock on each
+generator. The gas passes from the equalising gasholder through a
+purifier, for which the material ordinarily supplied is puratylene.
+
+[Illustration: FIG. 52.--"MOSS TYPE A" GENERATOR.]
+
+The "Moss Type B" generator is smaller and more compact than "Type A." It
+has ordinarily only two generating chambers, and the displacement water
+controlling chamber is replaced by a bell governor, the bell of which is
+balanced through a lever and chains by a weight suspended over the bell
+of the equalising gasholder, which on rising supports this counter-weight
+and so allows the governor bell to fall, thereby cutting off the flow of
+water to the generating chambers.
+
+[Illustration: FIG 53.--"MOSS TYPE B" GENERATOR.]
+
+The "Moss Type C" generator is smaller than either "Type A" or "B," and
+contains only one generating chamber, which is suspended in a pocket in
+the crown of the equalising gasholder. Water enters through a hole near
+the top of the bucket of the generating chamber, when it descends with
+the holder through the withdrawal of gas from the latter.
+
+[Illustration: FIG 54.--"MOSS TYPE C" GENERATOR.]
+
+(2) Semi-automatic; water-to-carbide; superposed trays.
+
+The "Moss Semi-Non-Auto" generating plant resembles the automatic plant
+described above, but a storage gasholder capable of holding the gas
+evolved from one charging of the whole of the generating chambers is
+provided in place of the equalising gasholder, and the generation of gas
+proceeds continuously at a slow rate.
+
+The original form of the "Acetylite" generator (_vide infra_)
+adapted for lantern use is also obtainable of R. J. Moss and Sons.
+
+_Maker:_ WM. MOYES AND SONS, 115 BOTHWELL STREET, GLASGOW.
+
+_Type:_ Automatic; carbide-to-water.
+The "Acetylite" generator made by this firm consists of an equalising
+gasholder and one or more generating tanks placed alongside it. On the
+top of each generating tank is mounted a chamber, with conical base,
+charged with granulated carbide 1/8 to 1/2 inch in size. There is an
+opening at the bottom of the conical base through which passes a rod with
+conical head, which, when the rod is lowered, closes the opening. The rod
+is raised and lowered through levers by the rise and fall of the bell of
+the equalising gasholder, which, when it has risen above a certain point,
+supports a counter-weight, the pull of which on the lever keeps the
+conical feed-valve open. The gas evolved in the generating tanks passes
+through a condensing chamber situated at the base of the tank into the
+equalising gasholder and so automatically controls the feed of carbide
+and the evolution of gas according to the rate of withdrawal of the gas
+from the holder to the service-pipes. The water in the gasholder tank
+acts as a scrubbing medium to the gas. The generating tanks are provided
+with sludge-cocks and a tap for drawing off condensed water. The gas
+passes from the equalising gasholder, through a purifier and dryer
+charged with heratol or other purifying material to the service-pipes.
+The original form of the "Acetylite" generator is shown in elevation and
+vertical section in Fig. 55. Wm. Moyes and Sons now make it also with a
+detached equalising gasholder connected with the generator by a pipe in
+which is inserted a lever cock actuated automatically through a lever and
+cords by a weight above the bell of the gasholder. Some other changes
+have been made with a view to securing constancy of action over long
+periods and uniformity of pressure. In this form the apparatus is also
+made provided with a clock-work mechanism for the supply of lighthouses,
+in which the light is flashed on periodically. The flasher is operated
+through a pilot jet, which serves to ignite the gas at the burners when
+the supply is turned on to them at the prescribed intervals by the clock-
+work mechanism.
+
+[Illustration: FIG. 55.--"ACETYLITE" GENERATOR.]
+
+_Maker_: THE PHOS CO., 205 AND 207 BALLS POND ROAD, LONDON, N.
+_Type_: Non-automatic; water-to-carbide; drip.
+
+The type "E" generator made by this firm consists of a generating chamber
+placed below a water chamber having an opening with cap _E_ for
+refilling. The generating chamber in closed by a door _B_, with
+rubber washer _C_, held in position by the rod _A_, the ends of
+which pass into slots, and the screw _A'_. The movable carbide
+chamber _D_ has its upper perforated part half filled with carbide,
+which is pressed upwards by a spring _D'_. The carbide chamber when
+filled is placed in the generating chamber, which is closed, and the
+lever _F_ of one of the taps _F'_ is turned from "off" to "on,"
+whereupon water drips from the tank on to the carbide. The evolution of
+gas is stopped by reversing the lever of the tap. The second tap is
+provided for use when the evolution of gas, through the water-supply from
+the first tap, has been stopped and it is desired to start the apparatus
+without waiting for water from the first tap to soak through a layer of
+spent carbide. The two taps are not intended for concurrent use. The
+evolved gas passes through a purifier containing any suitable purifying
+material to the pipes leading to the burners.
+
+[Illustration: FIG. 56.--"PHOS TYPE E" GENERATOR.]
+
+_Maker:_ ROSCO ACETYLENE COMPANY, BELFAST.
+
+_Type:_ Non-automatic; carbide-to-water
+
+The "Rosco" generating plant made by this firm comprises a generating
+tank _A_ which is filled with water to a given level by means of the
+funnel-mouthed pipe _B_ and the overflow _O_. On the top of the
+water-sealed lid of the generating tank is mounted the carbide feed-valve
+_L_, which consists of a hollow plug-tap with handle _M_. When
+the handle _M_ is turned upwards the hollow of the tap can be filled
+from the top of the barrel with carbide. On giving the tap a third of a
+turn the hollow of the plug is cut off from the outer air and is opened
+to the generating tank so that the carbide contained in it is discharged
+over a distributor _E_ on to the tray _N_ in the water in the
+generating tank. The gas evolved passes through the scrubber and seal-pot
+_J_ to the storage gasholder _Q_. From the latter the gas
+passes through the dry purifier _T_ to the service-pipe. A sludge-
+cock _P_ is provided at the bottom of the generating tank and is
+stated to be available for use while generation of gas is proceeding. The
+purifying material ordinarily supplied is "Roscoline."
+
+[Illustration: FIG. 57.--"ROSCO" GENERATING PLANT.]
+
+_Maker_: THE RURAL DISTRICTS GAS LIGHT CO., 28 VICTORIA STREET, S.W.
+
+_Type_: Automatic; water-to-carbide; contact, superposed trays.
+
+The "Signal-Arm" generating apparatus made by this firm comprises a bell
+gasholder _A_, from the tank _B_ of which water is supplied
+through a swivelled pipe _C_ to a generating chamber _D_. One
+end of the swivelled pipe is provided with a delivery nozzle, the other
+end is closed and counter-weighted, so that normally the open end of the
+pipe is raised above the level of the water in the tank. A tappet
+_E_ on the bell of the gasholder comes into contact with, and
+depresses, the open end of the swivelled pipe when the bell falls below a
+certain point. As soon as the open end of the swivelled pipe has thus
+been lowered below the level of the water in the tank, water flows
+through it into the funnel-shaped mouth _F_ of a pipe leading to the
+bottom of the generating chamber. The latter is filled with cages
+containing carbide, which is attacked by the water rising in the chamber.
+The gas evolved passing into and raising the bell of the gasholder causes
+the open end of the swivelled pipe to rise, through the weight of the
+counterpoise _G_, above the level of the water in the tank and so
+cuts off the supply of water to the generating chamber until the bell
+again descends and depresses the swivelled pipe. The tappet on the bell
+also displaces a cap _H_ which covers the funnel-shaped mouth of the
+pipe leading to the generating chamber, which cap, except when the
+swivelled supply-pipe is being brought into play, prevents any extraneous
+moisture or other matter entering the mouth of the funnel. Between the
+generating chamber and the gasholder is a three-way cock _J_ in the
+gas connexion, which, when the gasholder is shut off from the generator,
+brings the latter into communication with a vent-pipe _K_ leading to
+the open. The gas passes from the holder to a chamber _L_ under
+grids packed with purifying material, through which it passes to the
+outlet of the purifier and thence to the service-pipe. Either heratol or
+chloride of lime is used in the purifier, the lid of which, like the
+cover of the generator, is water-sealed.
+
+[Illustration: FIG. 58.--"SIGNAL-ARM" GENERATING PLANT.]
+
+_Maker_: ST. JAMES' ILLUMINATING CO., LTD., 3 VICTORIA STREET,
+LONDON, S.W.
+
+_Type_: (1) Automatic; water-to-carbide; contact, superposed trays.
+
+This plant consists of the generators _A_, the washer _B_, the
+equalising gasholder _C_, the purifier _D_, and the water-tank
+_E_. The carbide is arranged in baskets in the generators to which
+water is supplied from the cistern _E_ through the pipe _F_.
+The supply is controlled by means of the valve _H_, which is
+actuated through the rod _G_ by the rise and fall of the gasholder
+_C_. Gas travels from the gasholder through the purifier _D_ to
+the service-pipe. The purifier is packed with heratol resting on a layer
+of pumice. The washer _B_ contains a grid, the object of which is to
+distribute the stream of gas through the water. There is a syphon-pot
+_J_ for the reception of condensed moisture. Taps _K_ are
+provided for shutting off the supply of water from the generators during;
+recharging, and there is an overflow connexion _L_ for conveying the
+water to the second generator as soon as the first is exhausted. There is
+a sludge-cock _M_ at the base of each generator.
+
+(2) Non-automatic; water-to-carbide; contact, superposed trays.
+
+This resembles the preceding plant except that the supply of water from
+the cistern to the generators takes place directly through the pipe
+_N_ (shown in dotted lines in the diagram) and is controlled by hand
+through the taps _K_. The automatic control-valve _H_ and the
+rod _G_ are omitted. The gasholder _C_ is increased in size so
+that it becomes a storage holder capable of containing the whole of the
+gas evolved from one charging.
+
+[Illustration: FIG. 59.--GENERATING PLANT OF THE ST. JAMES' ILLUMINATING
+CO., LTD. (SECTIONAL ELEVATION AND PLAN.)]
+
+_Maker_: THE STANDARD ACETYLENE CO., 123 VICTORIA STREET, LONDON,
+S.W.
+
+_Type_: (1) Non-automatic; carbide-to-water.
+
+This plant comprises the generator _A_, the washer _B_, the
+storage gasholder _C_, and the purifier _D_. The generator is
+first filled with water to the crown of the cover, and carbide is then
+thrown into the water by hand through the gas-tight lock, which is opened
+and closed as required by the horizontal handle _P_. A cast-iron
+grid prevents the lumps of carbide falling into the sludge in the conical
+base of the generator. At the base of the cone is a sludge-valve
+_G_. The gas passes from the generator through the pipe _H_
+into the washer _B_, and after bubbling through the water therein
+goes by way of the pipe _K_ into the gasholder _C_. The syphon-
+pot _E_ is provided for the reception of condensed moisture, which
+is removed from time to time by the pump _M_. From the gasholder the
+gas flows through the valve _R_ to the purifier _D_, whence it
+passes to the service-pipes. The purifier is charged with material
+supplied under the proprietary name of "Standard."
+
+[Illustration: FIG. 60.--CARBIDE-TO-WATER GENERATING PLANT OF THE STANDARD
+ACETYLENE CO.]
+
+(2) Automatic; water-to-carbide; contact, superposed trays.
+
+This plant comprises the generators _A_, the washer _B_, the
+equalising gasholder _C_, the purifier _D_, and the water-tank
+_E_. The carbide is arranged on a series of wire trays in each
+generator, to which water is supplied from the water-tank _E_
+through the pipe _Y_ and the control-tap _U_. The gas passes
+through the pipes _H_ to the washer _B_ and thence to the
+holder _C_. The supply of water to the generators is controlled by
+the tap _U_ which is actuated by the rise and fall of the gasholder
+bell through the rod _F_. The gas passes, as in the non-automatic
+plant, through a purifier _D_ to the service-pipes. Taps _W_
+are provided for cutting off the flow of water to either of the
+generators during recharging and an overflow pipe _h_ serves to
+convey the water to the second generator as soon as the carbide in the
+first is exhausted. A sludge-cook _G_ is put at the base of each
+generator.
+
+[Illustration: FIG. 61.--AUTOMATIC, WATER-TO-CARBIDE GENERATING PLANT OF
+THE STANDARD ACETYLENE CO.]
+
+(3) Non-automatic; water-to-carbide; contact, superposed-trays.
+
+This apparatus resembles the preceding except that the supply of water to
+the generators is controlled by hand through the taps _W_, the
+control valve _U_ being omitted, and the gasholder _C_ being a
+storage holder of sufficient dimensions to contain the whole of the
+acetylene evolved from one charging.
+
+_Maker_: THORN AND HODDLE ACETYLENE CO., 151 VICTORIA STREET, S.W.
+
+_Type_: Automatic; water-to-carbide; "drawer."
+
+The "Incanto" generating plant made by this firm consists of a rising
+bell gasholder which acts mainly on an equaliser. The fall of the bell
+depresses a ball valve immersed in the tank, and so allows water to flow
+from the tank past an outside tap, which is closed only during
+recharging, to a generating chamber. The generating chamber is horizontal
+and is fixed in the base of the tank, so that its outer case is
+surrounded by the water in the tank, with the object of keeping it cool.
+The charge of carbide is placed in a partitioned container, and is
+gradually attacked on the flooding principle by the water which enters
+from the gasholder tank when the ball valve is depressed. The gas evolved
+passes from the generating chamber by a pipe which extends above the
+level of the water in the tank, and is then bent down so that its end
+dips several inches below the level of the water. The gas issuing from
+the end of the pipe is thus washed by the water in the gasholder tank.
+From the gasholder the gas is taken off as required for use by a pipe,
+the mouth of which is just below the crown of the holder. There is a lip
+in the upper edge of the gasholder tank into which water is poured from
+time to time to replace that consumed in the generation of the gas. There
+are from one to three generating chambers in each apparatus according to
+its size. The purifier is independent, and a purifying mixture under the
+proprietary name of "Curazo" is supplied for use in it.
+
+[Illustration: FIG. 62.--"INCANTO" GENERATOR.]
+
+_Maker:_ WELDREN AND BLERIOT, 54 LONG ACRE, LONDON, W.C.
+
+_Type:_ Automatic; contact.
+
+This firm supplies the "Acetylithe" apparatus (_see_ Belgium).
+
+
+
+INDEX
+
+Absorbed acetylene,
+Acagine,
+Accidents, responsibility for,
+Acetone, effect of, on acetylene,
+  solution of acetylene in,
+Acetylene-copper,
+Acetylene-oil-gas,
+Acetylene Association (Austrian)--regulations as to carbide,
+Acetylene Association (British)--analysis of carbide,
+  generator rules,
+  pressure gauges,
+  purification rules,
+Acetylene Association (German)--analysis of carbide,
+  holders,
+  generator rules,
+  standard carbide,
+Acetylene tetrachloride, production of,
+Ackermann burner,
+Advantages of acetylene, general,
+  hygienic,
+  intrinsic,
+  pecuniary,
+"After generation,"
+Air, admission of, to burners,
+  and acetylene, ignition temperature of,
+  composition of,
+  dilution of acetylene with, before combustion,
+  effect of acetylene lighting on,
+    coal-gas lighting on,
+    on illuminating power of acetylene,
+    paraffin lighting on,
+  in acetylene,
+  in flames, effect of,
+  in generators, danger of,
+    objections to,
+  in incandescent acetylene,
+  in service-pipes,
+  proportion of, rendering acetylene explosive,
+  removing, from pipes,
+  specific gravity of,
+  sterilised by flames,
+Air-gas,
+  and acetylene, comparison between,
+  and carburetted acetylene, comparison between,
+
+Back to Full Books

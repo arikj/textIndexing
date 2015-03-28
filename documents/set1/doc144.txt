@@ -1,0 +1,2004 @@
+The 1995 CIA World Factbook
+
+ Merchant marine:
+ total: 2 ships (1,000 GRT or over) totaling 2,421 GRT/2,990 DWT
+ ships by type: cargo 1, container 1
+
+ Airports:
+ total: 46
+ with paved runways over 3,047 m: 1
+ with paved runways under 914 m: 38
+ with unpaved runways 914 to 1,523 m: 7
+
+@Suriname:Communications
+
+ Telephone system: 27,500 telephones; international facilities good
+ local: NA
+ intercity: microwave radio relay network
+ international: 2 INTELSAT (Atlantic Ocean) earth stations
+
+ Radio:
+ broadcast stations: AM 5, FM 14, shortwave 1
+ radios: NA
+
+ Television:
+ broadcast stations: 6
+ televisions: NA
+
+@Suriname:Defense Forces
+
+ Branches: National Army (includes small Navy and Air Force elements),
+ Civil Police
+
+ Manpower availability: males age 15-49 116,456; males fit for military
+ service 69,011 (1995 est.)
+
+ Defense expenditures: $NA, NA% of GDP
+
+
+________________________________________________________________________
+
+SVALBARD
+
+ (territory of Norway) 
+
+@Svalbard:Geography
+
+ Location: Northern Europe, islands between the Arctic Ocean, Barents
+ Sea, Greenland Sea, and Norwegian Sea, north of Norway
+
+ Map references: Arctic Region
+
+ Area:
+ total area: 62,049 sq km
+ land area: 62,049 sq km
+ comparative area: slightly smaller than West Virginia
+ note: includes Spitsbergen and Bjornoya (Bear Island)
+
+ Land boundaries: 0 km
+
+ Coastline: 3,587 km
+
+ Maritime claims:
+ exclusive fishing zone: 200 nm unilaterally claimed by Norway but not
+ recognized by Russia
+ territorial sea: 4 nm
+
+ International disputes: focus of maritime boundary dispute in the
+ Barents Sea between Norway and Russia
+
+ Climate: arctic, tempered by warm North Atlantic Current; cool
+ summers, cold winters; North Atlantic Current flows along west and
+ north coasts of Spitsbergen, keeping water open and navigable most of
+ the year
+
+ Terrain: wild, rugged mountains; much of high land ice covered; west
+ coast clear of ice about half the year; fjords along west and north
+ coasts
+
+ Natural resources: coal, copper, iron ore, phosphate, zinc, wildlife,
+ fish
+
+ Land use:
+ arable land: 0%
+ permanent crops: 0%
+ meadows and pastures: 0%
+ forest and woodland: 0%
+ other: 100% (no trees and the only bushes are crowberry and
+ cloudberry)
+
+ Irrigated land: NA sq km
+
+ Environment:
+ current issues: NA
+ natural hazards: ice floes often block up the entrance to Bellsund (a
+ transit point for coal export) on the west coast and occasionally make
+ parts of the northeastern coast inaccessible to maritime traffic
+ international agreements: NA
+
+ Note: northernmost part of the Kingdom of Norway; consists of nine
+ main islands; glaciers and snowfields cover 60% of the total area
+
+@Svalbard:People
+
+ Population: 2,914 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: NA
+ 15-64 years: NA
+ 65 years and over: NA
+
+ Population growth rate: -3.5% (1995 est.)
+
+ Birth rate: NA births/1,000 population
+
+ Death rate: NA deaths/1,000 population
+
+ Net migration rate: NA migrant(s)/1,000 population
+
+ Infant mortality rate: NA deaths/1,000 live births
+
+ Life expectancy at birth:
+ total population: NA years
+ male: NA years
+ female: NA years
+
+ Total fertility rate: NA children born/woman
+
+ Ethnic divisions: Russian 64%, Norwegian 35%, other 1% (1981)
+
+ Languages: Russian, Norwegian
+
+ Labor force: NA
+
+@Svalbard:Government
+
+ Names:
+ conventional long form: none
+ conventional short form: Svalbard
+
+ Digraph: SV
+
+ Type: territory of Norway administered by the Ministry of Industry,
+ Oslo, through a governor (sysselmann) residing in Longyearbyen,
+ Spitsbergen; by treaty (9 February 1920) sovereignty was given to
+ Norway
+
+ Capital: Longyearbyen
+
+ Independence: none (territory of Norway)
+
+ National holiday: NA
+
+ Legal system: NA
+
+ Executive branch:
+ Chief of State: King HARALD V (since 17 January 1991)
+ Head of Government: Governor Odd BLOMDAL (since NA); Assistant
+ Governor Jan-Atle HANSEN (since NA September 1993)
+
+ Member of: none
+
+ Flag: the flag of Norway is used
+
+@Svalbard:Economy
+
+ Overview: Coal mining is the major economic activity on Svalbard. By
+ treaty (9 February 1920), the nationals of the treaty powers have
+ equal rights to exploit mineral deposits, subject to Norwegian
+ regulation. Although US, UK, Dutch, and Swedish coal companies have
+ mined in the past, the only companies still mining are Norwegian and
+ Russian. The settlements on Svalbard are essentially company towns.
+ The Norwegian state-owned coal company employs nearly 60% of the
+ Norwegian population on the island, runs many of the local services,
+ and provides most of the local infrastructure. There is also some
+ trapping of seal, polar bear, fox, and walrus.
+
+ Budget:
+ revenues: $13.3 million
+ expenditures: $13.3 million, including capital expenditures of $NA
+ (1990 est.)
+
+ Electricity:
+ capacity: 21,000 kW
+ production: 45 million kWh
+ consumption per capita: 13,860 kWh (1992)
+
+ Currency: 1 Norwegian krone (NKr) = 100 oere
+
+ Exchange rates: Norwegian kroner (NKr) per US$1 - 6.7014 (January
+ 1995), 7.0469 (1994), 7.0941 (1993), 6.2145 (1992), 6.4829 (1991),
+ 6.2597 (1990)
+
+@Svalbard:Transportation
+
+ Railroads: 0 km
+
+ Highways:
+ total: NA
+ paved: NA
+ unpaved: NA
+
+ Ports: Barentsburg, Longyearbyen, Ny-Alesund, Pyramiden
+
+ Merchant marine: none
+
+ Airports:
+ total: 4
+ with paved runways 1,524 to 2,437 m: 1
+ with paved runways under 914 m: 3
+
+@Svalbard:Communications
+
+ Telephone system: NA telephones; local telephone service
+ local: NA
+ intercity: NA
+ international: satellite communication with Norwegian mainland
+
+ Radio:
+ broadcast stations: AM 1, FM 1 (repeaters 2), shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 1
+ televisions: NA
+
+ Note: there are 5 meteorological/radio stations
+
+@Svalbard:Defense Forces
+
+ Note: demilitarized by treaty (9 February 1920)
+
+
+________________________________________________________________________
+
+SWAZILAND
+
+@Swaziland:Geography
+
+ Location: Southern Africa, between Mozambique and South Africa
+
+ Map references: Africa
+
+ Area:
+ total area: 17,360 sq km
+ land area: 17,200 sq km
+ comparative area: slightly smaller than New Jersey
+
+ Land boundaries: total 535 km, Mozambique 105 km, South Africa 430 km
+
+ Coastline: 0 km (landlocked)
+
+ Maritime claims: none; landlocked
+
+ International disputes: Swaziland has asked South Africa to open
+ negotiations on reincorporating some nearby South African territories
+ that are populated by ethnic Swazis or that were long ago part of the
+ Swazi Kingdom
+
+ Climate: varies from tropical to near temperate
+
+ Terrain: mostly mountains and hills; some moderately sloping plains
+
+ Natural resources: asbestos, coal, clay, cassiterite, hydropower,
+ forests, small gold and diamond deposits, quarry stone, and talc
+
+ Land use:
+ arable land: 10.9%
+ permanent crops: 0.2%
+ meadows and pastures: 62.2%
+ forest and woodland: 6.9%
+ other: 19.8%
+
+ Irrigated land: 640 sq km (1993 est.)
+
+ Environment:
+ current issues: limited access to potable water; wildlife populations
+ being depleted because of excessive hunting; overgrazing; soil
+ degradation; soil erosion
+ natural hazards: NA
+ international agreements: party to - Biodiversity, Nuclear Test Ban,
+ Ozone Layer Protection; signed, but not ratified - Climate Change, Law
+ of the Sea
+
+ Note: landlocked; almost completely surrounded by South Africa
+
+@Swaziland:People
+
+ Population: 966,977 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 46% (female 222,544; male 221,003)
+ 15-64 years: 52% (female 261,973; male 238,726)
+ 65 years and over: 2% (female 13,291; male 9,440) (July 1995 est.)
+
+ Population growth rate: 3.23% (1995 est.)
+
+ Birth rate: 43.06 births/1,000 population (1995 est.)
+
+ Death rate: 10.8 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 0 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 90.7 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 56.84 years
+ male: 52.83 years
+ female: 60.96 years (1995 est.)
+
+ Total fertility rate: 6.1 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Swazi(s)
+ adjective: Swazi
+
+ Ethnic divisions: African 97%, European 3%
+
+ Religions: Christian 60%, indigenous beliefs 40%
+
+ Languages: English (official; government business conducted in
+ English), siSwati (official)
+
+ Literacy: age 15 and over can read and write (1986)
+ total population: 67%
+ male: 70%
+ female: 65%
+
+ Labor force: NA
+ by occupation: private sector about 65%, public sector 35%
+
+@Swaziland:Government
+
+ Names:
+ conventional long form: Kingdom of Swaziland
+ conventional short form: Swaziland
+
+ Digraph: WZ
+
+ Type: monarchy; independent member of Commonwealth
+
+ Capital: Mbabane (administrative); Lobamba (legislative)
+
+ Administrative divisions: 4 districts; Hhohho, Lubombo, Manzini,
+ Shiselweni
+
+ Independence: 6 September 1968 (from UK)
+
+ National holiday: Somhlolo (Independence) Day, 6 September (1968)
+
+ Constitution: none; constitution of 6 September 1968 was suspended 12
+ April 1973; a new constitution was promulgated 13 October 1978, but
+ has not been formally presented to the people
+
+ Legal system: based on South African Roman-Dutch law in statutory
+ courts, Swazi traditional law and custom in traditional courts; has
+ not accepted compulsory ICJ jurisdiction
+
+ Suffrage: none
+
+ Executive branch:
+ chief of state: King MSWATI III (since 25 April 1986)
+ head of government: Prime Minister Prince Jameson Mbilini DLAMINI
+ (since 12 November 1993)
+ cabinet: Cabinet; designated by the monarch
+
+ Legislative branch: bicameral Parliament is advisory
+ Senate: consists of 30 members (10 appointed by the House of Assembly
+ and 20 appointed by the king)
+ House of Assembly: elections last held NA October 1993 (next to be
+ held NA); results - NA; seats - (65 total, 55 directly elected, 10
+ appointed by the king) - balloting held on a non-party basis
+
+ Judicial branch: High Court, Court of Appeal
+
+ Political parties and leaders:
+ note: political parties are banned by the Constitution promulgated on
+ 13 October 1978; illegal parties are prohibited from holding large
+ public gatherings
+ illegal parties: Peoples' United Democratic Movement (PUDEMO), Kilson
+ SHONOWE; Swaziland Youth Congress (SWAYCO), Benedict TSABEDZE;
+ Swaziland Communist Party (SWACOPA), Mphandlana SHONGWE
+
+ Member of: ACP, AfDB, C, CCC, ECA, FAO, G-77, GATT, IBRD, ICAO, ICFTU,
+ ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, INTELSAT, INTERPOL, IOC, ITU,
+ NAM, OAU, PCA, SACU, SADC, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO,
+ WMO
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Madzandza Mary KHANYA
+ chancery: 3400 International Drive NW, Washington, DC 20008
+ telephone: [1] (202) 362-6683, 6685
+ FAX: [1] (202) 244-8059
+
+ US diplomatic representation:
+ chief of mission: Ambassador John T. SPROTT
+ embassy: Central Bank Building, Warner Street, Mbabane
+ mailing address: P. O. Box 199, Mbabane
+ telephone: [268] 46441 through 46445
+ FAX: [268] 45959
+
+ Flag: three horizontal bands of blue (top), red (triple width), and
+ blue; the red band is edged in yellow; centered in the red band is a
+ large black and white shield covering two spears and a staff decorated
+ with feather tassels, all placed horizontally
+
+@Swaziland:Economy
+
+ Overview: The economy is based on subsistence agriculture, which
+ occupies more than 60% of the population and contributes nearly 25% to
+ GDP. Manufacturing, which includes a number of agroprocessing
+ factories, accounts for another quarter of GDP. Mining has declined in
+ importance in recent years; high-grade iron ore deposits were depleted
+ by 1978, and health concerns cut world demand for asbestos. Exports of
+ sugar and forestry products are the main earners of hard currency.
+ Surrounded by South Africa, except for a short border with Mozambique,
+ Swaziland is heavily dependent on South Africa, from which it receives
+ 90% of its imports and to which it sends about half of its exports.
+ Remittances from Swazi workers in South African mines may supplement
+ domestically produced income by as much as 20%.
+
+ National product: GDP - purchasing power parity - $3.3 billion (1994
+ est.)
+
+ National product real growth rate: 4.5% (1994 est.)
+
+ National product per capita: $3,490 (1994 est.)
+
+ Inflation rate (consumer prices): 11.3% (1993 est.)
+
+ Unemployment rate: 15% (1992 est.)
+
+ Budget:
+ revenues: $342 million
+ expenditures: $410 million, including capital expenditures of $130
+ million (1994 est.)
+
+ Exports: $632 million (f.o.b., 1993 est.)
+ commodities: sugar, edible concentrates, wood pulp, cotton yarn,
+ asbestos
+ partners: South Africa 50% (est.), EC countries, Canada
+
+ Imports: $734 million (f.o.b., 1993 est.)
+ commodities: motor vehicles, machinery, transport equipment, petroleum
+ products, foodstuffs, chemicals
+ partners: South Africa 90% (est.), Switzerland, UK
+
+ External debt: $240 million (1992)
+
+ Industrial production: growth rate 4.2% (1993 est.)
+
+ Electricity:
+ capacity: 120,000 kW
+ production: 410 million kWh
+ consumption per capita: 1,003 kWh (1993)
+
+ Industries: mining (coal and asbestos), wood pulp, sugar
+
+ Agriculture: accounts for over 60% of labor force; mostly subsistence
+ agriculture; cash crops - sugarcane, cotton, maize, tobacco, rice,
+ citrus fruit, pineapples; other crops and livestock - corn, sorghum,
+ peanuts, cattle, goats, sheep; not self-sufficient in grain
+
+ Economic aid:
+ recipient: bilateral aid (1991) $35 million of which US disbursements
+ $12 million, UK disbursements $6 million, and Denmark $2 million;
+ multilateral aid (1991) $24 million of which EC disbursements $8
+ million
+
+ Currency: 1 lilangeni (E) = 100 cents
+
+ Exchange rates: emalangeni (E) per US$1 -3.5389 (January 1995), 3.5490
+ (1994), 3.2636 (1993), 2.8497 (1992), 2.7563 (1991), 2.5863 (1990);
+ note - the Swazi emalangeni is at par with the South African rand
+
+ Fiscal year: 1 April - 31 March
+
+@Swaziland:Transportation
+
+ Railroads:
+ total: 297 km; note - includes 71 km which are not in use
+ narrow gauge: 297 km 1.067-m gauge (single track)
+
+ Highways:
+ total: 2,853 km
+ paved: 510 km
+ unpaved: crushed stone, gravel, stabilized earth 1,230 km; improved
+ earth 1,113 km
+
+ Ports: none
+
+ Airports:
+ total: 18
+ with paved runways 2,438 to 3,047 m: 1
+ with paved runways under 914 m: 9
+ with unpaved runways 914 to 1,523 m: 8
+
+@Swaziland:Communications
+
+ Telephone system: 17,000 telephones; telephone density is only 17.6
+ telephones/1,000 persons
+ local: NA
+ intercity: system consists of carrier-equipped open-wire lines and
+ low-capacity radio relay microwave links
+ international: 1 INTELSAT (Atlantic Ocean) earth station
+
+ Radio:
+ broadcast stations: AM 7, FM 6, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 10
+ televisions: NA
+
+@Swaziland:Defense Forces
+
+ Branches: Umbutfo Swaziland Defense Force (Army), Royal Swaziland
+ Police Force
+
+ Manpower availability: males age 15-49 212,239; males fit for military
+ service 122,782 (1995 est.)
+
+ Defense expenditures: exchange rate conversion - $22 million, NA% of
+ GDP (FY93/94)
+
+
+________________________________________________________________________
+
+SWEDEN
+
+@Sweden:Geography
+
+ Location: Northern Europe, bordering the Baltic Sea, Gulf of Bothnia,
+ and Skagerrak, between Finland and Norway
+
+ Map references: Europe
+
+ Area:
+ total area: 449,964 sq km
+ land area: 410,928 sq km
+ comparative area: slightly smaller than California
+
+ Land boundaries: total 2,205 km, Finland 586 km, Norway 1,619 km
+
+ Coastline: 3,218 km
+
+ Maritime claims:
+ continental shelf: 200-m depth or to the depth of exploitation
+ exclusive economic zone: agreed boundaries or midlines
+ territorial sea: 12 nm
+
+ International disputes: none
+
+ Climate: temperate in south with cold, cloudy winters and cool, partly
+ cloudy summers; subarctic in north
+
+ Terrain: mostly flat or gently rolling lowlands; mountains in west
+
+ Natural resources: zinc, iron ore, lead, copper, silver, timber,
+ uranium, hydropower potential
+
+ Land use:
+ arable land: 7%
+ permanent crops: 0%
+ meadows and pastures: 2%
+ forest and woodland: 64%
+ other: 27%
+
+ Irrigated land: 1,120 sq km (1989 est.)
+
+ Environment:
+ current issues: acid rain damaging soils and lakes; pollution of the
+ North Sea and the Baltic Sea
+ natural hazards: ice floes in the surrounding waters, especially in
+ the Gulf of Bothnia, can interfere with maritime traffic
+ international agreements: party to - Air Pollution, Air
+ Pollution-Nitrogen Oxides, Air Pollution-Sulphur 85, Air
+ Pollution-Volatile Organic Compounds, Antarctic-Environmental
+ Protocol, Antarctic Treaty, Biodiversity, Climate Change, Endangered
+ Species, Environmental Modification, Hazardous Wastes, Marine Dumping,
+ Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical
+ Timber 83, Wetlands, Whaling; signed, but not ratified - Air
+ Pollution-Sulphur 94, Desertification, Law of the Sea
+
+ Note: strategic location along Danish Straits linking Baltic and North
+ Seas
+
+@Sweden:People
+
+ Population: 8,821,759 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 19% (female 810,859; male 854,553)
+ 15-64 years: 64% (female 2,761,060; male 2,856,012)
+ 65 years and over: 17% (female 887,597; male 651,678) (July 1995 est.)
+
+ Population growth rate: 0.46% (1995 est.)
+
+ Birth rate: 13.19 births/1,000 population (1995 est.)
+
+ Death rate: 10.84 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 2.27 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 5.6 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 78.43 years
+ male: 75.64 years
+ female: 81.39 years (1995 est.)
+
+ Total fertility rate: 1.97 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Swede(s)
+ adjective: Swedish
+
+ Ethnic divisions: white, Lapp (Sami), foreign born or first-generation
+ immigrants 12% (Finns, Yugoslavs, Danes, Norwegians, Greeks, Turks)
+
+ Religions: Evangelical Lutheran 94%, Roman Catholic 1.5%, Pentecostal
+ 1%, other 3.5% (1987)
+
+ Languages: Swedish
+ note: small Lapp- and Finnish-speaking minorities; immigrants speak
+ native languages
+
+ Literacy: age 15 and over can read and write (1991 est.)
+ total population: 99%
+
+ Labor force: 4.552 million (84% unionized,1992)
+ by occupation: community, social and personal services 38.3%, mining
+ and manufacturing 21.2%, commerce, hotels, and restaurants 14.1%,
+ banking, insurance 9.0%, communications 7.2%, construction 7.0%,
+ agriculture, fishing, and forestry 3.2% (1991)
+
+@Sweden:Government
+
+ Names:
+ conventional long form: Kingdom of Sweden
+ conventional short form: Sweden
+ local long form: Konungariket Sverige
+ local short form: Sverige
+
+ Digraph: SW
+
+ Type: constitutional monarchy
+
+ Capital: Stockholm
+
+ Administrative divisions: 24 provinces (lan, singular and plural);
+ Alvsborgs Lan, Blekinge Lan, Gavleborgs Lan, Goteborgs och Bohus Lan,
+ Gotlands Lan, Hallands Lan, Jamtlands Lan, Jonkopings Lan, Kalmar Lan,
+ Kopparbergs Lan, Kristianstads Lan, Kronobergs Lan, Malmohus Lan,
+ Norrbottens Lan, Orebro Lan, Ostergotlands Lan, Skaraborgs Lan,
+ Sodermanlands Lan, Stockholms Lan, Uppsala Lan, Varmlands Lan,
+ Vasterbottens Lan, Vasternorrlands Lan, Vastmanlands Lan
+
+ Independence: 6 June 1809 (constitutional monarchy established)
+
+ National holiday: Day of the Swedish Flag, 6 June
+
+ Constitution: 1 January 1975
+
+ Legal system: civil law system influenced by customary law; accepts
+ compulsory ICJ jurisdiction, with reservations
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch:
+ chief of state: King CARL XVI GUSTAF (since 19 September 1973); Heir
+ Apparent Princess VICTORIA Ingrid Alice Desiree, daughter of the King
+ (born 14 July 1977)
+ head of government: Prime Minister Ingvar CARLSSON (since 6 October
+ 1994); Deputy Prime Minister Mona SAHLIN (since 6 October 1994)
+ cabinet: Cabinet; appointed by the prime minister
+
+ Legislative branch: unicameral
+ Parliament (Riksdag): elections last held 18 September 1994 (next to
+ be held NA September 1998); results - Social Democrats 45.4%, Moderate
+ Party (Conservatives) 22.3%, Center Party 7.7%, Liberals 7.2%, Left
+ Party 6.2%, Greens 5.8%, Christian Democrats 4.1%, New Democracy Party
+ 1.2%; seats - (349 total) Social Democrats 162, Moderate Party
+ (Conservatives) 80, Center Party 27, Liberals 26, Left Party 22,
+ Greens 18, Christian Democrats 14; note - the New Democracy Party did
+ not receive a seat because parties require a minimum of 4.8% of votes
+ for a seat in parliament
+
+ Judicial branch: Supreme Court (Hogsta Domstolen)
+
+ Political parties and leaders: Social Democratic Party, Ingvar
+ CARLSSON; Moderate Party (conservative), Carl BILDT; Liberal People's
+ Party, Maria LEISSNER; Center Party, Olof JOHANSSON; Christian
+ Democratic Party, Alf SVENSSON; New Democracy Party, Vivianne FRANZEN;
+ Left Party (VP; Communist), Gudrun SCHYMAN; Communist Workers' Party,
+ Rolf HAGEL; Green Party, no formal leader but party spokesperson is
+ Birger SHLAUG
+
+ Member of: AfDB, AG (observer), AsDB, Australia Group, BIS, CBSS, CCC,
+ CE, CERN, EBRD, ECE, EFTA, ESA, EU, FAO, G- 6, G- 8, G- 9, G-10, GATT,
+ IADB, IAEA, IBRD, ICAO, ICC, ICFTU, ICRM, IDA, IEA, IFAD, IFC, IFRCS,
+ ILO, IMF, IMO, INMARSAT, INTELSAT, INTERPOL, IOC, IOM, ISO, ITU, MTCR,
+ NAM (guest), NC, NEA, NIB, NSG, OECD, ONUSAL, OSCE, PCA, PFP, UN,
+ UNAVEM II, UNCTAD, UNESCO, UNHCR, UNIDO, UNIKOM, UNITAR, UNMOGIP,
+ UNOMIG, UNOMOZ, UNPROFOR, UNTSO, UPU, WFTU, WHO, WIPO, WMO, ZC
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Carl Henrik Sihver LILJEGREN
+ chancery: 1501 M Street NW, Washington, DC 20005
+ telephone: [1] (202) 467-2600
+ FAX: [1] (202) 467-2699
+ consulate(s) general: Los Angeles and New York
+
+ US diplomatic representation:
+ chief of mission: Ambassador Thomas L. SIEBERT
+ embassy: Strandvagen 101, S-115 89 Stockholm
+ mailing address: use embassy street address
+ telephone: [46] (8) 783 53 00
+ FAX: [46] (8) 661 19 64
+
+ Flag: blue with a yellow cross that extends to the edges of the flag;
+ the vertical part of the cross is shifted to the hoist side in the
+ style of the Dannebrog (Danish flag)
+
+@Sweden:Economy
+
+ Overview: Aided by a long period of peace and neutrality during World
+ War I through World War II, Sweden has achieved an enviable standard
+ of living under a mixed system of high-tech capitalism and extensive
+ welfare benefits. It has a modern distribution system, excellent
+ internal and external communications, and a skilled labor force.
+ Timber, hydropower, and iron ore constitute the resource base of an
+ economy that is heavily oriented toward foreign trade. Privately owned
+ firms account for about 90% of industrial output, of which the
+ engineering sector accounts for 50% of output and exports. In 1990,
+ agriculture accounted for only 1.2% of GDP and 1.9% of the jobs,
+ Sweden being about 50% sufficient in most products. In the last few
+ years, however, this extraordinarily favorable picture has been
+ clouded by inflation, growing unemployment, and a gradual loss of
+ competitiveness in international markets. Although Prime Minister
+ BILDT's center-right minority coalition had hoped to charge ahead with
+ free-market-oriented reforms, a skyrocketing budget deficit - about
+ 14% of GDP in FY93/94 projections - and record unemployment have
+ forestalled many of the plans. Unemployment in 1994 is estimated at
+ around 9% with another 5% in job training. Continued heavy foreign
+ exchange speculation forced the government to cooperate in late 1992
+ with the opposition Social Democrats on two crisis packages - one a
+ severe austerity pact and the other a program to spur industrial
+ competitiveness - which basically set economic policy through 1997. In
+ November 1992, Sweden broke its tie to the EC's ECU, and the krona has
+ since depreciated about 25% against the dollar. The boost in export
+ competitiveness from the depreciation helped lift Sweden out of its
+ 3-year recession. To curb the budget deficit and bolster confidence in
+ the economy, the new Social Democratic government is proposing cuts in
+ welfare benefits, subsidies, defense, and foreign aid. Sweden has
+ harmonized its economic policies with those of the EU, which it joined
+ at the start of 1995.
+
+ National product: GDP - purchasing power parity - $163.1 billion (1994
+ est.)
+
+ National product real growth rate: 2.4% (1994 est.)
+
+ National product per capita: $18,580 (1994 est.)
+
+ Inflation rate (consumer prices): 2.5% (1994 est.)
+
+ Unemployment rate: 8.8% (1994 est.)
+
+ Budget:
+ revenues: $47.9 billion
+ expenditures: $70.9 billion, including capital expenditures of $NA
+ (FY93/94)
+
+ Exports: $59.9 billion (f.o.b., 1994)
+ commodities: machinery, motor vehicles, paper products, pulp and wood,
+ iron and steel products, chemicals, petroleum and petroleum products
+ partners: EC 55.8% (Germany 15%, UK 9.7%, Denmark 7.2%, France 5.8%),
+ EFTA 17.4% (Norway 8.4%, Finland 5.1%), US 8.2%, Central and Eastern
+ Europe 2.5% (1992)
+
+ Imports: $49.6 billion (c.i.f., 1994)
+ commodities: machinery, petroleum and petroleum products, chemicals,
+ motor vehicles, foodstuffs, iron and steel, clothing
+ partners: EC 53.6% (Germany 17.9%, UK 6.3%, Denmark 7.5%, France
+ 4.9%), EFTA (Norway 6.6%, Finland 6%), US 8.4%, Central and Eastern
+ Europe 3% (1992)
+
+ External debt: $NA
+
+ Industrial production: growth rate 9% (1994)
+
+ Electricity:
+ capacity: 34,560,000 kW
+ production: 141 billion kWh
+ consumption per capita: 14,891 kWh (1993)
+
+ Industries: iron and steel, precision equipment (bearings, radio and
+ telephone parts, armaments), wood pulp and paper products, processed
+ foods, motor vehicles
+
+ Agriculture: animal husbandry predominates, with milk and dairy
+ products accounting for 37% of farm income; main crops - grains, sugar
+ beets, potatoes; 100% self-sufficient in grains and potatoes; Sweden
+ is about 50% self-sufficient in most products
+
+ Illicit drugs: transshipment point for narcotics shipped via the CIS
+ and Baltic states for the European market
+
+ Economic aid:
+ donor: ODA and OOF commitments (1970-89), $10.3 billion
+
+ Currency: 1 Swedish krona (SKr) = 100 oere
+
+ Exchange rates: Swedish kronor (SKr) per US$1 - 7.4675 (January 1995),
+ 7.7160 (1994), 7.7834 (1993), 5.8238 (1992), 6.0475 (1991) 5.9188
+ (1990)
+
+ Fiscal year: 1 July - 30 June
+
+@Sweden:Transportation
+
+ Railroads:
+ total: 12,000 km (includes 953 km of privately owned railways)
+ standard gauge: 10,742 km 1.435-m gauge (7,502 km electrified and
+ 1,152 km double track); 8 km 1.435-m gauge (electrified; privately
+ owned)
+ narrow gauge: 61 km 0.891-m gauge (electrified; privately owned)
+ other: 1,189 km NA-m gauge (1994)
+
+ Highways:
+ total: 135,859 km
+ paved: 97,818 km (including 936 km of expressways)
+ unpaved: gravel 38,041 km (1991)
+
+ Inland waterways: 2,052 km navigable for small steamers and barges
+
+ Pipelines: natural gas 84 km
+
+ Ports: Gavle, Goteborg, Halmstad, Helsingborg, Hudiksvall, Kalmar,
+ Karlshamn, Malmo, Solvesborg, Stockholm, Sundsvall
+
+ Merchant marine:
+ total: 157 ships (1,000 GRT or over) totaling 1,872,350 GRT/2,075,722
+ DWT
+ ships by type: bulk 10, cargo 24, chemical tanker 25, combination
+ ore/oil 1, container 2, oil tanker 31, railcar carrier 2, refrigerated
+ cargo 1, roll-on/roll-off cargo 37, short-sea passenger 8, specialized
+ tanker 4, vehicle carrier 12
+
+ Airports:
+ total: 253
+ with paved runways over 3,047 m: 2
+ with paved runways 2,438 to 3,047 m: 8
+ with paved runways 1,524 to 2,437 m: 84
+ with paved runways 914 to 1,523 m: 26
+ with paved runways under 914 m: 129
+ with unpaved runways 914 to 1,523 m: 4
+
+@Sweden:Communications
+
+ Telephone system: 8,200,000 telephones; excellent domestic and
+ international facilities; automatic system
+ local: NA
+ intercity: coaxial and multiconductor cable carry most voice traffic;
+ parallel microwave network carries TV, radio, and some additional
+ telephone channels
+ international: 5 submarine coaxial cables; 1 INTELSAT (Atlantic Ocean)
+ and 1 EUTELSAT earth station
+
+ Radio:
+ broadcast stations: AM 5, FM 360 (mostly repeaters), shortwave 0
+ radios: 7 million
+
+ Television:
+ broadcast stations: 880 (mostly repeaters)
+ televisions: 3.5 million
+
+@Sweden:Defense Forces
+
+ Branches: Swedish Army, Royal Swedish Navy, Swedish Air Force
+
+ Manpower availability: males age 15-49 2,133,420; males fit for
+ military service 1,864,258; males reach military age (19) annually
+ 52,937 (1995 est.)
+
+ Defense expenditures: exchange rate conversion - $5.4 billion, 2.4% of
+ GDP (FY94/95)
+
+
+________________________________________________________________________
+
+SWITZERLAND
+
+@Switzerland:Geography
+
+ Location: Central Europe, east of France
+
+ Map references: Europe
+
+ Area:
+ total area: 41,290 sq km
+ land area: 39,770 sq km
+ comparative area: slightly more than twice the size of New Jersey
+
+ Land boundaries: total 1,852 km, Austria 164 km, France 573 km, Italy
+ 740 km, Liechtenstein 41 km, Germany 334 km
+
+ Coastline: 0 km (landlocked)
+
+ Maritime claims: none; landlocked
+
+ International disputes: none
+
+ Climate: temperate, but varies with altitude; cold, cloudy,
+ rainy/snowy winters; cool to warm, cloudy, humid summers with
+ occasional showers
+
+ Terrain: mostly mountains (Alps in south, Jura in northwest) with a
+ central plateau of rolling hills, plains, and large lakes
+
+ Natural resources: hydropower potential, timber, salt
+
+ Land use:
+ arable land: 10%
+ permanent crops: 1%
+ meadows and pastures: 40%
+ forest and woodland: 26%
+ other: 23%
+
+ Irrigated land: 250 sq km (1989)
+
+ Environment:
+ current issues: air pollution from vehicle emissions and open air
+ burning; acid rain; water pollution from increased use of agricultural
+ fertilizers; loss of biodiversity
+ natural hazards: avalanches, landslides, flash floods
+ international agreements: party to - Air Pollution, Air
+ Pollution-Nitrogen Oxides, Air Pollution-Sulphur 85, Air
+ Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity,
+ Climate Change, Endangered Species, Environmental Modification,
+ Hazardous Wastes, Marine Dumping, Marine Life Conservation, Nuclear
+ Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 83,
+ Wetlands, Whaling; signed, but not ratified - Air Pollution-Sulphur
+ 94, Antarctic-Environmental Protocol, Desertification, Law of the Sea
+
+ Note: landlocked; crossroads of northern and southern Europe; along
+ with southeastern France and northern Italy, contains the highest
+ elevations in Europe
+
+@Switzerland:People
+
+ Population: 7,084,984 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 17% (female 594,565; male 622,436)
+ 15-64 years: 68% (female 2,375,792; male 2,448,213)
+ 65 years and over: 15% (female 623,136; male 420,842) (July 1995 est.)
+
+ Population growth rate: 0.57% (1995 est.)
+
+ Birth rate: 12.04 births/1,000 population (1995 est.)
+
+ Death rate: 9.16 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 2.82 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 6.3 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 78.36 years
+ male: 74.99 years
+ female: 81.88 years (1995 est.)
+
+ Total fertility rate: 1.6 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Swiss (singular and plural)
+ adjective: Swiss
+
+ Ethnic divisions:
+ total population: German 65%, French 18%, Italian 10%, Romansch 1%,
+ other 6%
+ Swiss nationals: German 74%, French 20%, Italian 4%, Romansch 1%,
+ other 1%
+
+ Religions: Roman Catholic 47.6%, Protestant 44.3%, other 8.1% (1980)
+
+ Languages: German 65%, French 18%, Italian 12%, Romansch 1%, other 4%
+ note: figures for Swiss nationals only - German 74%, French 20%,
+ Italian 4%, Romansch 1%, other 1%
+
+ Literacy: age 15 and over can read and write (1980 est.)
+ total population: 99%
+
+ Labor force: 3.48 million (900,000 foreign workers, mostly Italian)
+ by occupation: services 50%, industry and crafts 34%, government 10%,
+ agriculture and forestry 6% (1992)
+
+@Switzerland:Government
+
+ Names:
+ conventional long form: Swiss Confederation
+ conventional short form: Switzerland
+ local long form: Schweizerische Eidgenossenschaft (German)
+ Confederation Suisse (French) Confederazione Svizzera (Italian)
+ local short form: Schweiz (German) Suisse (French) Svizzera (Italian)
+
+ Digraph: SZ
+
+ Type: federal republic
+
+ Capital: Bern
+
+ Administrative divisions: 26 cantons (cantons, singular - canton in
+ French; cantoni, singular - cantone in Italian; kantone, singular -
+ kanton in German); Aargau, Ausser-Rhoden, Basel-Landschaft,
+ Basel-Stadt, Bern, Fribourg, Geneve, Glarus, Graubunden, Inner-Rhoden,
+ Jura, Luzern, Neuchatel, Nidwalden, Obwalden, Sankt Gallen,
+ Schaffhausen, Schwyz, Solothurn, Thurgau, Ticino, Uri, Valais, Vaud,
+ Zug, Zurich
+
+ Independence: 1 August 1291
+
+ National holiday: Anniversary of the Founding of the Swiss
+ Confederation, 1 August (1291)
+
+ Constitution: 29 May 1874
+
+ Legal system: civil law system influenced by customary law; judicial
+ review of legislative acts, except with respect to federal decrees of
+ general obligatory character; accepts compulsory ICJ jurisdiction,
+ with reservations
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch:
+ chief of state and head of government: President Kaspar VILLIGER (1995
+ calendar year; presidency rotates annually); Vice President
+ Jean-Pascal DELAMURAZ (term runs concurrently with that of president)
+ cabinet: Federal Council (German - Bundesrat, French - Censeil
+ Federal, Italian - Consiglio Federale); elected by the Federal
+ Assembly from own members
+
+ Legislative branch: bicameral Federal Assembly (German -
+ Bundesversammlung, French - Assemblee Federale, Italian - Assemblea
+ Federale)
+ Council of States: German - Standerat, French - Conseil des Etats,
+ Italian - Consiglio degli Stati; elections last held throughout 1991
+ (next to be held NA 1995); results - percent of vote by party NA;
+ seats - (46 total) FDP 18, CVP 16, SVP 4, SPS 3, LPS 3, LdU 1, Ticino
+ League 1
+ National Council: German - Nationalrat, French - Conseil National,
+ Italian - Consiglio Nazionale; elections last held 20 October 1991
+ (next to be held NA October 1995); results - percent of vote by party
+ NA; seats - (200 total) FDP 44, SPS 42, CVP 37, SVP 25, GPS 14, LPS
+ 10, AP 8, LdU 6, SD 5, EVP 3, PdA 2, Ticino League 2, other 2
+
+ Judicial branch: Federal Supreme Court
+
+ Political parties and leaders: Free Democratic Party (FDP), Franz
+ STEINEGGER, president; Social Democratic Party (SPS), Peter BODENMANN,
+ president; Christian Democratic People's Party (CVP), Anton COTTIER,
+ president; Swiss People's Party (SVP), Hans UHLMANN, president; Green
+ Party (GPS), Verena DIENER, president; Freedom Party (FPS), Roland
+ BORER, president; Liberal Party (LPS), Christoph EYMANN, president;
+ Alliance of Independents' Party (LdU), Monica WEBER, president; Ticino
+ League, Giuliano BIGNASCA, president; and other minor parties
+ including the Automobile Party (AP), Swiss Democratic Party (SD),
+ Workers' Party (PdA), and the Evangelical People's Party (EVP); note -
+ see elections
+
+ Member of: AfDB, AG (observer), AsDB, Australia Group, BIS, CCC, CE,
+ CERN, EBRD, ECE, EFTA, ESA, FAO, G- 8, G-10, GATT, IADB, IAEA, IBRD,
+ ICAO, ICC, ICFTU, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO,
+ INMARSAT, INTELSAT, INTERPOL, IOC, IOM, ISO, ITU, MINURSO, MTCR, NAM
+ (guest), NEA, NSG, OAS (observer), OECD, OSCE, PCA, UN (observer),
+ UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMIH, UNOMIG, UNPROFOR, UNTSO,
+ UNU, UPU, WCL, WHO, WIPO, WMO, WTO, ZC
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Carlo JAGMETTI
+ chancery: 2900 Cathedral Avenue NW, Washington, DC 20008
+ telephone: [1] (202) 745-7900
+ FAX: [1] (202) 387-2564
+ consulate(s) general: Atlanta, Chicago, Houston, Los Angeles, New
+ York, Pago Pago (American Samoa), and San Francisco
+
+ US diplomatic representation:
+ chief of mission: Ambassador M. Larry LAWRENCE
+ embassy: Jubilaeumstrasse 93, 3005 Bern
+ mailing address: use embassy street address
+ telephone: [41] (31) 357 70 11
+ FAX: [41] (31) 357 73 44
+ branch office: Geneva
+ consulate(s) general: Zurich
+
+ Flag: red square with a bold, equilateral white cross in the center
+ that does not extend to the edges of the flag
+
+@Switzerland:Economy
+
+ Overview: Switzerland's economy - one of the most prosperous and
+ stable in the world - is nonetheless undergoing a stressful adjustment
+ after both the inflationary boom of the late 1980s and the
+ electorate's rejection of membership in the European Economic Area
+ (EEA) in 1992. So far the decision to remain outside the European
+ single market structure does not appear to have harmed Swiss
+ interests. In December 1994, the Swiss began bilateral negotiations
+ with the EU aimed at establishing closer ties in areas of mutual
+ interest and progressing toward the free circulation of persons,
+ goods, capital, and services between the two parties. The Swiss
+ emerged from a three-year recession in mid-1993 and posted 1.8% GDP
+ growth in 1994. The Swiss central bank's tight monetary policies
+ brought inflation down from about 4% in 1992 to just under 1% in 1994.
+ Unemployment has fallen slightly from 5.1% in 1993 to 4.7% in 1994.
+ Swiss per capita output, living standards, education, and health care
+ remain unsurpassed in Europe. The country has few mineral resources,
+ but its spectacular natural beauty sustains a substantial tourism
+ industry.
+
+ National product: GDP - purchasing power parity - $148.4 billion (1994
+ est.)
+
+ National product real growth rate: 1.8% (1994 est.)
+
+ National product per capita: $22,080 (1994 est.)
+
+ Inflation rate (consumer prices): 0.9% (1994 est.)
+
+ Unemployment rate: 4.7% (1994 est.)
+
+ Budget:
+ revenues: $26.7 billion
+ expenditures: $32 billion, including capital expenditures of $NA (1994
+ est.)
+
+ Exports: $69.6 billion (f.o.b., 1994 est.)
+ commodities: machinery and equipment, precision instruments, metal
+ products, foodstuffs, textiles and clothing
+ partners: Western Europe 63.1% (EU countries 56%, other 7.1%), US
+ 8.8%, Japan 3.4%
+
+ Imports: $68.2 billion (c.i.f., 1994 est.)
+ commodities: agricultural products, machinery and transportation
+ equipment, chemicals, textiles, construction materials
+ partners: Western Europe 79.2% (EU countries 72.3%, other 6.9%), US
+ 6.4%
+
+ External debt: $NA
+
+ Industrial production: growth rate 0% (1993 est.)
+
+ Electricity:
+ capacity: 15,430,000 kW
+ production: 58 billion kWh
+ consumption per capita: 6,699 kWh (1993)
+
+ Industries: machinery, chemicals, watches, textiles, precision
+ instruments
+
+ Agriculture: dairy farming predominates; less than 50% self-sufficient
+ in food; must import fish, refined sugar, fats and oils (other than
+ butter), grains, eggs, fruits, vegetables, meat
+
+ Illicit drugs: money-laundering center
+
+ Economic aid:
+ donor: ODA and OOF commitments (1970-89), $3.5 billion
+
+ Currency: 1 Swiss franc, franken, or franco (SwF) = 100 centimes,
+ rappen, or centesimi
+
+ Exchange rates: Swiss francs, franken, or franchi (SwF) per US$1 -
+ 1.2880 (January 1995), 1.3677 (1994), 1.4776 (1993), 1.4062 (1992),
+ 1.4340 (1991), 1.3892 (1990)
+
+ Fiscal year: calendar year
+
+@Switzerland:Transportation
+
+ Railroads:
+ total: 5,763 km (1,432 km double track)
+ standard gauge: 3,533 km 1.435-m gauge (99% electrified; 560 km
+ nongovernment owned)
+ narrow gauge: 1,094 km 1.000-m gauge (99% electrified; 1,020 km
+ nongovernment owned)
+ other: 1,136 km NA-m gauge (1994)
+
+ Highways:
+ total: 71,118 km
+ paved: 71,118 km (including 1,514 km of expressways)
+
+ Inland waterways: 65 km; Rhine (Basel to Rheinfelden, Schaffhausen to
+ Bodensee); 12 navigable lakes
+
+ Pipelines: crude oil 314 km; natural gas 1,506 km
+
+ Ports: Basel
+
+ Merchant marine:
+ total: 22 ships (1,000 GRT or over) totaling 374,935 GRT/669,353 DWT
+ ships by type: bulk 12, cargo 2, chemical tanker 4, oil tanker 2,
+ roll-on/roll-off cargo 1, specialized tanker 1
+
+ Airports:
+ total: 69
+ with paved runways over 3,047 m: 4
+ with paved runways 2,438 to 3,047 m: 3
+ with paved runways 1,524 to 2,437 m: 14
+ with paved runways 914 to 1,523 m: 5
+ with paved runways under 914 m: 42
+ with unpaved runways 914 to 1,523 m: 1
+
+@Switzerland:Communications
+
+ Telephone system: 5,890,000 telephones; excellent domestic,
+ international, and broadcast services
+ local: NA
+ intercity: extensive cable and microwave networks
+ international: 2 INTELSAT (Atlantic Ocean and Indian Ocean) earth
+ stations
+
+ Radio:
+ broadcast stations: AM 7, FM 265, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 18 (repeaters 1,322)
+ televisions: NA
+
+@Switzerland:Defense Forces
+
+ Branches: Army, Air Force and Antiaircraft Command
+
+ Manpower availability: males age 15-49 1,847,639; males fit for
+ military service 1,582,335; males reach military age (20) annually
+ 41,831 (1995 est.)
+
+ Defense expenditures: exchange rate conversion - $4.1 billion, 1.4% of
+ GDP (1995)
+
+
+________________________________________________________________________
+
+SYRIA
+
+@Syria:Geography
+
+ Location: Middle East, bordering the Mediterranean Sea, between
+ Lebanon and Turkey
+
+ Map references: Middle East
+
+ Area:
+ total area: 185,180 sq km
+ land area: 184,050 sq km
+ comparative area: slightly larger than North Dakota
+ note: includes 1,295 sq km of Israeli-occupied territory
+
+ Land boundaries: total 2,253 km, Iraq 605 km, Israel 76 km, Jordan 375
+ km, Lebanon 375 km, Turkey 822 km
+
+ Coastline: 193 km
+
+ Maritime claims:
+ contiguous zone: 41 nm
+ territorial sea: 35 nm
+
+ International disputes: separated from Israel by the 1949 Armistice
+ Line; Golan Heights is Israeli occupied; Hatay question with Turkey;
+ ongoing dispute over water development plans by Turkey for the Tigris
+ and Euphrates Rivers; Syrian troops in northern Lebanon since October
+ 1976
+
+ Climate: mostly desert; hot, dry, sunny summers (June to August) and
+ mild, rainy winters (December to February) along coast; cold weather
+ with snow or sleet periodically hits Damascus
+
+ Terrain: primarily semiarid and desert plateau; narrow coastal plain;
+ mountains in west
+
+ Natural resources: petroleum, phosphates, chrome and manganese ores,
+ asphalt, iron ore, rock salt, marble, gypsum
+
+ Land use:
+ arable land: 28%
+ permanent crops: 3%
+ meadows and pastures: 46%
+ forest and woodland: 3%
+ other: 20%
+
+ Irrigated land: 10,000 sq km (1992)
+
+ Environment:
+ current issues: deforestation; overgrazing; soil erosion;
+ desertification; water pollution from dumping of raw sewage and wastes
+ from petroleum refining; inadequate supplies of potable water
+ natural hazards: dust storms, sandstorms
+ international agreements: party to - Hazardous Wastes, Nuclear Test
+ Ban, Ozone Layer Protection, Ship Pollution; signed, but not ratified
+ - Biodiversity, Desertification, Environmental Modification
+
+ Note: there are 42 Jewish settlements and civilian land use sites in
+ the Israeli-occupied Golan Heights (August 1994 est.)
+
+@Syria:People
+
+ Population: 15,451,917 (July 1995 est.)
+ note: in addition, there are 31,000 people living in the
+ Israeli-occupied Golan Heights - 16,500 Arabs (15,000 Druze and 1,500
+ Alawites) and 14,500 Jewish settlers (August 1994 est.)
+
+ Age structure:
+ 0-14 years: 48% (female 3,639,776; male 3,826,154)
+ 15-64 years: 49% (female 3,691,862; male 3,854,989)
+ 65 years and over: 3% (female 219,251; male 219,885) (July 1995 est.)
+
+ Population growth rate: 3.71% (1995 est.)
+
+ Birth rate: 43.21 births/1,000 population (1995 est.)
+
+ Death rate: 6.07 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 0 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 41.1 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 66.81 years
+ male: 65.67 years
+ female: 68.01 years (1995 est.)
+
+ Total fertility rate: 6.55 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Syrian(s)
+ adjective: Syrian
+
+ Ethnic divisions: Arab 90.3%, Kurds, Armenians, and other 9.7%
+
+ Religions: Sunni Muslim 74%, Alawite, Druze, and other Muslim sects
+ 16%, Christian (various sects) 10%, Jewish (tiny communities in
+ Damascus, Al Qamishli, and Aleppo)
+
+ Languages: Arabic (official), Kurdish, Armenian, Aramaic, Circassian,
+ French widely understood
+
+ Literacy: age 15 and over can read and write (1990 est.)
+ total population: 64%
+ male: 78%
+ female: 51%
+
+ Labor force: 4.3 million (1994 est.)
+ by occupation: miscellaneous and government services 36%, agriculture
+ 32%, industry and construction 32%; note - shortage of skilled labor
+ (1984)
+
+@Syria:Government
+
+ Names:
+ conventional long form: Syrian Arab Republic
+ conventional short form: Syria
+ local long form: Al Jumhuriyah al Arabiyah as Suriyah
+ local short form: Suriyah
+ former: United Arab Republic (with Egypt)
+
+ Digraph: SY
+
+ Type: republic under leftwing military regime since March 1963
+
+ Capital: Damascus
+
+ Administrative divisions: 14 provinces (muhafazat, singular -
+ muhafazah); Al Hasakah, Al Ladhiqiyah, Al Qunaytirah, Ar Raqqah, As
+ Suwayda', Dar'a, Dayr az Zawr, Dimashq, Halab, Hamah, Hims, Idlib, Rif
+ Dimashq, Tartus
+
+ Independence: 17 April 1946 (from League of Nations mandate under
+ French administration)
+
+ National holiday: National Day, 17 April (1946)
+
+ Constitution: 13 March 1973
+
+ Legal system: based on Islamic law and civil law system; special
+ religious courts; has not accepted compulsory ICJ jurisdiction
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch:
+ chief of state: President Hafiz al-ASAD (since 22 February 1971 see
+ note); Vice Presidents 'Abd al-Halim ibn Said KHADDAM, Rif'at al-ASAD,
+ and Muhammad Zuhayr MASHARIQA (since 11 March 1984); election last
+ held 2 December 1991 (next to be held NA December 1998); results -
+ President Hafiz al-ASAD was reelected for a fourth seven-year term
+ with 99.98% of the vote; note - President ASAD seized power in the
+ November 1970 coup, assumed presidential powers 22 February 1971, and
+ was confirmed as president in the 12 March 1971 national elections
+ head of government: Prime Minister Mahmud ZU'BI (since 1 November
+ 1987); Deputy Prime Minister Lt. Gen. Mustafa TALAS (since 11 March
+ 1984); Deputy Prime Minister Salim YASIN (since NA December 1981);
+ Deputy Prime Minister Rashid AKHTARINI (since 4 July 1992)
+ cabinet: Council of Ministers; appointed by the president
+
+ Legislative branch: unicameral
+ People's Council (Majlis al-Chaab): elections last held 24-25 August
+ 1994 (next to be held NA); results - percent of vote by party NA;
+ seats - (250 total) National Progressive Front 167, independents 83
+
+ Judicial branch: Supreme Constitutional Court, High Judicial Council,
+ Court of Cassation, State Security Courts
+
+ Political parties and leaders:
+ National Progressive Front includes: the ruling Arab Socialist
+ Resurrectionist (Ba'th) Party, Hafiz al-ASAD, President of the
+ Republic, Secretary General of the party, and Chairman of the National
+ Progressive Front; Syrian Arab Socialist Party (ASP), 'Abd al-Ghani
+ KANNUT; Arab Socialist Union (ASU), Jamal ATASSI; Syrian Communist
+ Party (SCP), Khalid BAKDASH; Arab Socialist Unionist Movement, Sami
+ SOUFAN; and Democratic Socialist Union Party, leader NA
+
+ Other political or pressure groups: non-Ba'th parties have little
+ effective political influence; Communist party ineffective;
+ conservative religious leaders; Muslim Brotherhood
+
+ Member of: ABEDA, AFESD, AL, AMF, CAEU, CCC, ESCWA, FAO, G-24, G-77,
+ IAEA, IBRD, ICAO, ICC, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF,
+ IMO, INTELSAT, INTERPOL, IOC, ISO, ITU, NAM, OAPEC, OIC, UN, UNCTAD,
+ UNESCO, UNIDO, UNRWA, UPU, WFTU, WHO, WMO, WTO
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Walid MUALEM
+ chancery: 2215 Wyoming Avenue NW, Washington, DC 20008
+ telephone: [1] (202) 232-6313
+ FAX: [1] (202) 234-9548
+
+ US diplomatic representation:
+ chief of mission: Ambassador Christopher W. S. ROSS
+ embassy: Abou Roumaneh, Al-Mansur Street No. 2, Damascus
+ mailing address: P. O. Box 29, Damascus
+ telephone: [963] (11) 333-2814, 714-108, 333-3788
+ FAX: [963] (11) 224-7938
+
+ Flag: three equal horizontal bands of red (top), white, and black with
+ two small green five-pointed stars in a horizontal line centered in
+ the white band; similar to the flag of Yemen, which has a plain white
+ band and of Iraq, which has three green stars (plus an Arabic
+ inscription) in a horizontal line centered in the white band; also
+ similar to the flag of Egypt, which has a symbolic eagle centered in
+ the white band
+
+@Syria:Economy
+
+ Overview: In 1990-93 Syria's state-dominated Ba'thist economy
+ benefited from the Gulf war, increased oil production, good weather,
+ and economic deregulation. Economic growth averaged roughly 10%. The
+ Gulf war provided Syria an aid windfall of nearly $5 billion dollars
+ from Arab, European, and Japanese donors. However, the benefits of the
+ 1990-93 boom were not evenly distributed and the gap between rich and
+ poor is widening. A nationwide financial scandal and increasing
+ inflation were accompanied by a decline in GDP growth to 4% in 1994.
+ For the long run, Syria's economy is still saddled with a large number
+ of poorly performing public sector firms, and industrial productivity
+ remains to be improved. Oil production is likely to fall off
+ dramatically by the end of the decade. Unemployment will become a
+ problem for the government when the more than 60% of the population
+ under the age of 20 enter the labor force.
+
+ National product: GDP - purchasing power parity - $74.4 billion (1994
+ est.)
+
+ National product real growth rate: 4% (1994 est.)
+
+ National product per capita: $5,000 (1994 est.)
+
+ Inflation rate (consumer prices): 16.3% (1993 est.)
+
+ Unemployment rate: 7.5% (1993 est.)
+
+ Budget: NA
+
+ Exports: $3.6 billion (f.o.b., 1994 est.)
+ commodities: petroleum 53%, textiles 22%, cotton, fruits and
+ vegetables, wheat, barley, chickens
+ partners: EC 48%, former CEMA countries 24%, Arab countries 18% (1991)
+
+ Imports: $4 billion (c.i.f., 1994 est.)
+ commodities: foodstuffs 21%, metal products 17%, machinery 15%
+ partners: EC 37%, former CEMA countries 15%, US and Canada 10% (1991)
+
+ External debt: $19.4 billion (1993 est.)
+
+ Industrial production: growth rate NA%
+
+ Electricity:
+ capacity: 4,160,000 kW
+ production: 13.2 billion kWh
+ consumption per capita: 865 kWh (1993)
+
+ Industries: textiles, food processing, beverages, tobacco, phosphate
+ rock mining, petroleum
+
+ Agriculture: accounts for 30% of GDP and one-third of labor force; all
+ major crops (wheat, barley, cotton, lentils, chickpeas) grown mainly
+ on rain-watered land causing wide swings in production; animal
+ products - beef, lamb, eggs, poultry, milk; not self-sufficient in
+ grain or livestock products
+
+ Illicit drugs: a transit country for Lebanese and Turkish refined
+ cocaine going to Europe and heroin and hashish bound for regional and
+ Western markets
+
+ Economic aid:
+ recipient: no US aid; about $4.2 billion in loans and grants from Arab
+ and Western donors 1990-92 as a result of Gulf war stance
+
+ Currency: 1 Syrian pound (#S) = 100 piastres
+
+ Exchange rates: Syrian pounds (#S) per US$1 - 11.2 (official fixed
+ rate), 26.6 (blended rate used by the UN and diplomatic missions),
+ 42.0 (neighboring country rate - applies to most state enterprise
+ imports), 46.0 - 53.0 (offshore rate) (yearend 1993)
+
+ Fiscal year: calendar year
+
+@Syria:Transportation
+
+ Railroads:
+ total: 1,998 km
+ broad gauge: 1,766 km 1.435-m gauge
+ narrow gauge: 232 km 1.050-m gauge
+
+ Highways:
+ total: 31,569 km
+ paved: 24,308 km (including 670 km of expressways)
+ unpaved: 7,261 km
+
+ Inland waterways: 870 km; minimal economic importance
+
+ Pipelines: crude oil 1,304 km; petroleum products 515 km
+
+ Ports: Baniyas, Jablah, Latakia, Tartus
+
+ Merchant marine:
+ total: 80 ships (1,000 GRT or over) totaling 233,701 GRT/364,714 DWT
+ ships by type: bulk 10, cargo 68, vehicle carrier 2
+
+ Airports:
+ total: 107
+ with paved runways over 3,047 m: 5
+ with paved runways 2,438 to 3,047 m: 16
+ with paved runways 914 to 1,523 m: 1
+ with paved runways under 914 m: 67
+ with unpaved runways 1,524 to 2,438 m: 3
+ with unpaved runways 914 to 1,523 m: 15
+
+@Syria:Communications
+
+ Telephone system: 512,600 telephones; 37 telephones/1,000 persons;
+ fair system currently undergoing significant improvement and digital
+ upgrades, including fiber optic technology
+ local: NA
+ intercity: coaxial cable and microwave radio relay network
+ international: 1 INTELSAT (Indian Ocean) and 1 Intersputnik earth
+ station; 1 submarine cable; coaxial cable and microwave radio relay to
+ Iraq, Jordan, Lebanon, and Turkey
+
+ Radio:
+ broadcast stations: AM 9, FM 1, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 17
+ televisions: NA
+
+@Syria:Defense Forces
+
+ Branches: Syrian Arab Army, Syrian Arab Navy, Syrian Arab Air Force,
+ Syrian Arab Air Defense Forces, Police and Security Force
+
+ Manpower availability: males age 15-49 3,440,030; males fit for
+ military service 1,927,930; males reach military age (19) annually
+ 159,942 (1995 est.)
+
+ Defense expenditures: exchange rate conversion - $2.2 billion, 6% of
+ GDP (1992)
+
+
+________________________________________________________________________
+
+TAIWAN
+
+@Taiwan:Geography
+
+ Location: Eastern Asia, islands bordering the East China Sea,
+ Philippine Sea, South China Sea, and Taiwan Strait, north of the
+ Philippines, off the southeastern coast of China
+
+ Map references: Southeast Asia
+
+ Area:
+ total area: 35,980 sq km
+ land area: 32,260 sq km
+ comparative area: slightly larger than Maryland and Delaware combined
+ note: includes the Pescadores, Matsu, and Quemoy
+
+ Land boundaries: 0 km
+
+ Coastline: 1,448 km
+
+ Maritime claims:
+ exclusive economic zone: 200 nm
+ territorial sea: 12 nm
+
+ International disputes: involved in complex dispute over the Spratly
+ Islands with China, Malaysia, Philippines, Vietnam, and possibly
+ Brunei; Paracel Islands occupied by China, but claimed by Vietnam and
+ Taiwan; Japanese-administered Senkaku-shoto (Senkaku Islands/Diaoyu
+ Tai) claimed by China and Taiwan
+
+ Climate: tropical; marine; rainy season during southwest monsoon (June
+ to August); cloudiness is persistent and extensive all year
+
+ Terrain: eastern two-thirds mostly rugged mountains; flat to gently
+ rolling plains in west
+
+ Natural resources: small deposits of coal, natural gas, limestone,
+ marble, and asbestos
+
+ Land use:
+ arable land: 24%
+ permanent crops: 1%
+ meadows and pastures: 5%
+ forest and woodland: 55%
+ other: 15%
+
+ Irrigated land: NA sq km
+
+ Environment:
+ current issues: water pollution from industrial emissions, raw sewage;
+ air pollution; contamination of drinking water supplies; trade in
+ endangered species
+ natural hazards: earthquakes and typhoons
+ international agreements: signed, but not ratified - Marine Life
+ Conservation
+
+@Taiwan:People
+
+ Population: 21,500,583 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 24% (female 2,543,134; male 2,665,878)
+ 15-64 years: 68% (female 7,191,964; male 7,482,814)
+ 65 years and over: 8% (female 734,535; male 882,258) (July 1995 est.)
+
+ Population growth rate: 0.93% (1995 est.)
+
+ Birth rate: 15.33 births/1,000 population (1995 est.)
+
+ Death rate: 5.71 deaths/1,000 population (1995 est.)
+
+ Net migration rate: -0.37 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 5.6 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 75.47 years
+ male: 72.17 years
+ female: 78.93 years (1995 est.)
+
+ Total fertility rate: 1.81 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Chinese (singular and plural)
+ adjective: Chinese
+
+ Ethnic divisions: Taiwanese 84%, mainland Chinese 14%, aborigine 2%
+
+ Religions: mixture of Buddhist, Confucian, and Taoist 93%, Christian
+ 4.5%, other 2.5%
+
+ Languages: Mandarin Chinese (official), Taiwanese (Min), Hakka
+ dialects
+
+ Literacy: age 15 and over can read and write (1980)
+ total population: 86%
+ male: 93%
+ female: 79%
+
+ Labor force: 7.9 million
+ by occupation: industry and commerce 53%, services 22%, agriculture
+ 15.6%, civil administration 7% (1989)
+
+@Taiwan:Government
+
+ Names:
+ conventional long form: none
+ conventional short form: Taiwan
+ local long form: none
+ local short form: T'ai-wan
+
+ Digraph: TW
+
+ Type: multiparty democratic regime; opposition political parties
+ legalized in March, 1989
+
+ Capital: Taipei
+
+ Administrative divisions: some of the ruling party in Taipei claim to
+ be the government of all China; in keeping with that claim, the
+ central administrative divisions include 2 provinces (sheng, singular
+ and plural) and 2 municipalities* (shih, singular and plural) -
+ Fu-chien (some 20 offshore islands of Fujian Province including Quemoy
+ and Matsu), Kao-hsiung*, T'ai-pei*, and Taiwan (the island of Taiwan
+ and the Pescadores islands); the more commonly referenced
+ administrative divisions are those of Taiwan Province - 16 counties
+ (hsien, singular and plural), 5 municipalities* (shih, singular and
+ plural), and 2 special municipalities** (chuan-shih, singular and
+ plural); Chang-hua, Chia-i, Chia-i*, Chi-lung*, Hsin-chu, Hsin-chu*,
+ Hua-lien, I-lan, Kao-hsiung, Kao-hsiung**, Miao-li, Nan-t'ou,
+ P'eng-hu, P'ing-tung, T'ai-chung, T'ai-chung*, T'ai-nan, T'ai-nan*,
+ T'ai-pei, T'ai-pei**, T'ai-tung, T'ao-yuan, and Yun-lin; the
+ provincial capital is at Chung-hsing-hsin-ts'un
+ note: Taiwan uses the Wade-Giles system for romanization
+
+ National holiday: National Day, 10 October (1911) (Anniversary of the
+ Revolution)
+
+ Constitution: 1 January 1947, amended in 1992, presently undergoing
+ revision
+
+ Legal system: based on civil law system; accepts compulsory ICJ
+ jurisdiction, with reservations
+
+ Suffrage: 20 years of age; universal
+
+ Executive branch:
+ chief of state: President LI Teng-hui (since 13 January 1988); Vice
+ President LI Yuan-zu (since 20 May 1990)
+ head of government: Premier (President of the Executive Yuan) LIEN
+ Chan (since 23 February 1993); Vice Premier (Vice President of the
+ Executive Yuan) HSU Li-teh (since 23 February 1993); presidential
+ election last held 21 March 1990 (next election will probably be a
+ direct popular election and will be held NA March 1996); results -
+ President LI Teng-hui was reelected by the National Assembly; vice
+ presidential election last held 21 March 1990; results - LI Yuan-zu
+ was elected by the National Assembly
+ cabinet: Executive Yuan; appointed by the president
+
+ Legislative branch: unicameral Legislative Yuan and unicameral
+ National Assembly
+ Legislative Yuan: elections last held 19 December 1992 (next to be
+ held NA December 1995); results - KMT 60%, DPP 31%, independents 9%;
+ seats - (304 total, 161 elected) KMT 96, DPP 50, independents 15
+ National Assembly: first National Assembly elected in November 1946
+ with a supplementary election in December 1986; second and present
+ National Assembly elected in December 1991; seats - (403 total) KMT
+ 318, DPP 75, other 10; (next election to be held probably in 1996 and
+ will be a direct popular election)
+
+ Judicial branch: Judicial Yuan
+
+ Political parties and leaders: Kuomintang (KMT, Nationalist Party), LI
+ Teng-hui, chairman; Democratic Progressive Party (DPP), SHIH Ming-teh,
+ chairman; Chinese New Party (CNP); Labor Party (LP)
+
+ Other political or pressure groups: Taiwan independence movement,
+ various environmental groups
+ note: debate on Taiwan independence has become acceptable within the
+ mainstream of domestic politics on Taiwan; political liberalization
+ and the increased representation of the opposition Democratic
+ Progressive Party in Taiwan's legislature have opened public debate on
+ the island's national identity; advocates of Taiwan independence, both
+ within the DPP and the ruling Kuomintang, oppose the ruling party's
+ traditional stand that the island will eventually unify with mainland
+ China; the aims of the Taiwan independence movement include
+ establishing a sovereign nation on Taiwan and entering the UN; other
+ organizations supporting Taiwan independence include the World United
+ Formosans for Independence and the Organization for Taiwan Nation
+ Building
+
+ Member of: expelled from UN General Assembly and Security Council on
+ 25 October 1971 and withdrew on same date from other
+ charter-designated subsidiary organs; expelled from IMF/World Bank
+ group April/May 1980; seeking to join GATT; attempting to retain
+ membership in INTELSAT; suspended from IAEA in 1972, but still allows
+ IAEA controls over extensive atomic development, APEC, AsDB, BCIE,
+ ICC, IOC, WCL
+
+ Diplomatic representation in US: none; unofficial commercial and
+ cultural relations with the people of the US are maintained through a
+ private instrumentality, the Taipei Economic and Cultural
+ Representative Office (TECRO) with headquarters in Taipei and field
+ offices in Washington and 10 other US cities
+
+ US diplomatic representation: unofficial commercial and cultural
+ relations with the people of Taiwan are maintained through a private
+ institution, the American Institute in Taiwan (AIT), which has offices
+ in Taipei at #7, Lane 134, Hsin Yi Road, Section 3, telephone [886]
+ (2) 709-2000, and in Kao-hsiung at #2 Chung Cheng 3d Road, telephone
+ [886] (7) 224-0154 through 0157, and the American Trade Center at Room
+ 3207 International Trade Building, Taipei World Trade Center, 333
+ Keelung Road Section 1, Taipei 10548, telephone [886] (2) 720-1550
+
+ Flag: red with a dark blue rectangle in the upper hoist-side corner
+ bearing a white sun with 12 triangular rays
+
+@Taiwan:Economy
+
+ Overview: Taiwan has a dynamic capitalist economy with considerable
+ government guidance of investment and foreign trade and partial
+ government ownership of some large banks and industrial firms. Real
+ growth in GNP has averaged about 9% a year during the past three
+ decades. Export growth has been even faster and has provided the
+ impetus for industrialization. Inflation and unemployment are
+ remarkably low. Agriculture contributes about 4% to GDP, down from 35%
+ in 1952. Taiwan currently ranks as number 13 among major trading
+ countries. Traditional labor-intensive industries are steadily being
+ replaced with more capital- and technology-intensive industries.
+ Taiwan has become a major investor in China, Thailand, Indonesia, the
+ Philippines, Malaysia, and Vietnam. The tightening of labor markets
+ has led to an influx of foreign workers, both legal and illegal.
+
+ National product: GDP - purchasing power parity - $257 billion (1994
+ est.)
+
+ National product real growth rate: 6% (1994 est.)
+
+ National product per capita: $12,070 (1994 est.)
+
+ Inflation rate (consumer prices): 5.2% (1994 est.)
+
+ Unemployment rate: 1.6% (1994)
+
+ Budget:
+ revenues: $30.3 billion
+ expenditures: $30.1 billion, including capital expenditures of $NA
+ (1991 est.)
+
+ Exports: $93 billion (f.o.b., 1994)
+ commodities: electrical machinery 19.7%, electronic products 19.6%,
+ textiles 10.9%, footwear 3.3%, foodstuffs 1.0%, plywood and wood
+ products 0.9% (1993 est.)
+ partners: US 27.6%, Hong Kong 21.7%, EC countries 15.2%, Japan 10.5%
+ (1994 est.)
+
+ Imports: $85.1 billion (c.i.f., 1994)
+ commodities: machinery and equipment 15.7%, electronic products 15.6%,
+ chemicals 9.8%, iron and steel 8.5%, crude oil 3.9%, foodstuffs 2.1%
+ (1993 est.)
+ partners: Japan 30.1%, US 21.7%, EC countries 17.6% (1993 est.)
+
+ External debt: $620 million (1992 est.)
+
+ Industrial production: growth rate 4.5% (1994 est.); accounts for more
+ than 40% of GDP
+
+ Electricity:
+ capacity: 21,460,000 kW
+ production: 108 billion kWh
+ consumption per capita: 4,789 kWh (1993)
+
+ Industries: electronics, textiles, chemicals, clothing, food
+ processing, plywood, sugar milling, cement, shipbuilding, petroleum
+ refining
+
+ Agriculture: accounts for 4% of GDP and 16% of labor force (includes
+ part-time farmers); heavily subsidized sector; major crops -
+ vegetables, rice, fruit, tea; livestock - hogs, poultry, beef, milk;
+ not self-sufficient in wheat, soybeans, corn; fish catch increasing,
+ reached 1.4 million metric tons in 1988
+
+ Illicit drugs: an important heroin transit point; also a major drug
+ money laundering center
+
+ Economic aid:
+ recipient: US, including Ex-Im (FY46-82), $4.6 billion; Western
+ (non-US) countries, ODA and OOF bilateral commitments (1970-89), $500
+ million
+
+ Currency: 1 New Taiwan dollar (NT$) = 100 cents
+
+ Exchange rates: New Taiwan dollars per US$1 - 26.2 (1994), 26.6
+ (1993), 25.4 (1992), 25.748 (1991), 27.108 (1990), 26.407 (1989)
+
+ Fiscal year: 1 July - 30 June
+
+@Taiwan:Transportation
+
+ Railroads:
+ total: 4,600 km; note - 1,075 km in common carrier service and about
+ 3,525 km is dedicated to industrial use
+ narrow gauge: 4,600 km 1.067-m
+
+ Highways:
+ total: 20,041 km
+ paved: bituminous, concrete pavement 17,095 km
+ unpaved: crushed stone, gravel 2,371 km; graded earth 575 km
+
+ Pipelines: petroleum products 615 km; natural gas 97 km
+
+ Ports: Chi-lung (Keelung), Hua-lien, Kao-hsiung, Su-ao, T'ai-chung
+
+ Merchant marine:
+ total: 198 ships (1,000 GRT or over) totaling 5,635,682 GRT/8,652,111
+ DWT
+ ships by type: bulk 55, cargo 30, chemical tanker 1, combination bulk
+ 2, combination ore/oil 1, container 78, oil tanker 17, passenger-cargo
+ 1, refrigerated cargo 12, roll-on/roll-off cargo 1
+
+ Airports:
+ total: 41
+ with paved runways over 3,047 m: 8
+ with paved runways 2,438 to 3,047 m: 11
+ with paved runways 1,524 to 2,437 m: 6
+ with paved runways 914 to 1,523 m: 6
+ with paved runways under 914 m: 8
+ with unpaved runways 1,524 to 2,438 m: 2
+
+@Taiwan:Communications
+
+ Telephone system: 7,800,000 telephones; best developed system in Asia
+ outside of Japan
+ local: NA
+ intercity: extensive microwave radio relay links on east and west
+ coasts
+ international: 2 INTELSAT (1 Pacific Ocean and 1 Indian Ocean) earth
+ stations; submarine cable links to Japan (Okinawa), Philippines, Guam,
+ Singapore, Hong Kong, Indonesia, Australia, Middle East, and Western
+ Europe
+
+ Radio:
+ broadcast stations: AM 91, FM 23, shortwave 0
+ radios: 8.62 million
+
+ Television:
+ broadcast stations: 15 (repeaters 13)
+ televisions: 6.386 million (color 5,680,000, monochrome 706,000)
+
+@Taiwan:Defense Forces
+
+ Branches: Army, Navy (includes Marines), Air Force, Coastal Patrol and
+ Defense Command, Armed Forces Reserve Command, Military Police Command
+
+ Manpower availability: males age 15-49 6,293,884; males fit for
+ military service 4,863,014; males reach military age (19) annually
+ 201,191 (1995 est.)
+
+ Defense expenditures: exchange rate conversion - $9.8 billion, 3.4% of
+ GDP (FY94/95); $9.77 billion proposed for FY95/96 budget
+
+
+________________________________________________________________________
+
+TAJIKISTAN
+
+ Note--Tajikistan has experienced three changes of government since it
+ gained independence in September 1991. The current president, Emomali
+ RAKHMONOV, was elected to the presidency in November 1994, yet has
+ been in power since 1992. The country is suffering through its third
+ year of a civil war, with no clear end in sight. Underlying the
+ conflict are deeply-rooted regional and clan-based animosities that
+ pit a government consisting of people primarily from the Kulob
+ (Kulyab), Khujand (Leninabad), and Hisor (Hissar) regions against a
+ secular and Islamic-led opposition from the Gharm, Gorno-Badakhshan,
+ and Qurghonteppa (Kurgan-Tyube) regions. Government and opposition
+ representatives have held periodic rounds of UN-mediated peace talks
+ and agreed in September 1994 to a cease-fire. Russian-led peacekeeping
+ troops are deployed throughout the country, and Russian border guards
+ are stationed along the Tajik-Afghan border. 
+
+@Tajikistan:Geography
+
+ Location: Central Asia, west of China
+
+ Map references: Commonwealth of Independent States - Central Asian
+ States
+
+ Area:
+ total area: 143,100 sq km
+ land area: 142,700 sq km
+ comparative area: slightly smaller than Wisconsin
+
+ Land boundaries: total 3,651 km, Afghanistan 1,206 km, China 414 km,
+ Kyrgyzstan 870 km, Uzbekistan 1,161 km
+
+ Coastline: 0 km (landlocked)
+
+ Maritime claims: none; landlocked
+
+ International disputes: boundary with China in dispute; territorial
+ dispute with Kyrgyzstan on northern boundary in Isfara Valley area;
+ Afghanistan's and other foreign support to Tajik rebels based in
+ northern Afghanistan
+
+ Climate: midlatitude continental, hot summers, mild winters; semiarid
+ to polar in Pamir Mountains
+
+ Terrain: Pamir and Altay Mountains dominate landscape; western Fergana
+ Valley in north, Kofarnihon and Vakhsh Valleys in southwest
+
+ Natural resources: significant hydropower potential, some petroleum,
+
+Back to Full Books

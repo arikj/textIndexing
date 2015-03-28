@@ -1,0 +1,2003 @@
+The 1995 CIA World Factbook
+
+@Juan De Nova Island:Economy
+
+ Overview: no economic activity
+
+@Juan De Nova Island:Transportation
+
+ Railroads:
+ total: NA km; short line going to a jetty
+
+ Ports: none; offshore anchorage only
+
+ Airports:
+ total: 1
+ with unpaved runways 914 to 1,523 m: 1
+
+@Juan De Nova Island:Defense Forces
+
+ Note: defense is the responsibility of France
+
+
+________________________________________________________________________
+
+KAZAKHSTAN
+
+@Kazakhstan:Geography
+
+ Location: Central Asia, northwest of China
+
+ Map references: Commonwealth of Independent States - Central Asian
+ States
+
+ Area:
+ total area: 2,717,300 sq km
+ land area: 2,669,800 sq km
+ comparative area: slightly less than four times the size of Texas
+
+ Land boundaries: total 12,012 km, China 1,533 km, Kyrgyzstan 1,051 km,
+ Russia 6,846 km, Turkmenistan 379 km, Uzbekistan 2,203 km
+
+ Coastline: 0 km (landlocked)
+ note: Kazakhstan borders the Aral Sea (1,015 km) and the Caspian Sea
+ (1,894 km)
+
+ Maritime claims: none; landlocked
+
+ International disputes: Caspian Sea boundaries are not yet determined
+
+ Climate: continental, cold winters and hot summers, arid and semiarid
+
+ Terrain: extends from the Volga to the Altai Mountains and from the
+ plains in western Siberia to oasis and desert in Central Asia
+
+ Natural resources: major deposits of petroleum, coal, iron ore,
+ manganese, chrome ore, nickel, cobalt, copper, molybdenum, lead, zinc,
+ bauxite, gold, uranium
+
+ Land use:
+ arable land: 15%
+ permanent crops: NEGL%
+ meadows and pastures: 57%
+ forest and woodland: 4%
+ other: 24%
+
+ Irrigated land: 23,080 sq km (1990)
+
+ Environment:
+ current issues: radioactive or toxic chemical sites associated with
+ its former defense industries and test ranges are found throughout the
+ country and pose health risks for humans and animals; industrial
+ pollution is severe in some cities; because the two main rivers which
+ flowed into the Aral Sea have been diverted for irrigation, it is
+ drying up and leaving behind a harmful layer of chemical pesticides
+ and natural salts; these substances are then picked up by the wind and
+ blown into noxious dust storms; pollution in the Caspian Sea; soil
+ pollution from overuse of agricultural chemicals and salinization from
+ faulty irrigation practices
+ natural hazards: NA
+ international agreements: party to - Biodiversity, Ship Pollution;
+ signed, but not ratified - Climate Change, Desertification
+
+ Note: landlocked
+
+@Kazakhstan:People
+
+ Population: 17,376,615 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 30% (female 2,589,509; male 2,664,952)
+ 15-64 years: 63% (female 5,531,519; male 5,371,563)
+ 65 years and over: 7% (female 820,900; male 398,172) (July 1995 est.)
+
+ Population growth rate: 0.62% (1995 est.)
+
+ Birth rate: 19.26 births/1,000 population (1995 est.)
+
+ Death rate: 7.93 deaths/1,000 population (1995 est.)
+
+ Net migration rate: -5.11 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 40 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 68.25 years
+ male: 63.61 years
+ female: 73.13 years (1995 est.)
+
+ Total fertility rate: 2.43 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Kazakhstani(s)
+ adjective: Kazakhstani
+
+ Ethnic divisions: Kazakh (Qazaq) 41.9%, Russian 37%, Ukrainian 5.2%,
+ German 4.7%, Uzbek 2.1%, Tatar 2%, other 7.1% (1991 official data)
+
+ Religions: Muslim 47%, Russian Orthodox 44%, Protestant 2%, other 7%
+
+ Languages: Kazakh (Qazaqz) official language spoken by over 40% of
+ population, Russian (language of interethnic communication) spoken by
+ two-thirds of population and used in everyday business
+
+ Literacy: age 15 and over can read and write (1989)
+ total population: 98%
+ male: 99%
+ female: 96%
+
+ Labor force: 7.356 million
+ by occupation: industry and construction 31%, agriculture and forestry
+ 26%, other 43% (1992)
+
+@Kazakhstan:Government
+
+ Names:
+ conventional long form: Republic of Kazakhstan
+ conventional short form: Kazakhstan
+ local long form: Qazaqstan Respublikasy
+ local short form: none
+ former: Kazakh Soviet Socialist Republic
+
+ Digraph: KZ
+
+ Type: republic
+
+ Capital: Almaty
+
+ Administrative divisions: 19 oblystar (singular - oblys) and 1 city
+ (qalalar, singular - qala)*; Almaty Qalasy*, Almaty Oblysy, Aqmola
+ Oblysy, Aqtobe Oblysy, Atyrau Oblysy, Batys Qazaqstan Oblysy (Oral),
+ Kokshetau Oblysy, Mangghystau Oblysy (Aqtau), Ongtustik Qazaqstan
+ Oblysy (Shymkent), Qaraghandy Oblysy, Qostanay Oblysy, Qyzylorda
+ Oblysy, Pavlodar Oblysy, Semey Oblysy, Shyghys Qazaqstan Oblysy
+ (Oskemen; formerly Ust'-Kamenogorsk), Soltustik Qazaqstan Oblysy
+ (Petropavl), Taldyqorghan Oblysy, Torghay Oblysy, Zhambyl Oblysy,
+ Zhezqazghan Oblysy
+ note: names in parentheses are administrative centers when name
+ differs from oblys name
+
+ Independence: 16 December 1991 (from the Soviet Union)
+
+ National holiday: Independence Day, 16 December (1991)
+
+ Constitution: adopted 28 January 1993
+
+ Legal system: based on civil law system
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch:
+ chief of state: President Nursultan NAZARBAYEV (since NA April 1990);
+ Vice President Yerik ASANBAYEV (since 1 December 1991); election last
+ held 1 December 1991 (next to be held NA 1996); results - Nursultan A.
+ NAZARBAYEV ran unopposed; note - NAZARBAYEV has extended his term to
+ the year 2000 by a nationwide referendum held 30 April 1995
+ head of government: Prime Minister Akezhan KAZHEGELDIN (since 12
+ October 1994); First Deputy Prime Ministers Nigmatzhan ISINGARIN
+ (since 12 October 1994) and Vitalia METTE (since March 1995)
+ cabinet: Council of Ministers; appointed by the prime minister
+
+ Legislative branch: unicameral
+ Supreme Council: elections last held 7 March 1994 (next to be held NA
+ 1999); results - percent of vote by party NA; seats - (177 total)
+ Union Peoples' Unity of Kazakhstan 33, Confederation of Trade Unions
+ of the Republic of Kazakhstan 11, Peoples' Congress of Kazakhstan
+ Party 9, Socialist Party of Kazakhstan 8, Peasant Union of the
+ Republic Kazakhstan 4, Social Movement LAD 4, Organization of Veterans
+ 1, Union of Youth of Kazakhstan 1, Democratic Committee for Human
+ Rights 1, Association of Lawyers of Kazakhstan 1, International Public
+ Committee "Aral-Asia-Kazakhstan" 1, Congress of Entrepreneurs of
+ Kazakhstan 1, Deputies of the 12th Supreme Soviet 40, independents 62
+ note: the Supreme Council disbanded 12 March 1995 following a
+ Constitutional Court ruling that the March 1994 elections were invalid
+
+ Judicial branch: Supreme Court
+
+ Political parties and leaders: People's Unity Party (PUP; was Union of
+ People's Unity), Kuanysh SULTANOV, chairman; People's Congress of
+ Kazakhstan (PCK), Olzhas SULEYMENOV, chairman; Socialist Party of
+ Kazakhstan (SPK; former Communist Party), Yermukhamet YERTYSHBAYEV,
+ co-chairman; Republican Party (Azat), Kamal ORMANTAYEV, chairman;
+ Democratic Progress (Russian) Party, Alexandra DOKUCHAYEVA, chairman;
+ Confederation of Trade Unions of the Republic of Kazakhstan; Peasant
+ Union of the Republic Kazakhstan (KPU); Social Movement LAD, V.
+ MIKHAYLOV, chairman; Union of Youth of Kazakhstan; Democratic
+ Committee for Human Rights; Association of Lawyers of Kazakhstan;
+ International Public Committee "Aral-Asia-Kazakhstan"; Congress of
+ Entrepreneurs of Kazakhstan; Deputies of the 12th Supreme Soviet;
+ People's Cooperative Party, Umirzak SARSENOV, chairman; Organization
+ of Veterans
+
+ Other political or pressure groups: Independent Trade Union Center
+ (Birlesu; an association of independent trade union and business
+ associations), Leonid SOLOMIN, president
+
+ Member of: AsDB, CCC, CIS, EBRD, ECO, ESCAP, IAEA, IBRD, ICAO, IDA,
+ IFC, ILO, IMF, IMO, INTELSAT (nonsignatory user), INTERPOL, IOC, ITU,
+ NACC, OIC (observer), OSCE, PFP, UN, UNCTAD, UNESCO, UPU, WHO, WIPO,
+ WMO, WTO
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Tuleutai S. SULEYMENOV
+ chancery: (temporary) 3421 Massachusetts Avenue, NW, Washington, DC
+ 20008
+ telephone: [1] (202) 333-4504 through 4507
+ FAX: [1] (202) 333-4509
+
+ US diplomatic representation:
+ chief of mission: Ambassador William H. COURTNEY
+ embassy: 99/97 Furmanova Street, Almaty, Republic of Kazakhstan 480012
+
+ mailing address: use embassy street address
+ telephone: [7] (3272) 63-24-26
+ FAX: [7] (3272) 63-38-83
+
+ Flag: sky blue background representing the endless sky and a gold sun
+ with 32 rays soaring above a golden steppe eagle in the center; on the
+ hoist side is a "national ornamentation" in yellow
+
+@Kazakhstan:Economy
+
+ Overview: Kazakhstan, the second largest of the former Soviet states
+ in territory, possesses enormous untapped fossil-fuel reserves as well
+ as plentiful supplies of other minerals and metals. It also has
+ considerable agricultural potential with its vast steppe lands
+ accommodating both livestock and grain production. Kazakhstan's
+ industrial sector rests on the extraction and processing of these
+ natural resources and also on a relatively large machine building
+ sector specializing in construction equipment, tractors, agricultural
+ machinery, and some defense items. The breakup of the USSR and the
+ collapse of demand for Kazakhstan's traditional heavy industry
+ products have resulted in a sharp contraction of the economy since
+ 1991, with the steepest annual decline occurring in 1994. The
+ government has pursued a moderate program of economic reform and
+ privatization which is gradually lifting state controls over economic
+ activity and shifting assets into the private sector. Nevertheless,
+ government control over key sectors of the economy remains strong.
+ Sustained economic hardships and continued pressures from industrial
+ elites will make it difficult for the government to sustain its
+ policies of monetary and fiscal discipline which had brought down
+ inflation by the end of 1994. Continued lack of pipeline
+ transportation for expanded oil exports has closed off a likely source
+ of economic recovery.
+
+ National product: GDP - purchasing power parity - $55.2 billion (1994
+ estimate as extrapolated from World Bank estimate for 1992)
+
+ National product real growth rate: -25% (1994 est.)
+
+ National product per capita: $3,200 (1994 est.)
+
+ Inflation rate (consumer prices): 24% per month (1994 est.)
+
+ Unemployment rate: 1.1% includes only officially registered
+ unemployed; also large numbers of underemployed workers (1994)
+
+ Budget:
+ revenues: $NA
+ expenditures: $NA, including capital expenditures of $NA
+
+ Exports: $3.1 billion (1994)
+ commodities: oil, ferrous and nonferrous metals, chemicals, grain,
+ wool, meat, coal
+ partners: Russia, Ukraine, Uzbekistan
+
+ Imports: $3.5 billion (1994)
+ commodities: machinery and parts, industrial materials, oil and gas
+ partners: Russia and other former Soviet republics, China
+
+ External debt: less than $1 billion debt to Russia
+
+ Industrial production: growth rate -28% (1994)
+
+ Electricity:
+ capacity: 17,380,000 kW
+ production: 65.1 billion kWh
+ consumption per capita: 3,750 kWh (1994)
+
+ Industries: accounts for 26% of net national product; extractive
+ industries (oil, coal, iron ore, manganese, chromite, lead, zinc,
+ copper, titanium, bauxite, gold, silver, phosphates, sulfur), iron and
+ steel, nonferrous metal, tractors and other agricultural machinery,
+ electric motors, construction materials
+
+ Agriculture: accounts for 20% of GDP; employs about 26% of the labor
+ force; grain, mostly spring wheat; meat, cotton, wool
+
+ Illicit drugs: illicit cultivation of cannabis and opium poppy; mostly
+ for CIS consumption; limited government eradication program; used as
+ transshipment point for illicit drugs to Western Europe and North
+ America from Southwest Asia
+
+ Economic aid:
+ recipient: approximately $1 billion in foreign loans and credits
+ allocated in 1994; disbursements projected at $700 billion through
+ 1995
+
+ Currency: national currency the tenge introduced on 15 November 1993
+
+ Exchange rates: tenges per US$1 - 54 (yearend 1994)
+
+ Fiscal year: calendar year
+
+@Kazakhstan:Transportation
+
+ Railroads:
+ total: 14,460 km in common carrier service; does not include
+ industrial lines
+ broad gauge: 14,460 km 1.520-m gauge (1990)
+
+ Highways:
+ total: 189,000 km
+ paved and graveled: 108,100 km
+ unpaved: earth 80,900 km (1990)
+
+ Inland waterways: Syrdariya River, Ertis River
+
+ Pipelines: crude oil 2,850 km; refined products 1,500 km; natural gas
+ 3,480 km (1992)
+
+ Ports: Aqtau (Shevchenko), Atyrau (Gur'yev), Oskemen
+ (Ust-Kamenogorsk), Pavlodar, Semey (Semipalatinsk)
+
+ Airports:
+ total: 352
+ with paved runways over 3,047 m: 7
+ with paved runways 2,438 to 3,047 m: 23
+ with paved runways 1,524 to 2,437 m: 11
+ with paved runways 914 to 1,523 m: 5
+ with paved runways under 914 m: 9
+ with unpaved runways over 3,047 m: 9
+ with unpaved runways 2,438 to 3,047 m: 8
+ with unpaved runways 1,524 to 2,438 m: 25
+ with unpaved runways 914 to 1,523 m: 65
+ with unpaved runways under 914 m: 190
+
+@Kazakhstan:Communications
+
+ Telephone system: 2.2 million telephones; telephone service is poor;
+ about 17 telephones/100 persons in urban areas and 7.6 telephones/100
+ persons in rural areas; Almaty has 184,000 telephones
+ local: NA
+ intercity: land line and microwave radio relay
+ international: international traffic with other former USSR republics
+ and China carried by landline and microwave, and with other countries
+ by satellite and through 8 international telecommunications circuits
+ at the Moscow international gateway switch; INTELSAT earth station;
+ new satellite earth station established at Almaty with Turkish
+ financial help (December 1992) with 2500 channel band width
+
+ Radio:
+ broadcast stations: AM NA, FM NA, shortwave NA
+ radios: 4.088 million (with multiple speakers for program diffusion
+ 6,082,000)
+
+ Television:
+ broadcast stations: Orbita (TV receive only) earth station
+ televisions: 4.75 million
+
+@Kazakhstan:Defense Forces
+
+ Branches: Army, Republic National Guard, Republic Security Forces
+ (internal and border troops)
+
+ Manpower availability: males age 15-49 4,513,089; males fit for
+ military service 3,605,584; males reach military age (18) annually
+ 154,280 (1995 est.)
+
+ Defense expenditures: 69.3 billion rubles, NA% of GDP (forecast for
+ 1993); note - conversion of the military budget into US dollars using
+ the current exchange rate could produce misleading results
+
+
+________________________________________________________________________
+
+KENYA
+
+@Kenya:Geography
+
+ Location: Eastern Africa, bordering the Indian Ocean, between Somalia
+ and Tanzania
+
+ Map references: Africa
+
+ Area:
+ total area: 582,650 sq km
+ land area: 569,250 sq km
+ comparative area: slightly more than twice the size of Nevada
+
+ Land boundaries: total 3,446 km, Ethiopia 830 km, Somalia 682 km,
+ Sudan 232 km, Tanzania 769 km, Uganda 933 km
+
+ Coastline: 536 km
+
+ Maritime claims:
+ continental shelf: 200-m depth or to the depth of exploitation
+ exclusive economic zone: 200 nm
+ territorial sea: 12 nm
+
+ International disputes: administrative boundary with Sudan does not
+ coincide with international boundary; possible claim by Somalia based
+ on unification of ethnic Somalis
+
+ Climate: varies from tropical along coast to arid in interior
+
+ Terrain: low plains rise to central highlands bisected by Great Rift
+ Valley; fertile plateau in west
+
+ Natural resources: gold, limestone, soda ash, salt barytes, rubies,
+ fluorspar, garnets, wildlife
+
+ Land use:
+ arable land: 3%
+ permanent crops: 1%
+ meadows and pastures: 7%
+ forest and woodland: 4%
+ other: 85%
+
+ Irrigated land: 520 sq km (1989)
+
+ Environment:
+ current issues: water pollution from urban and industrial wastes;
+ degradation of water quality from increased use of pesticides and
+ fertilizers; deforestation; soil erosion; desertification; poaching
+ natural hazards: NA
+ international agreements: party to - Biodiversity, Climate Change,
+ Endangered Species, Law of the Sea, Marine Dumping, Marine Life
+ Conservation, Nuclear Test Ban, Ozone Layer Protection, Ship
+ Pollution, Wetlands, Whaling; signed, but not ratified -
+ Desertification
+
+ Note: the Kenyan Highlands comprise one of the most successful
+ agricultural production regions in Africa; glaciers on Mt. Kenya;
+ unique physiography supports abundant and varied wildlife of
+ scientific and economic value
+
+@Kenya:People
+
+ Population: 28,817,227 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 48% (female 6,841,235; male 6,957,908)
+ 15-64 years: 50% (female 7,277,061; male 7,085,925)
+ 65 years and over: 2% (female 359,659; male 295,439) (July 1995 est.)
+
+ Population growth rate: 0.99% (1995 est.)
+
+ Birth rate: 41.66 births/1,000 population (1995 est.)
+
+ Death rate: 12.04 deaths/1,000 population (1995 est.)
+
+ Net migration rate: -19.69 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 73.5 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 52.41 years
+ male: 50.72 years
+ female: 54.16 years (1995 est.)
+
+ Total fertility rate: 5.76 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Kenyan(s)
+ adjective: Kenyan
+
+ Ethnic divisions: Kikuyu 22%, Luhya 14%, Luo 13%, Kalenjin 12%, Kamba
+ 11%, Kisii 6%, Meru 6%, Asian, European, and Arab 1%, other 15%
+
+ Religions: Protestant (including Anglican) 38%, Roman Catholic 28%,
+ indigenous beliefs 26%, other 8%
+
+ Languages: English (official), Swahili (official), numerous indigenous
+ languages
+
+ Literacy: age 15 and over can read and write (1989)
+ total population: 71%
+ male: 81%
+ female: 62%
+
+ Labor force:
+ by occupation: agriculture 75%-80% (1993 est.), non-agriculture
+ 20%-25% (1993 est.)
+
+@Kenya:Government
+
+ Names:
+ conventional long form: Republic of Kenya
+ conventional short form: Kenya
+ former: British East Africa
+
+ Digraph: KE
+
+ Type: republic
+
+ Capital: Nairobi
+
+ Administrative divisions: 7 provinces and 1 area*; Central, Coast,
+ Eastern, Nairobi Area*, North Eastern, Nyanza, Rift Valley, Western
+
+ Independence: 12 December 1963 (from UK)
+
+ National holiday: Independence Day, 12 December (1963)
+
+ Constitution: 12 December 1963, amended as a republic 1964; reissued
+ with amendments 1979, 1983, 1986, 1988, 1991, and 1992
+
+ Legal system: based on English common law, tribal law, and Islamic
+ law; judicial review in High Court; accepts compulsory ICJ
+ jurisdiction, with reservations; constitutional amendment of 1982
+ making Kenya a de jure one-party state repealed in 1991
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch:
+ chief of state and head of government: President Daniel Toroitich arap
+ MOI (since 14 October 1978); Vice President George SAITOTI (since 10
+ May 1989); election last held on 29 December 1992 (next to be held NA
+ 1997); results - President Daniel T. arap MOI was reelected with 37%
+ of the vote; Kenneth Matiba (FORD-ASILI) 26%; Mwai Kibaki (SP) 19%,
+ Oginga Odinga (FORD-Kenya) 17%
+ cabinet: Cabinet; appointed by the president
+
+ Legislative branch: unicameral
+ National Assembly (Bunge): elections last held on 29 December 1992
+ (next to be held NA); results - percent of vote by party NA; seats -
+ (188 total) KANU 100, FORD-Kenya 31, FORD-Asili 31, DP 23, smaller
+ parties 3; president nominates 12 additional members
+ note: first multiparty election since repeal of one-party state law in
+ 1991
+
+ Judicial branch: Court of Appeal, High Court
+
+ Political parties and leaders: ruling party is Kenya African National
+ Union (KANU), President Daniel Toroitich arap MOI; opposition parties
+ include Forum for the Restoration of Democracy (FORD-Kenya), Michael
+ WAMALWA; Forum for the Restoration of Democracy (FORD-Asili), Kenneth
+ MATIBA; Democratic Party of Kenya (DP), Mwai KIBAKI
+
+ Other political or pressure groups: labor unions; Roman Catholic
+ Church
+
+ Member of: ESCAP, FAO, G-77, ICAO, ICRM, IFAD, IFRCS, IMO, INTELSAT
+ (nonsignatory user), IOC, ISO, ITU, NAM, UN, UNCTAD, UNESCO, UNIDO,
+ UNOMIL, UNU, UPU, WFTU, WHO, WIPO, WMO, WTO
+
+ Diplomatic representation in US:
+ chief of mission: Benjamin Edgar KIPKORIR
+ chancery: 2249 R Street NW, Washington, DC 20008
+ telephone: [1] (202) 387-6101
+ FAX: [1] (202) 462-3829
+ consulate(s) general: Los Angeles and New York
+
+ US diplomatic representation:
+ chief of mission: Ambassador Aurelia BRAZEAL
+ embassy: corner of Moi Avenue and Haile Selassie Avenue, Nairobi
+ mailing address: P. O. Box 30137, Unit 64100, Nairobi; APO AE 09831
+ telephone: [254] (2) 334141
+ FAX: [254] (2) 340838
+
+ Flag: three equal horizontal bands of black (top), red, and green; the
+ red band is edged in white; a large warrior's shield covering crossed
+ spears is superimposed at the center
+
+@Kenya:Economy
+
+ Overview: Kenya in recent years has had one of the highest natural
+ rates of growth in population, but the statistics have been
+ complicated by the large-scale movement of nomadic groups and of
+ Somalis back and forth across the border. Population growth has been
+ accompanied by deforestation, deterioration in the road system, the
+ water supply, and other parts of the infrastructure. In industry and
+ services, Nairobi's reluctance to embrace IMF-supported reforms had
+ held back investment and growth in 1991-93. Nairobi's push on economic
+ reform in 1994, however, helped support a 3.3% increase in output.
+
+ National product: GDP - purchasing power parity - $33.1 billion (1994
+ est.)
+
+ National product real growth rate: 3.3% (1994 est.)
+
+ National product per capita: $1,170 (1994 est.)
+
+ Inflation rate (consumer prices): 30% (1994 est.)
+
+ Unemployment rate: 35% urban (1994 est.)
+
+ Budget:
+ revenues: $2.4 billion
+ expenditures: $2.8 billion, including capital expenditures of $740
+ million (1990 est.)
+
+ Exports: $1.45 billion (f.o.b., 1994 est.)
+ commodities: tea 25%, coffee 18%, petroleum products 11% (1990)
+ partners: EC 47%, Africa 23%, Asia 11%, US 4%, Middle East 3% (1991)
+
+ Imports: $1.85 billion (f.o.b., 1994 est.)
+ commodities: machinery and transportation equipment 29%, petroleum and
+ petroleum products 15%, iron and steel 7%, raw materials, food and
+ consumer goods (1989)
+ partners: EC 46%, Asia 23%, Middle East 20%, US 5% (1991)
+
+ External debt: $7 billion (1994 est.)
+
+ Industrial production: growth rate 3.9% (1991 est.); accounts for 14%
+ of GDP
+
+ Electricity:
+ capacity: 810,000 kW
+ production: 3.3 billion kWh
+ consumption per capita: 117 kWh (1993)
+
+ Industries: small-scale consumer goods (plastic, furniture, batteries,
+ textiles, soap, cigarettes, flour), processing agricultural products,
+ oil refining, cement, tourism
+
+ Agriculture: most important sector, accounting for 27% of GDP and 65%
+ of exports; cash crops - coffee, tea; food products - corn, wheat,
+ sugarcane, fruit, vegetables, dairy products, beef, pork, poultry,
+ eggs
+
+ Illicit drugs: widespread harvesting of small, wild plots of marijuana
+ and qat; most locally consumed; transit country for Southwest Asian
+ heroin moving to West Africa and onward to Europe and North America;
+ Indian methaqualone also transits on way to South Africa
+
+ Economic aid:
+ recipient: US commitments, including Ex-Im (FY70-89), $839 million;
+ Western (non-US) countries, ODA and OOF bilateral commitments
+ (1970-89), $7.49 billion; OPEC bilateral aid (1979-89), $74 million;
+ Communist countries (1970-89), $83 million
+
+ Currency: 1 Kenyan shilling (KSh) = 100 cents
+
+ Exchange rates: Kenyan shillings (KSh) per US$1 - 44.478 (January
+ 1995), 56.051 (1994), 58.001 (1993), 32.217 (1992), 27.508 (1991),
+ 22.915 (1990)
+
+ Fiscal year: 1 July - 30 June
+
+@Kenya:Transportation
+
+ Railroads:
+ total: 2,650 km
+ narrow gauge: 2,650 km 1.000-m gauge
+
+ Highways:
+ total: 64,590 km
+ paved: 7,000 km
+ unpaved: gravel 4,150 km; improved earth 53,440 km
+
+ Inland waterways: part of Lake Victoria system is within boundaries of
+ Kenya
+
+ Pipelines: petroleum products 483 km
+
+ Ports: Kisumu, Lamu, Mombasa
+
+ Merchant marine:
+ total: 2 ships (1,000 GRT or over) totaling 4,883 GRT/6,255 DWT
+ ships by type: barge carrier 1, oil tanker 1
+
+ Airports:
+ total: 246
+ with paved runways over 3,047 m: 3
+ with paved runways 2,438 to 3,047 m: 2
+ with paved runways 1,524 to 2,437 m: 2
+ with paved runways 914 to 1,523 m: 22
+ with paved runways under 914 m: 83
+ with unpaved runways 2,438 to 3,047 m: 1
+ with unpaved runways 1,524 to 2,438 m: 14
+ with unpaved runways 914 to 1,523 m: 119
+
+@Kenya:Communications
+
+ Telephone system: over 260,000 telephones; in top group of African
+ systems
+ local: NA
+ intercity: consists primarily of microwave radio relay links
+ international: 2 INTELSAT (1 Atlantic Ocean and 1 Indian Ocean) earth
+ stations
+
+ Radio:
+ broadcast stations: AM 16, FM 4, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 6
+ televisions: NA
+
+@Kenya:Defense Forces
+
+ Branches: Army, Navy, Air Force, paramilitary General Service Unit of
+ the Police
+
+ Manpower availability: males age 15-49 6,358,344; males fit for
+ military service 3,932,506 (1995 est.)
+
+ Defense expenditures: exchange rate conversion - $136 million, 1.9% of
+ GDP (FY93/94)
+
+
+________________________________________________________________________
+
+KINGMAN REEF
+
+ (territory of the US) 
+
+@Kingman Reef:Geography
+
+ Location: Oceania, reef in the North Pacific Ocean, about one-half of
+ the way from Hawaii to American Samoa
+
+ Map references: Oceania
+
+ Area:
+ total area: 1 sq km
+ land area: 1 sq km
+ comparative area: about 1.7 times the size of The Mall in Washington,
+ DC
+
+ Land boundaries: 0 km
+
+ Coastline: 3 km
+
+ Maritime claims:
+ exclusive economic zone: 200 nm
+ territorial sea: 12 nm
+
+ International disputes: none
+
+ Climate: tropical, but moderated by prevailing winds
+
+ Terrain: low and nearly level with a maximum elevation of about 1
+ meter
+
+ Natural resources: none
+
+ Land use:
+ arable land: 0%
+ permanent crops: 0%
+ meadows and pastures: 0%
+ forest and woodland: 0%
+ other: 100%
+
+ Irrigated land: 0 sq km
+
+ Environment:
+ current issues: NA
+ natural hazards: wet or awash most of the time, maximum elevation of
+ about 1 meter makes this a maritime hazard
+ international agreements: NA
+
+ Note: barren coral atoll with deep interior lagoon; closed to the
+ public
+
+@Kingman Reef:People
+
+ Population: uninhabited
+
+@Kingman Reef:Government
+
+ Names:
+ conventional long form: none
+ conventional short form: Kingman Reef
+
+ Digraph: KQ
+
+ Type: unincorporated territory of the US administered by the US Navy,
+ however it is awash the majority of the time, so it is not usable and
+ is uninhabited
+
+ Capital: none; administered from Washington, DC
+
+@Kingman Reef:Economy
+
+ Overview: no economic activity
+
+@Kingman Reef:Transportation
+
+ Ports: none; offshore anchorage only
+
+ Airports: lagoon was used as a halfway station between Hawaii and
+ American Samoa by Pan American Airways for flying boats in 1937 and
+ 1938
+
+@Kingman Reef:Defense Forces
+
+ Note: defense is the responsibility of the US
+
+
+________________________________________________________________________
+
+KIRIBATI
+
+@Kiribati:Geography
+
+ Location: Oceania, group of islands in the Pacific Ocean, straddling
+ the equator and the International Date Line, about one-half of the way
+ from Hawaii to Australia
+
+ Map references: Oceania
+
+ Area:
+ total area: 717 sq km
+ land area: 717 sq km
+ comparative area: slightly more than four times the size of
+ Washington, DC
+ note: includes three island groups - Gilbert Islands, Line Islands,
+ Phoenix Islands
+
+ Land boundaries: 0 km
+
+ Coastline: 1,143 km
+
+ Maritime claims:
+ exclusive economic zone: 200 nm
+ territorial sea: 12 nm
+
+ International disputes: none
+
+ Climate: tropical; marine, hot and humid, moderated by trade winds
+
+ Terrain: mostly low-lying coral atolls surrounded by extensive reefs
+
+ Natural resources: phosphate (production discontinued in 1979)
+
+ Land use:
+ arable land: 0%
+ permanent crops: 51%
+ meadows and pastures: 0%
+ forest and woodland: 3%
+ other: 46%
+
+ Irrigated land: NA sq km
+
+ Environment:
+ current issues: NA
+ natural hazards: typhoons can occur any time, but usually November to
+ March; occasional tornadoes
+ international agreements: party to - Biodiversity, Endangered Species,
+ Marine Dumping, Ozone Layer Protection; signed, but not ratified -
+ Climate Change
+
+ Note: 20 of the 33 islands are inhabited; Banaba (Ocean Island) in
+ Kiribati is one of the three great phosphate rock islands in the
+ Pacific Ocean - the others are Makatea in French Polynesia and Nauru
+
+@Kiribati:People
+
+ Population: 79,386 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: NA
+ 15-64 years: NA
+ 65 years and over: NA
+
+ Population growth rate: 1.95% (1995 est.)
+
+ Birth rate: 31.25 births/1,000 population (1995 est.)
+
+ Death rate: 12.31 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 0.56 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 98.4 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 54.16 years
+ male: 52.56 years
+ female: 55.78 years (1995 est.)
+
+ Total fertility rate: 3.73 children born/woman (1995 est.)
+
+ Nationality:
+ noun: I-Kiribati (singular and plural)
+ adjective: I-Kiribati
+
+ Ethnic divisions: Micronesian
+
+ Religions: Roman Catholic 52.6%, Protestant (Congregational) 40.9%,
+ Seventh-Day Adventist, Baha'i, Church of God, Mormon 6% (1985)
+
+ Languages: English (official), Gilbertese
+
+ Literacy: NA%
+
+ Labor force: 7,870 economically active, not including subsistence
+ farmers (1985 est.)
+
+@Kiribati:Government
+
+ Names:
+ conventional long form: Republic of Kiribati
+ conventional short form: Kiribati
+ former: Gilbert Islands
+
+ Digraph: KR
+
+ Type: republic
+
+ Capital: Tarawa
+
+ Administrative divisions: 3 units; Gilbert Islands, Line Islands,
+ Phoenix Islands
+ note: in addition, there are 6 districts (Banaba, Central Gilberts,
+ Line Islands, Northern Gilberts, Southern Gilberts, Tarawa) and 21
+ island councils (Abaiang, Abemama, Aranuka, Arorae, Banaba, Beru,
+ Butaritari, Kanton, Kiritimati, Kuria, Maiana, Makin, Marakei,
+ Nikunau, Nonouti, Onotoa, Tabiteuea, Tabuaeran, Tamana, Tarawa,
+ Teraina; note - one council for each of the inhabited islands)
+
+ Independence: 12 July 1979 (from UK)
+
+ National holiday: Independence Day, 12 July (1979)
+
+ Constitution: 12 July 1979
+
+ Legal system: NA
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch:
+ chief of state and head of government: President (Beretitenti)
+ Teburoro TITO (since 1 October 1994); Vice President
+ (Kauoman-ni-Beretitenti) Tewareka TENTOA (since 12 October 1994);
+ election last held on 30 September 1994 (next to be held by NA 1999)
+ cabinet: Cabinet; appointed by the president from an elected
+ parliament
+
+ Legislative branch: unicameral
+ House of Assembly (Maneaba Ni Maungatabu): elections last held on 22
+ July 1994 (next to be held by NA 1999); results - percent of vote by
+ party NA; seats - (40 total; 39 elected) Maneaban Te Mauri 13,
+ National Progressive Party 7, independents 19
+
+ Judicial branch: Court of Appeal, High Court
+
+ Political parties and leaders: National Progressive Party, Teatao
+ TEANNAKI; Christian Democratic Party, Teburoro TITO; New Movement
+ Party, leader NA; Liberal Party, Tewareka TENTOA; Maneaba Party,
+ Roniti TEIWAKI; Maneaban Te Mauri, leader NA
+ note: there is no tradition of formally organized political parties in
+ Kiribati; they more closely resemble factions or interest groups
+ because they have no party headquarters, formal platforms, or party
+ structures
+
+ Member of: ACP, AsDB, C, ESCAP, IBRD, ICAO, ICFTU, IDA, IFC, IFRCS
+ (associate), IMF, INTELSAT (nonsignatory user), INTERPOL, ITU,
+ SPARTECA, SPC, SPF, UNESCO, UPU, WHO
+
+ Diplomatic representation in US: Kiribati has no mission in the US
+
+ US diplomatic representation: the ambassador to Fiji is accredited to
+ Kiribati
+
+ Flag: the upper half is red with a yellow frigate bird flying over a
+ yellow rising sun, and the lower half is blue with three horizontal
+ wavy white stripes to represent the ocean
+
+@Kiribati:Economy
+
+ Overview: A remote country of 33 scattered coral atolls, Kiribati has
+ few national resources. Commercially viable phosphate deposits were
+ exhausted at the time of independence in 1979. Copra and fish now
+ represent the bulk of production and exports. The economy has
+ fluctuated widely in recent years. Real GDP declined about 5% in 1987,
+ as the fish catch fell sharply to only one-fourth the level of 1986
+ and copra production was hampered by repeated rains. Output rebounded
+ strongly in 1988, with real GDP growing by 10%. The upturn in economic
+ growth came from an increase in copra production and a good fish
+ catch. GDP then fell by 2.2% in 1989 and by 2.9% in 1990, but has
+ risen by about 3% annually in 1991-93. Foreign financial aid, largely
+ from the UK and Japan, is a critical supplement to GDP, amounting to
+ 25%-50% of GDP in recent years.
+
+ National product: GDP - purchasing power parity - $62 million (1993
+ est.)
+
+ National product real growth rate: 2.9% (1993 est.)
+
+ National product per capita: $800 (1993 est.)
+
+ Inflation rate (consumer prices): 6.5% (1993 est.)
+
+ Unemployment rate: 2%; underemployment 70% (1992 est.)
+
+ Budget:
+ revenues: $29.6 million
+ expenditures: $32.8 million, including capital expenditures of $14
+ million (1993 est.)
+
+ Exports: $4.2 million (f.o.b., 1992 est.)
+ commodities: copra 50%, seaweed 16%, fish 15%
+ partners: Denmark, Fiji, US
+
+ Imports: $33.1 million (c.i.f., 1992 est.)
+ commodities: foodstuffs, machinery and equipment, miscellaneous
+ manufactured goods, fuel
+ partners: Australia 40%, Japan 18%, Fiji 17%, NZ 6%, US 4% (1991)
+
+ External debt: $2 million (December 1989 est.)
+
+ Industrial production: growth rate 0.7% (1992 est.); accounts for less
+ than 4% of GDP
+
+ Electricity:
+ capacity: 5,000 kW
+ production: 13 million kWh
+ consumption per capita: 131 kWh (1993)
+
+ Industries: fishing, handicrafts
+
+ Agriculture: accounts for 23% of GDP (including fishing); copra and
+ fish contribute about 65% to exports; subsistence farming
+ predominates; food crops - taro, breadfruit, sweet potatoes,
+ vegetables; not self-sufficient in food
+
+ Economic aid:
+ recipient: Western (non-US) countries, ODA and OOF bilateral
+ commitments (1970-89), $273 million
+
+ Currency: 1 Australian dollar ($A) = 100 cents
+
+ Exchange rates: Australian dollars ($A) per US$1 - 1.3058 (January
+ 1995), 1.3667 (1994), 1.4704 (1993), 1.3600 (1992), 1.2835 (1991),
+ 1.2799 (1990)
+
+ Fiscal year: NA
+
+@Kiribati:Transportation
+
+ Railroads: 0 km
+
+ Highways:
+ total: 640 km
+ paved: NA
+ unpaved: NA
+
+ Inland waterways: small network of canals, totaling 5 km, in Line
+ Islands
+
+ Ports: Banaba, Betio, English Harbor, Kanton
+
+ Merchant marine:
+ total: 1 passenger-cargo ship (1,000 GRT or over) totaling 1,291
+ GRT/1,295 DWT
+
+ Airports:
+ total: 21
+ with paved runways 1,524 to 2,437 m: 4
+ with paved runways 914 to 1,523 m: 1
+ with paved runways under 914 m: 5
+ with unpaved runways 914 to 1,523 m: 11
+
+@Kiribati:Communications
+
+ Telephone system: 1,400 telephones
+ local: NA
+ intercity: NA
+ international: 1 INTELSAT (Pacific Ocean) earth station
+
+ Radio:
+ broadcast stations: AM 1, FM 0, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 0
+ televisions: NA
+
+@Kiribati:Defense Forces
+
+ Branches: Police Force (carries out law enforcement functions and
+ paramilitary duties; there are small police posts on all islands); no
+ military force is maintained
+
+ Defense expenditures: $NA, NA% of GDP
+
+
+________________________________________________________________________
+
+KOREA, NORTH
+
+@Korea, North:Geography
+
+ Location: Eastern Asia, northern half of the Korean peninsula
+ bordering the Korea Bay and the Sea of Japan, between China and Russia
+
+ Map references: Asia
+
+ Area:
+ total area: 120,540 sq km
+ land area: 120,410 sq km
+ comparative area: slightly smaller than Mississippi
+
+ Land boundaries: total 1,673 km, China 1,416 km, South Korea 238 km,
+ Russia 19 km
+
+ Coastline: 2,495 km
+
+ Maritime claims:
+ territorial sea: 12 nm
+ exclusive economic zone: 200 nm
+ military boundary line: 50 nm in the Sea of Japan and the exclusive
+ economic zone limit in the Yellow Sea where all foreign vessels and
+ aircraft without permission are banned
+
+ International disputes: short section of boundary with China is
+ indefinite; Demarcation Line with South Korea
+
+ Climate: temperate with rainfall concentrated in summer
+
+ Terrain: mostly hills and mountains separated by deep, narrow valleys;
+ coastal plains wide in west, discontinuous in east
+
+ Natural resources: coal, lead, tungsten, zinc, graphite, magnesite,
+ iron ore, copper, gold, pyrites, salt, fluorspar, hydropower
+
+ Land use:
+ arable land: 18%
+ permanent crops: 1%
+ meadows and pastures: 0%
+ forest and woodland: 74%
+ other: 7%
+
+ Irrigated land: 14,000 sq km (1989)
+
+ Environment:
+ current issues: localized air pollution attributable to inadequate
+ industrial controls; water pollution; inadequate supplies of potable
+ water
+ natural hazards: late spring droughts often followed by severe
+ flooding; occasional typhoons during the early fall
+ international agreements: party to - Antarctic Treaty, Biodiversity,
+ Climate Change, Environmental Modification, Ozone Layer Protection,
+ Ship Pollution; signed, but not ratified - Antarctic-Environmental
+ Protocol, Law of the Sea
+
+ Note: strategic location bordering China, South Korea, and Russia;
+ mountainous interior is isolated, nearly inaccessible, and sparsely
+ populated
+
+@Korea, North:People
+
+ Population: 23,486,550 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 30% (female 3,402,672; male 3,540,313)
+ 15-64 years: 66% (female 7,840,465; male 7,741,155)
+ 65 years and over: 4% (female 622,250; male 339,695) (July 1995 est.)
+
+ Population growth rate: 1.78% (1995 est.)
+
+ Birth rate: 23.31 births/1,000 population (1995 est.)
+
+ Death rate: 5.47 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 0 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 26.8 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 70.05 years
+ male: 66.96 years
+ female: 73.29 years (1995 est.)
+
+ Total fertility rate: 2.34 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Korean(s)
+ adjective: Korean
+
+ Ethnic divisions: racially homogeneous
+
+ Religions: Buddhism and Confucianism, some Christianity and syncretic
+ Chondogyo
+ note: autonomous religious activities now almost nonexistent;
+ government-sponsored religious groups exist to provide illusion of
+ religious freedom
+
+ Languages: Korean
+
+ Literacy: age 15 and over can read and write Korean (1990 est.)
+ total population: 99%
+ male: 99%
+ female: 99%
+
+ Labor force: 9.615 million
+ by occupation: agricultural 36%, nonagricultural 64%
+ note: shortage of skilled and unskilled labor (mid-1987 est.)
+
+@Korea, North:Government
+
+ Names:
+ conventional long form: Democratic People's Republic of Korea
+ conventional short form: North Korea
+ local long form: Choson-minjujuui-inmin-konghwaguk
+ local short form: none
+ note: the North Koreans generally use the term "Choson" to refer to
+ their country
+
+ Abbreviation: DPRK
+
+ Digraph: KN
+
+ Type: Communist state; Stalinist dictatorship
+
+ Capital: P'yongyang
+
+ Administrative divisions: 9 provinces (do, singular and plural) and 3
+ special cities* (jikhalsi, singular and plural); Chagang-do (Chagang
+ Province), Hamgyong-bukto (North Hamgyong Province), Hamgyong-namdo
+ (South Hamgyong Province), Hwanghae-bukto (North Hwanghae Province),
+ Hwanghae-namdo (South Hwanghae Province), Kaesong-si* (Kaesong City),
+ Kangwon-do (Kangwon Province), Namp'o-si* (Namp'o City),
+ P'yongan-bukto (North P'yongan Province), P'yongan-namdo (South
+ P'yongan Province), P'yongyang-si* (P'yongyang City), Yanggang-do
+ (Yanggang Province)
+
+ Independence: 9 September 1948
+ note: 15 August 1945, date of independence from the Japanese and
+ celebrated in North Korea as National Liberation Day
+
+ National holiday: DPRK Foundation Day, 9 September (1948)
+
+ Constitution: adopted 1948, completely revised 27 December 1972,
+ revised again in April 1992
+
+ Legal system: based on German civil law system with Japanese
+ influences and Communist legal theory; no judicial review of
+ legislative acts; has not accepted compulsory ICJ jurisdiction
+
+ Suffrage: 17 years of age; universal
+
+ Executive branch:
+ chief of state: KIM Chong-il, is the son of and designated successor
+ to former President KIM Il-song (who died 8 July 1994); formal
+ succession has not yet taken place (January 1995); election last held
+ 24 May 1990 (next to be held by NA); results - President KIM Il-song
+ was reelected without opposition
+ head of government: Premier KANG Song-san (since December 1992)
+ cabinet: State Administration Council; appointed by the Supreme
+ People's Assembly
+
+ Legislative branch: unicameral
+ Supreme People's Assembly (Ch'oego Inmin Hoeui): elections last held
+ on 7-9 April 1990 (next to be held NA); results - percent of vote by
+ party NA; seats - (687 total) the KWP approves a single list of
+ candidates who are elected without opposition; minor parties hold a
+ few seats
+
+ Judicial branch: Central Court
+
+ Political parties and leaders: major party - Korean Workers' Party
+ (KWP), KIM Chong-il, secretary, Central Committee; Korean Social
+ Democratic Party, KIM Pyong-sik, chairman; Chondoist Chongu Party, YU
+ Mi-yong, chairwoman
+
+ Member of: ESCAP, FAO, G-77, ICAO, IFAD, IFRCS, IMO, INTELSAT
+ (nonsignatory user), IOC, ISO, ITU, NAM, UN, UNCTAD, UNESCO, UNIDO,
+ UPU, WFTU, WHO, WIPO, WMO, WTO
+
+ Diplomatic representation in US: none
+
+ US diplomatic representation: none
+
+ Flag: three horizontal bands of blue (top), red (triple width), and
+ blue; the red band is edged in white; on the hoist side of the red
+ band is a white disk with a red five-pointed star
+
+@Korea, North:Economy
+
+ Overview: More than 90% of this command economy is socialized;
+ agricultural land is collectivized; and state-owned industry produces
+ 95% of manufactured goods. State control of economic affairs is
+ unusually tight even for a Communist country because of the small size
+ and homogeneity of the society and the strict rule of KIM Il-song in
+ the past and now his son, KIM Chong-il. Economic growth during the
+ period 1984-88 averaged 2%-3%, but output declined by 3%-5% annually
+ during 1989-92 because of systemic problems and disruptions in
+ socialist-style economic relations with the former USSR and China. In
+ 1992, output dropped sharply, by perhaps 7%-9%, as the economy felt
+ the cumulative effect of the reduction in outside support. The
+ leadership insisted on maintaining its high level of military outlays
+ from a shrinking economic pie. Moreover, a serious drawdown in
+ inventories and critical shortages in the energy sector have led to
+ increasing interruptions in industrial production. Abundant mineral
+ resources and hydropower have formed the basis of industrial
+ development since World War II. Output of the extractive industries
+ includes coal, iron ore, magnesite, graphite, copper, zinc, lead, and
+ precious metals. Manufacturing is centered on heavy industry,
+ including military industry, with light industry lagging far behind.
+ Despite the use of improved seed varieties, expansion of irrigation,
+ and the heavy use of fertilizers, North Korea has not yet become
+ self-sufficient in food production. Indeed, a shortage of arable
+ lands, several years of poor harvests, and a cumbersome distribution
+ system have resulted in chronic food shortages. The collapse of
+ Communism in the former Soviet Union and Eastern Europe in 1989-91 has
+ disrupted important technological links. North Korea remains far
+ behind South Korea in economic development and living standards. GDP
+ is stagnant.
+
+ National product: GDP - purchasing power parity - $21.3 billion (1994
+ est.)
+
+ National product real growth rate: 0% (1994 est.)
+
+ National product per capita: $920 (1994 est.)
+
+ Inflation rate (consumer prices): NA%
+
+ Unemployment rate: NA%
+
+ Budget:
+ revenues: $19.3 billion
+ expenditures: $19.3 billion, including capital expenditures of $NA
+ (1992 est.)
+
+ Exports: $1.02 billion (f.o.b., 1993 est.)
+ commodities: minerals, metallurgical products, agricultural and
+ fishery products, manufactures (including armaments)
+ partners: China, Japan, Russia, South Korea, Germany, Hong Kong
+
+ Imports: $1.64 billion (f.o.b., 1993 est.)
+ commodities: petroleum, grain, coking coal, machinery and equipment,
+ consumer goods
+ partners: China, Russia, Japan, Hong Kong, Germany, Singapore
+
+ External debt: $8 billion (1992 est.)
+
+ Industrial production: growth rate -7% to -9% (1992 est.)
+
+ Electricity:
+ capacity: 9,500,000 kW
+ production: 50 billion kWh
+ consumption per capita: 2,053 kWh (1993)
+
+ Industries: machine building, military products, electric power,
+ chemicals, mining, metallurgy, textiles, food processing
+
+ Agriculture: accounts for about 25% of GDP and 36% of work force;
+ principal crops - rice, corn, potatoes, soybeans, pulses; livestock
+ and livestock products - cattle, hogs, pork, eggs; not self-sufficient
+ in grain
+
+ Economic aid:
+ recipient: Communist countries, $1.4 billion a year in the 1980s, but
+ very little now
+
+ Currency: 1 North Korean won (Wn) = 100 chon
+
+ Exchange rates: North Korean won (Wn) per US$1 - 2.15 (May 1994), 2.13
+ (May 1992), 2.14 (September 1991), 2.1 (January 1990), 2.3 (December
+ 1989)
+
+ Fiscal year: calendar year
+
+@Korea, North:Transportation
+
+ Railroads:
+ total: 4,915 km
+ standard gauge: 4,250 km 1.435-m gauge (3,397 km electrified; 159 km
+ double track)
+ narrow gauge: 665 km 0.762-m gauge (1989)
+
+ Highways:
+ total: 30,000 km
+ paved: 1,861 km
+ unpaved: gravel, crushed stone, earth 28,139 km (1992)
+
+ Inland waterways: 2,253 km; mostly navigable by small craft only
+
+ Pipelines: crude oil 37 km
+
+ Ports: Ch'ongjin, Haeju, Hungnam (Hamhung), Kimch'aek, Kosong, Najin,
+ Namp'o, Sinuiju, Songnim, Sonbong (formerly Unggi), Ungsang, Wonsan
+
+ Merchant marine:
+ total: 87 ships (1,000 GRT or over) totaling 727,631 GRT/1,149,291 DWT
+
+ ships by type: bulk 9, cargo 70, combination bulk 1, oil tanker 3,
+ passenger 2, passenger-cargo 1, short-sea passenger 1
+ note: North Korea owns an additional 4 ships (1,000 GRT or over)
+ totaling approximately 32,405 DWT that operate under Honduran registry
+
+ Airports:
+ total: 49
+ with paved runways over 3,047 m: 2
+ with paved runways 2,438 to 3,047 m: 15
+ with paved runways 1,524 to 2,437 m: 2
+ with paved runways 914 to 1,523 m: 1
+ with paved runways under 914 m: 2
+ with unpaved runways 2,438 to 3,047 m: 4
+ with unpaved runways 1,524 to 2,438 m: 5
+ with unpaved runways 914 to 1,523 m: 12
+ with unpaved runways under 914 m: 6
+
+@Korea, North:Communications
+
+ Telephone system: telephone system is believed to be available only to
+ government officials and not to private individuals
+ local: NA
+ intercity: NA
+ international: 1 earth station near P'yongyang, uses an Indian Ocean
+ INTELSAT satellite; other international connections through Moscow and
+ Beijing
+
+ Radio:
+ broadcast stations: AM 18, FM 0, shortwave 0
+ radios: 3.5 million
+
+ Television:
+ broadcast stations: 11
+ televisions: 350,000 (1989)
+
+@Korea, North:Defense Forces
+
+ Branches: Korean People's Army (includes Army, Navy, Air Force), Civil
+ Security Forces
+
+ Manpower availability: males age 15-49 6,753,400; males fit for
+ military service 4,094,854; males reach military age (18) annually
+ 193,480 (1995 est.)
+
+ Defense expenditures: exchange rate conversion - about $5 billion,
+ 20%-25% of GDP (1991 est.); note - the officially announced but
+ suspect figure is $2.2 billion (1994), about 12% of total spending
+
+
+________________________________________________________________________
+
+KOREA, SOUTH
+
+@Korea, South:Geography
+
+ Location: Eastern Asia, southern half of the Korean peninsula
+ bordering the Sea of Japan and the Yellow Sea, south of North Korea
+
+ Map references: Asia
+
+ Area:
+ total area: 98,480 sq km
+ land area: 98,190 sq km
+ comparative area: slightly larger than Indiana
+
+ Land boundaries: total 238 km, North Korea 238 km
+
+ Coastline: 2,413 km
+
+ Maritime claims:
+ continental shelf: not specified
+ territorial sea: 12 nm; 3 nm in the Korea Strait
+
+ International disputes: Demarcation Line with North Korea; Liancourt
+ Rocks claimed by Japan
+
+ Climate: temperate, with rainfall heavier in summer than winter
+
+ Terrain: mostly hills and mountains; wide coastal plains in west and
+ south
+
+ Natural resources: coal, tungsten, graphite, molybdenum, lead,
+ hydropower
+
+ Land use:
+ arable land: 21%
+ permanent crops: 1%
+ meadows and pastures: 1%
+ forest and woodland: 67%
+ other: 10%
+
+ Irrigated land: 13,530 sq km (1989)
+
+ Environment:
+ current issues: air pollution in large cities; water pollution from
+ the discharge of sewage and industrial effluents; driftnet fishing
+ natural hazards: occasional typhoons bring high winds and floods;
+ earthquakes in southwest
+ international agreements: party to - Antarctic Treaty, Biodiversity,
+ Climate Change, Endangered Species, Environmental Modification,
+ Hazardous Wastes, Nuclear Test Ban, Ozone Layer Protection, Ship
+ Pollution, Tropical Timber 83, Whaling; signed, but not ratified -
+ Antarctic-Environmental Protocol, Desertification, Law of the Sea
+
+@Korea, South:People
+
+ Population: 45,553,882 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 24% (female 5,280,998; male 5,640,789)
+ 15-64 years: 71% (female 15,877,182; male 16,291,183)
+ 65 years and over: 5% (female 1,554,512; male 909,218) (July 1995
+ est.)
+
+ Population growth rate: 1.04% (1995 est.)
+
+ Birth rate: 15.63 births/1,000 population (1995 est.)
+
+ Death rate: 6.18 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 0.9 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 20.9 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 70.89 years
+ male: 67.69 years
+ female: 74.29 years (1995 est.)
+
+ Total fertility rate: 1.66 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Korean(s)
+ adjective: Korean
+
+ Ethnic divisions: homogeneous (except for about 20,000 Chinese)
+
+ Religions: Christianity 48.6%, Buddhism 47.4%, Confucianism 3%,
+ pervasive folk religion (shamanism), Chondogyo (Religion of the
+ Heavenly Way) 0.2%
+
+ Languages: Korean, English widely taught in high school
+
+ Literacy: age 15 and over can read and write (1990 est.)
+ total population: 96%
+ male: 99%
+ female: 94%
+
+ Labor force: 20 million
+ by occupation: services and other 52%, mining and manufacturing 27%,
+ agriculture, fishing, forestry 21% (1991)
+
+@Korea, South:Government
+
+ Names:
+ conventional long form: Republic of Korea
+ conventional short form: South Korea
+ local long form: Taehan-min'guk
+ local short form: none
+ note: the South Koreans generally use the term "Hanguk" to refer to
+ their country
+
+ Abbreviation: ROK
+
+ Digraph: KS
+
+ Type: republic
+
+ Capital: Seoul
+
+ Administrative divisions: 9 provinces (do, singular and plural) and 6
+ special cities* (jikhalsi, singular and plural); Cheju-do,
+ Cholla-bukto, Cholla-namdo, Ch'ungch'ong-bukto, Ch'ungch'ong-namdo,
+ Inch'on-jikhalsi*, Kangwon-do, Kwangju-jikhalsi*, Kyonggi-do,
+ Kyongsang-bukto, Kyongsang-namdo, Pusan-jikhalsi*, Soul-t'ukpyolsi*,
+ Taegu-jikhalsi*, Taejon-jikhalsi*
+
+ Independence: 15 August 1948
+
+ National holiday: Independence Day, 15 August (1948)
+
+ Constitution: 25 February 1988
+
+ Legal system: combines elements of continental European civil law
+ systems, Anglo-American law, and Chinese classical thought
+
+ Suffrage: 20 years of age; universal
+
+ Executive branch:
+ chief of state: President KIM Yong-sam (since 25 February 1993);
+ election last held on 18 December 1992 (next to be held NA December
+ 1997); results - KIM Yong-sam (DLP) 41.9%, KIM Tae-chung (DP) 33.8%,
+ CHONG Chu-yong (UPP) 16.3%, other 8%
+ head of government: Prime Minister YI Hong-ku (since 17 December
+ 1994); Deputy Prime Minister HONG Chae-yong (since 4 October 1994) and
+ Deputy Prime Minister KIM Tok (since 23 December 1994)
+ cabinet: State Council; appointed by the president on the prime
+ minister's recommendation
+
+ Legislative branch: unicameral
+ National Assembly (Kukhoe): elections last held on 24 March 1992;
+ results - DLP 38.5%, DP 29.2%, Unification National Party (UNP) 17.3%
+ (name later changed to UPP), other 15%; seats - (299 total) DLP 149,
+ DP 97, UNP 31, other 22; the distribution of seats as of January 1994
+ was DLP 172, DP 96, UPP 11, other 20
+ note: the change in the distribution of seats reflects the fluidity of
+ the current situation where party members are constantly switching
+ from one party to another
+
+ Judicial branch: Supreme Court
+
+ Political parties and leaders:
+ majority party: Democratic Liberal Party (DLP), KIM Yong-sam,
+ president
+ opposition: Democratic Party (DP), YI Ki-taek, executive chairman;
+ United People's Party (UPP), KIM Tong-kil, chairman; several smaller
+ parties
+ note: the DLP resulted from a merger of the Democratic Justice Party
+ (DJP), Reunification Democratic Party (RDP), and New Democratic
+ Republican Party (NDRP) on 9 February 1990
+
+ Other political or pressure groups: Korean National Council of
+ Churches; National Democratic Alliance of Korea; National Federation
+ of Student Associations; National Federation of Farmers' Associations;
+ National Council of Labor Unions; Federation of Korean Trade Unions;
+ Korean Veterans' Association; Federation of Korean Industries; Korean
+ Traders Association
+
+ Member of: AfDB, APEC, AsDB, CCC, CP, EBRD, ESCAP, FAO, G-77, GATT,
+ IAEA, IBRD, ICAO, ICC, ICFTU, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF,
+ IMO, INMARSAT, INTELSAT, INTERPOL, IOC, IOM, ISO, ITU, OAS (observer),
+ UN, UNCTAD, UNESCO, UNIDO, UNU, UPU, WHO, WIPO, WMO, WTO
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador PAK Kun-u
+ chancery: 2450 Massachusetts Avenue NW, Washington, DC 20008
+ telephone: [1] (202) 939-5600
+ consulate(s) general: Agana (Guam), Anchorage, Atlanta, Boston,
+ Chicago, Honolulu, Houston, Los Angeles, Miami, New York, San
+ Francisco, and Seattle
+
+ US diplomatic representation:
+ chief of mission: Ambassador James T. LANEY
+ embassy: 82 Sejong-Ro, Chongro-ku, Seoul
+ mailing address: American Embassy, Unit 15550, Seoul; APO AP
+ 96205-0001
+ telephone: [82] (2) 397-4114
+ FAX: [82] (2) 738-8845
+ consulate(s): Pusan
+
+ Flag: white with a red (top) and blue yin-yang symbol in the center;
+ there is a different black trigram from the ancient I Ching (Book of
+ Changes) in each corner of the white field
+
+@Korea, South:Economy
+
+ Overview: The driving force behind the economy's dynamic growth has
+ been the planned development of an export-oriented economy in a
+ vigorously entrepreneurial society. Real GDP increased more than 10%
+ annually between 1986 and 1991. This growth ultimately led to an
+ overheated situation characterized by a tight labor market, strong
+ inflationary pressures, and a rapidly rising current account deficit.
+ As a result, in 1992, economic policy focused on slowing the growth
+ rate of inflation and reducing the deficit. Annual growth slowed to
+ 5%, still above the rate in most other countries of the world, and
+ recovered to 6.3% in 1993. The economy expanded by 8.3% in 1994,
+ driven by booming exports.
+
+ National product: GDP - purchasing power parity - $508.3 billion (1994
+ est.)
+
+ National product real growth rate: 8.3% (1994)
+
+ National product per capita: $11,270 (1994 est.)
+
+ Inflation rate (consumer prices): 5.6% (1994)
+
+ Unemployment rate: 2% (November 1994)
+
+ Budget:
+ revenues: $63 billion
+ expenditures: $63 billion, including capital expenditures of $NA (1995
+ est.)
+
+ Exports: $96.2 billion (f.o.b., 1994)
+ commodities: electronic and electrical equipment, machinery, steel,
+ automobiles, ships, textiles, clothing, footwear, fish
+ partners: US 26%, Japan 17%, EU 14%
+
+ Imports: $102.3 billion (c.i.f., 1994)
+ commodities: machinery, electronics and electronic equipment, oil,
+ steel, transport equipment, textiles, organic chemicals, grains
+ partners: Japan 26%, US 24%, EU 15%
+
+ External debt: $44.1 billion (1993)
+
+ Industrial production: growth rate 12.1% (1994 est.); accounts for
+ about 45% of GNP
+
+ Electricity:
+ capacity: 26,940,000 kW
+ production: 137 billion kWh
+ consumption per capita: 2,847 kWh (1993)
+
+ Industries: electronics, automobile production, chemicals,
+ shipbuilding, steel, textiles, clothing, footwear, food processing
+
+ Agriculture: accounts for 8% of GDP and employs 21% of work force
+ (including fishing and forestry); principal crops - rice, root crops,
+ barley, vegetables, fruit; livestock and livestock products - cattle,
+ hogs, chickens, milk, eggs; self-sufficient in food, except for wheat;
+ fish catch of 2.9 million metric tons, seventh-largest in world
+
+ Economic aid:
+ recipient: US commitments, including Ex-Im (FY70-89), $3.9 billion;
+ non-US countries (1970-89), $3 billion
+
+ Currency: 1 South Korean won (W) = 100 chun (theoretical)
+
+ Exchange rates: South Korean won (W) per US$1 - 790.48 (January 1995),
+ 803.44 (1994), 802.67 (1993), 780.65 (1992), 733.35 (1991), 707.76
+ (1990)
+
+ Fiscal year: calendar year
+
+@Korea, South:Transportation
+
+ Railroads:
+ total: 6,763 km
+ standard gauge: 6,716 km 1.435-meter gauge (525 km electrified; 847 km
+ double track)
+ narrow gauge: 47 km 0.610-meter gauge
+
+ Highways:
+ total: 63,200 km
+ paved: expressways 1,550 km
+ unpaved: NA
+ undifferentiated: national highway 12,190 km; provincial, local roads
+ 49,460 km (1991)
+
+ Inland waterways: 1,609 km; use restricted to small native craft
+
+ Pipelines: petroleum products 455 km
+
+ Ports: Chinhae, Inch'on, Kunsan, Masan, Mokp'o, Pohang, Pusan, Ulsan,
+ Yosu
+
+ Merchant marine:
+ total: 412 ships (1,000 GRT or over) totaling 6,129,796 GRT/9,985,197
+ DWT
+ ships by type: bulk 123, cargo 125, chemical tanker 17, combination
+ bulk 1, combination ore/oil 1, container 61, liquefied gas tanker 13,
+ multifunction large-load carrier 1, oil tanker 51, refrigerated cargo
+ 9, short-sea passenger 1, vehicle carrier 9
+
+ Airports:
+ total: 114
+ with paved runways over 3,047 m: 1
+ with paved runways 2,438 to 3,047 m: 22
+ with paved runways 1,524 to 2,437 m: 10
+ with paved runways 914 to 1,523 m: 14
+ with paved runways under 914 m: 63
+ with unpaved runways 914 to 1,523 m: 4
+
+@Korea, South:Communications
+
+ Telephone system: 13.3 million telephones; excellent domestic and
+ international services
+ local: NA
+ intercity: NA
+ international: 3 INTELSAT (2 Pacific Ocean and 1 Indian Ocean) earth
+ stations
+
+ Radio:
+ broadcast stations: AM 79, FM 46, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 256 (1 kW or greater 57)
+ televisions: NA
+
+@Korea, South:Defense Forces
+
+ Branches: Army, Navy, Air Force, Marine Corps, National Maritime
+ Police (Coast Guard)
+
+ Manpower availability: males age 15-49 13,580,832; males fit for
+ military service 8,701,742; males reach military age (18) annually
+ 405,290 (1995 est.)
+
+ Defense expenditures: exchange rate conversion - $14 billion, 3.3% of
+ GNP (1995 est.)
+
+
+________________________________________________________________________
+
+KUWAIT
+
+@Kuwait:Geography
+
+ Location: Middle East, bordering the Persian Gulf, between Iraq and
+ Saudi Arabia
+
+ Map references: Middle East
+
+ Area:
+ total area: 17,820 sq km
+ land area: 17,820 sq km
+ comparative area: slightly smaller than New Jersey
+
+ Land boundaries: total 464 km, Iraq 242 km, Saudi Arabia 222 km
+
+ Coastline: 499 km
+
+ Maritime claims:
+ territorial sea: 12 nm
+
+ International disputes: in November 1994, Iraq formally accepted the
+ UN-demarcated border with Kuwait which had been spelled out in
+ Security Council Resolutions 687 (1991), 773 (1993), and 883 (1993);
+ this formally ends earlier claims to Kuwait and to Bubiyan and Warbah
+ islands; ownership of Qaruh and Umm al Maradim islands disputed by
+ Saudi Arabia
+
+ Climate: dry desert; intensely hot summers; short, cool winters
+
+ Terrain: flat to slightly undulating desert plain
+
+ Natural resources: petroleum, fish, shrimp, natural gas
+
+ Land use:
+ arable land: 0%
+ permanent crops: 0%
+ meadows and pastures: 8%
+ forest and woodland: 0%
+ other: 92%
+
+ Irrigated land: 20 sq km (1989 est.)
+
+ Environment:
+ current issues: limited natural fresh water resources; some of world's
+ largest and most sophisticated desalination facilities provide much of
+ the water; air and water pollution; desertification
+ natural hazards: sudden cloudbursts are common from October to April,
+ they bring inordinate amounts of rain which can damage roads and
+ houses; sandstorms and duststorms occur throughout the year, but are
+ most common between March and August
+ international agreements: party to - Climate Change, Environmental
+ Modification, Hazardous Wastes, Law of the Sea, Nuclear Test Ban,
+ Ozone Layer Protection; signed, but not ratified - Biodiversity,
+ Endangered Species, Marine Dumping
+
+ Note: strategic location at head of Persian Gulf
+
+@Kuwait:People
+
+ Population: 1,817,397 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 34% (female 302,908; male 319,659)
+ 15-64 years: 64% (female 467,163; male 697,849)
+ 65 years and over: 2% (female 13,476; male 16,342) (July 1995 est.)
+
+ Population growth rate: 7.46% (1995 est.)
+ note: this rate reflects the continued post-Gulf crisis return of
+ nationals and expatriates
+
+ Birth rate: 21.07 births/1,000 population (1995 est.)
+
+ Death rate: 2.2 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 55.71 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 11.5 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 75.64 years
+ male: 73.33 years
+ female: 78.06 years (1995 est.)
+
+ Total fertility rate: 2.93 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Kuwaiti(s)
+ adjective: Kuwaiti
+
+ Ethnic divisions: Kuwaiti 45%, other Arab 35%, South Asian 9%, Iranian
+ 4%, other 7%
+
+ Religions: Muslim 85% (Shi'a 30%, Sunni 45%, other 10%), Christian,
+ Hindu, Parsi, and other 15%
+
+ Languages: Arabic (official), English widely spoken
+
+ Literacy: age 15 and over can read and write (1985)
+ total population: 74%
+ male: 78%
+ female: 69%
+
+ Labor force: 566,000 (1986)
+ by occupation: services 45.0%, construction 20.0%, trade 12.0%,
+ manufacturing 8.6%, finance and real estate 2.6%, agriculture 1.9%,
+ power and water 1.7%, mining and quarrying 1.4%
+ note: 70% of labor force non-Kuwaiti (1986)
+
+@Kuwait:Government
+
+ Names:
+ conventional long form: State of Kuwait
+ conventional short form: Kuwait
+ local long form: Dawlat al Kuwayt
+ local short form: Al Kuwayt
+
+ Digraph: KU
+
+ Type: nominal constitutional monarchy
+
+ Capital: Kuwait
+
+ Administrative divisions: 5 governorates (muhafazat, singular -
+ muhafazah); Al 'Ahmadi, Al Jahrah, Al Kuwayt, Hawalli, Al Farwaniyah
+
+ Independence: 19 June 1961 (from UK)
+
+ National holiday: National Day, 25 February (1948)
+
+ Constitution: approved and promulgated 11 November 1962
+
+ Legal system: civil law system with Islamic law significant in
+ personal matters; has not accepted compulsory ICJ jurisdiction
+
+ Suffrage: adult males who resided in Kuwait before 1920 and their male
+ descendants at age 21
+ note: only 10% of all citizens are eligible to vote; in 1996,
+ naturalized citizens who do not meet the pre-1920 qualification but
+ have been naturalized for thirty years will be eligible to vote
+
+ Executive branch:
+ chief of state: Amir Shaykh JABIR al-Ahmad al-Jabir Al Sabah (since 31
+ December 1977)
+ head of government: Prime Minister and Crown Prince SAAD al-Abdallah
+ al-Salim Al Sabah (since 8 February 1978); Deputy Prime Minister SABAH
+ al-Ahmad al-Jabir Al Sabah (since 17 October 1992)
+ cabinet: Council of Ministers; appointed by the Prime Minister and
+ approved by the Amir
+
+ Legislative branch: unicameral
+ National Assembly (Majlis al-umma): dissolved 3 July 1986; new
+ elections were held on 5 October 1992 with a second election in the
+ 14th and 16th constituencies held February 1993
+
+ Judicial branch: High Court of Appeal
+
+ Political parties and leaders: none
+
+ Other political or pressure groups: small, clandestine leftist and
+ Shi'a fundamentalist groups are active; several groups critical of
+ government policies are publicly active
+
+ Member of: ABEDA, AfDB, AFESD, AL, AMF, BDEAC, CAEU, CCC, ESCWA, FAO,
+ G-77, GATT, GCC, IAEA, IBRD, ICAO, ICC, ICRM, IDA, IDB, IFAD, IFC,
+ IFRCS, ILO, IMF, IMO, INMARSAT, INTELSAT, INTERPOL, IOC, ISO
+ (correspondent), ITU, NAM, OAPEC, OIC, OPEC, UN, UNCTAD, UNESCO,
+ UNIDO, UPU, WFTU, WHO, WMO, WTO
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador MUHAMMAD al-Sabah al-Salim Al SABAH
+ chancery: 2940 Tilden Street NW, Washington, DC 20008
+ telephone: [1] (202) 966-0702
+ FAX: [1] (202) 966-0517
+
+ US diplomatic representation:
+ chief of mission: Ambassador Ryan C. CROCKER
+ embassy: Bneid al-Gar (opposite the Kuwait International Hotel),
+ Kuwait City
+ mailing address: P.O. Box 77 SAFAT, 13001 SAFAT, Kuwait; Unit 69000,
+ Kuwait; APO AE 09880-9000
+ telephone: [965] 2424151 through 2424159
+ FAX: [965] 2442855
+
+ Flag: three equal horizontal bands of green (top), white, and red with
+ a black trapezoid based on the hoist side
+
+@Kuwait:Economy
+
+ Overview: Kuwait is a small and relatively open economy with proved
+ crude oil reserves of about 94 billion barrels - 10% of world
+ reserves. Kuwait has rebuilt its war-ravaged petroleum sector; its
+ crude oil production reached at least 2.0 million barrels per day by
+ the end of 1993. The government ran a sizable fiscal deficit in 1993.
+ Petroleum accounts for nearly half of GDP and 90% of export and
+ government revenues. Kuwait lacks water and has practically no arable
+ land, thus preventing development of agriculture. With the exception
+ of fish, it depends almost wholly on food imports. About 75% of
+ potable water must be distilled or imported. Because of its high per
+ capita income, comparable with Western European incomes, Kuwait
+ provides its citizens with extensive health, educational, and
+ retirement benefits. Per capita military expenditures are among the
+ highest in the world. The economy improved moderately in 1994, with
+ the growth in industry and finance, and should see further gains in
+ 1995, especially if oil prices go up. The World Bank has urged Kuwait
+
+Back to Full Books

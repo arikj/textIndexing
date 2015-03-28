@@ -1,0 +1,2003 @@
+Aesthetic as Science of Expression and General LinguisticbyBenedetto Croce
+
+
+
+
+Produced by Charles Aldarondo, Tiffany Vergon, Beth Trapaga
+and PG Distributed Proofreaders
+
+
+
+
+AESTHETIC AS SCIENCE OF EXPRESSION
+
+AND GENERAL LINGUISTIC
+
+
+TRANSLATED FROM THE ITALIAN OF BENEDETTO CROCE
+
+
+BY
+
+DOUGLAS AINSLIE
+B.A. (OXON.)
+
+
+1909
+
+
+THE AESTHETIC IS DEDICATED BY THE AUTHOR TO THE MEMORY OF HIS PARENTS
+PASQUALE AND LUISA SIPARI AND OF HIS SISTER MARIA
+
+
+NOTE
+
+I give here a close translation of the complete _Theory of Aesthetic_,
+and in the Historical Summary, with the consent of the author, an
+abbreviation of the historical portion of the original work.
+
+
+
+
+CONTENTS
+
+
+INTRODUCTION
+
+THEORY
+
+I
+INTUITION AND EXPRESSION
+
+Intuitive knowledge--Its independence in respect to the intellect--
+Intuition and perception--Intuition and the concepts of space and
+time--Intuition and sensation--Intuition and association--Intuition
+and representation--Intuition and expression--Illusions as to their
+difference--Identity of intuition and expression.
+
+II
+INTUITION AND ART
+
+Corollaries and explanations--Identity of art and of intuitive knowledge--
+No specific difference--No difference of intensity--Difference extensive
+and empirical--Artistic genius--Content and form in Aesthetic--Critique
+of the imitation of nature and of the artistic illusion--Critique of art
+conceived as a sentimental, not a theoretic fact--The origin of Aesthetic,
+and sentiment--Critique of the theory of Aesthetic senses--Unity and
+indivisibility of the work of art--Art as deliverer.
+
+III
+ART AND PHILOSOPHY
+
+Indissolubility of intellective and of intuitive knowledge--Critique
+of the negations of this thesis--Art and science--Content and form:
+another meaning. Prose and poetry--The relation of first and second
+degree--Inexistence of other cognoscitive forms--Historicity--Identity
+and difference in respect of art--Historical criticism--Historical
+scepticism--Philosophy as perfect science. The so-called natural
+sciences, and their limits--The phenomenon and the noumenon.
+
+IV
+HISTORICISM AND INTELLECTUALISM IN AESTHETIC
+
+Critique of the verisimilar and of naturalism--Critique of ideas in
+art, of art as thesis, and of the typical--Critique of the symbol and
+of the allegory--Critique of the theory of artistic and literary
+categories--Errors derived from this theory in judgments on art--
+Empirical meaning of the divisions of the categories.
+
+V
+ANALOGOUS ERRORS IN HISTORY AND IN LOGIC
+
+Critique of the philosophy of History--Aesthetic invasions of Logic--
+Logic in its essence--Distinction between logical and non-logical
+judgments--The syllogism--False Logic and true Aesthetic--Logic
+reformed.
+
+VI
+THEORETIC AND PRACTICAL ACTIVITY
+
+The will--The will as ulterior grade in respect of knowledge--Objections
+and explanations--Critique of practical judgments or judgments of
+value--Exclusion of the practical from the aesthetic--Critique of
+the theory of the end of art and of the choice of content--Practical
+innocence of art--Independence of art--Critique of the saying: the
+style is the man--Critique of the concept of sincerity in art.
+
+VII
+ANALOGY BETWEEN THE THEORETIC AND THE PRACTICAL
+
+The two forms of practical activity--The economically useful--
+Distinction between the useful and the technical--Distinction between
+the useful and the egoistic--Economic and moral volition--Pure
+economicity--The economic side of morality--The merely economical and
+the error of the morally indifferent--Critique of utilitarianism and
+the reform of Ethic and of Economic--Phenomenon and noumenon in
+practical activity.
+
+VIII
+EXCLUSION OF OTHER SPIRITUAL FORMS
+
+The system of the spirit--The forms of genius--Inexistence of a fifth
+form of activity--Law; sociality--Religiosity--Metaphysic--Mental
+imagination and the intuitive intellect--Mystical Aesthetic--Mortality
+and immortality of art.
+
+IX
+INDIVISIBILITY OF EXPRESSION INTO MODES OR GRADES AND CRITIQUE OF
+RHETORIC
+
+The characteristics of art--Inexistence of modes of expression--
+Impossibility of translations--Critique of rhetorical categories--
+Empirical meaning of rhetorical categories--Their use as synonyms
+of the aesthetic fact--Their use as indicating various aesthetic
+imperfections--Their use as transcending the aesthetic fact, and
+in the service of science--Rhetoric in schools--Similarities of
+expressions--Relative possibility of translations.
+
+X
+AESTHETIC SENTIMENTS AND THE DISTINCTION BETWEEN THE BEAUTIFUL AND THE
+UGLY
+
+Various meanings of the word sentiment--Sentiment as activity--
+Identification of sentiment with economic activity--Critique of
+hedonism--Sentiment as concomitant of every form of activity--Meaning
+of certain ordinary distinctions of sentiments--Value and disvalue:
+the contraries and their union--The beautiful as the value of expression,
+or expression without adjunct--The ugly and the elements of beauty that
+constitute it--Illusion that there exist expressions neither beautiful
+nor ugly--Proper aesthetic sentiments and concomitant and accidental
+sentiments--Critique of apparent sentiments.
+
+XI
+CRITIQUE OF AESTHETIC HEDONISM
+
+Critique of the beautiful as what pleases the superior senses--Critique
+of the theory of play--Critique of the theory of sexuality and of the
+triumph--Critique of the Aesthetic of the sympathetic--Meaning in it of
+content and of form--Aesthetic hedonism and moralism--The rigoristic
+negation, and the pedagogic negation of art--Critique of pure beauty.
+
+XII
+THE AESTHETIC OF THE SYMPATHETIC AND PSEUDO-AESTHETIC CONCEPTS
+
+Pseudo-aesthetic concepts, and the Aesthetic of the sympathetic--
+Critique of the theory of the ugly in art and of its surmounting--
+Pseudo-aesthetic concepts appertain to Psychology--Impossibility of
+rigorous definitions of these--Examples: definitions of the sublime,
+of the comic, of the humorous--Relation between those concepts and
+aesthetic concepts.
+
+XIII
+THE SO-CALLED PHYSICALLY BEAUTIFUL IN NATURE AND IN ART
+
+Aesthetic activity and physical concepts--Expression in the aesthetic
+sense, and expression in the naturalistic sense--Intuitions and
+memory--The production of aids to memory--The physically beautiful--
+Content and form: another meaning--Natural beauty and artificial
+beauty--Mixed beauty--Writings--The beautiful that is free and that
+which is not free--Critique of the beautiful that is not free--
+Stimulants of production.
+
+XIV
+ERRORS ARISING FROM THE CONFUSION BETWEEN PHYSIC AND AESTHETIC
+
+Critique of aesthetic associationism--Critique of aesthetic physic--
+Critique of the theory of the beauty of the human body--Critique of
+the beauty of geometrical figures--Critique of another aspect of the
+imitation of nature--Critique of the theory of the elementary forms of
+the beautiful--Critique of the search for the objective conditions of
+the beautiful--The astrology of Aesthetic.
+
+XV
+THE ACTIVITY OF EXTERNALIZATION. TECHNIQUE AND THE THEORY OF THE ARTS
+
+The practical activity of externalization--The technique of
+externalization--Technical theories of single arts--Critique of the
+classifications of the arts--Relation of the activity of externalization
+with utility and morality.
+
+XVI
+TASTE AND THE REPRODUCTION OF ART
+
+Aesthetic judgment. Its identity with aesthetic reproduction--
+Impossibility of divergences--Identity of taste and genius--Analogy
+with the other activities--Critique of absolutism (intellectualism) and
+of aesthetic relativism--Critique of relative relativism--Objections
+founded on the variation of the stimulus and of the psychic disposition--
+Critique of the distinction of signs as natural and conventional--The
+surmounting of variety--Restorations and historical interpretation.
+
+XVII
+THE HISTORY OF LITERATURE AND OF ART
+
+Historical criticism in literature and art. Its importance--Artistic and
+literary history. Its distinction from historical criticism and from the
+aesthetic judgment--The method of artistic and literary history--Critique
+of the problem of the origin of art--The criterion of progress and
+history--Inexistence of a single line of progress in artistic and
+literary history--Errors in respect of this law--Other meanings of
+the word "progress" in relation to Aesthetic.
+
+XVIII
+CONCLUSION: IDENTITY OF LINGUISTIC AND AESTHETIC
+
+Summary of the inquiry--Identity of Linguistic with Aesthetic--
+Aesthetic formulation of linguistic problems. Nature of language--
+Origin of language and its development--Relation between Grammatic
+and Logic--Grammatical categories or parts of speech--Individuality
+of speech and the classification of languages--Impossibility of a
+normative Grammatic--Didactic organisms--Elementary linguistic
+elements, or roots--The aesthetic judgment and the model language--
+Conclusion.
+
+HISTORICAL SUMMARY
+
+Aesthetic ideas in Graeco-Roman antiquity--In the Middle Age and
+ at the Renaissance--Fermentation of thought in the seventeenth
+century--Aesthetic ideas in Cartesianism, Leibnitzianism, and in
+the "Aesthetic" of Baumgarten--G.B. Vico--Aesthetic doctrines in
+the eighteenth century--Emmanuel Kant--The Aesthetic of Idealism
+with Schiller and Hegel--Schopenhauer and Herbart--Friedrich
+Schleiermacher--The philosophy of language with Humboldt and
+Steinthal--Aesthetic in France, England, and Italy during the first
+half of the nineteenth century--Francesco de Sanctis--The Aesthetic
+of the epigoni--Positivism and aesthetic naturalism--Aesthetic
+psychologism and other recent tendencies--Glance at the history
+of certain particular doctrines--Conclusion.
+
+APPENDIX
+
+Translation of the lecture on Pure Intuition and the lyrical nature of
+art, delivered by Benedetto Croce before the International Congress of
+Philosophy at Heidelberg.
+
+
+
+
+INTRODUCTION
+
+
+There are always Americas to be discovered: the most interesting in
+Europe.
+
+I can lay no claim to having discovered an America, but I do claim to
+have discovered a Columbus. His name is Benedetto Croce, and he dwells
+on the shores of the Mediterranean, at Naples, city of the antique
+Parthenope.
+
+Croce's America cannot be expressed in geographical terms. It is more
+important than any space of mountain and river, of forest and dale. It
+belongs to the kingdom of the spirit, and has many provinces. That
+province which most interests me, I have striven in the following pages
+to annex to the possessions of the Anglo-Saxon race; an act which cannot
+be blamed as predatory, since it may be said of philosophy more truly
+than of love, that "to divide is not to take away."
+
+The Historical Summary will show how many a brave adventurer has
+navigated the perilous seas of speculation upon Art, how Aristotle's
+marvellous insight gave him glimpses of its beauty, how Plato threw away
+its golden fruit, how Baumgarten sounded the depth of its waters, Kant
+sailed along its coast without landing, and Vico hoisted the Italian
+flag upon its shore.
+
+But Benedetto Croce has been the first thoroughly to explore it, cutting
+his way inland through the tangled undergrowth of imperfect thought. He
+has measured its length and breadth, marked out and described its
+spiritual features with minute accuracy. The country thus won to
+philosophy will always bear his name, _Estetica di Croce_, a new
+America.
+
+It was at Naples, in the winter of 1907, that I first saw the Philosopher
+of Aesthetic. Benedetto Croce, although born in the Abruzzi, Province of
+Aquila (1866), is essentially a Neapolitan, and rarely remains long absent
+from the city, on the shore of that magical sea, where once Ulysses
+sailed, and where sometimes yet (near Amalfi) we may hear the Syrens sing
+their song. But more wonderful than the song of any Syren seems to me the
+Theory of Aesthetic as the Science of Expression, and that is why I have
+overcome the obstacles that stood between me and the giving of this
+theory, which in my belief is the truth, to the English-speaking world.
+
+No one could have been further removed than myself, as I turned over at
+Naples the pages of _La Critica_, from any idea that I was nearing the
+solution of the problem of Art. All my youth it had haunted me. As an
+undergraduate at Oxford I had caught the exquisite cadence of Walter
+Pater's speech, as it came from his very lips, or rose like the perfume
+of some exotic flower from the ribbed pages of the _Renaissance_.
+
+Seeming to solve the riddle of the Sphinx, he solved it not--only
+delighted with pure pleasure of poetry and of subtle thought as he led
+one along the pathways of his Enchanted Garden, where I shall always
+love to tread.
+
+Oscar Wilde, too, I had often heard at his best, the most brilliant
+talker of our time, his wit flashing in the spring sunlight of Oxford
+luncheon-parties as now in his beautiful writings, like the jewelled
+rapier of Mercutio. But his works, too, will be searched in vain by the
+seeker after definite aesthetic truth.
+
+With A.C. Swinburne I had sat and watched the lava that yet flowed from
+those lips that were kissed in youth by all the Muses. Neither from him
+nor from J.M. Whistler's brilliant aphorisms on art could be gathered
+anything more than the exquisite pleasure of the moment: the
+_monochronos haedonae_. Of the great pedagogues, I had known, but never
+sat at the feet of Jowett, whom I found far less inspiring than any of
+the great men above mentioned. Among the dead, I had studied Herbert
+Spencer and Matthew Arnold, Schopenhauer, Nietzsche and Guyau: I had
+conversed with that living Neo-Latin, Anatole France, the modern
+Rousseau, and had enjoyed the marvellous irony and eloquence of his
+writings, which, while they delight the society in which he lives, may
+well be one of the causes that lead to its eventual destruction.
+
+The solution of the problem of Aesthetic is not in the gift of the Muses.
+
+To return to Naples. As I looked over those pages of the bound volumes
+of _La Critica_. I soon became aware that I was in the presence of a
+mind far above the ordinary level of literary criticism. The profound
+studies of Carducci, of d'Annunzio, and of Pascoli (to name but three),
+in which those writers passed before me in all their strength and in all
+their weakness, led me to devote several days to the _Critica_. At the
+end of that time I was convinced that I had made a discovery, and wrote
+to the philosopher, who owns and edits that journal.
+
+In response to his invitation, I made my way, on a sunny day in November,
+past the little shops of the coral-vendors that surround, like a
+necklace, the Rione de la Bellezza, and wound zigzag along the
+over-crowded Toledo. I knew that Signor Croce lived in the old part of
+the town, but had hardly anticipated so remarkable a change as I
+experienced on passing beneath the great archway and finding myself in
+old Naples. This has already been described elsewhere, and I will not
+here dilate upon this world within a world, having so much of greater
+interest to tell in a brief space. I will merely say that the costumes
+here seemed more picturesque, the dark eyes flashed more dangerously
+than elsewhere, there was a quaint life, an animation about the streets,
+different from anything I had known before. As I climbed the lofty stone
+steps of the Palazzo to the floor where dwells the philosopher of
+Aesthetic I felt as though I had stumbled into the eighteenth century
+and were calling on Giambattista Vico. After a brief inspection by a
+young man with the appearance of a secretary, I was told that I was
+expected, and admitted into a small room opening out of the hall.
+Thence, after a few moments' waiting, I was led into a much larger room.
+The walls were lined all round with bookcases, barred and numbered,
+filled with volumes forming part of the philosopher's great library. I
+had not long to wait. A door opened behind me on my left, and a rather
+short, thick-set man advanced to greet me, and pronouncing my name at
+the same time with a slight foreign accent, asked me to be seated beside
+him. After the interchange of a few brief formulae of politeness in
+French, our conversation was carried on in Italian, and I had a better
+opportunity of studying my host's air and manner. His hands he held
+clasped before him, but frequently released them, to make those vivid
+gestures with which Neapolitans frequently clinch their phrase. His most
+remarkable feature was his eyes, of a greenish grey: extraordinary eyes,
+not for beauty, but for their fathomless depth, and for the sympathy
+which one felt welling up in them from the soul beneath. This was
+especially noticeable as our conversation fell upon the question of Art
+and upon the many problems bound up with it. I do not know how long that
+first interview lasted, but it seemed a few minutes only, during which
+was displayed before me a vast panorama of unknown height and headland,
+of league upon league of forest, with its bright-winged birds of thought
+flying from tree to tree down the long avenues into the dim blue vistas
+of the unknown.
+
+I returned with my brain awhirl, as though I had been in fairyland, and
+when I looked at the second edition of the _Estetica_, with his
+inscription, I was sure of it.
+
+These lines will suffice to show how the translation of the _Estetica_
+originated from the acquaintance thus formed, which has developed into
+friendship. I will now make brief mention of Benedetto Croce's other
+work, especially in so far as it throws light upon the _Aesthetic_.
+For this purpose, besides articles in Italian and German reviews, I
+have made use of the excellent monograph on the philosopher, by G.
+Prezzolini.[1]
+
+First, then, it will be well to point out that the _Aesthetic_ forms
+part of a complete philosophical system, to which the author gives the
+general title of "Philosophy of the Spirit." The _Aesthetic_ is the
+first of the three volumes. The second is the _Logic_, the third the
+_Philosophy of the Practical_.
+
+In the _Logic_, as elsewhere in the system, Croce combats that false
+conception, by which natural science, in the shape of psychology, makes
+claim to philosophy, and formal logic to absolute value. The thesis of
+the _pure concept_ cannot be discussed here. It is connected with the
+logic of evolution as discovered by Hegel, and is the only logic which
+contains in itself the interpretation and the continuity of reality.
+Bergson in his _L'Evolution Creatrice_ deals with logic in a somewhat
+similar manner. I recently heard him lecture on the distinction between
+spirit and matter at the College de France, and those who read French
+and Italian will find that both Croce's _Logic_ and the book above
+mentioned by the French philosopher will amply repay their labour. The
+conception of nature as something lying outside the spirit which informs
+it, as the non-being which aspires to being, underlies all Croce's
+thought, and we find constant reference to it throughout his
+philosophical system.
+
+With regard to the third volume, the _Philosophy of the Practical_, it
+is impossible here to give more than a hint of its treasures. I merely
+refer in passing to the treatment of the will, which is posited as a
+unity _inseparable from the volitional act_. For Croce there is no
+difference between action and intention, means and end: they are one
+thing, inseparable as the intuition-expression of Aesthetic. The
+_Philosophy of the Practical_ is a logic and science of the will, not a
+normative science. Just as in Aesthetic the individuality of expression
+made models and rules impossible, so in practical life the individuality
+of action removes the possibility of catalogues of virtues, of the exact
+application of laws, of the existence of practical judgments and
+judgments of value _previous to action_.
+
+The reader will probably ask here: But what, then, becomes of morality?
+The question will be found answered in the _Theory of Aesthetic_, and I
+will merely say here that Croce's thesis of the _double degree_ of the
+practical activity, economic and moral, is one of the greatest
+contributions to modern thought. Just as it is proved in the _Theory of
+Aesthetic_ that the _concept_ depends upon the _intuition_, which is the
+first degree, the primary and indispensable thing, so it is proved in
+the _Philosophy of the Practical_ that _Morality_ or _Ethic_ depends
+upon _Economic_, which is the _first_ degree of the practical activity.
+The volitional act is _always economic_, but true freedom of the will
+exists and consists in conforming not merely to economic, but to moral
+conditions, to the human spirit, which is greater than any individual.
+Here we are face to face with the ethics of Christianity, to which Croce
+accords all honour.
+
+This Philosophy of the Spirit is symptomatic of the happy reaction of
+the twentieth century against the crude materialism of the second half
+of the nineteenth. It is the spirit which gives to the work of art its
+value, not this or that method of arrangement, this or that tint or
+cadence, which can always be copied by skilful plagiarists: not so the
+_spirit_ of the creator. In England we hear too much of (natural)
+science, which has usurped the very name of Philosophy. The natural
+sciences are very well in their place, but discoveries such as aviation
+are of infinitely less importance to the race than the smallest addition
+to the philosophy of the spirit. Empirical science, with the collusion
+of positivism, has stolen the cloak of philosophy and must be made to
+give it back.
+
+Among Croce's other important contributions to thought must be mentioned
+his definition of History as being aesthetic and differing from Art
+solely in that history represents the _real_, art the _possible_. In
+connection with this definition and its proof, the philosopher recounts
+how he used to hold an opposite view. Doing everything thoroughly, he
+had prepared and written out a long disquisition on this thesis, which
+was already in type, when suddenly, from the midst of his meditations,
+_the truth flashed upon him_. He saw for the first time clearly that
+history cannot be a science, since, like art, it always deals with the
+particular. Without a moment's hesitation he hastened to the printers
+and bade them break up the type.
+
+This incident is illustrative of the sincerity and good faith of
+Benedetto Croce. One knows him to be severe for the faults and
+weaknesses of others, merciless for his own.
+
+Yet though severe, the editor of _La Critica_ is uncompromisingly just,
+and would never allow personal dislike or jealousy, or any extrinsic
+consideration, to stand in the way of fair treatment to the writer
+concerned. Many superficial English critics might benefit considerably
+by attention to this quality in one who is in other respects also so
+immeasurably their superior. A good instance of this impartiality is his
+critique of Schopenhauer, with whose system he is in complete
+disagreement, yet affords him full credit for what of truth is contained
+in his voluminous writings.[2]
+
+Croce's education was largely completed in Germany, and on account of
+their thoroughness he has always been an upholder of German methods. One
+of his complaints against the Italian Positivists is that they only read
+second-rate works in French or at the most "the dilettante booklets
+published in such profusion by the Anglo-Saxon press." This tendency
+towards German thought, especially in philosophy, depends upon the fact
+of the former undoubted supremacy of Germany in that field, but Croce
+does not for a moment admit the inferiority of the Neo-Latin races, and
+adds with homely humour in reference to Germany, that we "must not throw
+away the baby with the bath-water"! Close, arduous study and clear
+thought are the only key to scientific (philosophical) truth, and Croce
+never begins an article for a newspaper without the complete collection
+of the works of the author to be criticized, and his own elaborate notes
+on the table before him. Schopenhauer said there were three kinds of
+writers--those who write without thinking, the great majority; those who
+think while they write, not very numerous; those who write after they
+have thought, very rare. Croce certainly belongs to the last division,
+and, as I have said, always feeds his thought upon complete erudition.
+The bibliography of the works consulted for the _Estetica_ alone, as
+printed at the end of the Italian edition, extends to many pages and
+contains references to works in any way dealing with the subject in all
+the European languages. For instance, Croce has studied Mr. B.
+Bosanquet's eclectic works on Aesthetic, largely based upon German
+sources and by no means without value. But he takes exception to Mr.
+Bosanquet's statement that _he_ has consulted all works of importance on
+the subject of Aesthetic. As a matter of fact, Mr. Bosanquet reveals his
+ignorance of the greater part of the contribution to Aesthetic made by
+the Neo-Latin races, which the reader of this book will recognize as of
+first-rate importance.
+
+This thoroughness it is which gives such importance to the literary and
+philosophical criticisms of _La Critica_. Croce's method is always
+historical, and his object in approaching any work of art is to classify
+the spirit of its author, as expressed in that work. There are, he
+maintains, but two things to be considered in criticizing a book. These
+are, _firstly_, what is its _peculiarity_, in what way is it singular,
+how is it differentiated from other works? _Secondly_, what is its
+degree of purity?--That is, to what extent has its author kept himself
+free from all considerations alien to the perfection of the work as an
+expression, as a lyrical intuition? With the answering of these
+questions Croce is satisfied. He does not care to know if the author
+keep a motor-car, like Maeterlinck; or prefer to walk on Putney Heath,
+like Swinburne. This amounts to saying that all works of art must be
+judged by their own standard. How far has the author succeeded in doing
+what he intended?
+
+Croce is far above any personal animus, although the same cannot be said
+of those he criticizes. These, like d'Annunzio, whose limitations he
+points out--his egoism, his lack of human sympathy--are often very
+bitter, and accuse the penetrating critic of want of courtesy. This
+seriousness of purpose runs like a golden thread through all Croce's
+work. The flimsy superficial remarks on poetry and fiction which too
+often pass for criticism in England (Scotland is a good deal more
+thorough) are put to shame by _La Critica_, the study of which I commend
+to all readers who read or wish to read Italian.[3] They will find in
+its back numbers a complete picture of a century of Italian literature,
+besides a store-house of philosophical criticism. The _Quarterly_ and
+_Edinburgh Reviews_ are our only journals which can be compared to _The
+Critica_, and they are less exhaustive on the philosophical side. We
+should have to add to these _Mind_ and the _Hibbert Journal_ to get even
+an approximation to the scope of the Italian review.
+
+As regards Croce's general philosophical position, it is important to
+understand that he is _not_ a Hegelian, in the sense of being a close
+follower of that philosopher. One of his last works is that in which he
+deals in a masterly manner with the philosophy of Hegel. The title may
+be translated, "What is living and what is dead of the philosophy of
+Hegel." Here he explains to us the Hegelian system more clearly than
+that wondrous edifice was ever before explained, and we realize at the
+same time that Croce is quite as independent of Hegel as of Kant, of
+Vico as of Spinoza. Of course he has made use of the best of Hegel, just
+as every thinker makes use of his predecessors and is in his turn made
+use of by those that follow him. But it is incorrect to accuse of
+Hegelianism the author of an anti-hegelian _Aesthetic_, of a _Logic_
+where Hegel is only half accepted, and of a _Philosophy of the
+Practical_, which contains hardly a trace of Hegel. I give an instance.
+If the great conquest of Hegel be the dialectic of opposites, his great
+mistake lies in the confusion of opposites with things which are
+distinct but not opposite. If, says Croce, we take as an example the
+application of the Hegelian triad that formulates becoming (affirmation,
+negation and synthesis), we find it applicable for those opposites which
+are true and false, good and evil, being and not-being, but _not
+applicable_ to things which are distinct but not opposite, such as art
+and philosophy, beauty and truth, the useful and the moral. These
+confusions led Hegel to talk of the death of art, to conceive as
+possible a Philosophy of History, and to the application of the natural
+sciences to the absurd task of constructing a Philosophy of Nature.
+Croce has cleared away these difficulties by shewing that if from the
+meeting of opposites must arise a superior synthesis, such a synthesis
+cannot arise from things which are distinct _but not opposite_, since
+the former are connected together as superior and inferior, and the
+inferior can exist without the superior, but _not vice versa_. Thus we
+see how philosophy cannot exist without art, while art, occupying the
+lower place, can and does exist without philosophy. This brief example
+reveals Croce's independence in dealing with Hegelian problems.
+
+I know of no philosopher more generous than Croce in praise and
+elucidation of other workers in the same field, past and present. For
+instance, and apart from Hegel, _Kant_ has to thank him for drawing
+attention to the marvellous excellence of the _Critique of Judgment_,
+generally neglected in favour of the Critiques of _Pure Reason and of
+Practical Judgment_; _Baumgarten_ for drawing the attention of the world
+to his obscure name and for reprinting his Latin thesis in which the
+word _Aesthetic_ occurs for the first time; and _Schleiermacher_ for the
+tributes paid to his neglected genius in the History of Aesthetic. _La
+Critica_, too, is full of generous appreciation of contemporaries by
+Croce and by that profound thinker, Gentile.
+
+But it is not only philosophers who have reason to be grateful to Croce
+for his untiring zeal and diligence. Historians, economists, poets,
+actors, and writers of fiction have been rescued from their undeserved
+limbo by this valiant Red Cross knight, and now shine with due
+brilliance in the circle of their peers. It must also be admitted that a
+large number of false lights, popular will o' the wisps, have been
+ruthlessly extinguished with the same breath. For instance, Karl Marx,
+the socialist theorist and agitator, finds in Croce an exponent of his
+views, in so far as they are based upon the truth, but where he
+blunders, his critic immediately reveals the origin and nature of his
+mistakes. Croce's studies in Economic are chiefly represented by his
+work, the title of which may be translated "Historical Materialism and
+Marxist Economic."
+
+To indicate the breadth and variety of Croce's work I will mention the
+further monograph on the sixteenth century Neapolitan Pulcinella (the
+original of our Punch), and the personage of the Neapolitan in comedy, a
+monument of erudition and of acute and of lively dramatic criticism,
+that would alone have occupied an ordinary man's activity for half a
+lifetime. One must remember, however, that Croce's average working day
+is of ten hours. His interest is concentrated on things of the mind, and
+although he sits on several Royal Commissions, such as those of the
+Archives of all Italy and of the monument to King Victor Emmanuel, he
+has taken no university degree, and much dislikes any affectation of
+academic superiority. He is ready to meet any one on equal terms and try
+with them to get at the truth on any subject, be it historical,
+literary, or philosophical. "Truth," he says, "is democratic," and I can
+testify that the search for it, in his company, is very stimulating. As
+is well said by Prezzolini, "He has a new word for all."
+
+There can be no doubt of the great value of Croce's work as an
+_educative influence_, and if we are to judge of a philosophical system
+by its action on others, then we must place the _Philosophy of the
+Spirit_ very high. It may be said with perfect truth that since the
+death of the poet Carducci there has been no influence in Italy to
+compare with that of Benedetto Croce.
+
+His dislike of Academies and of all forms of prejudice runs parallel
+with his breadth and sympathy with all forms of thought. His activity in
+the present is only equalled by his reverence for the past. Naples he
+loves with the blind love of the child for its parent, and he has been
+of notable assistance to such Neapolitan talent as is manifested in the
+works of Salvatore di Giacomo, whose best poems are written in the
+dialect of Naples, or rather in a dialect of his own, which Croce had
+difficulty in persuading the author always to retain. The original jet
+of inspiration having been in dialect, it is clear that to amend this
+inspiration at the suggestion of wiseacres at the Cafe would have been
+to ruin it altogether.
+
+Of the popularity that his system and teaching have already attained we
+may judge by the fact that the _Aesthetic_[4], despite the difficulty of
+the subject, is already in its third edition in Italy, where, owing to
+its influence, philosophy sells better than fiction; while the French
+and Germans, not to mention the Czechs, have long had translations of
+the earlier editions. His _Logic_ is on the point of appearing in its
+second edition, and I have no doubt that the _Philosophy of the
+Practical_ will eventually equal these works in popularity. _The
+importance and value of Italian thought have been too long neglected in
+Great Britain_. Where, as in Benedetto Croce, we get the clarity of
+vision of the Latin, joined to the thoroughness and erudition of the
+best German tradition, we have a combination of rare power and
+effectiveness, which can by no means be neglected.
+
+The philosopher feels that he has a great mission, which is nothing less
+than the leading back of thought to belief in the spirit, deserted by so
+many for crude empiricism and positivism. His view of philosophy is that
+it sums up all the higher human activities, including religion, and that
+in proper hands it is able to solve any problem. But there is no
+finality about problems: the solution of one leads to the posing of
+another, and so on. Man is the maker of life, and his spirit ever
+proceeds from a lower to a higher perfection. Connected with this view
+of life is Croce's dislike of "Modernism." When once a problem has been
+correctly solved, it is absurd to return to the same problem. Roman
+Catholicism cannot march with the times. It can only exist by being
+conservative--its only Logic is to be illogical. Therefore, Croce is
+opposed to Loisy and Neo-Catholicism, and supports the Encyclical
+against Modernism. The Catholic religion, with its great stores of myth
+and morality, which for many centuries was the best thing in the world,
+is still there for those who are unable to assimilate other food.
+Another instance of his dislike for Modernism is his criticism of
+Pascoli, whose attempts to reveal enigmas in the writings of Dante he
+looks upon as useless. We do not, he says, read Dante in the twentieth
+century for his hidden meanings, but for his revealed poetry.
+
+I believe that Croce will one day be recognized as one of the very few
+great teachers of humanity. At present he is not appreciated at nearly
+his full value. One rises from a study of his philosophy with a sense of
+having been all the time as it were in personal touch with the truth,
+which is very far from the case after the perusal of certain other
+philosophies.
+
+Croce has been called the philosopher-poet, and if we take philosophy as
+Novalis understood it, certainly Croce does belong to the poets, though
+not to the formal category of those who write in verse. Croce is at any
+rate a born philosopher, and as every trade tends to make its object
+prosaic, so does every vocation tend to make it poetic. Yet no one has
+toiled more earnestly than Croce. "Thorough" might well be his motto,
+and if to-day he is admitted to be a classic without the stiffness one
+connects with that term, be sure he has well merited the designation.
+His name stands for the best that Italy has to give the world of
+serious, stimulating thought. I know nothing to equal it elsewhere.
+
+Secure in his strength, Croce will often introduce a joke or some
+amusing illustration from contemporary life, in the midst of a most
+profound and serious argument. This spirit of mirth is a sign of
+superiority. He who is not sure of himself can spare no energy for the
+making of mirth. Croce loves to laugh at his enemies and with his
+friends. So the philosopher of Naples sits by the blue gulf and explains
+the universe to those who have ears to hear. "One can philosophize
+anywhere," he says--but he remains significantly at Naples.
+
+Thus I conclude these brief remarks upon the author of the _Aesthetic_,
+confident that those who give time and attention to its study will be
+grateful for having placed in their hands this pearl of great price from
+the diadem of the antique Parthenope.
+
+DOUGLAS AINSLIE.
+
+THE ATHENAEUM, PALL MALL, _May_ 1909.
+
+[1] Napoli, Riccardo Ricciardi, 1909.
+
+[2] The reader will find this critique summarized in the historical
+    portion of this volume.
+
+[3] _La Critica_ is published every other month by Laterza of Bari.
+
+[4] This translation is made from the third Italian edition (Bari,
+    1909), enlarged and corrected by the author. The _Theory of
+    Aesthetic_ first appeared in 1900 in the form of a communication
+    to the _Accademia Pontiana_ of Naples, vol. xxx. The first edition
+    is dated 1902, the second 1904 (Palermo).
+
+
+
+
+I
+
+INTUITION AND EXPRESSION
+
+
+    [Sidenote] _Intuitive knowledge._
+
+Human knowledge has two forms: it is either intuitive knowledge or
+logical knowledge; knowledge obtained through the imagination or
+knowledge obtained through the intellect; knowledge of the individual or
+knowledge of the universal; of individual things or of the relations
+between them: it is, in fact, productive either of images or of
+concepts.
+
+In ordinary life, constant appeal is made to intuitive knowledge. It
+is said to be impossible to give expression to certain truths; that
+they are not demonstrable by syllogisms; that they must be learnt
+intuitively. The politician finds fault with the abstract reasoner, who
+is without a lively knowledge of actual conditions; the pedagogue
+insists upon the necessity of developing the intuitive faculty in the
+pupil before everything else; the critic in judging a work of art makes
+it a point of honour to set aside theory and abstractions, and to judge
+it by direct intuition; the practical man professes to live rather by
+intuition than by reason.
+
+But this ample acknowledgment, granted to intuitive knowledge in
+ordinary life, does not meet with an equal and adequate acknowledgment
+in the field of theory and of philosophy. There exists a very ancient
+science of intellective knowledge, admitted by all without discussion,
+namely, Logic; but a science of intuitive knowledge is timidly and with
+difficulty admitted by but a few. Logical knowledge has appropriated the
+lion's share; and if she does not quite slay and devour her companion,
+yet yields to her with difficulty the humble little place of maidservant
+or doorkeeper. What, it says, is intuitive knowledge without the light
+of intellective knowledge? It is a servant without a master; and though
+a master find a servant useful, the master is a necessity to the
+servant, since he enables him to gain his livelihood. Intuition is
+blind; Intellect lends her eyes.
+
+    [Sidenote] _Its independence in respect to intellective knowledge._
+
+Now, the first point to be firmly fixed in the mind is that intuitive
+knowledge has no need of a master, nor to lean upon any one; she does
+not need to borrow the eyes of others, for she has most excellent eyes
+of her own. Doubtless it is possible to find concepts mingled with
+intuitions. But in many other intuitions there is no trace of such a
+mixture, which proves that it is not necessary. The impression of a
+moonlight scene by a painter; the outline of a country drawn by a
+cartographer; a musical motive, tender or energetic; the words of a
+sighing lyric, or those with which we ask, command and lament in
+ordinary life, may well all be intuitive facts without a shadow of
+intellective relation. But, think what one may of these instances, and
+admitting further that one may maintain that the greater part of the
+intuitions of civilized man are impregnated with concepts, there yet
+remains to be observed something more important and more conclusive.
+Those concepts which are found mingled and fused with the intuitions,
+are no longer concepts, in so far as they are really mingled and fused,
+for they have lost all independence and autonomy. They have been
+concepts, but they have now become simple elements of intuition.
+The philosophical maxims placed in the mouth of a personage of tragedy
+or of comedy, perform there the function, not of concepts, but of
+characteristics of such personage; in the same way as the red in a
+painted figure does not there represent the red colour of the
+physicists, but is a characteristic element of the portrait. The whole
+it is that determines the quality of the parts. A work of art may be
+full of philosophical concepts; it may contain them in greater
+abundance and they may be there even more profound than in a
+philosophical dissertation, which in its turn may be rich to
+overflowing with descriptions and intuitions. But, notwithstanding all
+these concepts it may contain, the result of the work of art is an
+intuition; and notwithstanding all those intuitions, the result of the
+philosophical dissertation is a concept. The _Promessi Sposi_ contains
+copious ethical observations and distinctions, but it does not for
+that reason lose in its total effect its character of simple story, of
+intuition. In like manner the anecdotes and satirical effusions which
+may be found in the works of a philosopher like Schopenhauer, do not
+remove from those works their character of intellective treatises. The
+difference between a scientific work and a work of art, that is,
+between an intellective fact and an intuitive fact lies in the result,
+in the diverse effect aimed at by their respective authors. This it is
+that determines and rules over the several parts of each.
+
+    [Sidenote] _Intuition and perception._
+
+But to admit the independence of intuition as regards concept does not
+suffice to give a true and precise idea of intuition. Another error
+arises among those who recognize this, or who, at any rate, do not make
+intuition explicitly dependent upon the intellect. This error obscures
+and confounds the real nature of intuition. By intuition is frequently
+understood the _perception_ or knowledge of actual reality, the
+apprehension of something as _real_.
+
+Certainly perception is intuition: the perception of the room in which I
+am writing, of the ink-bottle and paper that are before me, of the pen I
+am using, of the objects that I touch and make use of as instruments of
+my person, which, if it write, therefore exists;--these are all
+intuitions. But the image that is now passing through my brain of a me
+writing in another room, in another town, with different paper, pen and
+ink, is also an intuition. This means that the distinction between
+reality and non-reality is extraneous, secondary, to the true nature of
+intuition. If we assume the existence of a human mind which should have
+intuitions for the first time, it would seem that it could have
+intuitions of effective reality only, that is to say, that it could have
+perceptions of nothing but the real. But if the knowledge of reality be
+based upon the distinction between real images and unreal images, and if
+this distinction does not originally exist, these intuitions would in
+truth not be intuitions either of the real or of the unreal, but pure
+intuitions. Where all is real, nothing is real. The child, with its
+difficulty of distinguishing true from false, history from fable, which
+are all one to childhood, can furnish us with a sort of very vague and
+only remotely approximate idea of this ingenuous state. Intuition is the
+indifferentiated unity of the perception of the real and of the simple
+image of the possible. In our intuitions we do not oppose ourselves to
+external reality as empirical beings, but we simply objectify our
+impressions, whatever they be.
+
+    [Sidenote] _Intuition and the concepts of space and time._
+
+Those, therefore, who look upon intuition as sensation formed and
+arranged simply according to the categories of space and time, would
+seem to approximate more nearly to the truth. Space and time (they say)
+are the forms of intuition; to have intuitions is to place in space and
+in temporal sequence. Intuitive activity would then consist in this
+double and concurrent function of spatiality and temporality. But for
+these two categories must be repeated what was said of intellectual
+distinctions, found mingled with intuitions. We have intuitions without
+space and without time: a tint of sky and a tint of sentiment, an Ah! of
+pain and an effort of will, objectified in consciousness. These are
+intuitions, which we possess, and with their making, space and time have
+nothing to do. In some intuitions, spatiality may be found without
+temporality, in others, this without that; and even where both are
+found, they are perceived by posterior reflexion: they can be fused with
+the intuition in like manner with all its other elements: that is, they
+are in it _materialiter_ and not _formaliter_, as ingredients and not as
+essentials. Who, without a similar act of interruptive reflexion, is
+conscious of temporal sequence while listening to a story or a piece of
+music? That which intuition reveals in a work of art is not space and
+time, but character, individual physiognomy. Several attempts may be
+noted in modern philosophy, which confirm the view here exposed. Space
+and time, far from being very simple and primitive functions, are shown
+to be intellectual constructions of great complexity. And further, even
+in some of those who do not altogether deny to space and time the
+quality of forming or of categories and functions, one may observe the
+attempt to unify and to understand them in a different manner from that
+generally maintained in respect of these categories. Some reduce
+intuition to the unique category of spatiality, maintaining that time
+also can only be conceived in terms of space. Others abandon the three
+dimensions of space as not philosophically necessary, and conceive the
+function of spatiality as void of every particular spatial
+determination. But what could such a spatial function be, that should
+control even time? May it not be a residuum of criticisms and of
+negations from which arises merely the necessity to posit a generic
+intuitive activity? And is not this last truly determined, when one
+unique function is attributed to it, not spatializing nor temporalizing,
+but characterizing? Or, better, when this is conceived as itself a
+category or function, which gives knowledge of things in their
+concretion and individuality?
+
+    [Sidenote] _Intuition and sensation._
+
+Having thus freed intuitive knowledge from any suggestion of
+intellectualism and from every posterior and external adjunct, we must
+now make clear and determine its limits from another side and from a
+different kind of invasion and confusion. On the other side, and before
+the inferior boundary, is sensation, formless matter, which the spirit
+can never apprehend in itself, in so far as it is mere matter. This it
+can only possess with form and in form, but postulates its concept as,
+precisely, a limit. Matter, in its abstraction, is mechanism, passivity;
+it is what the spirit of man experiences, but does not produce. Without
+it no human knowledge and activity is possible; but mere matter produces
+animality, whatever is brutal and impulsive in man, not the spiritual
+dominion, which is humanity. How often do we strive to understand
+clearly what is passing within us? We do catch a glimpse of something,
+but this does not appear to the mind as objectified and formed. In such
+moments it is, that we best perceive the profound difference between
+matter and form. These are not two acts of ours, face to face with one
+another; but we assault and carry off the one that is outside us, while
+that within us tends to absorb and make its own that without. Matter,
+attacked and conquered by form, gives place to concrete form. It is the
+matter, the content, that differentiates one of our intuitions from
+another: form is constant: it is spiritual activity, while matter is
+changeable. Without matter, however, our spiritual activity would not
+leave its abstraction to become concrete and real, this or that
+spiritual content, this or that definite intuition.
+
+It is a curious fact, characteristic of our times, that this very form,
+this very activity of the spirit, which is essentially ourselves, is so
+easily ignored or denied. Some confound the spiritual activity of man
+with the metaphorical and mythological activity of so-called nature,
+which is mechanism and has no resemblance to human activity, save when
+we imagine, with Aesop, that _arbores loquuntur non tantum ferae_. Some
+even affirm that they have never observed in themselves this
+"miraculous" activity, as though there were no difference, or only one
+of quantity, between sweating and thinking, feeling cold and the energy
+of the will. Others, certainly with greater reason, desire to unify
+activity and mechanism in a more general concept, though admitting that
+they are specifically distinct. Let us, however, refrain for the moment
+from examining if such a unification be possible, and in what sense, but
+admitting that the attempt may be made, it is clear that to unify two
+concepts in a third implies a difference between the two first. And here
+it is this difference that is of importance and we set it in relief.
+
+    [Sidenote] _Intuition and association._
+
+Intuition has often been confounded with simple sensation. But, since
+this confusion is too shocking to good sense, it has more frequently
+been attenuated or concealed with a phraseology which seems to wish to
+confuse and to distinguish them at the same time. Thus, it has been
+asserted that intuition is sensation, but not so much simple sensation
+as _association_ of sensations. The equivoque arises precisely from the
+word "association." Association is understood, either as memory,
+mnemonic association, conscious recollection, and in that case is
+evident the absurdity of wishing to join together in memory elements
+which are not intuified, distinguished, possessed in some way by the
+spirit and produced by consciousness: or it is understood as association
+of unconscious elements. In this case we remain in the world of
+sensation and of nature. Further, if with certain associationists we
+speak of an association which is neither memory nor flux of sensations,
+but is a _productive_ association (formative, constructive,
+distinguishing); then we admit the thing itself and deny only its name.
+In truth, productive association is no longer association in the sense
+of the sensualists, but _synthesis_, that is to say, spiritual activity.
+Synthesis may be called association; but with the concept of
+productivity is already posited the distinction between passivity and
+activity, between sensation and intuition.
+
+    [Sidenote] _Intuition and representation._
+
+Other psychologists are disposed to distinguish from sensation something
+which is sensation no longer, but is not yet intellective concept: _the
+representation or image_. What is the difference between their
+representation or image, and our intuitive knowledge? The greatest, and
+none at all. "Representation," too, is a very equivocal word. If by
+representation be understood something detached and standing out from
+the psychic base of the sensations, then representation is intuition.
+If, on the other hand, it be conceived as a complex sensation, a return
+is made to simple sensation, which does not change its quality according
+to its richness or poverty, operating alike in a rudimentary or in a
+developed organism full of traces of past sensations. Nor is the
+equivoque remedied by defining representation as a psychic product of
+secondary order in relation to sensation, which should occupy the first
+place. What does secondary order mean here? Does it mean a qualitative,
+a formal difference? If so, we agree: representation is elaboration of
+sensation, it is intuition. Or does it mean greater complexity and
+complication, a quantitative, material difference? In that case
+intuition would be again confused with simple sensation.
+
+    [Sidenote] _Intuition and expression._
+
+And yet there is a sure method of distinguishing true intuition, true
+representation, from that which is inferior to it: the spiritual fact
+from the mechanical, passive, natural fact. Every true intuition or
+representation is, also, _expression_. That which does not objectify
+itself in expression is not intuition or representation, but sensation
+and naturality. The spirit does not obtain intuitions, otherwise than by
+making, forming, expressing. He who separates intuition from expression
+never succeeds in reuniting them.
+
+_Intuitive activity possesses intuitions to the extent that it expresses
+them_.--Should this expression seem at first paradoxical, that is
+chiefly because, as a general rule, a too restricted meaning is given to
+the word "expression." It is generally thought of as restricted to
+verbal expression. But there exist also non-verbal expressions, such as
+those of line, colour, and sound; to all of these must be extended our
+affirmation. The intuition and expression together of a painter are
+pictorial; those of a poet are verbal. But be it pictorial, or verbal,
+or musical, or whatever else it be called, to no intuition can
+expression be wanting, because it is an inseparable part of intuition.
+How can we possess a true intuition of a geometrical figure, unless we
+possess so accurate an image of it as to be able to trace it immediately
+upon paper or on a slate? How can we have an intuition of the contour of
+a region, for example, of the island of Sicily, if we are not able to
+draw it as it is in all its meanderings? Every one can experience the
+internal illumination which follows upon his success in formulating to
+himself his impressions and sentiments, but only so far as he is able to
+formulate them. Sentiments or impressions, then, pass by means of words
+from the obscure region of the soul into the clarity of the
+contemplative spirit. In this cognitive process it is impossible to
+distinguish intuition from expression. The one is produced with the
+other at the same instant, because they are not two, but one.
+
+    [Sidenote] _Illusions as to their difference._
+
+The principal reason which makes our theme appear paradoxical as we
+maintain it, is the illusion or prejudice that we possess a more
+complete intuition of reality than we really do. One often hears people
+say that they have in their minds many important thoughts, but that they
+are not able to express them. In truth, if they really had them, they
+would have coined them into beautiful, ringing words, and thus expressed
+them. If these thoughts seem to vanish or to become scarce and poor in
+the act of expressing them, either they did not exist or they really
+were scarce and poor. People think that all of us ordinary men imagine
+and have intuitions of countries, figures and scenes, like painters; of
+bodies, like sculptors; save that painters and sculptors know how to
+paint and to sculpture those images, while we possess them only within
+our souls. They believe that anyone could have imagined a Madonna of
+Raphael; but that Raphael was Raphael owing to his technical ability in
+putting the Madonna upon the canvas. Nothing can be more false than this
+view. The world of which as a rule we have intuitions, is a small thing.
+It consists of little expressions which gradually become greater and
+more ample with the increasing spiritual concentration of certain
+moments. These are the sort of words which we speak within ourselves,
+the judgments that we tacitly express: "Here is a man, here is a horse,
+this is heavy, this is hard, this pleases me," etc. It is a medley of
+light and colour, which could not pictorially attain to any more sincere
+expression than a haphazard splash of colours, from among which would
+with difficulty stand out a few special, distinctive traits. This and
+nothing else is what we possess in our ordinary life; this is the basis
+of our ordinary action. It is the index of a book. The labels tied to
+things take the place of the things themselves. This index and labels
+(which are themselves expressions) suffice for our small needs and small
+actions. From time to time we pass from the index to the book, from the
+label to the thing, or from the slight to the greater intuitions, and
+from these to the greatest and most lofty. This passage is sometimes far
+from being easy. It has been observed by those who have best studied the
+psychology of artists, that when, after having given a rapid glance at
+anyone, they attempt to obtain a true intuition of him, in order, for
+example, to paint his portrait, then this ordinary vision, that seemed
+so precise, so lively, reveals itself as little better than nothing.
+What remains is found to be at the most some superficial trait, which
+would not even suffice for a caricature. The person to be painted stands
+before the artist like a world to discover. Michael Angelo said, "one
+paints, not with one's hands, but with one's brain." Leonardo shocked
+the prior of the convent delle Grazie by standing for days together
+opposite the "Last Supper" without touching it with the brush. He
+remarked of this attitude "that men of the most lofty genius, when they
+are doing the least work, are then the most active, seeking invention
+with their minds." The painter is a painter, because he sees what others
+only feel or catch a glimpse of, but do not see. We think we see a
+smile, but in reality we have only a vague impression of it, we do not
+perceive all the characteristic traits from which it results, as the
+painter perceives them after his internal meditations, which thus enable
+him to fix them on the canvas. Even in the case of our intimate friend,
+who is with us every day and at all hours, we do not possess intuitively
+more than, at the most, certain traits of his physiognomy, which enable
+us to distinguish him from others. The illusion is less easy as regards
+musical expression; because it would seem strange to everyone to say
+that the composer had added or attached notes to the motive, which is
+already in the mind of him who is not the composer. As if Beethoven's
+Ninth Symphony were not his own intuition and his own intuition the
+Ninth Symphony. Thus, just as he who is deceived as to his material
+wealth is confuted by arithmetic, which states its exact amount, so is
+he confuted who nourishes delusions as to the wealth of his own thoughts
+and images. He is brought back to reality, when he is obliged to cross
+the Bridge of Asses of expression. We say to the former, count; to the
+latter, speak, here is a pencil, draw, express yourself.
+
+We have each of us, as a matter of fact, a little of the poet, of the
+sculptor, of the musician, of the painter, of the prose writer: but how
+little, as compared with those who are so called, precisely because of
+the lofty degree in which they possess the most universal dispositions
+and energies of human nature! How little does a painter possess of the
+intuitions of a poet! How little does one painter possess those of
+another painter! Nevertheless, that little is all our actual patrimony
+of intuitions or representations. Beyond these are only impressions,
+sensations, feelings, impulses, emotions, or whatever else one may term
+what is outside the spirit, not assimilated by man, postulated for the
+convenience of exposition, but effectively inexistent, if existence be
+also a spiritual fact.
+
+    [Sidenote] _Identity of intuition and expression._
+
+We may then add this to the verbal variants descriptive of intuition,
+noted at the beginning: intuitive knowledge is expressive knowledge,
+independent and autonomous in respect to intellectual function;
+indifferent to discriminations, posterior and empirical, to reality and
+to unreality, to formations and perceptions of space and time, even when
+posterior: intuition or representation is distinguished as form from
+what is felt and suffered, from the flux or wave of sensation, or from
+psychic material; and this form this taking possession of, is
+expression. To have an intuition is to express. It is nothing else!
+(nothing more, but nothing less) than _to express_.
+
+
+
+
+II
+
+INTUITION AND ART
+
+
+    [Sidenote] _Corollaries and explanations._
+
+Before proceeding further, it seems opportune to draw certain
+consequences from what has been established and to add some explanation.
+
+    [Sidenote] _Identity of art and intuitive knowledge._
+
+We have frankly identified intuitive or expressive knowledge with the
+aesthetic or artistic fact, taking works of art as examples of intuitive
+knowledge and attributing to them the characteristics of intuition, and
+_vice versa_. But our identification is combated by the view, held even
+by many philosophers, who consider art to be an intuition of an
+altogether special sort. "Let us admit" (they say) "that art is
+intuition; but intuition is not always art: artistic intuition is of a
+distinct species differing from intuition in general by something
+_more_."
+
+    [Sidenote] _No specific difference._
+
+But no one has ever been able to indicate of what this something more
+consists. It has sometimes been thought that art is not a simple
+intuition, but an intuition of an intuition, in the same way as the
+concept of science has been defined, not as the ordinary concept, but as
+the concept of a concept. Thus man should attain to art, by
+objectifying, not his sensations, as happens with ordinary intuition,
+but intuition itself. But this process of raising to a second power does
+not exist; and the comparison of it with the ordinary and scientific
+concept does not imply what is wished, for the good reason that it is
+not true that the scientific concept is the concept of a concept. If
+this comparison imply anything, it implies just the opposite. The
+ordinary concept, if it be really a concept and not a simple
+representation, is a perfect concept, however poor and limited. Science
+substitutes concepts for representations; it adds and substitutes other
+concepts larger and more comprehensive for those that are poor and
+limited. It is ever discovering new relations. But its method does not
+differ from that by which is formed the smallest universal in the brain
+of the humblest of men. What is generally called art, by antonomasia,
+collects intuitions that are wider and more complex than those which we
+generally experience, but these intuitions are always of sensations and
+impressions.
+
+Art is the expression of impressions, not the expression of expressions.
+
+    [Sidenote] _No difference of intensity._
+
+For the same reason, it cannot be admitted that intuition, which is
+generally called artistic, differs from ordinary intuition as to
+intensity. This would be the case if it were to operate differently on
+the same matter. But since artistic function is more widely distributed
+in different fields, but yet does not differ in method from ordinary
+intuition, the difference between the one and the other is not intensive
+but extensive. The intuition of the simplest popular love-song, which
+says the same thing, or very nearly, as a declaration of love such as
+issues at every moment from the lips of thousands of ordinary men, may
+be intensively perfect in its poor simplicity, although it be
+extensively so much more limited than the complex intuition of a
+love-song by Leopardi.
+
+    [Sidenote] _The difference is extensive and empirical._
+
+The whole difference, then, is quantitative, and as such, indifferent to
+philosophy, _scientia qualitatum_. Certain men have a greater aptitude,
+a more frequent inclination fully to express certain complex states of
+the soul. These men are known in ordinary language as artists. Some very
+complicated and difficult expressions are more rarely achieved and these
+are called works of art. The limits of the expressions and intuitions
+that are called art, as opposed to those that are vulgarly called
+not-art, are empirical and impossible to define. If an epigram be art,
+why not a single word? If a story; why not the occasional note of the
+journalist? If a landscape, why not a topographical sketch? The teacher
+of philosophy in Moliere's comedy was right: "whenever we speak we
+create prose." But there will always be scholars like Monsieur Jourdain,
+astonished at having created prose for forty years without knowing it,
+and who will have difficulty in persuading themselves that when they
+call their servant John to bring their slippers, they have spoken
+nothing less than--prose.
+
+We must hold firmly to our identification, because among the principal
+reasons which have prevented Aesthetic, the science of art, from
+revealing the true nature of art, its real roots in human nature, has
+been its separation from the general spiritual life, the having made of
+it a sort of special function or aristocratic circle. No one is
+astonished when he learns from physiology that every cellule is an
+organism and every organism a cellule or synthesis of cellules. No one
+is astonished at finding in a lofty mountain the same chemical elements
+that compose a small stone or fragment. There is not one physiology of
+small animals and one of large animals; nor is there a special chemical
+theory of stones as distinct from mountains. In the same way, there is
+not a science of lesser intuition distinct from a science of greater
+intuition, nor one of ordinary intuition distinct from artistic
+intuition. There is but one Aesthetic, the science of intuitive or
+expressive knowledge, which is the aesthetic or artistic fact. And this
+Aesthetic is the true analogy of Logic. Logic includes, as facts of the
+same nature, the formation of the smallest and most ordinary concept and
+the most complicated scientific and philosophical system.
+
+    [Sidenote] _Artistic genius._
+
+Nor can we admit that the word _genius_ or artistic genius, as distinct
+from the non-genius of the ordinary man, possesses more than a
+quantitative signification. Great artists are said to reveal us to
+ourselves. But how could this be possible, unless there be identity of
+nature between their imagination and ours, and unless the difference be
+only one of quantity? It were well to change _poeta nascitur_ into _homo
+nascitur poeta_: some men are born great poets, some small. The cult and
+superstition of the genius has arisen from this quantitative difference
+having been taken as a difference of quality. It has been forgotten that
+genius is not something that has fallen from heaven, but humanity
+itself. The man of genius, who poses or is represented as distant from
+humanity, finds his punishment in becoming or appearing somewhat
+ridiculous. Examples of this are the _genius_ of the romantic period and
+the _superman_ of our time.
+
+But it is well to note here, that those who claim unconsciousness as the
+chief quality of an artistic genius, hurl him from an eminence far above
+humanity to a position far below it. Intuitive or artistic genius, like
+every form of human activity, is always conscious; otherwise it would be
+blind mechanism. The only thing that may be wanting to the artistic
+genius is the _reflective_ consciousness, the superadded consciousness
+of the historian or critic, which is not essential to artistic genius.
+
+    [Sidenote] _Content and form in Aesthetic._
+
+The relation between matter and form, or between _content and form_, as
+it is generally called, is one of the most disputed questions in
+Aesthetic. Does the aesthetic fact consist of content alone, or of form
+alone, or of both together? This question has taken on various meanings,
+which we shall mention, each in its place. But when these words are
+taken as signifying what we have above defined, and matter is understood
+as emotivity not aesthetically elaborated, that is to say, impressions,
+and form elaboration, intellectual activity and expression, then our
+meaning cannot be doubtful. We must, therefore, reject the thesis that
+makes the aesthetic fact to consist of the content alone (that is, of
+the simple impressions), in like manner with that other thesis, which
+makes it to consist of a junction between form and content, that is, of
+impressions plus expressions. In the aesthetic fact, the aesthetic
+activity is not added to the fact of the impressions, but these latter
+are formed and elaborated by it. The impressions reappear as it were in
+expression, like water put into a filter, which reappears the same and
+yet different on the other side. The aesthetic fact, therefore, is form,
+and nothing but form.
+
+From this it results, not that the content is something superfluous (it
+is, on the contrary, the necessary point of departure for the expressive
+fact); but that _there is no passage_ between the quality of the content
+and that of the form. It has sometimes been thought that the content, in
+order to be aesthetic, that is to say, transformable into form, should
+possess some determinate or determinable quality. But were that so, then
+form and content, expression and impression, would be the same thing. It
+is true that the content is that which is convertible into form, but it
+has no determinable qualities until this transformation takes place. We
+know nothing of its nature. It does not become aesthetic content at
+once, but only when it has been effectively transformed. Aesthetic
+content has also been defined as what is _interesting_. That is not an
+untrue statement; it is merely void of meaning. What, then, is
+interesting? Expressive activity? Certainly the expressive activity
+would not have raised the content to the dignity of form, had it not
+been interested. The fact of its having been interested is precisely the
+fact of its raising the content to the dignity of form. But the word
+"interesting" has also been employed in another not illegitimate sense,
+which we shall explain further on.
+
+    [Sidenote] _Critique of the imitation of nature and of the artistic
+               illusion._
+
+The proposition that art is _imitation of nature_ has also several
+meanings. Now truth has been maintained or at least shadowed with these
+words, now error. More frequently, nothing definite has been thought.
+One of the legitimate scientific meanings occurs when imitation is
+understood as representation or intuition of nature, a form of
+knowledge. And when this meaning has been understood, by placing in
+greater relief the spiritual character of the process, the other
+proposition becomes also legitimate: namely, that art is the
+_idealization_ or _idealizing_ imitation of nature. But if by imitation
+of nature be understood that art gives mechanical reproductions, more or
+less perfect duplicates of natural objects, before which the same tumult
+of impressions caused by natural objects begins over again, then the
+proposition is evidently false. The painted wax figures that seem to be
+alive, and before which we stand astonished in the museums where such
+things are shown, do not give aesthetic intuitions. Illusion and
+hallucination have nothing to do with the calm domain of artistic
+intuition. If an artist paint the interior of a wax-work museum, or if
+an actor give a burlesque portrait of a man-statue on the stage, we
+again have spiritual labour and artistic intuition. Finally, if
+photography have anything in it of artistic, it will be to the extent
+that it transmits the intuition of the photographer, his point of view,
+the pose and the grouping which he has striven to attain. And if it be
+not altogether art, that is precisely because the element of nature in
+it remains more or less insubordinate and ineradicable. Do we ever,
+indeed, feel complete satisfaction before even the best of photographs?
+Would not an artist vary and touch up much or little, remove or add
+something to any of them?
+
+    [Sidenote] _Critique of art conceived as a sentimental not a
+               theoretical fact. Aesthetic appearance and feeling._
+
+The statements repeated so often, with others similar, that art is not
+knowledge, that it does not tell the truth, that it does not belong to
+the world of theory, but to the world of feeling, arise from the failure
+to realize exactly the theoretic character of the simple intuition. This
+simple intuition is quite distinct from intellectual knowledge, as it is
+distinct from the perception of the real. The belief that only the
+intellective is knowledge, or at the most also the perception of the
+real, also arises from the failure to grasp the theoretic character of
+the simple intuition. We have seen that intuition is knowledge, free of
+concepts and more simple than the so-called perception of the real.
+Since art is knowledge and form, it does not belong to the world of
+feeling and of psychic material. The reason why so many aestheticians
+have so often insisted that art is _appearance_ (_Schein_), is precisely
+because they have felt the necessity of distinguishing it from the more
+complex fact of perception by maintaining its pure intuitivity. For the
+same reason it has been claimed that art is _sentiment_. In fact, if the
+concept as content of art, and historical reality as such, be excluded,
+there remains no other content than reality apprehended in all its
+ingenuousness and immediateness in the vital effort, in _sentiment_,
+that is to say, pure intuition.
+
+    [Sidenote] _Critique of theory of aesthetic senses._
+
+The theory of the _aesthetic senses_ has also arisen from the failure to
+establish, or from having lost to view the character of the expression
+as distinct from the impression, of the form as distinct from the
+matter.
+
+As has just been pointed out, this reduces itself to the error of
+wishing to seek a passage from the quality of the content to that of the
+form. To ask, in fact, what the aesthetic senses may be, implies asking
+what sensible impressions may be able to enter into aesthetic
+expressions, and what must of necessity do so. To this we must at once
+reply, that all impressions can enter into aesthetic expressions or
+formations, but that none are bound to do so. Dante raised to the
+dignity of form not only the "sweet colour of the oriental sapphire"
+(visual impression), but also tactile or thermic impressions, such as
+the "thick air" and the "fresh rivulets" which "parch all the more" the
+throat of the thirsty. The belief that a picture yields only visual
+impressions is a curious illusion. The bloom of a cheek, the warmth of a
+youthful body, the sweetness and freshness of a fruit, the cutting of a
+sharpened blade, are not these, also, impressions that we have from a
+picture? Maybe they are visual? What would a picture be for a
+hypothetical man, deprived of all or many of his senses, who should in
+an instant acquire the sole organ of sight? The picture we are standing
+opposite and believe we see only with our eyes, would appear to his eyes
+as little more than the paint-smeared palette of a painter.
+
+Some who hold firmly to the aesthetic character of given groups of
+impressions (for example, the visual, the auditive), and exclude others,
+admit, however, that if visual and auditive impressions enter _directly_
+into the aesthetic fact, those of the other senses also enter into it,
+but only as _associated_. But this distinction is altogether arbitrary.
+Aesthetic expression is a synthesis, in which it is impossible to
+distinguish direct and indirect. All impressions are by it placed on a
+level, in so far as they are aestheticised. He who takes into himself
+the image of a picture or of a poem does not experience, as it were, a
+series of impressions as to this image, some of which have a prerogative
+or precedence over others. And nothing is known of what happens prior to
+having received it, for the distinctions made after reflexion have
+nothing to do with art.
+
+The theory of the aesthetic senses has also been presented in another
+way; that is to say, as the attempt to establish what physiological
+organs are necessary for the aesthetic fact. The physiological organ or
+apparatus is nothing but a complex of cellules, thus and thus
+constituted, thus and thus disposed; that is to say, it is merely
+physical and natural fact or concept. But expression does not recognize
+physiological facts. Expression has its point of departure in the
+impressions, and the physiological path by which these have found their
+way to the mind is to it altogether indifferent. One way or another
+amounts to the same thing: it suffices that they are impressions.
+
+It is true that the want of given organs, that is, of given complexes of
+cells, produces an absence of given impressions (when these are not
+obtained by another path by a kind of organic compensation). The man
+born blind cannot express or have the intuition of light. But the
+impressions are not conditioned solely by the organ, but also by the
+stimuli which operate upon the organ. Thus, he who has never had the
+impression of the sea will never be able to express it, in the same way
+as he who has never had the impression of the great world or of the
+political conflict will never express the one or the other. This,
+however, does not establish a dependence of the expressive function on
+the stimulus or on the organ. It is the repetition of what we know
+already: expression presupposes impression. Therefore, given expressions
+imply given impressions. Besides, every impression excludes other
+impressions during the moment in which it dominates; and so does every
+expression.
+
+    [Sidenote] _Unity and indivisibility of the work of art._
+
+Another corollary of the conception of expression as activity is the
+_indivisibility_ of the work of art. Every expression is a unique
+expression. Activity is a fusion of the impressions in an organic whole.
+A desire to express this has always prompted the affirmation that the
+world of art should have _unity_, or, what amounts to the same thing,
+_unity in variety_. Expression is a synthesis of the various, the
+multiple, in the one.
+
+The fact that we divide a work of art into parts, as a poem into scenes,
+episodes, similes, sentences, or a picture into single figures and
+objects, background, foreground, etc., may seem to be an objection to
+this affirmation. But such division annihilates the work, as dividing
+the organism into heart, brain, nerves, muscles and so on, turns the
+living being into a corpse. It is true that there exist organisms in
+which the division gives place to more living things, but in such a
+case, and if we transfer the analogy to the aesthetic fact, we must
+conclude for a multiplicity of germs of life, that is to say, for a
+speedy re-elaboration of the single parts into new single expressions.
+
+It will be observed that expression is sometimes based on other
+expressions. There are simple and there are _compound_ expressions. One
+must admit some difference between the _eureka_, with which Archimedes
+expressed all his joy after his discovery, and the expressive act
+(indeed all the five acts) of a regular tragedy. Not in the least:
+expression is always directly based on impressions. He who conceives a
+tragedy puts into a crucible a great quantity, so to say, of
+impressions: the expressions themselves, conceived on other occasions,
+are fused together with the new in a single mass, in the same way as we
+can cast into a smelting furnace formless pieces of bronze and most
+precious statuettes. Those most precious statuettes must be melted in
+the same way as the formless bits of bronze, before there can be a new
+statue. The old expressions must descend again to the level of
+impressions, in order to be synthetized in a new single expression.
+
+    [Sidenote] _Art as the deliverer._
+
+By elaborating his impressions, man _frees_ himself from them. By
+objectifying them, he removes them from him and makes himself their
+superior. The liberating and purifying function of art is another aspect
+and another formula of its character of activity. Activity is the
+deliverer, just because it drives away passivity.
+
+This also explains why it is customary to attribute to artists alike the
+maximum of sensibility or _passion_, and the maximum insensibility or
+Olympic _serenity_. Both qualifications agree, for they do not refer to
+the same object. The sensibility or passion relates to the rich material
+which the artist absorbs into his psychic organism; the insensibility or
+serenity to the form with which he subjugates and dominates the tumult
+of the feelings and of the passions.
+
+
+
+
+III
+
+ART AND PHILOSOPHY
+
+
+    [Sidenote] _Indissolubility of intellective from intuitive knowledge._
+
+The two forms of knowledge, aesthetic and intellectual or conceptual,
+are indeed diverse, but this does not amount altogether to separation
+and disjunction, as we find with two forces going each its own way. If
+we have shown that the aesthetic form is altogether independent of the
+intellectual and suffices to itself without external support, we have
+not said that the intellectual can stand without the aesthetic. This
+_reciprocity_ would not be true.
+
+What is knowledge by concepts? It is knowledge of relations of things,
+and those things are intuitions. Concepts are not possible without
+intuitions, just as intuition is itself impossible without the material
+of impressions. Intuitions are: this river, this lake, this brook, this
+rain, this glass of water; the concept is: water, not this or that
+appearance and particular example of water, but water in general, in
+whatever time or place it be realized; the material of infinite
+intuitions, but of one single and constant concept.
+
+However, the concept, the universal, if it be no longer intuition in one
+respect, is in another respect intuition, and cannot fail of being
+intuition. For the man who thinks has impressions and emotions, in so
+far as he thinks. His impression and emotion will not be love or hate,
+but _the effort of his thought itself_, with the pain and the joy, the
+love and the hate joined to it. This effort cannot but become intuitive
+in form, in becoming objective to the mind. To speak, is not to think
+logically; but to _think logically_ is, at the same time, to _speak_.
+
+    [Sidenote] _Critique of the negations of this thesis._
+
+That thought cannot exist without speech, is a truth generally admitted.
+The negations of this thesis are all founded on equivoques and errors.
+
+The first of the equivoques is implied by those who observe that one can
+likewise think with geometrical figures, algebraical numbers,
+ideographic signs, without a single word, even pronounced silently and
+almost insensibly within one. They also affirm that there are languages
+in which the word, the phonetic sign, expresses nothing, unless the
+written sign also be looked at. But when we said "speech," we intended
+to employ a synecdoche, and that "expression" generically, should be
+understood, for expression is not only so-called verbal expression, as
+we have already noted. It may be admitted that certain concepts may be
+thought without phonetic manifestations. But the very examples adduced
+to show this also prove that those concepts never exist without
+expressions.
+
+Others maintain that animals, or certain animals, think or reason
+without speaking. Now as to how, whether, and what animals think,
+whether they be rudimentary, half-savage men resisting civilization,
+rather than physiological machines, as the old spiritualists would have
+it, are questions that do not concern us here. When the philosopher
+talks of animal, brutal, impulsive, instinctive nature and the like, he
+does not base himself on conjectures as to these facts concerning dogs
+or cats, lions or ants; but upon observations of what is called animal
+and brutal in man: of the boundary or animal basis of what we feel in
+ourselves. If individual animals, dogs or cats, lions or ants, possess
+something of the activity of man, so much the better, or so much the
+worse for them. This means that as regards them also we must talk, not
+of their nature as a whole, but of its animal basis, as being perhaps
+larger and more strong than the animal basis of man. And if we suppose
+that animals think, and form concepts, what is there in the line of
+conjecture to justify the admission that they do so without
+corresponding expressions? The analogy with man, the knowledge of the
+spirit, human psychology, which is the instrument of all our conjectures
+as to animal psychology, would oblige us to suppose that if they think
+in any way, they also have some sort of speech.
+
+It is from human psychology, that is, literary psychology, that comes
+the other objection, to the effect that the concept can exist without
+the word, because it is true that we all know books that are _well
+thought and badly written_: that is to say, a thought which remains
+thought _beyond_ the expression, _notwithstanding_ the imperfect
+expression. But when we talk of books well thought and badly written, we
+cannot mean other than that in those books are parts, pages, periods or
+propositions well thought out and well written, and other parts (perhaps
+the least important) ill thought out and badly written, not truly
+thought out and therefore not truly expressed. Where Vico's _Scienza
+nuova_ is really ill written, it is also ill thought out. If we pass
+from the consideration of big books to a short proposition, the error or
+the imprecision of this statement will be recognized at once. How could
+a proposition be clearly thought and confusedly written out?
+
+All that can be admitted is that sometimes we possess thoughts
+(concepts) in an intuitive form, or in an abbreviated or, better,
+peculiar expression, sufficient for us, but not sufficient to
+communicate it with ease to another or other definite individuals. Hence
+people say inaccurately, that we have the thought without the
+expression; whereas it should properly be said that we have, indeed, the
+expression, but in a form that is not easy of social communication.
+This, however, is a very variable and altogether relative fact. There
+are always people who catch our thought on the wing, and prefer it in
+this abbreviated form, and would be displeased with the greater
+development of it, necessary for other people. In other words, the
+thought considered abstractly and logically will be the same; but
+aesthetically we are dealing with two different intuition-expressions,
+into both of which enter different psychological elements. The same
+argument suffices to destroy, that is, to interpret correctly, the
+altogether empirical distinction between an _internal_ and an _external_
+language.
+
+    [Sidenote] _Art and science._
+
+The most lofty manifestations, the summits of intellectual and of
+intuitive knowledge shining from afar, are called, as we know, Art and
+Science. Art and Science, then, are different and yet linked together;
+they meet on one side, which is the aesthetic side. Every scientific
+work is also a work of art. The aesthetic side may remain little
+noticed, when our mind is altogether taken up with the effort to
+understand the thought of the man of science, and to examine its truth.
+But it is no longer concealed, when we pass from the activity of
+understanding to that of contemplation, and behold that thought either
+developed before us, limpid, exact, well-shaped, without superfluous
+words, without lack of words, with appropriate rhythm and intonation; or
+confused, broken, embarrassed, tentative. Great thinkers are sometimes
+termed great writers, while other equally great thinkers remain more or
+less fragmentary writers, if indeed their fragments are scientifically
+to be compared with harmonious, coherent, and perfect works.
+
+    [Sidenote] _Content and form: another meaning. Prose and poetry._
+
+We pardon thinkers and men of science their literary mediocrity. The
+fragments console us for the failure of the whole, for it is far more
+easy to recover the well-arranged composition from the fragmentary work
+of genius than to achieve the discovery of genius. But how can we pardon
+mediocre expression in pure artists? _Mediocribus esse poetis non di,
+non homines, non concessere columnae_. The poet or painter who lacks
+form, lacks everything, because he lacks _himself_. Poetical material
+permeates the Soul of all: the expression alone, that is to say, the
+form, makes the poet. And here appears the truth of the thesis which
+denies to art all content, as content being understood just the
+intellectual concept. In this sense, when we take "content" as equal to
+"concept" it is most true, not only that art does not consist of
+content, but also that _it has no content_.
+
+In the same way the distinction between _poetry and prose_ cannot be
+justified, save in that of art and science. It was seen in antiquity
+that such distinction could not be founded on external elements, such as
+rhythm and metre, or on the freedom or the limitation of the form; that
+it was, on the contrary, altogether internal. Poetry is the language of
+sentiment; prose of the intellect; but since the intellect is also
+sentiment, in its concretion and reality, so all prose has a poetical
+side.
+
+    [Sidenote] _The relation of first and second degree._
+
+The relation between intuitive knowledge or expression, and intellectual
+knowledge or concept, between art and science, poetry and prose, cannot
+be otherwise defined than by saying that it is one of _double degree_.
+The first degree is the expression, the second the concept: the first
+can exist without the second, but the second cannot exist without the
+first. There exists poetry without prose, but not prose without poetry.
+Expression, indeed, is the first affirmation of human activity. Poetry
+is "the maternal language of the human race"; the first men "were by
+nature sublime poets." We also admit this in another way, when we
+observe that the passage from soul to mind, from animal to human
+activity, is effected by means of language. And this should be said of
+intuition or expression in general. But to us it appears somewhat
+inaccurate to define language or expression as an _intermediate_ link
+between nature and humanity, as though it were a mixture of the one and
+of the other. Where humanity appears, the rest has already disappeared;
+the man who expresses himself, certainly emerges from the state of
+nature, but he really does emerge: he does not stand half within and
+half without, as the use of the phrase "intermediate link" would imply.
+
+    [Sidenote] _Inexistence of other forms of knowledge._
+
+The cognitive intellect has no form other than these two. Expression and
+concept exhaust it completely. The whole speculative life of man is
+spent in passing from one to the other and back again.
+
+    [Sidenote] _History. Its identity with and difference from art._
+
+_Historicity_ is incorrectly held to be a third theoretical form.
+History is not form, but content: as form, it is nothing but intuition
+or aesthetic fact. History does not seek for laws nor form concepts; it
+employs neither induction nor deduction; it is directed _ad narrandum,
+non ad demonstrandum_; it does not construct universals and
+abstractions, but posits intuitions. The this, the that, the _individuum
+omni modo determinatum_, is its kingdom, as it is the kingdom of art.
+History, therefore, is included under the universal concept of art.
+
+Faced with this proposition and with the impossibility of conceiving a
+third mode of knowledge, objections have been brought forward which
+would lead to the affiliation of history to intellective or scientific
+knowledge. The greater portion of these objections is dominated by the
+prejudice that in refusing to history the character of conceptual
+science, something of its value and dignity has been taken from it. This
+really arises from a false idea of art, conceived, not as an essential
+theoretic function, but as an amusement, a superfluity, a frivolity.
+Without reopening a long debate, which so far as we are concerned, is
+finally closed, we will mention here one sophism which has been and
+still is widely repeated. It is intended to show the logical and
+scientific nature of history. The sophism consists in admitting that
+historical knowledge has for its object the individual; but not the
+representation, it is added, so much as the concept of the individual.
+From this it is argued that history is also a logical or scientific form
+of knowledge. History, in fact, should elaborate the concept of a
+personage such as Charlemagne or Napoleon; of an epoch, like the
+Renaissance or the Reformation; of an event, such as the French
+Revolution and the Unification of Italy. This it is held to do in the
+same way as Geometry elaborates the concepts of spatial form, or
+Aesthetic those of expression. But all this is untrue. History cannot do
+otherwise than represent Napoleon and Charlemagne, the Renaissance and
+the Reformation, the French Revolution and the Unification of Italy as
+individual facts with their individual physiognomy: that is, in the same
+way as logicians state, that one cannot have a concept of an individual,
+but only a representation. The so-called concept of the individual is
+always a universal or general concept, full of details, very rich, if
+you will, but however rich it be, yet incapable of attaining to that
+individuality, to which historical knowledge, as aesthetic knowledge,
+alone attains.
+
+Let us rather show how the content of history comes to be distinguished
+from that of art. The distinction is secondary. Its origin will be found
+in what has already been observed as to the ideal character of the
+intuition or first perception, in which all is real and therefore
+nothing is real. The mind forms the concepts of external and internal at
+a later stage, as it does those of what has happened and of what is
+desired, of object and subject, and the like. Thus it distinguishes
+historical from non-historical intuition, the _real_ from the _unreal_,
+real fancy from pure fancy. Even internal facts, what is desired and
+imagined, castles in the air, and countries of Cockagne, have their
+reality. The soul, too, has its history. His illusions form part of the
+biography of every individual. But the history of an individual soul is
+history, because in it is always active the distinction between the real
+and the unreal, even when the real is the illusions themselves. But
+these distinctive concepts do not appear in history as do scientific
+concepts, but rather like those that we have seen dissolved and melted
+in the aesthetic intuitions, although they stand out in history in an
+altogether new relief. History does not construct the concepts of the
+real and unreal, but makes use of them. History, in fact, is not the
+theory of history. Mere conceptual analysis is of no use in realizing
+whether an event in our lives were real or imaginary. It is necessary to
+reproduce the intuitions in the mind in the most complete form, as they
+were at the moment of production, in order to recognize the content.
+Historicity is distinguished in the concrete from pure imagination only
+as one intuition is distinguished from another: in the memory.
+
+    [Sidenote] _Historical criticism._
+    [Sidenote] _Historical scepticism._
+
+Where this is not possible, owing to the delicate and fleeting shades
+between the real and unreal intuitions, which confuse the one with the
+other, we must either renounce, for the time at least, the knowledge of
+what really happened (and this we often do), or we must fall back upon
+conjecture, verisimilitude, probability. The principle of verisimilitude
+and of probability dominates in fact all historical criticism.
+Examination of the sources and of authority is directed toward
+establishing the most credible evidence. And what is the most credible
+evidence, save that of the best observers, that is, of those who best
+remember and (be it understood) have not desired to falsify, nor had
+interest in falsifying the truth of things? From this it follows that
+intellectual scepticism finds it easy to deny the certainty of any
+history, for the certainty of history is never that of science.
+Historical certainty is composed of memory and of authority, not of
+analyses and of demonstration. To speak of historical induction or
+demonstration, is to make a metaphorical use of these expressions, which
+bear quite a different meaning in history to that which they bear in
+science. The conviction of the historian is the undemonstrable
+conviction of the juryman, who has heard the witnesses, listened
+attentively to the case, and prayed Heaven to inspire him. Sometimes,
+without doubt, he is mistaken, but the mistakes are in a negligible
+minority compared with the occasions when he gets hold of the truth.
+That is why good sense is right against the intellectualists, in
+believing in history, which is not a "fable agreed upon," but that which
+the individual and humanity remember of their past. We strive to enlarge
+and to render as precise as possible this record, which in some places
+is dim, in others very clear. We cannot do without it, such as it is,
+and taken as a whole, it is rich in truth. In a spirit of paradox only,
+can one doubt if there ever were a Greece or a Rome, an Alexander or a
+Caesar, a feudal Europe overthrown by a series of revolutions, that on
+the 1st of November 1517 the theses of Luther were seen fixed to the
+door of the church of Wittenberg, or that the Bastile was taken by the
+people of Paris on the 14th of July 1789.
+
+"What proof givest thou of all this?" asks the sophist, ironically.
+Humanity replies "I remember."
+
+    [Sidenote] _Philosophy as perfect science. The so-called natural
+               sciences, and their limits._
+
+The world of what has happened, of the concrete, of history, is the
+world that is called real, natural, including in this definition the
+reality that is called physical, as well as that which is called
+spiritual and human. All this world is intuition; historical intuition,
+if it be realistically shown as it is, or imaginary intuition, artistic
+in the strict sense, if shown under the aspect of the possible, that is
+to say, of the imaginable.
+
+Science, true science, which is not intuition but concept, not
+individuality but universality, cannot be anything but a science of the
+spirit, that is, of what is universal in reality: Philosophy. If natural
+_sciences_ be spoken of, apart from philosophy, it is necessary to
+observe that these are not perfect sciences: they are complexes of
+knowledge, arbitrarily abstracted and fixed. The so-called natural
+sciences themselves recognize, in fact, that they are surrounded by
+limitations. These limitations are nothing more than historical and
+intuitive data. They calculate, measure, establish equalities,
+regularity, create classes and types, formulate laws, show in their own
+way how one fact arises out of other facts; but in their progress they
+are always met with facts which are known intuitively and historically.
+Even geometry now states that it rests altogether on hypotheses, since
+space is not three-dimensional or Euclidean, but this assumption is made
+use of by preference, because it is more convenient. What there is of
+truth in the natural sciences, is either philosophy or historical fact.
+What they contain proper to themselves is abstract and arbitrary. When
+the natural sciences wish to form themselves into perfect sciences, they
+must issue from their circle and enter the philosophical circle. This
+they do when they posit concepts which are anything but natural, such as
+those of the atom without extension in space, of ether or vibrating
+matter, of vital force, of space beyond the reach of intuition, and the
+like. These are true and proper philosophical efforts, when they are not
+mere words void of meaning. The concepts of natural science are, without
+doubt, most useful; but one cannot obtain from them that _system_, which
+belongs only to the spirit.
+
+These historical and intuitive assumptions, which cannot be separated
+from the natural sciences, furthermore explain, not only how, in the
+progress of knowledge, that which was once considered to be truth
+descends gradually to the grade of mythological beliefs and imaginary
+illusions, but also how, among natural scientists, there are some who
+term all that serves as basis of argument in their teaching _mythical
+facts, verbal expedients_, or _conventions_. The naturalists and
+mathematicians who approach the study of the energies of the spirit
+without preparation, are apt to carry thither these mental habits and to
+speak, in philosophy, of such and such conventions "as arranged by man."
+They make conventions of truth and morality, and their supreme
+convention is the Spirit itself! However, if there are to be
+conventions, something must exist about which there is no convention to
+be made, but which is itself the agent of the convention. This is the
+spiritual activity of man. The limitation of the natural sciences
+postulates the illimitation of philosophy.
+
+    [Sidenote] _The phenomenon and the noumenon._
+
+These explications have firmly established that the pure or fundamental
+forms of knowledge are two: the intuition and the concept--Art, and
+Science or Philosophy. With these are to be included History, which is,
+as it were, the product of intuition placed in contact with the concept,
+that is, of art receiving in itself philosophic distinctions, while
+remaining concrete and individual. All the other forms (natural sciences
+and mathematics) are impure, being mingled with extraneous elements of
+practical origin. The intuition gives the world, the phenomenon; the
+concept gives the noumenon, the Spirit.
+
+
+
+
+IV
+
+HISTORICISM AND INTELLECTUALISM IN AESTHETIC
+
+
+These relations between intuitive or aesthetic knowledge and the other
+fundamental or derivative forms of knowledge having been definitely
+established, we are now in a position to reveal the errors of a series
+of theories which have been, or are, presented, as theories of
+Aesthetic.
+
+    [Sidenote] _Critique of verisimilitude and of naturalism._
+
+From the confusion between the exigencies of art in general and the
+particular exigencies of history has arisen the theory (which has lost
+ground to-day, but used to dominate in the past) of _verisimilitude_ as
+the object of art. As is generally the case with erroneous propositions,
+the intention of those who employed and employ the concept of
+verisimilitude has no doubt often been much more reasonable than the
+definition given of the word. By verisimilitude used to be meant the
+artistic _coherence_ of the representation, that is to say, its
+completeness and effectiveness. If "verisimilar" be translated by
+"coherent," a most exact meaning will often be found in the discussions,
+examples, and judgments of the critics. An improbable personage, an
+improbable ending to a comedy, are really badly-drawn personages,
+badly-arranged endings, happenings without artistic motive. It has been
+said with reason that even fairies and sprites must have verisimilitude,
+that is to say, be really sprites and fairies, coherent artistic
+intuitions. Sometimes the word "possible" has been used instead of
+"verisimilar." As we have already remarked in passing, this word
+possible is synonymous with that which is imaginable or may be known
+intuitively. Everything which is really, that is to say, coherently,
+imagined, is possible. But formerly, and especially by the
+theoreticians, by verisimilar was understood historical credibility, or
+that historical truth which is not demonstrable, but conjecturable, not
+true, but verisimilar. It has been sought to impose a like character
+upon art. Who does not recall the great part played in literary history
+by the criticism of the verisimilar? For example, the fault found with
+the _Jerusalem Delivered_, based upon the history of the Crusades, or of
+the Homeric poems, upon that of the verisimilitude of the costume of the
+emperors and kings?
+
+At other times has been imposed upon art the duty of the aesthetic
+reproduction of historical reality. This is another of the erroneous
+significations assumed by the theory concerning _the imitation of
+nature_. Verism and naturalism have since afforded the spectacle of a
+confusion of the aesthetic fact with the processes of the natural
+sciences, by aiming at some sort of _experimental_ drama or romance.
+
+    [Sidenote] _Critique of ideas in art, of theses in art, and of the
+               typical._
+
+The confusions between the methods of art and those of the philosophical
+sciences have been far more frequent. Thus it has often been held to be
+within the competence of art to develop concepts, to unite the
+intelligible with the sensible, to represent _ideas or universals_,
+putting art in the place of science, that is, confusing the artistic
+function in general with the particular case in which it becomes
+aesthetico-logical.
+
+The theory of art as supporting _theses_ can be reduced to the same
+error, as can be the theory of art considered as individual
+representation, exemplifying scientific laws. The example, in so far as
+it is an example, stands for the thing exemplified, and is thus an
+exposition of the universal, that is to say, a form of science, more or
+less popular or vulgarized.
+
+The same may be said of the aesthetic theory of the _typical_, when by
+type is understood, as it frequently is, just the abstraction or the
+concept, and it is affirmed that art should make _the species shine in
+the individual_. If by typical be here understood the individual, here,
+too, we have a merely verbal variation. To typify would signify, in this
+case, to characterize; that is, to determine and to represent the
+individual. Don Quixote is a type; but of whom is he a type, if not of
+all Don Quixotes? A type, that is to say, of himself. Certainly he is
+not a type of abstract concepts, such as the loss of the sense of
+reality, or of the love of glory. An infinite number of personages can
+be thought of under these concepts, who are not Don Quixote. In other
+words, we find our own impressions fully determined and verified in the
+expression of a poet (for example in a poetical personage). We call that
+expression typical, which we might call simply aesthetic. Poetical or
+artistic universals have been spoken of in like manner, in order to show
+that the artistic product is altogether spiritual and ideal in itself.
+
+    [Sidenote] _Critique of the symbol and of the allegory._
+
+Continuing to correct these errors, or to make clear equivoques, we will
+note that the _symbol_ has sometimes been given as essence of art. Now,
+if the symbol be given as inseparable from the artistic intuition, it is
+the synonym of the intuition itself, which always has an ideal
+character. There is no double-bottom to art, but one only; in art all is
+symbolical, because all is ideal. But if the symbol be looked upon as
+separable--if on the one side can be expressed the symbol, and on the
+other the thing symbolized, we fall back again into the intellectualist
+error: that pretended symbol is the exposition of an abstract concept,
+it is an _allegory_, it is science, or art that apes science. But we
+must be just toward the allegorical also. In some cases, it is
+altogether harmless. Given the _Gerusalemme liberata_, the allegory was
+imagined afterwards; given the _Adone_ of Marino, the poet of the
+lascivious insinuated afterwards that it was written to show how
+"immoderate indulgence ends in pain"; given a statue of a beautiful
+woman, the sculptor can write on a card that the statue represents
+_Clemency_ or _Goodness_. This allegory linked to a finished work _post
+festum_ does not change the work of art. What is it, then? It is an
+expression externally _added_ to another expression. A little page of
+prose is added to the _Gerusalemme_, expressing another thought of the
+poet; a verse or a strophe is added to the _Adone_, expressing what the
+poet would like to make a part of his public swallow; while to the
+statue nothing more than the single word is added: _Clemency_ or
+_Goodness_.
+
+    [Sidenote] _Critique of the theory of artistic and literary classes._
+
+But the greatest triumph of the intellectualist error lies in the theory
+of artistic and literary classes, which still has vogue in literary
+treatises, and disturbs the critics and the historians of art. Let us
+observe its genesis.
+
+The human mind can pass from the aesthetic to the logical, just because
+the former is a first step, in respect to the latter. It can destroy the
+expressions, that is, the thought of the individual with the thought of
+the universal. It can reduce expressive facts to logical relations. We
+have already shown that this operation in its turn becomes concrete in
+an expression, but this does not mean that the first expressions have
+not been destroyed. They have yielded their place to the new
+aesthetico-logical expressions. When we are on the second step, we have
+left the first.
+
+He who enters a picture-gallery, or who reads a series of poems, may,
+after he has looked and read, go further: he may seek out the relations
+of the things there expressed. Thus those pictures and compositions,
+each of which is an individual inexpressible by logic, are resolved into
+universals and abstractions, such as _costumes, landscapes, portraits,
+domestic life, battles, animals, flowers, fruit, seascapes, lakes,
+deserts, tragic, comic, piteous, cruel, lyrical, epic, dramatic,
+knightly, idyllic facts_, and the like. They are often also resolved
+into merely quantitative categories, such as _little picture, picture,
+statuette, group, madrigal, song, sonnet, garland of sonnets, poetry,
+poem, story, romance_, and the like.
+
+When we think the concept _domestic life_, or _knighthood_, or _idyll_,
+or _cruelty_, or any other quantitative concept, the individual
+expressive fact from which we started is abandoned. From aesthetes that
+we were, we have been changed into logicians; from contemplators of
+expression, into reasoners. Certainly no objection can be made to such a
+process. In what other way could science be born, which, if aesthetic
+expressions be assumed in it, yet has for function to go beyond them?
+The logical or scientific form, as such, excludes the aesthetic form. He
+who begins to think scientifically has already ceased to contemplate
+aesthetically; although his thought will assume of necessity in its turn
+an aesthetic form, as has already been said, and as it would be
+superfluous to repeat.
+
+The error begins when we try to deduce the expression from the concept,
+and to find in the thing substituting the laws of the thing substituted;
+when the difference between the second and the first step has not been
+observed, and when, in consequence, we declare that we are standing on
+the first step, when we are really standing on the second. This error is
+known as _the theory of artistic and literary classes_.
+
+What is the aesthetic form of domestic life, of knighthood, of the
+idyll, of cruelty, and so forth? How should these contents be
+_represented_? Such is the absurd problem implied in the theory of
+artistic and literary classes. It is in this that consists all search
+after laws or rules of styles. Domestic life, knighthood, idyll,
+cruelty, and the like, are not impressions, but concepts. They are not
+contents, but logico-aesthetic forms. You cannot express the form, for
+it is already itself expression. And what are the words cruelty, idyll,
+knighthood, domestic life, and so on, but the expression of those
+concepts?
+
+Even the most refined of these distinctions, those that have the most
+philosophic appearance, do not resist criticism; as, for instance, when
+works of art are divided into the subjective and the objective styles,
+into lyric and epic, into works of feeling and works of design. It is
+impossible to separate in aesthetic analysis, the subjective from the
+objective side, the lyric from the epic, the image of feeling from that
+of things.
+
+    [Sidenote] _Errors derived from this theory appearing in judgments
+               on art._
+
+From the theory of the artistic and literary classes derive those
+erroneous modes of judgment and of criticism, thanks to which, instead
+of asking before a work of art if it be expressive, and what it
+expresses, whether it speak or stammer, or be silent altogether, it is
+asked if it be obedient to the _laws_ of the epic poem, or to those of
+tragedy, to those of historical portraiture, or to those of landscape
+painting. Artists, however, while making a verbal pretence of agreeing,
+or yielding a feigned obedience to them, have really always disregarded
+these _laws of styles_. Every true work of art has violated some
+established class and upset the ideas of the critics, who have thus been
+obliged to enlarge the number of classes, until finally even this
+enlargement has proved too narrow, owing to the appearance of new works
+of art, which are naturally followed by new scandals, new upsettings,
+and-new enlargements.
+
+From the same theory come the prejudices, owing to which at one time
+(and is it really passed?) people used to lament that Italy had no
+tragedy (until a poet arose who gave to Italy that wreath which was the
+only thing wanting to her glorious hair), nor France the epic poem
+
+Back to Full Books

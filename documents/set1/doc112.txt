@@ -1,0 +1,2004 @@
+The 1995 CIA World Factbook
+
+ with paved runways 2,438 to 3,047 m: 25
+ with paved runways 1,524 to 2,437 m: 55
+ with paved runways 914 to 1,523 m: 48
+ with paved runways under 914 m: 703
+ with unpaved runways over 3,047 m: 2
+ with unpaved runways 2,438 to 3,047 m: 1
+ with unpaved runways 1,524 to 2,438 m: 70
+ with unpaved runways 914 to 1,523 m: 693
+
+@Argentina:Communications
+
+ Telephone system: 2,650,000 telephones; 12,000 public telephones; 78
+ telephones/1,000 persons; extensive modern system but many families do
+ not have telephones; microwave widely used; however, during
+ rainstorms, the telephone system frequently grounds out, even in
+ Buenos Aires
+ local: NA
+ intercity: microwave radio relay and domestic satellite network with
+ 40 earth stations
+ international: 2 INTELSAT (Atlantic Ocean) earth stations
+
+ Radio:
+ broadcast stations: AM 171, FM 0, shortwave 13
+ radios: NA
+
+ Television:
+ broadcast stations: 231
+ televisions: NA
+
+@Argentina:Defense Forces
+
+ Branches: Argentine Army, Navy of the Argentine Republic, Argentine
+ Air Force, National Gendarmerie, Argentine Naval Prefecture (Coast
+ Guard only), National Aeronautical Police Force
+
+ Manpower availability: males age 15-49 8,573,780; males fit for
+ military service 6,954,584; males reach military age (20) annually
+ 301,166 (1995 est.)
+
+ Defense expenditures: $NA, NA% of GDP
+
+
+________________________________________________________________________
+
+ARMENIA
+
+@Armenia:Geography
+
+ Location: Southwestern Asia, east of Turkey
+
+ Map references: Commonwealth of Independent States - European States
+
+ Area:
+ total area: 29,800 sq km
+ land area: 28,400 sq km
+ comparative area: slightly larger than Maryland
+
+ Land boundaries: total 1,254 km, Azerbaijan (east) 566 km, Azerbaijan
+ (south) 221 km, Georgia 164 km, Iran 35 km, Turkey 268 km
+
+ Coastline: 0 km (landlocked)
+
+ Maritime claims: none; landlocked
+
+ International disputes: supports ethnic Armenians in Nagorno-Karabakh
+ in their separatist conflict against the Azerbaijani government;
+ traditional demands on former Armenian lands in Turkey have subsided
+
+ Climate: highland continental, hot summers, cold winters
+
+ Terrain: high Armenian Plateau with mountains; little forest land;
+ fast flowing rivers; good soil in Aras River valley
+
+ Natural resources: small deposits of gold, copper, molybdenum, zinc,
+ alumina
+
+ Land use:
+ arable land: 17%
+ permanent crops: 3%
+ meadows and pastures: 20%
+ forest and woodland: 0%
+ other: 60%
+
+ Irrigated land: 3,050 sq km (1990)
+
+ Environment:
+ current issues: soil pollution from toxic chemicals such as DDT;
+ energy blockade, the result of conflict with Azerbaijan, has led to
+ deforestation as citizens scavenge for firewood; pollution of Hrazdan
+ (Razdan) and Aras Rivers; the draining of Sevana Lich, a result of its
+ use as a source for hydropower, threatens drinking water supplies
+ natural hazards: occasionally severe earthquakes; droughts
+ international agreements: party to - Biodiversity, Climate Change,
+ Nuclear Test Ban, Wetlands; signed, but not ratified - Desertification
+
+ Note: landlocked
+
+@Armenia:People
+
+ Population: 3,557,284 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 31% (female 542,664; male 570,998)
+ 15-64 years: 61% (female 1,103,171; male 1,076,226)
+ 65 years and over: 8% (female 154,784; male 109,441) (July 1995 est.)
+
+ Population growth rate: 0.94% (1995 est.)
+
+ Birth rate: 22.79 births/1,000 population (1995 est.)
+
+ Death rate: 6.66 deaths/1,000 population (1995 est.)
+
+ Net migration rate: -6.68 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 26 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 72.36 years
+ male: 68.94 years
+ female: 75.95 years (1995 est.)
+
+ Total fertility rate: 3.06 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Armenian(s)
+ adjective: Armenian
+
+ Ethnic divisions: Armenian 93%, Azeri 3%, Russian 2%, other (mostly
+ Yezidi Kurds) 2% (1989)
+ note: as of the end of 1994, most Azeris had emigrated from Armenia
+
+ Religions: Armenian Orthodox 94%
+
+ Languages: Armenian 96%, Russian 2%, other 2%
+
+ Literacy: age 15 and over can read and write (1989)
+ total population: 99%
+ male: 99%
+ female: 98%
+
+ Labor force: 1.578 million
+ by occupation: industry and construction 34%, agriculture and forestry
+ 31%, other 35% (1992)
+
+@Armenia:Government
+
+ Names:
+ conventional long form: Republic of Armenia
+ conventional short form: Armenia
+ local long form: Hayastani Hanrapetut'yun
+ local short form: Hayastan
+ former: Armenian Soviet Socialist Republic; Armenian Republic
+
+ Digraph: AM
+
+ Type: republic
+
+ Capital: Yerevan
+
+ Administrative divisions: 37 regions (shrjanner, singular - shrjan)
+ and 23 cities* (kaghakner, singular - kaghak); Abovyan*, Akhuryani
+ Shrjan, Alaverdi*, Amasiayi Shrjan, Anii Shrjan, Aparani Shrjan,
+ Aragatsi Shrjan, Ararat*, Ararati Shrjan, Armaviri Shrjan, Artashat*,
+ Artashati Shrjan, Art'ik*, Art'iki Shrjan, Ashots'k'i Shrjan,
+ Ashtarak*, Ashtaraki Shrjan, Baghramyani Shrjan, Ch'arents'avan*,
+ Dilijan*, Ejmiatsin*, Ejmiatsni Shrjan, Goris*, Gorisi Shrjan,
+ Gugark'i Shrjan, Gyumri*, Hoktemberyan*, Hrazdan*, Hrazdani Shrjan,
+ Ijevan*, Ijevani Shrjan, Jermuk*, Kamo*, Kamoyi Shrjan, Kapan*, Kapani
+ Shrjan, Kotayk'i Shrjan, Krasnoselski Shrjan, Martunu Shrjan, Masisi
+ Shrjan, Meghru Shrjan, Metsamor*, Nairii Shrjan, Noyemberyani Shrjan,
+ Sevan*, Sevani Shrjan, Sisiani Shrjan, Spitak*, Spitaki Shrjan,
+ Step'anavan*, Step'anavani Shrjan, T'alini Shrjan, Tashiri Shrjan,
+ Taushi Shrjan, T'umanyani Shrjan, Vanadzor*, Vardenisi Shrjan, Vayk'i
+ Shrjan, Yeghegnadzori Shrjan, Yerevan*
+
+ Independence: 28 May 1918 (First Armenian Republic); 23 September 1991
+ (from Soviet Union)
+
+ National holiday: Referendum Day, 21 September
+
+ Constitution: adopted NA April 1978; referendum on new constitution to
+ be held 5 July 1995
+
+ Legal system: based on civil law system
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch:
+ chief of state: President Levon Akopovich TER-PETROSYAN (since October
+ 1991) election last held 16 October 1991 (next to be held NA 1996);
+ results - Levon Akopovich TER-PETROSYAN 86%; radical nationalists
+ about 7%; note - Levon Akopovich TER-PETROSYAN was elected Chairman of
+ the Armenian Supreme Soviet 4 August 1990 before becoming president
+ head of government: Prime Minister Hrant BAGRATYAN (since 16 February
+ 1993); First Deputy Prime Minister Vigen CHITECHYAN (since 16 February
+ 1993)
+ cabinet: Council of Ministers; appointed by the president
+
+ Legislative branch: unicameral
+ Supreme Soviet: elections last held 20 May 1990 (next to be held 5
+ July 1995); results - percent of vote by party NA; seats - (260 total)
+ non-aligned 136, ANM 52, DPA 17, Democratic Liberal Party 17, ARF 12,
+ NDU 9, Christian Democratic Party 1, Constitutional Rights Union 1,
+ ONS 1, Republican Party 1, Nagorno-Karabakh representatives 13
+
+ Judicial branch: Supreme Court
+
+ Political parties and leaders: Armenian National Movement (ANM),
+ Ter-Husik LAZARYAN, chairman; National Democratic Union (NDU), David
+ VARTANYAN, chairman; Armenian Revolutionary Federation (ARF,
+ Dashnaktsutyun); note - banned until reorganized; Democratic Party of
+ Armenia (DPA; Communist Party), Aram SARKISYAN, chairman; Christian
+ Democratic Party, Azat ARSHAKYAN, chairman; Greens Party, Hakob
+ SANASARIAN, chairman; Democratic Liberal Party, Rouben MIRZAKHANYAN,
+ chairman; Republican Party, Ashot NAVARSARDYAN, chairman; Union for
+ Self-Determination (ONS), Paruir AIRIKYAN, chairman
+
+ Member of: BSEC, CCC, CIS, EBRD, ECE, ESCAP, FAO, IAEA, IBRD, ICAO,
+ IDA, IFAD, ILO, IMF, INTELSAT, INTERPOL, IOC, IOM, ITU, NACC, NAM
+ (observer), OSCE, PFP, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WMO
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Ruben SHUGARIAN
+ chancery: Suite 210, 1660 L Street NW, Washington, DC 20036
+ telephone: [1] (202) 628-5766
+ FAX: [1] (202) 628-5769
+
+ US diplomatic representation:
+ chief of mission: Ambassador Harry J. GILMORE
+ embassy: 18 Gen Bagramian, Yerevan
+ mailing address: use embassy street address
+ telephone: [7] (8852) 151-144, 524-661
+ FAX: [7] (8852) 151-138
+
+ Flag: three equal horizontal bands of red (top), blue, and gold
+
+@Armenia:Economy
+
+ Overview: Under the old Soviet central planning system, Armenia had
+ developed a more modern industrial sector, supplying machine building
+ equipment, textiles, and other manufactured goods to sister republics
+ in exchange for raw materials and energy resources. Armenia is a large
+ food importer and its mineral deposits (gold, bauxite) are small. The
+ economic decline in recent years (1991-94) has been particularly
+ severe due to the ongoing conflict over the ethnic Armenian-dominated
+ region of Nagorno-Karabakh in Azerbaijan. Azerbaijan and Turkey have
+ blockaded pipeline and railroad traffic to Armenia for its support of
+ the Karabakh Armenians. This has left Armenia with chronic energy
+ shortages because of a lack of capacity and frequent disruptions of
+ natural gas deliveries through unstable Georgia, as well as
+ difficulties in obtaining other types of fuel. In addition, bread is
+ strictly rationed and there are shortages of other goods. In 1994, the
+ economy seemed to bottom out. The government has managed to increase
+ its financial and budgetary discipline, bringing inflation down from
+ around 40% per month in first half 1994 to single digits in second
+ half 1994 and the first quarter of 1995. A full economic recovery
+ cannot be expected until the conflict is settled and the blockade
+ lifted.
+
+ National product: GDP - purchasing power parity - $8.1 billion (1994
+ estimate as extrapolated from World Bank estimate for 1992)
+
+ National product real growth rate: -2% (1994 est.)
+
+ National product per capita: $2,290 (1994 est.)
+
+ Inflation rate (consumer prices): 27% per month average (1994 est.)
+
+ Unemployment rate: 6.5% of officially registered unemployed but large
+ numbers of underemployed (1994 est.)
+
+ Budget:
+ revenues: $NA
+ expenditures: $NA, including capital expenditures of $NA
+
+ Exports: $43 million to countries outside the FSU (f.o.b., 1994)
+ commodities: gold and jewelry, aluminum, transport equipment,
+ electrical equipment
+ partners: Iran, Russia, Turkmenistan, Georgia
+
+ Imports: $120 million from countries outside the FSU (c.i.f., 1994)
+ commodities: grain, other foods, fuel, other energy
+ partners: Iran, Russia, Turkmenistan, Georgia, US, EU
+
+ External debt: $NA
+
+ Industrial production: growth rate 7% (1994 est.); accounts for 41% of
+ GDP
+
+ Electricity:
+ capacity: 4,620,000 kW
+ production: 5.7 billion kWh
+ consumption per capita: 1,620 kWh (1994)
+
+ Industries: traditionally diverse, including (as a percent of output
+ of former USSR) metalcutting machine tools (5.5%), forging-pressing
+ machines (1.9%), electric motors (9%), tires (1.5%), knitted wear
+ (4.4%), hosiery (3.0%), shoes (2.2%), silk fabric (0.8%), washing
+ machines (2.0%), chemicals, trucks, watches, instruments, and
+ microelectronics (1990); currently, much of industry is shut down
+
+ Agriculture: only 17% of land area is arable; employs 31% of labor
+ force as residents increasingly turn to subsistence agriculture;
+ fruits (especially grapes) and vegetable farming, minor livestock
+ sector; vineyards near Yerevan are famous for brandy and other
+ liqueurs
+
+ Illicit drugs: illicit cultivator of cannabis mostly for domestic
+ consumption; used as a transshipment point for illicit drugs to
+ Western Europe
+
+ Economic aid:
+ recipient: considerable humanitarian aid, mostly food and energy
+ products, from US and EU; Russia granted 60 billion rubles in
+ technical credits in late 1994 and approved a 110 billion ruble credit
+ almost half of which was to go toward the restart of the Metsamor
+ nuclear power plant
+
+ Currency: 1 dram = 100 luma (introduced new currency in November 1993)
+
+ Exchange rates: dram per US$1 - 406 (end December 1994)
+
+ Fiscal year: calendar year
+
+@Armenia:Transportation
+
+ Railroads:
+ total: 840 km in common carrier service; does not include industrial
+ lines
+ broad gauge: 840 km 1.520-m gauge (1990)
+
+ Highways:
+ total: 11,300 km
+ paved: 10,500 km
+ unpaved: earth 800 km (1990)
+
+ Inland waterways: NA km
+
+ Pipelines: natural gas 900 km (1991)
+
+ Ports: none
+
+ Airports:
+ total: 11
+ with paved runways over 3,047 m: 2
+ with paved runways 1,524 to 2,437 m: 1
+ with paved runways 914 to 1,523 m: 2
+ with unpaved runways 1,524 to 2,438 m: 2
+ with unpaved runways 914 to 1,523 m: 3
+ with unpaved runways under 914 m: 1
+
+@Armenia:Communications
+
+ Telephone system: about 650,000 telephones; 177 telephones/1,000
+ persons; progress on installation of fiber optic cable and
+ construction of facilities for mobile cellular phone service remains
+ in the negotiation phase for joint venture agreement
+ local: NA
+ intercity: NA
+ international: international connections to other former republics of
+ the USSR are by landline or microwave and to other countries by
+ satellite and by leased connection through the Moscow international
+ gateway switch; 1 INTELSAT satellite link
+
+ Radio:
+ broadcast stations: AM NA, FM NA, shortwave NA
+ radios: NA
+
+ Television:
+ broadcast stations: NA; note - 100% of population receives Armenian
+ and Russian TV programs
+ televisions: NA
+
+@Armenia:Defense Forces
+
+ Branches: Army, Air and Air Defense Forces, National Guard, Security
+ Forces (internal and border troops)
+
+ Manpower availability: males age 15-49 877,414; males fit for military
+ service 699,167; males reach military age (18) annually 28,634 (1995
+ est.)
+
+ Defense expenditures: 250 million rubles, NA% of GDP (1992 est.); note
+ - conversion of the military budget into US dollars using the current
+ exchange rate could produce misleading results
+
+
+________________________________________________________________________
+
+ARUBA
+
+ (part of the Dutch realm) 
+
+@Aruba:Geography
+
+ Location: Caribbean, island in the Caribbean Sea, north of Venezuela
+
+ Map references: Central America and the Caribbean
+
+ Area:
+ total area: 193 sq km
+ land area: 193 sq km
+ comparative area: slightly larger than Washington, DC
+
+ Land boundaries: 0 km
+
+ Coastline: 68.5 km
+
+ Maritime claims:
+ territorial sea: 12 nm
+
+ International disputes: none
+
+ Climate: tropical marine; little seasonal temperature variation
+
+ Terrain: flat with a few hills; scant vegetation
+
+ Natural resources: negligible; white sandy beaches
+
+ Land use:
+ arable land: 0%
+ permanent crops: 0%
+ meadows and pastures: 0%
+ forest and woodland: 0%
+ other: 100%
+
+ Irrigated land: NA sq km
+
+ Environment:
+ current issues: NA
+ natural hazards: lies outside the Caribbean hurricane belt
+ international agreements: NA
+
+@Aruba:People
+
+ Population: 65,974 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 23% (female 7,377; male 7,726)
+ 15-64 years: 69% (female 24,269; male 21,141)
+ 65 years and over: 8% (female 3,223; male 2,238) (July 1995 est.)
+
+ Population growth rate: 0.65% (1995 est.)
+
+ Birth rate: 14.6 births/1,000 population (1995 est.)
+
+ Death rate: 6.17 deaths/1,000 population (1995 est.)
+
+ Net migration rate: -1.91 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 8.3 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 76.56 years
+ male: 72.89 years
+ female: 80.42 years (1995 est.)
+
+ Total fertility rate: 1.82 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Aruban(s)
+ adjective: Aruban
+
+ Ethnic divisions: mixed European/Caribbean Indian 80%
+
+ Religions: Roman Catholic 82%, Protestant 8%, Hindu, Muslim,
+ Confucian, Jewish
+
+ Languages: Dutch (official), Papiamento (a Spanish, Portuguese, Dutch,
+ English dialect), English (widely spoken), Spanish
+
+ Literacy: NA%
+
+ Labor force: NA
+ by occupation: most employment is in the tourist industry (1995)
+
+@Aruba:Government
+
+ Names:
+ conventional long form: none
+ conventional short form: Aruba
+
+ Digraph: AA
+
+ Type: part of the Dutch realm; full autonomy in internal affairs
+ obtained in 1986 upon separation from the Netherlands Antilles
+
+ Capital: Oranjestad
+
+ Administrative divisions: none (self-governing part of the
+ Netherlands)
+
+ Independence: none (part of the Dutch realm; in 1990, Aruba requested
+ and received from the Netherlands cancellation of the agreement to
+ automatically give independence to the island in 1996)
+
+ National holiday: Flag Day, 18 March
+
+ Constitution: 1 January 1986
+
+ Legal system: based on Dutch civil law system, with some English
+ common law influence
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch:
+ chief of state: Queen BEATRIX Wilhelmina Armgard (since 30 April
+ 1980), represented by Governor General Olindo KOOLMAN (since 1 January
+ 1992)
+ head of government: Prime Minister Jan (Henny) H. EMAN (since 29 July
+ 1994)
+ cabinet: Council of Ministers; appointed with the advice and approval
+ of the legislature
+
+ Legislative branch: unicameral
+ Legislature (Staten): elections last held 29 July 1994 (next to be
+ held by NA July 1998); results - percent of vote by party NA; seats -
+ (21 total) AVP 10, MEP 9, OLA 2
+
+ Judicial branch: Joint High Court of Justice
+
+ Political parties and leaders: Electoral Movement Party (MEP), Nelson
+ ODUBER; Aruban People's Party (AVP), Jan (Henny) H. EMAN; National
+ Democratic Action (ADN), Pedro Charro KELLY; New Patriotic Party
+ (PPN), Eddy WERLEMEN; Aruban Patriotic Party (PPA), Benny NISBET;
+ Aruban Democratic Party (PDA), Leo BERLINSKI; Democratic Action '86
+ (AD '86), Arturo ODUBER; Organization for Aruban Liberty (OLA),
+ Glenbert CROES
+ note: governing coalition includes the MEP, PPA, and ADN
+
+ Member of: ECLAC (associate), INTERPOL, IOC, UNESCO (associate), WCL,
+ WTO (associate)
+
+ Diplomatic representation in US: none (self-governing part of the
+ Netherlands)
+
+ US diplomatic representation: none (self-governing part of the
+ Netherlands)
+
+ Flag: blue with two narrow horizontal yellow stripes across the lower
+ portion and a red, four-pointed star outlined in white in the upper
+ hoist-side corner
+
+@Aruba:Economy
+
+ Overview: Tourism is the mainstay of the Aruban economy, although
+ offshore banking and oil refining and storage are also important. The
+ rapid growth of the tourism sector over the last decade has resulted
+ in a substantial expansion of other activities. Construction has
+ boomed, with hotel capacity five times the 1985 level. Additionally,
+ the reopening of the country's oil refinery in 1993, a major source of
+ employment and foreign exchange earnings, has further spurred growth.
+ Aruba's small labor force and less than 1% unemployment rate have led
+ to a large number of unfilled job vacancies despite sharp rises in
+ wage rates in recent years.
+
+ National product: GDP - purchasing power parity - $1.1 billion (1993
+ est.)
+
+ National product real growth rate: 5% (1993 est.)
+
+ National product per capita: $17,000 (1993 est.)
+
+ Inflation rate (consumer prices): 7% (1994 est.)
+
+ Unemployment rate: 0.6% (1992)
+
+ Budget:
+ revenues: $145 million
+ expenditures: $185 million, including capital expenditures of $42
+ million (1988)
+
+ Exports: $1.3 billion (including oil re-exports) (f.o.b., 1993 est.)
+ commodities: mostly refined petroleum products
+ partners: US 64%, EC
+
+ Imports: $1.6 billion (f.o.b., 1993 est.)
+ commodities: food, consumer goods, manufactures, petroleum products,
+ crude oil for refining and re-export
+ partners: US 8%, EC
+
+ External debt: $81 million (1987)
+
+ Industrial production: growth rate NA%
+
+ Electricity:
+ capacity: 90,000 kW
+ production: 330 million kWh
+ consumption per capita: 4,761 kWh (1993)
+
+ Industries: tourism, transshipment facilities, oil refining
+
+ Agriculture: poor quality soils and low rainfall limit agricultural
+ activity to the cultivation of aloes, some livestock, and fishing
+
+ Illicit drugs: drug money laundering center and transit point for
+ narcotics bound for the US and Europe
+
+ Economic aid:
+ recipient: Western (non-US) countries ODA and OOF bilateral
+ commitments (1980-89), $220 million
+
+ Currency: 1 Aruban florin (Af.) = 100 cents
+
+ Exchange rates: Aruban florins (Af.) per US$1 - 1.7900 (fixed rate
+ since 1986)
+
+ Fiscal year: calendar year
+
+@Aruba:Transportation
+
+ Railroads: 0 km
+
+ Highways:
+ total: NA
+ paved: NA
+ unpaved: NA
+
+ Ports: Barcadera, Oranjestad, Sint Nicolaas
+
+ Merchant marine: none
+
+ Airports:
+ total: 2
+ with paved runways 2,438 to 3,047 m: 1
+ with paved runways 914 to 1,523 m: 1
+ note: government-owned airport east of Oranjestad accepts
+ transatlantic flights
+
+@Aruba:Communications
+
+ Telephone system: 72,168 telephones; 1,100 telephones/1,000 persons;
+ more than adequate
+ local: NA
+ intercity: extensive interisland microwave radio relay links
+ international: 1 submarine cable to Sint Maarten
+
+ Radio:
+ broadcast stations: AM 4, FM 4, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 1
+ televisions: NA
+
+@Aruba:Defense Forces
+
+ Note: defense is the responsibility of the Netherlands
+
+
+________________________________________________________________________
+
+ASHMORE AND CARTIER ISLANDS
+
+ (territory of Australia) 
+
+@Ashmore And Cartier Islands:Geography
+
+ Location: Southeastern Asia, islands in the Indian Ocean, northwest of
+ Australia
+
+ Map references: Southeast Asia
+
+ Area:
+ total area: 5 sq km
+ land area: 5 sq km
+ comparative area: about 8.5 times the size of The Mall in Washington,
+ DC
+ note: includes Ashmore Reef (West, Middle, and East Islets) and
+ Cartier Island
+
+ Land boundaries: 0 km
+
+ Coastline: 74.1 km
+
+ Maritime claims:
+ contiguous zone: 12 nm
+ continental shelf: 200-m depth or to depth of exploitation
+ exclusive fishing zone: 200 nm
+ territorial sea: 3 nm
+
+ International disputes: none
+
+ Climate: tropical
+
+ Terrain: low with sand and coral
+
+ Natural resources: fish
+
+ Land use:
+ arable land: 0%
+ permanent crops: 0%
+ meadows and pastures: 0%
+ forest and woodland: 0%
+ other: 100% (all grass and sand)
+
+ Irrigated land: 0 sq km
+
+ Environment:
+ current issues: NA
+ natural hazards: surrounded by shoals and reefs which can pose
+ maritime hazards
+ international agreements: NA
+
+ Note: Ashmore Reef National Nature Reserve established in August 1983
+
+@Ashmore And Cartier Islands:People
+
+ Population: no indigenous inhabitants; note - there are only seasonal
+ caretakers
+
+@Ashmore And Cartier Islands:Government
+
+ Names:
+ conventional long form: Territory of Ashmore and Cartier Islands
+ conventional short form: Ashmore and Cartier Islands
+
+ Digraph: AT
+
+ Type: territory of Australia administered by the Australian Ministry
+ for the Environment, Sport, and Territories
+
+ Capital: none; administered from Canberra, Australia
+
+ Administrative divisions: none (territory of Australia)
+
+ Independence: none (territory of Australia)
+
+ Legal system: relevant laws of the Northern Territory of Australia
+
+ Diplomatic representation in US: none (territory of Australia)
+
+ US diplomatic representation: none (territory of Australia)
+
+@Ashmore And Cartier Islands:Economy
+
+ Overview: no economic activity
+
+@Ashmore And Cartier Islands:Transportation
+
+ Ports: none; offshore anchorage only
+
+@Ashmore And Cartier Islands:Defense Forces
+
+ Note: defense is the responsibility of Australia; periodic visits by
+ the Royal Australian Navy and Royal Australian Air Force
+
+
+________________________________________________________________________
+
+ATLANTIC OCEAN
+
+@Atlantic Ocean:Geography
+
+ Location: body of water between Africa, Antarctica, and the Western
+ Hemisphere
+
+ Map references: World
+
+ Area:
+ total area: 82.217 million sq km
+ comparative area: slightly less than nine times the size of the US;
+ second-largest of the world's four oceans (after the Pacific Ocean,
+ but larger than Indian Ocean or Arctic Ocean)
+ note: includes Baltic Sea, Black Sea, Caribbean Sea, Davis Strait,
+ Denmark Strait, Drake Passage, Gulf of Mexico, Mediterranean Sea,
+ North Sea, Norwegian Sea, Scotia Sea, Weddell Sea, and other tributary
+ water bodies
+
+ Coastline: 111,866 km
+
+ International disputes: some maritime disputes (see littoral states)
+
+ Climate: tropical cyclones (hurricanes) develop off the coast of
+ Africa near Cape Verde and move westward into the Caribbean Sea;
+ hurricanes can occur from May to December, but are most frequent from
+ August to November
+
+ Terrain: surface usually covered with sea ice in Labrador Sea, Denmark
+ Strait, and Baltic Sea from October to June; clockwise warm water gyre
+ (broad, circular system of currents) in the northern Atlantic,
+ counterclockwise warm water gyre in the southern Atlantic; the ocean
+ floor is dominated by the Mid-Atlantic Ridge, a rugged north-south
+ centerline for the entire Atlantic basin; maximum depth is 8,605
+ meters in the Puerto Rico Trench
+
+ Natural resources: oil and gas fields, fish, marine mammals (seals and
+ whales), sand and gravel aggregates, placer deposits, polymetallic
+ nodules, precious stones
+
+ Environment:
+ current issues: endangered marine species include the manatee, seals,
+ sea lions, turtles, and whales; driftnet fishing is exacerbating
+ declining fish stocks and contributing to international disputes;
+ municipal sludge pollution off eastern US, southern Brazil, and
+ eastern Argentina; oil pollution in Caribbean Sea, Gulf of Mexico,
+ Lake Maracaibo, Mediterranean Sea, and North Sea; industrial waste and
+ municipal sewage pollution in Baltic Sea, North Sea, and Mediterranean
+ Sea
+ natural hazards: icebergs common in Davis Strait, Denmark Strait, and
+ the northwestern Atlantic Ocean from February to August and have been
+ spotted as far south as Bermuda and the Madeira Islands; icebergs from
+ Antarctica occur in the extreme southern Atlantic Ocean; ships subject
+ to superstructure icing in extreme northern Atlantic from October to
+ May and extreme southern Atlantic from May to October; persistent fog
+ can be a maritime hazard from May to September
+ international agreements: NA
+
+ Note: major choke points include the Dardanelles, Strait of Gibraltar,
+ access to the Panama and Suez Canals; strategic straits include the
+ Strait of Dover, Straits of Florida, Mona Passage, The Sound
+ (Oresund), and Windward Passage; the Equator divides the Atlantic
+ Ocean into the North Atlantic Ocean and South Atlantic Ocean
+
+@Atlantic Ocean:Government
+
+ Digraph: ZH
+
+@Atlantic Ocean:Economy
+
+ Overview: The Atlantic Ocean provides some of the world's most heavily
+ trafficked sea routes, between and within the Eastern and Western
+ Hemispheres. Other economic activity includes the exploitation of
+ natural resources, e.g., fishing, the dredging of aragonite sands (The
+ Bahamas), and production of crude oil and natural gas (Caribbean Sea,
+ Gulf of Mexico, and North Sea).
+
+@Atlantic Ocean:Transportation
+
+ Ports: Alexandria (Egypt), Algiers (Algeria), Antwerp (Belgium),
+ Barcelona (Spain), Buenos Aires (Argentina), Casablanca (Morocco),
+ Colon (Panama), Copenhagen (Denmark), Dakar (Senegal), Gdansk
+ (Poland), Hamburg (Germany), Helsinki (Finland), Las Palmas (Canary
+ Islands, Spain), Le Havre (France), Lisbon (Portugal), London (UK),
+ Marseille (France), Montevideo (Uruguay), Montreal (Canada), Naples
+ (Italy), New Orleans (US), New York (US), Oran (Algeria), Oslo
+ (Norway), Piraeus (Greece), Rio de Janeiro (Brazil), Rotterdam
+ (Netherlands), Saint Petersburg (Russia), Stockholm (Sweden)
+
+ Note: Kiel Canal and Saint Lawrence Seaway are two important waterways
+
+@Atlantic Ocean:Communications
+
+ Telephone system:
+ international: numerous submarine cables with most between continental
+ Europe and the UK, North America and the UK, and in the Mediterranean;
+ numerous direct links across Atlantic via INTELSAT satellite network
+
+________________________________________________________________________
+
+AUSTRALIA
+
+@Australia:Geography
+
+ Location: Oceania, continent between the Indian Ocean and the South
+ Pacific Ocean
+
+ Map references: Oceania
+
+ Area:
+ total area: 7,686,850 sq km
+ land area: 7,617,930 sq km
+ comparative area: slightly smaller than the US
+ note: includes Macquarie Island
+
+ Land boundaries: 0 km
+
+ Coastline: 25,760 km
+
+ Maritime claims:
+ contiguous zone: 24 nm
+ continental shelf: 200 nm or to the edge of the continental margin
+ exclusive economic zone: 200 nm
+ territorial sea: 12 nm
+
+ International disputes: territorial claim in Antarctica (Australian
+ Antarctic Territory)
+
+ Climate: generally arid to semiarid; temperate in south and east;
+ tropical in north
+
+ Terrain: mostly low plateau with deserts; fertile plain in southeast
+
+ Natural resources: bauxite, coal, iron ore, copper, tin, silver,
+ uranium, nickel, tungsten, mineral sands, lead, zinc, diamonds,
+ natural gas, petroleum
+
+ Land use:
+ arable land: 6%
+ permanent crops: 0%
+ meadows and pastures: 58%
+ forest and woodland: 14%
+ other: 22%
+
+ Irrigated land: 18,800 sq km (1989 est.)
+
+ Environment:
+ current issues: soil erosion from overgrazing, industrial development,
+ urbanization, and poor farming practices; soil salinity rising due to
+ the use of poor quality water; desertification; clearing for
+ agricultural purposes threatens the natural habitat of many unique
+ animal and plant species; the Great Barrier Reef off the northeast
+ coast, the largest coral reef in the world, is threatened by increased
+ shipping and its popularity as a tourist site; limited natural fresh
+ water resources
+ natural hazards: cyclones along the coast; severe droughts
+ international agreements: party to - Antarctic-Environmental Protocol,
+ Antarctic Treaty, Biodiversity, Climate Change, Endangered Species,
+ Environmental Modification, Hazardous Wastes, Law of the Sea, Marine
+ Dumping, Marine Life Conservation, Nuclear Test Ban, Ozone Layer
+ Protection, Ship Pollution, Tropical Timber 83, Wetlands, Whaling;
+ signed, but not ratified - Desertification
+
+ Note: world's smallest continent but sixth-largest country; population
+ concentrated along the eastern and southeastern coasts; regular,
+ tropical, invigorating, sea breeze known as "the Doctor" occurs along
+ the west coast in the summer
+
+@Australia:People
+
+ Population: 18,322,231 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 22% (female 1,929,366; male 2,032,238)
+ 15-64 years: 67% (female 6,017,362; male 6,181,887)
+ 65 years and over: 11% (female 1,227,004; male 934,374) (July 1995
+ est.)
+
+ Population growth rate: 1.31% (1995 est.)
+
+ Birth rate: 14.13 births/1,000 population (1995 est.)
+
+ Death rate: 7.37 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 6.33 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 7.1 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 77.78 years
+ male: 74.67 years
+ female: 81.04 years (1995 est.)
+
+ Total fertility rate: 1.82 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Australian(s)
+ adjective: Australian
+
+ Ethnic divisions: Caucasian 95%, Asian 4%, aboriginal and other 1%
+
+ Religions: Anglican 26.1%, Roman Catholic 26%, other Christian 24.3%
+
+ Languages: English, native languages
+
+ Literacy: age 15 and over can read and write (1980 est.)
+ total population: 100%
+ male: 100%
+ female: 100%
+
+ Labor force: 8.63 million (September 1991)
+ by occupation: finance and services 33.8%, public and community
+ services 22.3%, wholesale and retail trade 20.1%, manufacturing and
+ industry 16.2%, agriculture 6.1% (1987)
+
+@Australia:Government
+
+ Names:
+ conventional long form: Commonwealth of Australia
+ conventional short form: Australia
+
+ Digraph: AS
+
+ Type: federal parliamentary state
+
+ Capital: Canberra
+
+ Administrative divisions: 6 states and 2 territories*; Australian
+ Capital Territory*, New South Wales, Northern Territory*, Queensland,
+ South Australia, Tasmania, Victoria, Western Australia
+
+ Dependent areas: Ashmore and Cartier Islands, Christmas Island, Cocos
+ (Keeling) Islands, Coral Sea Islands, Heard Island and McDonald
+ Islands, Norfolk Island
+
+ Independence: 1 January 1901 (federation of UK colonies)
+
+ National holiday: Australia Day, 26 January (1788)
+
+ Constitution: 9 July 1900, effective 1 January 1901
+
+ Legal system: based on English common law; accepts compulsory ICJ
+ jurisdiction, with reservations
+
+ Suffrage: 18 years of age; universal and compulsory
+
+ Executive branch:
+ chief of state: Queen ELIZABETH II (since 6 February 1952),
+ represented by Governor General William George HAYDEN (since 16
+ February 1989)
+ head of government: Prime Minister Paul John KEATING (since 20
+ December 1991); Deputy Prime Minister Brian HOWE (since 4 June 1991)
+ cabinet: Cabinet; prime minister selects his cabinet from members of
+ the House and Senate
+
+ Legislative branch: bicameral Federal Parliament
+ Senate: elections last held 13 March 1993 (next to be held by NA
+ 1996); results - percent of vote by party NA; seats - (76 total)
+ Liberal-National 36, Labor 30, Australian Democrats 7, Greens 2,
+ independents 1
+ House of Representatives: elections last held 13 March 1993 (next to
+ be held by NA 1996); results - percent of vote by party NA; seats -
+ (147 total) Labor 80, Liberal-National 65, independent 2
+
+ Judicial branch: High Court
+
+ Political parties and leaders:
+ government: Australian Labor Party, Paul John KEATING
+ opposition: Liberal Party, John HOWARD; National Party, Timothy
+ FISCHER; Australian Democratic Party, Cheryl KERNOT; Green Party,
+ leader NA
+
+ Other political or pressure groups: Australian Democratic Labor Party
+ (anti-Communist Labor Party splinter group); Peace and Nuclear
+ Disarmament Action (Nuclear Disarmament Party splinter group)
+
+ Member of: AfDB, AG (observer), ANZUS, APEC, AsDB, Australia Group,
+ BIS, C, CCC, CP, EBRD, ESCAP, FAO, G- 8, GATT, IAEA, IBRD, ICAO, ICC,
+ ICFTU, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, INMARSAT,
+ INTELSAT, INTERPOL, IOC, IOM, ISO, ITU, MINURSO, MTCR, NAM (guest),
+ NEA, NSG, OECD, PCA, SPARTECA, SPC, SPF, UN, UNCTAD, UNESCO, UNFICYP,
+ UNHCR, UNIDO, UNOSOM, UNTSO, UNU, UPU, WFTU, WHO, WIPO, WMO, ZC
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Donald Eric RUSSELL
+ chancery: 1601 Massachusetts Avenue NW, Washington, DC 20036
+ telephone: [1] (202) 797-3000
+ FAX: [1] (202) 797-3168
+ consulate(s) general: Atlanta, Honolulu, Houston, Los Angeles, New
+ York, Pago Pago (American Samoa), and San Francisco
+
+ US diplomatic representation:
+ chief of mission: Ambassador Edward J. PERKINS
+ embassy: Moonah Place, Yarralumla, Canberra, Australian Capital
+ Territory 2600
+ mailing address: APO AP 96549
+ telephone: [61] (6) 270-5000
+ FAX: [61] (6) 270-5970
+ consulate(s) general: Melbourne, Perth, and Sydney
+ consulate(s): Brisbane
+
+ Flag: blue with the flag of the UK in the upper hoist-side quadrant
+ and a large seven-pointed star in the lower hoist-side quadrant; the
+ remaining half is a representation of the Southern Cross constellation
+ in white with one small five-pointed star and four, larger,
+ seven-pointed stars
+
+@Australia:Economy
+
+ Overview: Australia has a prosperous Western-style capitalist economy,
+ with a per capita GDP comparable to levels in industrialized West
+ European countries. Rich in natural resources, Australia is a major
+ exporter of agricultural products, minerals, metals, and fossil fuels.
+ Primary products account for more than 60% of the value of total
+ exports, so that, as in 1983-84, a downturn in world commodity prices
+ can have a big impact on the economy. The government is pushing for
+ increased exports of manufactured goods, but competition in
+ international markets continues to be severe. Australia has suffered
+ from the low growth and high unemployment characterizing the OECD
+ countries in the early 1990s. In 1992-93 the economy recovered slowly
+ from the prolonged recession of 1990-91, a major restraining factor
+ being weak world demand for Australia's exports. Growth picked up so
+ strongly in 1994 that the government felt the need for fiscal and
+ monetary tightening by yearend. Australia's GDP grew 6.4% in 1994,
+ largely due to increases in industrial output and business investment.
+ A severe drought in 1994 is expected to reduce the value of
+ Australia's net farm production by $825 million in the twelve months
+ through June 1995, but rising world commodity prices are likely to
+ boost rural exports by 7.7% to $14.5 billion in 1995/96, according to
+ government statistics.
+
+ National product: GDP - purchasing power parity - $374.6 billion (1994
+ est.)
+
+ National product real growth rate: 6.4% (1994)
+
+ National product per capita: $20,720 (1994 est.)
+
+ Inflation rate (consumer prices): 2.5% (1994)
+
+ Unemployment rate: 8.9% (December 1994)
+
+ Budget:
+ revenues: $83.8 billion
+ expenditures: $92.3 billion, including capital expenditures of $NA
+ (FY93/94)
+
+ Exports: $50.4 billion (1994)
+ commodities: coal, gold, meat, wool, alumina, wheat, machinery and
+ transport equipment
+ partners: Japan 25%, US 11%, South Korea 6%, NZ 5.7%, UK, Taiwan,
+ Singapore, Hong Kong (1992)
+
+ Imports: $51.1 billion (1994)
+ commodities: machinery and transport equipment, computers and office
+ machines, crude oil and petroleum products
+ partners: US 23%, Japan 18%, UK 6%, Germany 5.7%, NZ 4% (1992)
+
+ External debt: $147.2 billion (1994)
+
+ Industrial production: growth rate 3.9% (FY93/94); accounts for 32% of
+ GDP
+
+ Electricity:
+ capacity: 34,540,000 kW
+ production: 155 billion kWh
+ consumption per capita: 8,021 kWh (1993)
+
+ Industries: mining, industrial and transportation equipment, food
+ processing, chemicals, steel
+
+ Agriculture: accounts for 5% of GDP and over 30% of export revenues;
+ world's largest exporter of beef and wool, second-largest for mutton,
+ and among top wheat exporters; major crops - wheat, barley, sugarcane,
+ fruit; livestock - cattle, sheep, poultry
+
+ Illicit drugs: Tasmania is one of the world's major suppliers of licit
+ opiate products; government maintains strict controls over areas of
+ opium poppy cultivation and output of poppy straw concentrate
+
+ Economic aid:
+ donor: ODA and OOF commitments (1970-89), $10.4 billion
+
+ Currency: 1 Australian dollar ($A) = 100 cents
+
+ Exchange rates: Australian dollars ($A) per US$1 - 1.3058 (January
+ 1995), 1.3667 (1994), 1.4704 (1993), 1.3600 (1992), 1.2835 (1991),
+ 1.2799 (1990)
+
+ Fiscal year: 1 July - 30 June
+
+@Australia:Transportation
+
+ Railroads:
+ total: 40,478 km (1,130 km electrified; 183 km dual gauge)
+ broad gauge: 7,970 km 1.600-m gauge
+ standard gauge: 16,201 km 1.435-m gauge
+ narrow gauge: 16,307 km 1.067-m gauge
+
+ Highways:
+ total: 837,872 km
+ paved: 243,750 km
+ unpaved: gravel, crushed stone, stabilized earth 228,396 km;
+ unimproved earth 365,726 km
+
+ Inland waterways: 8,368 km; mainly by small, shallow-draft craft
+
+ Pipelines: crude oil 2,500 km; petroleum products 500 km; natural gas
+ 5,600 km
+
+ Ports: Adelaide, Brisbane, Cairns, Darwin, Devonport, Fremantle,
+ Geelong, Hobart (Tasmania), Launceton (Tasmania), Mackay, Melbourne,
+ Sydney, Townsville
+
+ Merchant marine:
+ total: 81 ships (1,000 GRT or over) totaling 2,620,536 GRT/3,801,970
+ DWT
+ ships by type: bulk 30, cargo 7, chemical tanker 3, combination bulk
+ 2, container 7, liquefied gas tanker 6, oil tanker 18,
+ roll-on/roll-off cargo 7, short-sea passenger 1
+
+ Airports:
+ total: 480
+ with paved runways over 3,047 m: 9
+ with paved runways 2,438 to 3,047 m: 15
+ with paved runways 1,524 to 2,437 m: 128
+ with paved runways 914 to 1,523 m: 125
+ with paved runways under 914 m: 31
+ with unpaved runways 1,524 to 2,438 m: 23
+ with unpaved runways 914 to 1,523 m: 149
+
+@Australia:Communications
+
+ Telephone system: 8,700,000 telephones; good international and
+ domestic service
+ local: NA
+ intercity: domestic satellite service
+ international: submarine cables to New Zealand, Papua New Guinea, and
+ Indonesia; 10 INTELSAT (4 Indian Ocean and 6 Pacific Ocean) earth
+ stations
+
+ Radio:
+ broadcast stations: AM 258, FM 67, shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 134
+ televisions: NA
+
+@Australia:Defense Forces
+
+ Branches: Australian Army, Royal Australian Navy, Royal Australian Air
+ Force
+
+ Manpower availability: males age 15-49 4,934,175; males fit for
+ military service 4,274,900; males reach military age (17) annually
+ 131,852 (1995 est.)
+
+ Defense expenditures: exchange rate conversion - $7.2 billion, 2.2% of
+ GDP (FY94/95)
+
+
+________________________________________________________________________
+
+AUSTRIA
+
+@Austria:Geography
+
+ Location: Central Europe, north of Italy
+
+ Map references: Europe
+
+ Area:
+ total area: 83,850 sq km
+ land area: 82,730 sq km
+ comparative area: slightly smaller than Maine
+
+ Land boundaries: total 2,496 km, Czech Republic 362 km, Germany 784
+ km, Hungary 366 km, Italy 430 km, Liechtenstein 37 km, Slovakia 91 km,
+ Slovenia 262 km, Switzerland 164 km
+
+ Coastline: 0 km (landlocked)
+
+ Maritime claims: none; landlocked
+
+ International disputes: none
+
+ Climate: temperate; continental, cloudy; cold winters with frequent
+ rain in lowlands and snow in mountains; cool summers with occasional
+ showers
+
+ Terrain: in the west and south mostly mountains (Alps); along the
+ eastern and northern margins mostly flat or gently sloping
+
+ Natural resources: iron ore, petroleum, timber, magnesite, aluminum,
+ lead, coal, lignite, copper, hydropower
+
+ Land use:
+ arable land: 17%
+ permanent crops: 1%
+ meadows and pastures: 24%
+ forest and woodland: 39%
+ other: 19%
+
+ Irrigated land: 40 sq km (1989)
+
+ Environment:
+ current issues: some forest degradation caused by air and soil
+ pollution; soil pollution results from the use of agricultural
+ chemicals; air pollution results from emissions by coal- and oil-fired
+ power stations and industrial plants and from trucks transiting
+ Austria between northern and southern Europe
+ natural hazards: NA
+ international agreements: party to - Air Pollution, Air
+ Pollution-Nitrogen Oxides, Air Pollution-Sulphur 85, Air
+ Pollution-Volatile Organic Compounds, Antarctic Treaty, Biodiversity,
+ Climate Change, Endangered Species, Environmental Modification,
+ Hazardous Wastes, Nuclear Test Ban, Ozone Layer Protection, Ship
+ Pollution, Tropical Timber 83, Wetlands; signed, but not ratified -
+ Air Pollution-Sulpher 94, Antarctic-Environmental Protocol, Law of the
+ Sea, Whaling
+
+ Note: landlocked; strategic location at the crossroads of central
+ Europe with many easily traversable Alpine passes and valleys; major
+ river is the Danube; population is concentrated on eastern lowlands
+ because of steep slopes, poor soils, and low temperatures elsewhere
+
+@Austria:People
+
+ Population: 7,986,664 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 17% (female 681,087; male 711,127)
+ 15-64 years: 67% (female 2,672,554; male 2,677,100)
+ 65 years and over: 16% (female 791,762; male 453,034) (July 1995 est.)
+
+ Population growth rate: 0.35% (1995 est.)
+
+ Birth rate: 11.21 births/1,000 population (1995 est.)
+
+ Death rate: 10.27 deaths/1,000 population (1995 est.)
+
+ Net migration rate: 2.5 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 6.9 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 76.9 years
+ male: 73.7 years
+ female: 80.27 years (1995 est.)
+
+ Total fertility rate: 1.48 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Austrian(s)
+ adjective: Austrian
+
+ Ethnic divisions: German 99.4%, Croatian 0.3%, Slovene 0.2%, other
+ 0.1%
+
+ Religions: Roman Catholic 85%, Protestant 6%, other 9%
+
+ Languages: German
+
+ Literacy: age 15 and over can read and write (1974 est.)
+ total population: 99%
+
+ Labor force: 3.47 million (1989)
+ by occupation: services 56.4%, industry and crafts 35.4%, agriculture
+ and forestry 8.1%
+ note: an estimated 200,000 Austrians are employed in other European
+ countries; foreign laborers in Austria number 177,840, about 5% of
+ labor force (1988)
+
+@Austria:Government
+
+ Names:
+ conventional long form: Republic of Austria
+ conventional short form: Austria
+ local long form: Republik Oesterreich
+ local short form: Oesterreich
+
+ Digraph: AU
+
+ Type: federal republic
+
+ Capital: Vienna
+
+ Administrative divisions: 9 states (bundeslaender, singular -
+ bundesland); Burgenland, Kaernten, Niederoesterreich, Oberoesterreich,
+ Salzburg, Steiermark, Tirol, Vorarlberg, Wien
+
+ Independence: 12 November 1918 (from Austro-Hungarian Empire)
+
+ National holiday: National Day, 26 October (1955)
+
+ Constitution: 1920; revised 1929 (reinstated 1 May 1945)
+
+ Legal system: civil law system with Roman law origin; judicial review
+ of legislative acts by a Constitutional Court; separate administrative
+ and civil/penal supreme courts; has not accepted compulsory ICJ
+ jurisdiction
+
+ Suffrage: 18 years of age; universal; compulsory for presidential
+ elections
+
+ Executive branch:
+ chief of state: President Thomas KLESTIL (since 8 July 1992); election
+ last held 24 May 1992 (next to be held 1996); results of second ballot
+ - Thomas KLESTIL 57%, Rudolf STREICHER 43%
+ head of government: Chancellor Franz VRANITZKY (since 16 June 1986);
+ Vice Chancellor Erhard BUSEK (since 2 July 1991)
+ cabinet: Council of Ministers; chosen by the president on the advice
+ of the chancellor
+
+ Legislative branch: bicameral Federal Assembly (Bundesversammlung)
+ Federal Council (Bundesrat): consists of 63 members representing each
+ of the provinces on the basis of population, but with each province
+ having at least 3 representatives
+ National Council (Nationalrat): elections last held 9 October 1994
+ (next to be held October 1998); results - SPOE 34.9%, OEVP 27.7%, FPOE
+ 22.5%, Greens 7.3%, LF 6.0% other 1.6%; seats - (183 total) SPOE 65,
+ OEVP 52, FPOE 42, Greens 13, LF 11
+
+ Judicial branch: Supreme Judicial Court (Oberster Gerichtshof) for
+ civil and criminal cases, Administrative Court
+ (Verwaltungsgerichtshof) for bureaucratic cases, Constitutional Court
+ (Verfassungsgerichtshof) for constitutional cases
+
+ Political parties and leaders: Social Democratic Party of Austria
+ (SPOE), Franz VRANITZKY, chairman; Austrian People's Party (OEVP),
+ Erhard BUSEK, chairman; Freedom Movement (F) (was the Freedom Party of
+ Austria, FPOE), Joerg HAIDER, chairman; Communist Party (KPOE), Walter
+ SILBERMAYER, chairman; The Greens, Madeleine PETROVIC; Liberal Forum
+ (LF), Heide SCHMIDT
+
+ Other political or pressure groups: Federal Chamber of Commerce and
+ Industry; Austrian Trade Union Federation (primarily Socialist); three
+ composite leagues of the Austrian People's Party (OEVP) representing
+ business, labor, and farmers; OEVP-oriented League of Austrian
+ Industrialists; Roman Catholic Church, including its chief lay
+ organization, Catholic Action
+
+ Member of: AfDB, AG (observer), AsDB, Australia Group, BIS, CCC, CE,
+ CEI, CERN, EBRD, ECE, EFTA, ESA, EU, FAO, G- 9, GATT, IADB, IAEA,
+ IBRD, ICAO, ICC, ICFTU, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF,
+ IMO, INTELSAT, INTERPOL, IOC, IOM, ISO, ITU, MINURSO, MTCR, NAM
+ (guest), NEA, NSG, OAS (observer), OECD, ONUSAL, OSCE, PCA, UN,
+ UNAMIR, UNCTAD, UNDOF, UNESCO, UNFICYP, UNHCR, UNIDO, UNIKOM, UNMIH,
+ UNOMIL, UNOMOZ, UNTSO, UPU, WCL, WFTU, WHO, WIPO, WMO, WTO, ZC
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Helmut TUERK
+ chancery: 3524 International Court NW, Washington, DC 20008-3035
+ telephone: [1] (202) 895-6700
+ FAX: [1] (202) 895-6750
+ consulate(s) general: Chicago, Los Angeles, and New York
+
+ US diplomatic representation:
+ chief of mission: Ambassador Swanee G. HUNT
+ chancery: Boltzmanngasse 16, A-1091, Vienna
+ mailing address: use embassy street address
+ telephone: [43] (1) 313-39
+ FAX: [43] (1) 310-0682
+ consulate(s) general: none (Salzburg closed September 1993)
+
+ Flag: three equal horizontal bands of red (top), white, and red
+
+@Austria:Economy
+
+ Overview: Austria boasts a prosperous and stable market economy with a
+ sizable but falling proportion of nationalized industry and with
+ extensive welfare benefits. Thanks to its raw material endowment, a
+ technically skilled labor force, and strong links to German industrial
+ firms, Austria occupies specialized niches in European industry and
+ services (tourism, banking) and produces almost enough food to feed
+ itself with only 8% of the labor force in agriculture. After 11
+ consecutive years of growth, the Austrian economy experienced a mild
+ recession in 1993, but growth resumed in 1994. Unemployment is 4.3%
+ and will likely stay at that level as companies adjust to the
+ competition of EU membership beginning 1 January 1995. To prepare for
+ EU membership, Austria's government has taken measures to open the
+ economy by introducing a major tax reform, privatizing state-owned
+ firms, and liberalizing cross-border capital movements. Problems for
+ the 1990s include an aging population, the high level of industrial
+ subsidies, and the struggle to keep welfare benefits within budgetary
+ capabilities - the deficit climbed to over 4% of GDP in 1994.
+
+ National product: GDP - purchasing power parity - $139.3 billion (1994
+ est.)
+
+ National product real growth rate: 2.5% (1994 est.)
+
+ National product per capita: $17,500 (1994 est.)
+
+ Inflation rate (consumer prices): 3% (1994)
+
+ Unemployment rate: 4.3% (1994 est.)
+
+ Budget:
+ revenues: $52.2 billion
+ expenditures: $60.3 billion, including capital expenditures of $NA
+ (1993 est.)
+
+ Exports: $44.1 billion (1994 est.)
+ commodities: machinery and equipment, iron and steel, lumber,
+ textiles, paper products, chemicals
+ partners: EC 63.5% (Germany 38.9%), EFTA 9.0%, Eastern Europe/FSU
+ 12.3%, Japan 1.5%, US 3.4% (1993)
+
+ Imports: $53.8 billion (1994 est.)
+ commodities: petroleum, foodstuffs, machinery and equipment, vehicles,
+ chemicals, textiles and clothing, pharmaceuticals
+ partners: EC 66.8% (Germany 41.3%), EFTA 6.7%, Eastern Europe/FSU
+ 7.5%, Japan 4.4%, US 4.4% (1993)
+
+ External debt: $21.5 billion (1994 est.)
+
+ Industrial production: growth rate 2.5% (1994 est.)
+
+ Electricity:
+ capacity: 17,230,000 kW
+ production: 50.2 billion kWh
+ consumption per capita: 5,824 kWh (1993)
+
+ Industries: foods, iron and steel, machines, textiles, chemicals,
+ electrical, paper and pulp, tourism, mining, motor vehicles
+
+ Agriculture: accounts for 3.2% of GDP (including forestry); principal
+ crops and animals - grains, fruit, potatoes, sugar beets, sawn wood,
+ cattle, pigs, poultry; 80%-90% self-sufficient in food
+
+ Illicit drugs: transshipment point for Southwest Asian heroin
+ transiting the Balkan route and Eastern Europe
+
+ Economic aid:
+ donor: ODA and OOF commitments (1970-89), $2.4 billion
+
+ Currency: 1 Austrian schilling (S) = 100 groschen
+
+ Exchange rates: Austrian schillings (S) per US$1 - 10.774 (January
+ 1995), 11.422 (1994), 11.632 (1993), 10.989 (1992), 11.676 (1991),
+ 11.370 (1990)
+
+ Fiscal year: calendar year
+
+@Austria:Transportation
+
+ Railroads:
+ total: 5,624 km
+ standard gauge: 5,269 km 1.435-m gauge (3,162 km electrified)
+ narrow gauge: 355 km 1.000-m and 0.760-m gauge (84 km electrified)
+ (1994)
+
+ Highways:
+ total: 110,000 km
+ paved: 35,000 km (including 1,554 km of autobahn)
+ unpaved: mostly gravel and earth 75,000 km (1992)
+
+ Inland waterways: 446 km
+
+ Pipelines: crude oil 554 km; petroleum products 171 km; natural gas
+ 2,611 km
+
+ Ports: Linz, Vienna
+
+ Merchant marine:
+ total: 32 ships (1,000 GRT or over) totaling 152,885 GRT/235,719 DWT
+ ships by type: bulk 3, cargo 25, oil tanker 1, refrigerated cargo 2,
+ roll-on/roll-off cargo 1
+
+ Airports:
+ total: 55
+ with paved runways over 3,047 m: 1
+ with paved runways 2,438 to 3,047 m: 5
+ with paved runways 1,524 to 2,437 m: 1
+ with paved runways 914 to 1,523 m: 3
+ with paved runways under 914 m: 41
+ with unpaved runways 914 to 1,523 m: 4
+
+@Austria:Communications
+
+ Telephone system: 4,014,000 telephones; highly developed and efficient
+
+ local: NA
+ intercity: NA
+ international: 2 INTELSAT (1 Atlantic Ocean and 1 Indian Ocean), and
+ EUTELSAT earth stations
+
+ Radio:
+ broadcast stations: AM 6, FM 21 (repeaters 545), shortwave 0
+ radios: NA
+
+ Television:
+ broadcast stations: 47 (repeaters 870)
+ televisions: NA
+
+@Austria:Defense Forces
+
+ Branches: Army (includes Flying Division)
+
+ Manpower availability: males age 15-49 2,026,567; males fit for
+ military service 1,695,879; males reach military age (19) annually
+ 46,821 (1995 est.)
+
+ Defense expenditures: exchange rate conversion - about $1.8 billion,
+ 0.9% of GDP (1994)
+
+
+________________________________________________________________________
+
+AZERBAIJAN
+
+ Note--Azerbaijan continues to be plagued by an unresolved
+ seven-year-old conflict with Armenian separatists over its
+ Nagorno-Karabakh region. The Karabakh Armenians have declared
+ independence and seized almost 20% of the country's territory,
+ creating almost 1 million Azeri displaced persons in the process. Both
+ sides have generally observed a Russian-mediated cease-fire in place
+ since May 1994, and support the OSCE-mediated peace process, now
+ entering its fourth year. Nevertheless, Baku and Xankandi
+ (Stepanakert) remain far apart on most substantive issues from the
+ placement and composition of a peacekeeping force to the enclave's
+ ultimate political status, and prospects for a negotiated settlement
+ remain dim. 
+
+@Azerbaijan:Geography
+
+ Location: Southwestern Asia, bordering the Caspian Sea, between Iran
+ and Russia
+
+ Map references: Commonwealth of Independent States - European States
+
+ Area:
+ total area: 86,600 sq km
+ land area: 86,100 sq km
+ comparative area: slightly larger than Maine
+ note: includes the exclave of Naxcivan Autonomous Republic and the
+ Nagorno-Karabakh region; the region's autonomy was abolished by
+ Azerbaijani Supreme Soviet on 26 November 1991
+
+ Land boundaries: total 2,013 km, Armenia (west) 566 km, Armenia
+ (southwest) 221 km, Georgia 322 km, Iran (south) 432 km, Iran
+ (southwest) 179 km, Russia 284 km, Turkey 9 km
+
+ Coastline: 0 km (landlocked)
+ note: Azerbaijan borders the Caspian Sea (800 km, est.)
+
+ Maritime claims: none; landlocked
+
+ International disputes: violent and longstanding dispute with ethnic
+ Armenians of Nagorno-Karabakh over its status; Caspian Sea boundaries
+ are not yet determined
+
+ Climate: dry, semiarid steppe
+
+ Terrain: large, flat Kur-Araz Lowland (much of it below sea level)
+ with Great Caucasus Mountains to the north, Qarabag (Karabakh) Upland
+ in west; Baku lies on Abseron (Apsheron) Peninsula that juts into
+ Caspian Sea
+
+ Natural resources: petroleum, natural gas, iron ore, nonferrous
+ metals, alumina
+
+ Land use:
+ arable land: 18%
+ permanent crops: 4%
+ meadows and pastures: 25%
+ forest and woodland: 0%
+ other: 53%
+
+ Irrigated land: 14,010 sq km (1990)
+
+ Environment:
+ current issues: local scientists consider the Abseron (Apsheron)
+ Peninsula (including Baku and Sumqayit) and the Caspian Sea to be the
+ ecologically most devastated area in the world because of severe air,
+ water, and soil pollution; soil pollution results from the use of DDT
+ as a pesticide and also from toxic defoliants used in the production
+ of cotton
+ natural hazards: droughts; some lowland areas threatened by rising
+ levels of the Caspian Sea
+ international agreements: signed, but not ratified - Biodiversity,
+ Climate Change
+
+ Note: landlocked
+
+@Azerbaijan:People
+
+ Population: 7,789,886 (July 1995 est.)
+
+ Age structure:
+ 0-14 years: 33% (female 1,241,952; male 1,315,313)
+ 15-64 years: 61% (female 2,437,810; male 2,307,496)
+ 65 years and over: 6% (female 303,926; male 183,389) (July 1995 est.)
+
+ Population growth rate: 1.32% (1995 est.)
+
+ Birth rate: 22.05 births/1,000 population (1995 est.)
+
+ Death rate: 6.56 deaths/1,000 population (1995 est.)
+
+ Net migration rate: -2.32 migrant(s)/1,000 population (1995 est.)
+
+ Infant mortality rate: 33.9 deaths/1,000 live births (1995 est.)
+
+ Life expectancy at birth:
+ total population: 71.09 years
+ male: 67.4 years
+ female: 74.97 years (1995 est.)
+
+ Total fertility rate: 2.64 children born/woman (1995 est.)
+
+ Nationality:
+ noun: Azerbaijani(s)
+ adjective: Azerbaijani
+
+ Ethnic divisions: Azeri 90%, Dagestani Peoples 3.2%, Russian 2.5%,
+ Armenian 2.3%, other 2% (1995 est.)
+ note: almost all Armenians live in the separatist Nagorno-Karabakh
+ region
+
+ Religions: Muslim 93.4%, Russian Orthodox 2.5%, Armenian Orthodox
+ 2.3%, other 1.8% (1995 est.)
+ note: religious affiliation is still nominal in Azerbaijan; actual
+ practicing adherents are much lower
+
+ Languages: Azeri 89%, Russian 3%, Armenian 2%, other 6% (1995 est.)
+
+ Literacy: age 15 and over can read and write (1989)
+ total population: 97%
+ male: 99%
+ female: 96%
+
+ Labor force: 2.789 million
+ by occupation: agriculture and forestry 32%, industry and construction
+ 26%, other 42% (1990)
+
+@Azerbaijan:Government
+
+ Names:
+ conventional long form: Azerbaijani Republic
+ conventional short form: Azerbaijan
+ local long form: Azarbaycan Respublikasi
+ local short form: none
+ former: Azerbaijan Soviet Socialist Republic
+
+ Digraph: AJ
+
+ Type: republic
+
+ Capital: Baku (Baki)
+
+ Administrative divisions: 59 rayons (rayonlar; rayon - singular), 11
+ cities* (saharlar; sahar - singular), 1 autonomous republic** (muxtar
+ respublika); Abscron Rayonu, Agcabadi Rayonu, Agdam Rayonu, Agdas
+ Rayonu, Agstafa Rayonu, Agsu Rayonu, AliBayramli Sahari*, Astara
+ Rayonu, Baki Sahari*, Balakan Rayonu, Barda Rayonu, Beylaqan Rayonu,
+ Bilasuvar Rayonu, Cabrayil Rayonu, Calilabad Rayonu, Daskasan Rayonu,
+ Davaci Rayonu, Fuzuli Rayonu, Gadabay Rayonu, Ganca Sahari*, Goranboy
+ Rayonu, Goycay Rayonu, Haciqabul Rayonu, Imisli Rayonu, Ismayilli
+ Rayonu, Kalbacar Rayonu, Kurdamir Rayonu, Lacin Rayonu, Lankaran
+ Rayonu, Lankaran Sahari*, Lerik Rayonu, Masalli Rayonu, Mingacevir
+ Sahari*, Naftalan Sahari*, Naxcivan Muxtar Respublikasi**, Neftcala
+ Rayonu, Oguz Rayonu, Qabala Rayonu, Qax Rayonu, Qazax Rayonu, Qobustan
+ Rayonu, Quba Rayonu, Qubadli Rayonu, Qusar Rayonu, Saatli Rayonu,
+ Sabirabad Rayonu, Saki Rayonu, Saki Sahari*, Salyan Rayonu, Samaxi
+ Rayonu, Samkir Rayonu, Samux Rayonu, Siyazan Rayonu, Sumqayit Sahari*,
+ Susa Rayonu, Susa Sahari*, Tartar Rayonu, Tovuz Rayonu, Ucar Rayonu,
+ Xacmaz Rayonu, Xankandi Sahari*, Xanlar Rayonu, Xizi Rayonu, Xocali
+ Rayonu, Xocavand Rayonu, Yardimb Rayonu, Yevlax Rayonu, Yevlax
+ Sahari*, Zangilan Rayonu, Zaqatala Rayonu, Zardab Rayonu
+
+ Independence: 30 August 1991 (from Soviet Union)
+
+ National holiday: Independence Day, 28 May
+
+ Constitution: adopted NA April 1978; writing a new constitution
+
+ Legal system: based on civil law system
+
+ Suffrage: 18 years of age; universal
+
+ Executive branch:
+ chief of state: President Heydar ALIYEV (since 18 June 1993); election
+ last held 3 October 1993 (next to be held NA); results - Heydar ALIYEV
+ won 97% of vote
+ head of government: Acting Prime Minister Fuad QULIYEV (since 9
+ October 1994); First Deputy Prime Ministers Abbas ABBASOV, Samed
+ SADYKOV, Vahid AKHMEDOV (since NA)
+ cabinet: Council of Ministers; appointed by the president and
+ confirmed by the Mejlis
+
+ Legislative branch: unicameral
+ National Assembly (Milli Mejlis): elections last held 30 September and
+ 14 October 1990 for the Supreme Soviet (next expected to be held
+ September 1995 for the National Assembly); seats for Supreme Soviet -
+ (360 total) Communists 280, Democratic Bloc 45 (grouping of opposition
+ parties), other 15, vacant 20; note - on 19 May 1992 the Supreme
+ Soviet was prorogued in favor of a Popular Front-dominated National
+ Council; seats - (50 total) Popular Front 25, opposition elements 25
+ note: since June 1993 ALIYEV has rotated in several supporters to
+ replace Popular Front adherents
+
+ Judicial branch: Supreme Court
+
+ Political parties and leaders: Azerbaijan Popular Front (APF), Ebulfez
+ ELCIBEY, chairman; Musavat Party, Isa GAMBAR, chairman; National
+ Independence Party, Etibar MAMEDOV, chairman; Social Democratic Party
+ (SDP), Araz ALIZADE, chairman; Communist Party, Ramiz AKHMEDOV,
+ chairman; People's Freedom Party, Yunus OGUZ, chairman; Independent
+ Social Democratic Party, Arif YUNUSOV and Leila YUNOSOVA, cochairmen;
+ New Azerbaijan Party, Heydar ALIYEV, chairman; Boz Gurd Party,
+ Iskander HAMIDOV, chairman; Azerbaijan Democratic Independence Party,
+ Qabil HUSEYNLI, chairman; Islamic Party of Azerbaijan, Ali Akram,
+ chairman; Ana Veten Party, Fazail AGAMALIYEV; Azerbaijan Democratic
+ Party, Sardar Jalaloglu MAMEDOV; Azerbaijan Democratic Party of
+ Proprietors (DPOP), Makhmud MAMEDOV; Azerbaijan Patriotic Solidarity
+ Party, Sabir RUSTAMHANLI; Azerbaijan Republic Reform Party, Fuad
+ ASADOV; Communist Party of Azerbaijan (unregistered), Sayad SAYADOV;
+ Equality of the Peoples Party, Faukhraddin AYDAYEV; Independent
+ Azerbaijan Party, Nizami SULEYMANOV; Labor Party of Azerbaijan,
+ Sabutai HAJIYEV; Liberal-Democratic Party of Azerbaijan, Lyudmila
+ NIKOLAYEVNA; National Enlightenment Party, Hajy Osman EFENDIYEV;
+ National Liberation Party, Panak SHAKHSEVEV; Peasant Party, Firuz
+ MUSTAFAYEV; Radical Party of Azerbaijan, Malik SHARIFOV; United
+ Azerbaijan Party, Kerrar ABILOV; Vetan Adzhagy Party, Zakir TAGIYEV
+
+ Other political or pressure groups: self-proclaimed Armenian
+ Nagorno-Karabakh Republic; Talysh independence movement
+
+ Member of: BSEC, CCC, CIS, EBRD, ECE, ECO, ESCAP, IBRD, ICAO, IDB,
+ IFAD, ILO, IMF, INTELSAT, INTERPOL, IOC, ITU, NACC, OIC, OSCE, PFP,
+ UN, UNCTAD, UNESCO, UPU, WHO, WMO
+
+ Diplomatic representation in US:
+ chief of mission: Ambassador Hafiz Mir Jalal PASHAYEV
+ chancery: (temporary) Suite 700, 927 15th Street NW, Washington, DC
+ 20005
+ telephone: [1] (202) 842-0001
+ FAX: [1] (202) 842-0004
+
+ US diplomatic representation:
+ chief of mission: Ambassador Richard D. KAUZLARICH
+ embassy: Azadliq Prospect 83, Baku
+ mailing address: use embassy street address
+ telephone: [9] (9412) 96-00-19, 98-03-37
+ FAX: [9] (9412) 98-37-55
+
+ Flag: three equal horizontal bands of blue (top), red, and green; a
+ crescent and eight-pointed star in white are centered in red band
+
+@Azerbaijan:Economy
+
+ Overview: Azerbaijan is less developed industrially than either
+ Armenia or Georgia, the other Transcaucasian states. It resembles the
+ Central Asian states in its majority nominally Muslim population, high
+ structural unemployment, and low standard of living. The economy's
+ most prominent products are oil, cotton, and gas. Production from the
+ Caspian oil and gas field has been in decline for several years, but
+ the November 1994 ratification of the $7.5 billion oil deal with a
+ consortium of Western companies should generate the funds needed to
+ spur future industrial development. Azerbaijan accounted for 1.5% to
+ 2% of the capital stock and output of the former Soviet Union.
+ Azerbaijan shares all the formidable problems of the ex-Soviet
+ republics in making the transition from a command to a market economy,
+ but its considerable energy resources brighten its long-term
+ prospects. Baku has only recently begun making progress on economic
+ reform, and old economic ties and structures have yet to be replaced.
+
+ National product: GDP - purchasing power parity - $13.8 billion (1994
+ estimate as extrapolated from World Bank estimate for 1992)
+
+ National product real growth rate: -22% (1994 est.)
+
+ National product per capita: $1,790 (1994 est.)
+
+ Inflation rate (consumer prices): 28% monthly average (1994)
+
+ Unemployment rate: 0.9% includes officially registered unemployed;
+ also large numbers of other unemployed and underemployed workers
+ (December 1994)
+
+ Budget:
+ revenues: $167.5 million
+ expenditures: $234.6 million, including capital expenditures of $NA
+ (1994)
+
+ Exports: $366 million to non-FSU countries (f.o.b., 1994)
+ commodities: oil and gas, chemicals, oilfield equipment, textiles,
+ cotton (1991)
+ partners: mostly CIS and European countries
+
+ Imports: $296 million from non-FSU countries (c.i.f., 1994)
+ commodities: machinery and parts, consumer durables, foodstuffs,
+ textiles (1991)
+ partners: European countries
+
+ External debt: $NA
+
+ Industrial production: growth rate -25% (1994)
+
+ Electricity:
+ capacity: 4,900,000 kW
+ production: 17.5 billion kWh
+ consumption per capita: 2,270 kWh (1994)
+
+ Industries: petroleum and natural gas, petroleum products, oilfield
+ equipment; steel, iron ore, cement; chemicals and petrochemicals;
+ textiles
+
+ Agriculture: cotton, grain, rice, grapes, fruit, vegetables, tea,
+ tobacco; cattle, pigs, sheep and goats
+
+ Illicit drugs: illicit cultivator of cannabis and opium poppy; mostly
+ for CIS consumption; limited government eradication program;
+ transshipment point for illicit drugs to Western Europe
+
+ Economic aid:
+ recipient: wheat from Turkey
+
+ Currency: 1 manat = 100 gopik
+
+ Exchange rates: manats per US$1 - 4500 (April 1995), 4168 (end of
+ December 1994)
+
+ Fiscal year: calendar year
+
+@Azerbaijan:Transportation
+
+ Railroads:
+ total: 2,090 km in common carrier service; does not include industrial
+ lines
+ broad gauge: 2,090 km 1.520-m gauge (1990)
+
+ Highways:
+ total: 36,700 km
+ paved or graveled: 31,800 km
+ unpaved: earth 4,900 km (1990)
+
+ Pipelines: crude oil 1,130 km; petroleum products 630 km; natural gas
+ 1,240 km
+
+ Ports: Baku (Baki)
+
+ Airports:
+ total: 69
+ with paved runways over 3,047 m: 2
+ with paved runways 2,438 to 3,047 m: 6
+ with paved runways 1,524 to 2,437 m: 17
+ with paved runways 914 to 1,523 m: 3
+ with paved runways under 914 m: 1
+ with unpaved runways 914 to 1,523 m: 7
+ with unpaved runways under 914 m: 33
+
+@Azerbaijan:Communications
+
+ Telephone system: 710,000 telephones; 90 telephones/1,000 persons
+ (1991); 202,000 persons waiting for telephone installations (January
+ 1991); domestic telephone service is of poor quality and inadequate
+ local: a joint venture to establish a cellular telephone system
+ (Bakcel) in the Baku area is supposed to become operational in 1994
+ intercity: NA
+ international: connections to other former USSR republics by cable and
+ microwave and to other countries via the Moscow international gateway
+ switch; INTELSAT link installed in late 1992 in Baku with Turkish
+ financial assistance with access to 200 countries through Turkey;
+ since August 1993 an earth station near Baku has provided direct
+ communications with New York through Russia's Stationar-11 satellite
+
+ Radio:
+ broadcast stations: AM NA, FM NA, shortwave NA
+ radios: NA
+
+ Television:
+ broadcast stations: NA; domestic and Russian TV programs are received
+ locally and Turkish and Iranian TV is received from an INTELSAT
+ satellite through a receive-only earth station
+ televisions: NA
+
+@Azerbaijan:Defense Forces
+
+ Branches: Army, Air Force, Navy, Maritime Border Guard, National
+ Guard, Security Forces (internal and border troops)
+
+ Manpower availability: males age 15-49 1,927,955; males fit for
+ military service 1,553,736; males reach military age (18) annually
+ 68,407 (1995 est.)
+
+ Defense expenditures: 70.5 billion rubles, 10% of GDP (1993 budget
+ allocation); note - conversion of the military budget into US dollars
+ using the current exchange rate could produce misleading results
+
+
+________________________________________________________________________
+
+THE BAHAMAS
+
+@The Bahamas:Geography
+
+ Location: Caribbean, chain of islands in the North Atlantic Ocean,
+ southeast of Florida
+
+ Map references: Central America and the Caribbean
+
+ Area:
+ total area: 13,940 sq km
+ land area: 10,070 sq km
+ comparative area: slightly larger than Connecticut
+
+ Land boundaries: 0 km
+
+ Coastline: 3,542 km
+
+ Maritime claims:
+ continental shelf: 200-m depth or to the depth of exploitation
+ exclusive fishing zone: 200 nm
+ territorial sea: 3 nm
+
+ International disputes: none
+
+ Climate: tropical marine; moderated by warm waters of Gulf Stream
+
+ Terrain: long, flat coral formations with some low rounded hills
+
+ Natural resources: salt, aragonite, timber
+
+ Land use:
+ arable land: 1%
+ permanent crops: 0%
+ meadows and pastures: 0%
+ forest and woodland: 32%
+ other: 67%
+
+ Irrigated land: NA sq km
+
+ Environment:
+ current issues: coral reef decay
+ natural hazards: hurricanes and other tropical storms that cause
+ extensive flood and wind damage
+ international agreements: party to - Biodiversity, Climate Change,
+ Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test
+ Ban, Ozone Layer Protection, Ship Pollution
+
+ Note: strategic location adjacent to US and Cuba; extensive island
+ chain
+
+@The Bahamas:People
+
+ Population: 256,616 (July 1995 est.)
+
+Back to Full Books

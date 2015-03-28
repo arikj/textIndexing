@@ -1,0 +1,2003 @@
+The 1997 CIA World Factbook
+
+
+
+
+
+The 1997 CIA World Factbook
+
+
+TABLE OF CONTENTS
+
+	Introduction
+	A Brief History of Basic Intelligence and the World Factbook
+	Notes and Definitions
+	Guide to Country Profiles (Categories, Fields and Subfields)
+
+	Afghanistan
+	Albania
+	Algeria
+	American Samoa
+	Andorra
+	Angola
+	Anguilla
+	Antarctica
+	Antigua and Barbuda
+	Arctic Ocean
+	Argentina
+	Armenia
+	Aruba
+	Ashmore and Cartier Islands
+	Atlantic Ocean
+	Australia
+	Austria
+	Azerbaijan
+	The Bahamas
+	Bahrain
+	Baker Island
+	Bangladesh
+	Barbados
+	Bassas da India
+	Belarus
+	Belgium
+	Belize
+	Benin
+	Bermuda
+	Bhutan
+	Bolivia
+	Bosnia and Herzegovina
+	Botswana
+	Bouvet Island
+	Brazil
+	British Indian Ocean Territory
+	British Virgin Islands
+	Brunei
+	Bulgaria
+	Burkina Faso
+	Burma
+	Burundi
+	Cambodia
+	Cameroon
+	Canada
+	Cape Verde
+	Cayman Islands
+	Central African Republic
+	Chad
+	Chile
+	China
+	Christmas Island
+	Clipperton Island
+	Cocos (Keeling) Islands
+	Colombia
+	Comoros
+	Congo, Democratic Republic of the
+	Congo, Republic of the
+	Cook Islands
+	Coral Sea Islands
+	Costa Rica
+	Cote d'Ivoire
+	Croatia
+	Cuba
+	Cyprus
+	Czech Republic
+	Denmark
+	Djibouti
+	Dominica
+	Dominican Republic
+	Ecuador
+	Egypt
+	El Salvador
+	Equatorial Guinea
+	Eritrea
+	Estonia
+	Ethiopia
+	Europa Island
+	Falkland Islands (Islas Malvinas)
+	Faroe Islands
+	Fiji
+	Finland
+	France
+	French Guiana
+	French Polynesia
+	French Southern and Antarctic Lands
+	Gabon
+	The Gambia
+	Gaza Strip
+	Georgia
+	Germany
+	Ghana
+	Gibraltar
+	Glorioso Islands
+	Greece
+	Greenland
+	Grenada
+	Guadeloupe
+	Guam
+	Guatemala
+	Guernsey
+	Guinea
+	Guinea-Bissau
+	Guyana
+	Haiti
+	Heard Island and McDonald Islands
+	Holy See (Vatican City)
+	Honduras
+	Hong Kong
+	Howland Island
+	Hungary
+	Iceland
+	India
+	Indian Ocean
+	Indonesia
+	Iran
+	Iraq
+	Ireland
+	Israel
+	Italy
+	Jamaica
+	Jan Mayen
+	Japan
+	Jarvis Island
+	Jersey
+	Johnston Atoll
+	Jordan
+	Juan de Nova Island
+	Kazakstan
+	Kenya
+	Kingman Reef
+	Kiribati
+	Korea, North
+	Korea, South
+	Kuwait
+	Kyrgyzstan
+	Laos
+	Latvia
+	Lebanon
+	Lesotho
+	Liberia
+	Libya
+	Liechtenstein
+	Lithuania
+	Luxembourg
+	Macau
+	Macedonia,
+	Madagascar
+	Malawi
+	Malaysia
+	Maldives
+	Mali
+	Malta
+	Man, Isle of
+	Marshall Islands
+	Martinique
+	Mauritania
+	Mauritius
+	Mayotte
+	Mexico
+	Micronesia, Federated States of
+	Midway Islands
+	Moldova
+	Monaco
+	Mongolia
+	Montserrat
+	Morocco
+	Mozambique
+	Namibia
+	Nauru
+	Navassa Island
+	Nepal
+	Netherlands
+	Netherlands Antilles
+	New Caledonia
+	New Zealand
+	Nicaragua
+	Niger
+	Nigeria
+	Niue
+	Norfolk Island
+	Northern Mariana Islands
+	Norway
+	Oman
+	Pacific Ocean
+	Pakistan
+	Palau
+	Palmyra Atoll
+	Panama
+	Papua New Guinea
+	Paracel Islands
+	Paraguay
+	Peru
+	Philippines
+	Pitcairn Islands
+	Poland
+	Portugal
+	Puerto Rico
+	Qatar
+	Reunion
+	Romania
+	Russia
+	Rwanda
+	Saint Helena
+	Saint Kitts and Nevis
+	Saint Lucia
+	Saint Pierre and Miquelon
+	Saint Vincent and the Grenadines
+	San Marino
+	Sao Tome and Principe
+	Saudi Arabia
+	Senegal
+	Serbia and Montenegro
+	Seychelles
+	Sierra Leone
+	Singapore
+	Slovakia
+	Slovenia
+	Solomon Islands
+	Somalia
+	South Africa
+	South Georgia and the
+	Spain
+	Spratly Islands
+	Sri Lanka
+	Sudan
+	Suriname
+	Svalbard
+	Swaziland
+	Sweden
+	Switzerland
+	Syria
+	Taiwan
+	Tajikistan
+	Tanzania
+	Thailand
+	Togo
+	Tokelau
+	Tonga
+	Trinidad and Tobago
+	Tromelin Island
+	Tunisia
+	Turkey
+	Turkmenistan
+	Turks and Caicos Islands
+	Tuvalu
+	Uganda
+	Ukraine
+	United Arab Emirates
+	United Kingdom
+	United States
+	Uruguay
+	Uzbekistan
+	Vanuatu
+	Venezuela
+	Vietnam
+	Virgin Islands
+	Wake Island
+	Wallis and Futuna
+	West Bank
+	Western Sahara
+	Western Samoa
+	World
+	Yemen
+	Zambia
+	Zimbabwe
+
+______________________________________________________________________
+
+INTRODUCTION
+
+The World Factbook is prepared by the Central Intelligence Agency for
+the use of US Government officials, and the style, format, coverage,
+and content are designed to meet their specific requirements.
+Information was provided by the American Geophysical Union, Bureau of
+the Census, Central Intelligence Agency, Defense Intelligence Agency,
+Defense Nuclear Agency, Department of State, Foreign Broadcast
+Information Service, Maritime Administration, National Imagery and
+Mapping Agency, National Maritime Intelligence Center, National
+Science Foundation (Antarctic Sciences Section), Office of Insular
+Affairs, US Board on Geographic Names, US Coast Guard, and other
+public and private sources.
+
+The Factbook is in the public domain. Accordingly, it may be copied
+freely without permission of the Central Intelligence Agency (CIA).
+The official seal of the CIA, however, may NOT be copied without
+permission as required by the CIA Act of 1949 (50 U.S.C. section
+403m). Misuse of the official seal of the CIA could result in civil
+and criminal penalties.
+
+Comments and queries are welcome and may be addressed to:
+Central Intelligence Agency
+Attn: Public Affairs Staff
+Washington, DC 20505
+Telephone: [1](703)482-0623
+FAX: [1](703)482-1739
+
+______________________________________________________________________
+
+A BRIEF HISTORY OF BASIC INTELLIGENCE AND THE WORLD FACTBOOK
+
+The Intelligence Cycle is the process by which information is
+acquired, converted into intelligence, and made available to
+policymakers. Information is raw data from any source that may be
+fragmentary, contradictory, unreliable, ambiguous, deceptive, or
+wrong. Intelligence is information that has been collected,
+integrated, evaluated, analyzed, and interpreted. Finished
+intelligence is the final product of the Intelligence Cycle ready to
+be delivered to the policymaker.
+
+There are three types of finished intelligence: basic, current, and
+estimative. Basic intelligence is the fundamental and factual
+reference material on a country or issue, current intelligence reports
+on new developments, and estimative intelligence judges probable
+outcomes. The three are mutually supporting because basic intelligence
+is the foundation on which the other two are based, current
+intelligence helps to continually update the knowledge foundation, and
+estimative intelligence serves to revise overall interpretations of
+country and issue prospects for both basic and current intelligence.
+The World Factbook, The President's Daily Brief, and National
+Intelligence Estimates are examples of the three types of finished
+intelligence.
+
+The United States has carried on foreign intelligence activities since
+the days of George Washington, but only since World War II have they
+been coordinated on a governmentwide basis. Three programs have
+highlighted the development of coordinated basic intelligence since
+that time: (1) the Joint Army Navy Intelligence Studies (JANIS), (2)
+the National Intelligence Survey (NIS), and (3) The World Factbook.
+
+During World War II intelligence consumers realized that the
+production of basic intelligence by different components of the US
+Government resulted in a great duplication of effort and conflicting
+information. The Japanese attack on Pearl Harbor in 1941 brought home
+to Congressional and executive branch leaders the need for integrating
+and coordinating departmental reports to national policymakers.
+Detailed general information was needed not only on such major powers
+as Germany and Japan, but also on places of little previous interest.
+In the Pacific Theater, for example, the Navy and Marines had to
+launch amphibious operations against many islands about which
+information was unconfirmed or nonexistent. Intelligence authorities
+resolved that the United States should never again be caught
+unprepared.
+
+In 1943, Gen. George B. Strong (G-2), Adm. H. C. Train (Office of
+Naval Intelligence - ONI), and Gen. William J. Donovan (Director of
+the Office of Strategic Services - OSS) decided that a joint effort
+should be initiated. A steering committee was appointed on 27 April
+1943 that recommended the formation of a Joint Intelligence Study
+Publishing Board to assemble, edit, coordinate, and publish the Joint
+Army Navy Intelligence Studies (JANIS). JANIS was the first
+interdepartmental basic intelligence program and fulfilled the needs
+of the US Government for an authoritative and coordinated digest of
+strategic basic intelligence. Between April 1943 and July 1947, the
+board published 34 JANIS studies. JANIS performed well in the war
+effort, and numerous letters of commendation were received including a
+statement from Adm. Forrest Sherman, Chief of Staff, Pacific Ocean
+Areas, which said "JANIS has become the indispensable reference work
+for the shore-based planners."
+
+The need for even more comprehensive basic intelligence in the postwar
+world was well expressed in 1946 by George S. Pettee, a noted author
+on national security, when he wrote in The Future of American Secret
+Intelligence (Infantry Journal Press, 1946, page 46) that world
+leadership in peace requires more elaborate intelligence than war.
+"The conduct of peace involves all countries, all human activities-not
+just the enemy and his war production."
+
+The Central Intelligence Agency was established on 26 July 1947 and
+officially began operating 18 September 1947. Effective 1 October
+1947, the Director of Central Intelligence assumed operational
+responsibility for JANIS. On 13 January 1948, the National Security
+Council issued Intelligence Directive (NSCID) No. 3, which officially
+authorized the National Intelligence Survey (NIS) program as a
+peacetime replacement for the wartime JANIS program. Before adequate
+NIS sections could be produced, it was necessary to develop gazetteers
+and maps for an accurate presentation of intelligence by the
+contributing agencies. The US Board on Geographic Names (BGN) compiled
+the names, the Department of the Interior produced the gazetteers, and
+CIA produced the maps.
+
+The Hoover Commission's Clark Committee, set up in 1954 to study the
+structure and administration of the CIA, reported to Congress in 1955
+that: "The National Intelligence Survey is an invaluable publication
+which provides the essential elements of basic intelligence on all
+areas of the world. . . . There will always be a continuing
+requirement for keeping the Survey up-to-date." The Factbook was
+created as an annual summary and update to the encyclopedic NIS
+studies. The first classified Factbook was published in August 1962,
+and the first unclassified version was published in June 1971. The NIS
+program was terminated except for the Factbook and gazetteers in 1973.
+The 1975 Factbook was the first to be made available to the public
+with sales through the US Government Printing Office (GPO). The 1996
+edition was the first to be printed by GPO. The year 1997 marks the
+50th anniversary of the establishment of the Central Intelligence
+Agency and the 54th year of continuous basic intelligence support to
+the US Government by The World Factbook and its two predecessor
+programs.
+
+______________________________________________________________________
+
+NOTES AND DEFINITIONS
+
+There have been some significant changes in this edition. A schema or
+Guide to Country Profiles has been added. The new maps and flags
+accompanying each country profile are in color. The country name Zaire
+has been officially changed to Democratic Republic of the Congo. Congo
+is now referred to as Republic of the Congo. New reference maps of the
+United States, Ethnolinguistic Groups in Afghanistan, and Central
+Africa have been included. Introduction is a new category with two
+entries--Current issues and Historical perspective that now appear in
+only a few country profiles, but will be added to all countries in the
+future. The Area--comparative entry was separated from the Area entry.
+The lowest point and highest point information has been removed from
+the Terrain entry and put into a new entry called Elevation extremes.
+The former Environment entry has been replaced by three new
+entries--Natural hazards, Environment--current issues, and
+Environment--international agreements. US diplomatic representation
+has been renamed Diplomatic representation from the US in order to
+parallel the Diplomatic representation in the US entry. The former
+Airports entry has been split into three separate entries--Airports,
+Airports--with paved runways, and Airports--with unpaved runways. The
+Defense category has been renamed Military. The Branches entry has
+been renamed Military branches. The former Manpower availability entry
+has been replaced by four new entries--Military manpower--military
+age, Military manpower--availability, Military manpower--fit for
+military service, and Military manpower--reaching military age
+annually. The former Defense expenditures entry has been replaced by
+two new entries--Military expenditures--dollar figure, and Military
+expenditures--percent of GDP. Transnational Issues is a new category
+that now includes only two existing entries (Illicit drugs and
+Disputes--international) but additional entries will be considered in
+the future.
+
+Abbreviations: This information is included in Appendix A:
+Abbreviations which includes all abbreviations and acronyms used in
+the Factbook with their expansions.
+
+Administrative divisions: This entry generally gives the numbers,
+designatory terms, and first-order administrative divisions as
+approved by the US Board on Geographic Names (BGN). Changes that have
+been reported but not yet acted on by BGN are noted.
+
+Age structure: This entry provides the distribution of the population
+according to age. Information is included by sex and age group (0-14
+years, 15-64 years, 65 years and over). The age structure of a
+population will affect a country's investment pattern. Countries with
+young populations (high percentage under age 15) need to invest more
+in schools, while countries with older populations (high percentage
+ages 65 and over) need to invest more in the health sector. The age
+structure can also be used to help predict potential political issues.
+For example, the rapid growth of a young adult population unable to
+find employment can lead to unrest.
+
+Agriculture--products: This entry is a rank ordering of major crops
+and products starting with the most important.
+
+Airports: This entry gives the total number of airports. The runway(s)
+may be paved (concrete or asphalt surfaces) or unpaved (grass, dirt,
+sand, or gravel surfaces), but must be usable. Not all airports have
+facilities for refueling, maintenance, or air traffic control.
+
+Airports--with paved runways: This entry gives the total number of
+airports with paved runways (concrete or asphalt surfaces). For
+airports with more than one runway, only the longest runway is
+included according to the following five groups--(1) over 3,047 m, (2)
+2,438 to 3,047 m, (3) 1,524 to 2,437 m, (4) 914 to 1,523 m, and (5)
+under 914 m. Not all airports have facilities for refueling,
+maintenance, or air traffic control. Only airports with usable runways
+are included in this listing.
+
+Airports--with unpaved runways: This entry gives the total number of
+airports with unpaved runways (grass, dirt, sand, or gravel surfaces).
+For airports with more than one runway, only the longest runway is
+included according to the following five groups--(1) over 3,047 m, (2)
+2,438 to 3,047 m, (3) 1,524 to 2,437 m, (4) 914 to 1,523 m, and (5)
+under 914 m. Not all airports have facilities for refueling,
+maintenance, or air traffic control. Only airports with usable runways
+are included in this listing.
+
+Appendixes: This section includes Factbook-related material by topic.
+Area: This entry includes three subfields. Total area is the sum of
+all land and water areas delimited by international boundaries and/or
+coastlines. Land area is the aggregate of all surfaces delimited by
+international boundaries and/or coastlines, excluding inland water
+bodies (lakes, reservoirs, rivers). Water area is the sum of all water
+surfaces delimited by international boundaries and/or coastlines,
+including inland water bodies (lakes, reservoirs, rivers).
+
+Area--comparative: This entry provides an area comparison based on
+total area equivalents. Most entities are compared with the entire US
+or one of the 50 states based on area measurements (1990 revised)
+provided by the US Bureau of the Census. The smaller entities are
+compared with Washington, DC (178 sq km, 69 sq mi) or The Mall in
+Washington, DC (0.59 sq km, 0.23 sq mi, 146 acres).
+
+Birth rate: This entry gives the average annual number of births
+during a year per 1,000 population at midyear; also known as crude
+birth rate. The birth rate is usually the dominant factor in
+determining the rate of population growth. It depends on both the
+level of fertility and the age structure of the population.
+
+Budget: This entry includes revenues, total expenditures, and capital
+expenditures.
+
+Climate: This entry includes a brief description of typical weather
+regimes throughout the year.
+
+Coastline: This entry gives the total length of the boundary between
+the land area (including islands) and the sea.
+
+Communications: This category deals with the means of exchanging
+information and includes the radio, telephone, and television entries.
+
+Communications--note: This entry includes miscellaneous communications
+information of significance not included elsewhere.
+
+Constitution: This entry includes the dates of adoption, revisions,
+and major amendments.
+
+Country map: Most versions of the Factbook provide a country map in
+color. The maps were produced from the best information available at
+the time of preparation. Names and/or boundaries may have changed
+subsequently.
+
+Country name: This entry includes all forms of the country's name
+approved by the US Board on Geographic Names (Italy is used as an
+example): conventional long form (Italian Republic), conventional
+short form (Italy), local long form (Repubblica Italiana), local short
+form (Italia), former (Kingdom of Italy), as well as the abbreviation.
+See the Terminology note regarding the use of the term "country."
+
+Currency: This entry identifies the local medium of exchange and its
+basic subunit.
+
+Current issues: This entry briefly characterizes major geographic,
+social, political, and military developments in the past 12 months and
+may include a statement about one or two key future trends. This entry
+appears for only a few countries at the present time, but will be
+added to all countries in the future.
+
+Data code: This entry gives the official US Government digraph that
+precisely identifies every land entity without overlap, duplication,
+or omission. AF, for example, is the data code for Afghanistan. This
+two-letter country code is a standardized geopolitical data element
+promulgated in the Federal Information Processing Standards
+Publication (FIPS) 10-4 by the National Institute of Standards and
+Technology at the US Department of Commerce and maintained by the
+Office of the Geographer and Global Issues at the US Department of
+State. The data code is used to eliminate confusion and
+incompatibility in the collection, processing, and dissemination of
+area-specific data and is particularly useful for interchanging data
+between databases. Appendix F cross-references various country codes
+and Appendix G does the same thing for hydrographic codes. Data
+codes-country: This information is presented in Appendix F:
+Cross-Reference List of Country Data Codes which includes the US
+Government approved Federal Information Processing Standards (FIPS),
+the International Organization for Standardization (ISO), and Internet
+country codes.
+
+Data codes--hydrographic: This information is presented in Appendix G:
+Cross-Reference List of Hydrographic Data Codes which includes the
+International Hydrographic Organization (IHO), Aeronautical Chart and
+Information Center (ACIC; now National Imagery and Mapping Agency or
+NIMA), and Defense Intelligence Agency (DIA) hydrographic codes. The
+US Government has not yet approved a standard for hydrographic data
+codes similar to the FIPS 10-4 standard for country data codes.
+
+Dates of information: The information cutoff date was 1 January 1997,
+although a few important changes after that date have been included.
+Most demographic statistics are estimates for 1997.
+
+Death rate: This entry gives the average annual number of deaths
+during a year per 1,000 population at midyear; also known as crude
+death rate. The death rate, while only a rough indicator of the
+mortality situation in a country, accurately indicates the current
+mortality impact on population growth. This indicator is significantly
+affected by the age distribution, and most countries will eventually
+show a rise in the rate, in spite of continued declines in mortality
+at all ages, as declining fertility results in an aging population.
+
+Debt--external: This entry gives the total amount of public foreign
+financial obligations.
+
+Dependency status: This entry describes the formal relationship
+between a nonindependent entity and a sovereign nation.
+
+Dependent areas: This entry contains an alphabetical listing of all
+nonindependent entities associated in some way with a particular
+sovereign nation.
+
+Diplomatic representation: The US Government has diplomatic relations
+with 184 nations, including 178 of the 185 UN members (excluded UN
+members are Bhutan, Cuba, Iran, Iraq, North Korea, former Yugoslavia,
+and the US itself). In addition, the US has diplomatic relations with
+6 nations that are not in the UN--Holy See, Kiribati, Nauru,
+Switzerland, Tonga, and Tuvalu. Diplomatic representation from the US:
+This entry includes the chief of mission, embassy address, mailing
+address, telephone number, FAX number, branch office locations,
+consulate general locations, and consulate locations. Diplomatic
+representation in the US: This entry includes the chief of mission,
+chancery address, telephone number, FAX number, consulate general
+locations, consulate locations, honorary consulate general locations,
+and honorary consulate locations.
+
+Disputes--international: This entry includes a wide variety of
+situations that range from traditional bilateral boundary disputes to
+unilateral claims of one sort or another. Information regarding
+disputes over international terrestrial and maritime boundaries has
+been reviewed by the US Department of State. References to other
+situations involving borders or frontiers may also be included, such
+as resource disputes, geopolitical questions, or irredentist issues,
+however, inclusion does not necessarily constitute official acceptance
+or recognition by the US Government.
+
+Economic aid: This entry refers to bilateral commitments of official
+development assistance (ODA) and other official flows (OOF). ODA is
+defined as financial assistance which is concessional in character,
+has the main objective to promote economic development and welfare of
+LDCs, and contains a grant element of at least 25%. OOF transactions
+are also official government assistance, but with a main objective
+other than economic development and with a grant element less than
+25%. OOF transactions include official export credits (such as Ex-Im
+Bank credits), official equity and portfolio investment, and debt
+reorganization by the official sector that does not meet concessional
+terms. Aid is considered to have been committed when agreements are
+initialed by the parties involved and constitute a formal declaration
+of intent. The entry is separated into two components--donor and
+recipient.
+
+Economy: This category includes the entries dealing with the size,
+development, and management of productive resources, i.e., land,
+labor, and capital.
+
+Economy--overview: This entry briefly describes the type of economy,
+including the degree of market orientation, the level of economic
+development, the most important natural resources, and the unique
+areas of specialization. It also characterizes major economic events
+and policy changes in the most recent 12 months and may include a
+statement about one or two key future macroeconomic trends.
+
+Electricity--capacity: This entry gives the maximum designed potential
+for electricity production expressed in kilowatts.
+
+Electricity--consumption per capita: This entry gives the figure for
+annual electricity generation plus net imports or minus net exports,
+divided by total population for the same year expressed in kilowatt
+hours.
+
+Electricity--production: This entry gives the annual amount of
+electricity actually generated expressed in kilowatt hours.
+
+Elevation extremes: This entry includes both the highest point and the
+lowest point.
+
+Entities: Some of the nations, dependent areas, areas of special
+sovereignty, and governments included in this publication are not
+independent, and others are not officially recognized by the US
+Government. "Nation" refers to a people politically organized into a
+sovereign state with a definite territory. "Dependent area" refers to
+a broad category of political entities that are associated in some way
+with a nation. "Country" names used in the table of contents or for
+page headings are usually the short-form names as approved by the US
+Board on Geographic Names and may include nations, dependencies, or
+other geographic entities. There are a total of 266 separate
+geographic entities in The World Factbook that may be categorized as
+follows:
+
+NATIONS
+
+184 nations that are UN members (excluding the former Yugoslavia,
+which is still counted by the UN)
+7 nations that are not members of the UN--Holy See, Kiribati, Nauru,
+Serbia and Montenegro, Switzerland, Tonga, Tuvalu
+
+OTHER
+
+1 Taiwan
+
+DEPENDENT AREAS
+
+6 Australian dependencies--Ashmore and Cartier Islands, Christmas
+Island, Cocos (Keeling) Islands, Coral Sea Islands, Heard Island and
+McDonald Islands, Norfolk Island
+2 Danish dependencies--Faroe Islands, Greenland
+2 Dutch dependencies--Aruba, Netherlands Antilles
+16 French dependencies--Bassas da India, Clipperton Island, Europa
+Island, French Guiana, French Polynesia, French Southern and Antarctic
+Lands, Glorioso Islands, Guadeloupe, Juan de Nova Island, Martinique,
+Mayotte, New Caledonia, Reunion, Saint Pierre and Miquelon, Tromelin
+Island, Wallis and Futuna
+3 New Zealand dependencies--Cook Islands, Niue, Tokelau
+3 Norwegian dependencies--Bouvet Island, Jan Mayen, Svalbard
+1 Portuguese dependency--Macau
+16 UK dependencies--Anguilla, Bermuda, British Indian Ocean Territory,
+British Virgin Islands, Cayman Islands, Falkland Islands, Gibraltar,
+Guernsey, Hong Kong, Jersey, Isle of Man, Montserrat, Pitcairn
+Islands, Saint Helena, South Georgia and the South Sandwich Islands,
+Turks and Caicos Islands
+14 US dependencies--American Samoa, Baker Island, Guam, Howland
+Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands,
+Navassa Island, Northern Mariana Islands, Palmyra Atoll, Puerto Rico,
+Virgin Islands, Wake Island
+
+MISCELLANEOUS
+
+  6 Antarctica, Gaza Strip, Paracel Islands, Spratly Islands, West
+Bank, Western Sahara
+
+OTHER ENTITIES
+
+  4 oceans--Arctic Ocean, Atlantic Ocean, Indian Ocean, Pacific Ocean
+  1 World
+__________
+
+266 Total
+
+Environment--current issues: This entry lists the most pressing and
+important environmental problems.
+
+Environment--international agreements: This entry separates country
+participation in international environmental agreements into two
+levels--party to and signed but not ratified. Agreements are listed in
+alphabetical order by the abbreviated form of the full name.
+
+Environmental agreements: This information is presented in Appendix D:
+Selected International Environmental Agreements which includes the
+name, abbreviation, date opened for signature, date entered into
+force, objective, and parties by category.
+
+Ethnic groups: This entry provides a rank ordering of ethnic groups
+starting with the largest and sometimes includes the percent of total
+population. Exchange rates: This entry provides the official value of
+a nation's monetary unit at a given date or over a given period of
+time, as expressed in units of local currency per US dollar and as
+determined by international market forces or official fiat.
+
+Executive branch: This entry includes several subfields. Chief of
+state includes the name and title of the titular leader of the country
+who represents the state at official and ceremonial functions but may
+not be involved with the day-to-day activities of the government. Head
+of government includes the name and title of the administrative leader
+who is designated to manage the day-to-day activities of the
+government. Cabinet includes the official name for this body of
+advisers and the method of selection for members. Elections includes
+the nature of election process or accession to power, date of the last
+election, and date of the next election. Election results includes the
+percent of vote for each candidate in the last election. In the UK,
+the monarch is the chief of state, and the prime minister is the head
+of government. In the US, the President is both the chief of state and
+the head of government.
+
+Exports: This entry includes three subfields. Total value is the total
+US dollar amount of exports on an f.o.b. basis. Commodities is a rank
+ordering of exported products starting with the most important and
+sometimes includes the percent of dollar value. Partners is a rank
+ordering of trading partners starting with the most important and
+sometimes includes the percent of dollar value.
+
+Fiscal year: This entry identifies the beginning and ending months for
+a country's accounting period of 12 months, which often is the
+calendar year but may begin in any month. FY93/94 refers to the fiscal
+year that began in calendar year 1993 and ended in calendar year 1994.
+All yearly references are for the calendar year (CY) unless indicated
+as a noncalendar fiscal year (FY).
+
+Flag description: This entry provides a written flag description
+produced from actual flags or the best information available at the
+time the entry was written. The flags of independent nations are used
+by their dependencies unless there is an officially recognized local
+flag. Some disputed and other areas do not have flags.
+
+Flag graphic: Most versions of the Factbook provide a color flag
+available at the beginning of the country entry. The flag graphics
+were produced from actual flags or the best information available at
+the time of preparation. The flags of independent nations are used by
+their dependencies unless there is an officially recognized local
+flag. Some disputed and other areas do not have flags.
+
+GDP: This entry gives the gross domestic product (GDP) or value of all
+final goods and services produced within a nation in a given year. GDP
+dollar estimates in the Factbook are derived from purchasing power
+parity (PPP) calculations. See the note on GDP methodology for more
+information.
+
+GDP methodology: In the Economy section, GDP dollar estimates for all
+countries are derived from purchasing power parity (PPP) calculations
+rather than from conversions at official currency exchange rates. The
+PPP method involves the use of standardized international dollar price
+weights, which are applied to the quantities of final goods and
+services produced in a given economy. The data derived from the PPP
+method provide a better comparison of economic well-being between
+countries. The division of a GDP estimate in domestic currency by the
+corresponding PPP estimate in dollars gives the PPP conversion rate.
+When converted at PPP rates, $1,000 will buy the same market basket of
+goods in any country. Whereas PPP estimates for OECD countries are
+quite reliable, PPP estimates for developing countries are often rough
+approximations. Most of the GDP estimates are based on extrapolation
+of PPP numbers published by the UN International Comparison Program
+(UNICP) and by Professors Robert Summers and Alan Heston of the
+University of Pennsylvania and their colleagues. In contrast, currency
+exchange rates depend on a variety of international and domestic
+financial forces that often have little relation to domestic output.
+In developing countries with weak currencies the exchange rate
+estimate of GDP in dollars is typically one-fourth to one-half the PPP
+estimate. Furthermore, exchange rates may suddenly go up or down by
+10% or more because of market forces or official fiat whereas real
+output has remained unchanged. On 12 January 1994, for example, the 14
+countries of the African Financial Community (whose currencies are
+tied to the French franc) devalued their currencies by 50%. This move,
+of course, did not cut the real output of these countries by half. One
+important caution: the proportion of, say, defense expenditures as a
+percentage of GDP in local currency accounts may differ substantially
+from the proportion when GDP accounts are expressed in PPP terms, as,
+for example, when an observer tries to estimate the dollar level of
+Russian or Japanese military expenditures. Note: the numbers for GDP
+and other economic data can not be chained together from successive
+volumes of the Factbook because of changes in the US dollar measuring
+rod, revisions of data by statistical agencies, use of new or
+different sources of information, and changes in national statistical
+methods and practices. For statistical series on GDP and other
+economic variables, see the [1]Handbook of International Economic
+Statistics available from the same sources as The World Factbook.
+
+GDP--composition by sector: This entry gives the percentage
+contribution of agriculture, industry, and services to total GDP.
+
+GDP--per capita: This entry shows GDP on a purchasing power parity
+basis divided by population as of 1 July for the same year.
+
+GDP--real growth rate: This entry gives GDP growth on an annual basis
+adjusted for inflation and expressed as a percent.
+
+Geographic coordinates: This entry includes rounded latitude and
+longitude for finding purposes of the approximate geographic center of
+the country and is based on the Gazetteer of Conventional Names, Third
+Edition, August 1988, US Board on Geographic Names and on other
+sources.
+
+Geographic names: This information is presented in Appendix H:
+Cross-Reference List of Geographic Names which indicates where various
+geographic names--including the location of all US Foreign Service
+Posts, alternate names of countries, former names, and political or
+geographical portions of larger entities--can be found in The World
+Factbook. Spellings are normally, but not always, those approved by
+the US Board on Geographic Names (BGN). Alternate names are included
+in parentheses, while additional information is included in brackets.
+
+Geography: This category includes the entries dealing with the natural
+environment and the effects of human activity.
+
+Geography--note: This entry includes miscellaneous geographic
+information of significance not included elsewhere.
+
+GNP: Gross national product (GNP) is the value of all final goods and
+services produced within a nation in a given year, plus income earned
+by its citizens abroad, minus income earned by foreigners from
+domestic production. The Factbook uses GDP rather than GNP to measure
+national production.
+
+Government: This category includes the entries dealing with the system
+for the adoption and administration of public policy.
+
+Government type: This entry gives the basic form of government (e.g.,
+republic, constitutional monarchy, federal republic, parliamentary
+democracy, military dictatorship).
+
+Government--note: This entry includes miscellaneous government
+information of significance not included elsewhere.
+
+Gross domestic product: see GDP
+
+Gross national product: see GNP
+
+Gross world product: see GWP
+
+GWP: This entry gives the gross world product (GWP) or aggregate value
+of all final goods and services produced worldwide in a given year.
+
+Heliports: This entry gives the total number of helicopter takeoff and
+landing sites (which may or may not have fuel or other services).
+
+Highways: This entry includes the total length of the highway system
+as well as the length of the paved and unpaved components.
+
+Historical perspective: This entry contains a brief summary of the
+background information necessary to understand the current situation
+in a country. The entry appears for only a few countries at the
+present time, but will be added to all countries in the future.
+
+Illicit drugs: This entry gives information on the five categories of
+illicit drugs--narcotics, stimulants, depressants (sedatives),
+hallucinogens, and cannabis. These categories include many drugs
+legally produced and prescribed by doctors as well as those illegally
+produced and sold outside of medical channels.
+
+Cannabis (Cannabis sativa) is the common hemp plant, which provides
+hallucinogens with some sedative properties, and includes marijuana
+(pot, Acapulco gold, grass, reefer), tetrahydrocannabinol (THC,
+Marinol), hashish (hash), and hashish oil (hash oil).
+
+Coca (mostly Erythroxylum coca) is a bush with leaves that contain the
+stimulant used to make cocaine. Coca is not to be confused with cocoa,
+which comes from cacao seeds and is used in making chocolate, cocoa,
+and cocoa butter.
+
+Cocaine is a stimulant derived from the leaves of the coca bush.
+
+Depressants (sedatives) are drugs that reduce tension and anxiety and
+include chloral hydrate, barbiturates (Amytal, Nembutal, Seconal,
+phenobarbital), benzodiazepines (Librium, Valium), methaqualone
+(Quaalude), glutethimide (Doriden), and others (Equanil, Placidyl,
+Valmid).
+
+Drugs are any chemical substances that effect a physical, mental,
+emotional, or behavioral change in an individual.
+
+Drug abuse is the use of any licit or illicit chemical substance that
+results in physical, mental, emotional, or behavioral impairment in an
+individual.
+
+Hallucinogens are drugs that affect sensation, thinking,
+self-awareness, and emotion. Hallucinogens include LSD (acid,
+microdot), mescaline and peyote (mexc, buttons, cactus), amphetamine
+variants (PMA, STP, DOB), phencyclidine (PCP, angel dust, hog),
+phencyclidine analogues (PCE, PCPy, TCP), and others (psilocybin,
+psilocyn).
+
+Hashish is the resinous exudate of the cannabis or hemp plant
+(Cannabis sativa).
+
+Heroin is a semisynthetic derivative of morphine.
+
+Mandrax is a trade name for methaqualone, a pharmaceutical depressant.
+
+Marijuana is the dried leaves of the cannabis or hemp plant (Cannabis
+sativa).
+
+Methaqualone is a pharmaceutical depressant, referred to as mandrax in
+Southwest Asia.
+
+Narcotics are drugs that relieve pain, often induce sleep, and refer
+to opium, opium derivatives, and synthetic substitutes. Natural
+narcotics include opium (paregoric, parepectolin), morphine
+(MS-Contin, Roxanol), codeine (Tylenol with codeine, Empirin with
+codeine, Robitussan AC), and thebaine. Semisynthetic narcotics include
+heroin (horse, smack), and hydromorphone (Dilaudid). Synthetic
+narcotics include meperidine or Pethidine (Demerol, Mepergan),
+methadone (Dolophine, Methadose), and others (Darvon, Lomotil).
+
+Opium is the brown, gummy exudate of the incised, unripe seedpod of
+the opium poppy.
+
+Opium poppy (Papaver somniferum) is the source for the natural and
+semisynthetic narcotics.
+
+Poppy straw concentrate is the alkaloid derived from the mature dried
+opium poppy.
+
+Qat (kat, khat) is a stimulant from the buds or leaves of Catha edulis
+that is chewed or drunk as tea.
+
+Quaaludes is the North American slang term for methaqualone, a
+pharmaceutical depressant.
+
+Imports: This entry includes three subfields. Total value is the total
+US dollar amount of imports on a c.i.f. or f.o.b. basis. Commodities
+is a rank ordering of imported products starting with the most
+important and sometimes includes the percent of dollar value. Partners
+is a rank ordering of trading partners starting with the most
+important and sometimes includes the percent of dollar value.
+
+Independence: This entry gives the date that sovereignty was achieved
+and from what nation.
+
+Industrial production growth rate: This entry gives the annual
+percentage increase in industrial production (includes manufacturing,
+mining, and construction).
+
+Industries: This entry provides a rank ordering of industries starting
+with the largest by value of annual output.
+
+Infant mortality rate: This entry gives the number of deaths of
+infants under one year old in a given year per 1,000 live births
+occurring in the same year. The infant mortality rate is often used an
+indicator of the level of health in a country.
+
+Inflation rate-consumer price index: This entry furnishes the annual
+percent change in consumer prices compared with the previous year's
+consumer prices.
+
+International disputes: see Disputes--international
+
+International organization participation: This entry lists in
+alphabetical order by abbreviation those international organizations
+in which the subject country is a member or participates in some other
+way.
+
+International organizations: This information is presented in Appendix
+C: International Organizations and Groups which includes the name,
+abbreviation, address, telephone, FAX, date established, aim, and
+members by category.
+
+Introduction: This category includes two entries--Current issues and
+Historical perspective.
+
+Irrigated land: This entry gives the number of square kilometers of
+land area that is artificially supplied with water.
+
+Judicial branch: This entry contains the name(s) of the highest
+court(s) and a brief description of the selection process for members.
+
+Labor force: This entry contains the total labor force figure and a
+rank ordering of component parts by occupation.
+
+Land boundaries: This entry contains the total length of all land
+boundaries and the individual lengths for each of the contiguous
+border countries.
+
+Land use: This entry contains the percentage shares of total land area
+for five different types of land use. Arable land--land cultivated for
+crops that are replanted after each harvest like wheat, maize, and
+rice. Permanent crops--land cultivated for crops that are not
+replanted after each harvest like citrus, coffee, and rubber.
+Permanent pastures--land permanently used for herbaceous forage crops.
+Forests and woodland--land under dense or open stands of trees.
+Other--any land type not specifically mentioned above like urban
+areas, roads, desert, etc.
+
+Languages: This entry provides a rank ordering of languages starting
+with the largest and sometimes includes the percent of total
+population speaking that language.
+
+Legal system: This entry contains a brief description of the legal
+system's historical roots, role in government, and acceptance of
+International Court of Justice (ICJ) jurisdiction.
+
+Legislative branch: This entry contains information on the structure
+(unicameral, bicameral, tricameral), formal name, number of seats, and
+term of office. Elections includes the nature of election process or
+accession to power, date of the last election, and date of the next
+election. Election results includes the percent of vote and/or number
+of seats held by each party in the last election.
+
+Life expectancy at birth: This entry contains the average number of
+years to be lived by a group of people born in the same year, if
+mortality at each age remains constant in the future. The entry
+includes total population as well as the male and female components.
+Life expectancy at birth is also a measure of overall quality of life
+in a country and summarizes the mortality at all ages. It can also be
+thought of as indicating the potential return on investment in human
+capital, and is necessary for the calculation of various actuarial
+measures.
+
+Literacy: This entry includes a definition of literacy and Census
+Bureau percentages for the total population, males, and females. There
+are no universal definitions and standards of literacy. Unless
+otherwise specified, all rates are based on the most common
+definition--the ability to read and write at a specified age.
+Detailing the standards that individual countries use to assess the
+ability to read and write is beyond the scope of the Factbook.
+Information on literacy, while not a perfect measure of educational
+results, is probably the most easily available and valid for
+international comparisons. Low levels of literacy, and education in
+general, can impede the economic development of a country in the
+current rapidly changing, technology-driven world.
+
+Location: This entry identifies the country's regional location,
+neighboring countries, and adjacent bodies of water.
+
+Map references: This entry includes the name of the Factbook reference
+map on which a country may be found. The entry on Geographic
+coordinates may be helpful in finding some smaller countries.
+
+Maritime claims: This entry includes the following claims: contiguous
+zone, continental shelf, exclusive economic zone, exclusive fishing
+zone, extended fishing zone, none (usually for a landlocked country),
+other (unique maritime claims like Libya's Gulf of Sidra Closing Line
+or North Korea's Military Boundary Line), and territorial sea. The
+proximity of neighboring states may prevent some national claims from
+being extended the full distance.
+
+Merchant marine: Merchant marine may be defined as all ships engaged
+in the carriage of goods; all commercial vessels (as opposed to all
+nonmilitary ships) which excludes tugs, fishing vessels, offshore oil
+rigs, etc.; or a grouping of merchant ships by nationality or
+register. This entry contains information in two subfields--total and
+ships by type. Total includes the total number of ships (1,000 GRT or
+over), total DWT for all ships, and total GRT for all ships. Ships by
+type includes a listing of barge carriers, bulk cargo ships, cargo
+ships, combination bulk carriers, combination ore/oil carriers,
+container ships, intermodal ships, liquefied gas tankers, livestock
+carriers, multifunction large-load carriers, oil tankers, passenger
+ships, passenger-cargo ships, railcar carriers, refrigerated cargo
+ships, roll-on/roll-off cargo ships, short-sea passenger ships,
+specialized tankers, tanker tug-barges, and vehicle carriers.
+
+Captive register is a register of ships maintained by a territory,
+possession, or colony primarily or exclusively for the use of ships
+owned in the parent country; also referred to as an offshore register,
+the offshore equivalent of an internal register. Ships on a captive
+register will fly the same flag as the parent country, or a local
+variant of it, but will be subject to the maritime laws and taxation
+rules of the offshore territory. Although the nature of a captive
+register makes it especially desirable for ships owned in the parent
+country, just as in the internal register, the ships may also be owned
+abroad. The captive register then acts as a flag of convenience
+register, except that it is not the register of an independent state.
+
+Flag of convenience register is a national register offering
+registration to a merchant ship not owned in the flag state. The major
+flags of convenience (FOC) attract ships to their registers by virtue
+of low fees, low or nonexistent taxation of profits, and liberal
+manning requirements. True FOC registers are characterized by having
+relatively few of the registered ships actually owned in the flag
+state. Thus, while virtually any flag can be used for ships under a
+given set of circumstances, an FOC register is one where the majority
+of the merchant fleet is owned abroad. It is also referred to as an
+open register.
+
+Flag state is the nation in which a ship is registered and which holds
+legal jurisdiction over operation of the ship, whether at home or
+abroad. Maritime legislation of the flag state determines how a ship
+is crewed and taxed and whether a foreign-owned ship may be placed on
+the register.
+
+Internal register is a register of ships maintained as a subset of a
+national register. Ships on the internal register fly the national
+flag and have that nationality but are subject to a separate set of
+maritime rules from those on the main national register. These
+differences usually include lower taxation of profits, use of foreign
+nationals as crew members, and, usually, ownership outside the flag
+state (when it functions as an FOC register). The Norwegian
+International Ship Register and Danish International Ship Register are
+the most notable examples of an internal register. Both have been
+instrumental in stemming flight from the national flag to flags of
+convenience and in attracting foreign-owned ships to the Norwegian and
+Danish flags.
+
+Merchant ship is a vessel that carries goods against payment of
+freight; commonly used to denote any nonmilitary ship but accurately
+restricted to commercial vessels only.
+
+Register is the record of a ship's ownership and nationality as listed
+with the maritime authorities of a country; also, the compendium of
+such individual ships' registrations. Registration of a ship provides
+it with a nationality and makes it subject to the laws of the country
+in which registered (the flag state) regardless of the nationality of
+the ship's ultimate owner.
+
+Military: This category includes the entries dealing with a country's
+military structure, manpower, and expenditures.
+
+Military branches: This entry lists the names of the ground, naval,
+air, marine, and other defense or military-type forces.
+
+Military expenditures--dollar figure: This entry gives current
+military expenditures in US dollars; the figure is calculated by
+multiplying the estimated defense spending in percentage terms by the
+gross domestic product (GDP) in purchasing power parity (PPP) terms.
+The figure should be treated with caution because of different price
+patterns and accounting methods among nations.
+
+Military expenditures--percent of GDP: This entry gives current
+military expenditures as an estimated percent of gross domestic
+product (GDP).
+
+Military manpower--availability: This entry gives the total numbers of
+males and females age 15-49 and assumes that every individual is fit
+to serve.
+
+Military manpower--fit for military service: This entry gives the
+number of males and females age 15-49 fit for military service. This
+is a more refined measure of potential military manpower availability
+which tries to correct for the health situation in the country and
+reduces the maximum potential number to a more realistic estimate of
+the actual number fit to serve.
+
+Military manpower--military age: This entry gives the minimum age at
+which an individual may volunteer for military service or be subject
+to conscription.
+
+Military manpower--reaching military age annually: This entry gives
+the number of draft-age males and females entering the military
+manpower pool in any given year and is a measure of the availability
+of draft-age young adults.
+
+Military--note: This entry includes miscellaneous military information
+of significance not included elsewhere.
+
+Money figures: All money figures are expressed in contemporaneous US
+dollars unless otherwise indicated.
+
+National capital: This entry gives the location of the seat of
+government.
+
+National holiday: This entry gives the primary national day of
+celebration--usually independence day.
+
+Nationality: This entry provides the identifying terms for
+citizens--noun and adjective.
+
+Natural hazards: This entry lists potential natural disasters.
+
+Natural resources: This entry lists a country's mineral, petroleum,
+hydropower, and other resources of commercial importance.
+
+Net migration rate: This entry includes the figure for the difference
+between the number of persons entering and leaving a country during
+the year per 1,000 persons (based on midyear population). An excess of
+persons entering the country is referred to as net immigration (e.g.,
+3.56 migrants/1,000 population); an excess of persons leaving the
+country as net emigration (e.g., -9.26 migrants/1,000 population). The
+net migration rate indicates the contribution of migration to the
+overall level of population change. High levels of migration can cause
+problems such as increasing unemployment and potential ethnic strife
+(if people are coming in) or reducing the labor force, perhaps in
+certain key sectors (if people are leaving).
+
+People: This category includes the entries dealing with the
+characteristics of the people and their society.
+
+People--note: This entry includes miscellaneous demographic
+information of significance not included elsewhere.
+
+Pipelines: This entry gives the lengths and types of pipelines for
+transporting products like natural gas, crude oil, or petroleum
+products.
+
+Political parties and leaders: This entry includes a listing of
+political organizations and their leaders.
+
+Political pressure groups and leaders: This entry includes a listing
+of organizations with leaders involved in politics, but not standing
+for legislative election.
+
+Population: This entry gives an estimate from the US Bureau of the
+Census based on statistics from population censuses, vital statistics
+registration systems, or sample surveys pertaining to the recent past,
+and on assumptions about future trends. Starting with the 1993
+Factbook, demographic estimates for some countries (mostly African)
+have taken into account the effects of the growing incidence of AIDS
+infections; in 1997 these countries were Botswana, Brazil, Burkina
+Faso, Burundi, Cameroon, Central African Republic, Republic of the
+Congo, Cote d'Ivoire, Ethiopia, Guyana, Haiti, Kenya, Lesotho, Malawi,
+Nigeria, Rwanda, South Africa, Tanzania, Thailand, Uganda, Zaire which
+is now known as Democratic Republic of the Congo, Zambia, and
+Zimbabwe. The total population presents one overall measure of the
+potential impact of the country on the world and within its region.
+
+Population growth rate: The average annual percent change in the
+population, resulting from a surplus (or deficit) of births over
+deaths and the balance of migrants entering and leaving a country. The
+rate may be positive or negative. Also known as growth rate or average
+annual rate of growth. The growth rate is a factor in determining how
+rapidly a country responds to the changing needs of its people in
+terms of infrastructure (e.g., schools, hospitals, housing, roads),
+resources (e.g., food, water, electricity), and jobs. Rapid population
+growth can also be seen as threatening by neighboring countries.
+
+Ports and harbors: This entry lists a few ports and harbors selected
+on the basis of overall importance to each country. This is determined
+by evaluating a number of factors (e.g., dollar value of goods
+handled, gross tonnage, facilities, military significance).
+
+Radio broadcast stations: This entry includes the total number of AM,
+FM, and shortwave broadcast stations.
+
+Radios: This entry gives the total number of radio receivers.
+
+Railways: This entry includes the total length of the railway network
+and component parts by gauge: broad, dual, narrow, standard, and
+other.
+
+Reference maps: This section includes world, regional, and special or
+current interest maps.
+
+Religions: This entry includes a rank ordering of religions starting
+with the largest and sometimes includes the percent of total
+population.
+
+Sex ratio: This entry includes the number of males for each female in
+five age groups-at birth, under 15 years, 15-64 years, 65 years and
+over, and for the total population. Sex ratio at birth has recently
+emerged as an indicator of certain kinds of sex discrimination in some
+countries. For instance, high sex ratios at birth in some Asian
+countries are now attributed to sex-selective abortion and infanticide
+due to a strong preference for sons. This will affect future marriage
+patterns and fertility patterns and could cause unrest among young
+adult males who are unable to find partners. The sex ratio at birth
+for the World is 1.06 (1997 est.).
+
+Suffrage: This entry gives the age at enfranchisement and whether the
+right to vote is universal or restricted.
+
+Telephone numbers: All telephone numbers in the Factbook consist of
+the country code in brackets, the city or area code (where required)
+in parentheses, and the local number. The one component that is not
+presented is the international access code which varies from country
+to country. For example, an international direct dial telephone call
+placed from the US to Madrid, Spain, would be as follows:
+
+011 [34] (1) 577-xxxx where
+011 is the international access code for station-to-station calls
+(01 is for calls other than station-to-station calls),
+[34] is the country code for Spain,
+(1) is the city code for Madrid,
+577 is the local exchange, and
+xxxx is the local telephone number.
+
+An international direct dial telephone call placed from another
+country to the US would be as follows:
+
+An international direct dial telephone call placed from another
+country to the US would be as follows:
+
+[1] is the country code for the US,
+(202) is the area code for Washington, DC,
+939 is the local exchange, and
+xxxx is the local telephone number.
+
+Telephone system: This entry includes a brief characterization of the
+system with details on the domestic and international components. The
+following terms and abbreviations are used throughout the entry:
+
+Arabsat-Arab Satellite Communications Organization (Riyadh, Saudi
+Arabia)
+
+Autodin--Automatic Digital Network (US Department of Defense)
+
+CB--citizen's band mobile radio communications
+
+cellular telephone system--the telephones in this system are radio
+
+transceivers, each instrument having its own private radio frequency
+with sufficient radiated power to reach the booster station in its
+area (cell), from which the telephone signal is fed to a regular
+telephone exchange
+
+Central American Microwave System--a trunk microwave radio relay
+system that links the countries of Central America and Mexico with
+each other
+
+coaxial cable--a multichannel communication cable consisting of a
+central conducting wire, surrounded by and insulated from a
+cylindrical conducting shell; a large number of telephone channels can
+be made available within the insulated space by the use of a large
+number of carrier frequencies
+
+DSN--Defense Switched Network (formerly Automatic Voice Network or
+Autovon); basic general--purpose, switched voice network of the
+Defense Communications System (US Department of Defense)
+
+Eutelsat--European Telecommunications Satellite Organization (Paris)
+
+fiber-optic cable--a multichannel communications cable using a thread
+of optical glass fibers as a transmission medium in which the signal
+(voice, video, etc.) is in the form of a coded pulse of light
+
+HF--high-frequency; any radio frequency in the 3,000- to 30,000-kHz
+range
+
+Inmarsat-International Mobile Satellite Organization (London);
+provider of global mobile satellite communications for commercial and
+distress and safety applications, at sea, in the air, and on land
+
+Intelsat--International Telecommunications Satellite Organization
+(Washington, DC)
+
+Intersputnik--International Organization of Space Communications
+(Moscow); first established in the former Soviet Union and the East
+European countries, it is now marketing its services worldwide with
+earth stations in North America, Africa, and East Asia
+
+landline--communication wire or cable of any sort that is installed on
+poles or buried in the ground
+
+Marecs--Maritime European Communications Satellite used in the
+Inmarsat system on lease from the European Space Agency
+
+Marisat--satellites of the Comsat Corporation that participate in the
+Inmarsat system
+
+Medarabtel--the Middle East Telecommunications Project of the
+International Telecommunications Union (ITU), providing a modern
+telecommunications network, primarily by microwave radio relay,
+linking Algeria, Djibouti, Egypt, Jordan, Libya, Morocco, Saudi
+Arabia, Somalia, Sudan, Syria, Tunisia, and Yemen (initially started
+in Morocco in 1970 by the Arab Telecommunications Union (ATU) and
+known at that time as the Middle East Mediterranean Telecommunications
+Network)
+
+NMT--Nordic Mobile Telephone; an analog cellular telephone system that
+was developed jointly by the national telecommunications authorities
+of the Nordic countries (Denmark, Finland, Iceland, Norway, and
+Sweden)
+
+Orbita--a Russian television service; also the trade name of a
+packet--switched digital telephone network
+
+radiotelephone communications--the two--way transmission and reception
+of sounds by broadcast radio on authorized frequencies using telephone
+handsets
+
+satellite communication system--a communication system consisting of
+two or more earth stations and at least one satellite that provides
+long distance transmission of voice, data, and television; the system
+usually serves as a trunk connection between telephone exchanges; if
+the earth stations are in the same country, it is a domestic system
+
+satellite earth station--a communications facility with a microwave
+radio transmitting and receiving antenna and required receiving and
+transmitting equipment for communicating with satellites
+
+satellite link--a radio connection between a satellite and an earth
+station permitting communication between them, either one--way (down
+link from satellite to earth station--television receive--only
+transmission) or two-way (telephone channels)
+
+SHF--super--high--frequency; any radio frequency in the 3,000- to
+30,000-MHz range
+
+SHF--super-high-frequency; any radio frequency in the 3,000- to
+30,000-MHz range
+
+Solidaridad-geosynchronous satellites in Mexico's system of
+international telecommunications in the Western Hemisphere
+
+Statsionar--Russia's geostationary system for satellite
+telecommunications
+
+submarine cable--a cable designed for service under water
+
+TAT--Trans--Atlantic Telephone; any of a number of high--capacity
+submarine coaxial telephone cables linking Europe with North America
+
+telefax--facsimile service between subscriber stations via the public
+switched telephone network or the international Datel network
+
+telegraph--a telecommunications system designed for unmodulated
+electric impulse transmission
+
+telex--a communication service involving teletypewriters connected by
+wire through automatic exchanges
+
+tropospheric scatter--a form of microwave radio transmission in which
+the troposphere is used to scatter and reflect a fraction of the
+incident radio waves back to earth; powerful, highly directional
+antennas are used to transmit and receive the microwave signals;
+reliable over-the-horizon communications are realized for distances up
+to 600 miles in a single hop; additional hops can extend the range of
+this system for very long distances
+
+trunk network--a network of switching centers, connected by
+multichannel trunk lines
+
+UHF--ultra-high-frequency; any radio frequency in the 300- to
+3,000-MHz range
+
+VHF--very-high-frequency; any radio frequency in the 30- to 300-MHz
+range
+
+Telephones: This entry gives the total number of subscribers.
+
+Television broadcast stations: This entry gives the total number of
+separate broadcast stations plus any repeater stations.
+
+Televisions: This entry gives the total number of television sets.
+
+Terminology: Due to the highly structured nature of the Factbook
+database, some collective generic terms have to be used. "Country
+name" and "National capital", for example are used collectively to
+include nations, dependent areas, uninhabited islands, areas of
+special sovereignty, etc. The term "Military" is also used as an
+umbrella term for various civil defense, security, and defense
+activities.
+
+Terrain: This entry contains a brief description of the topography.
+
+Total fertility rate: This entry gives a figure for the average number
+of children that would be born per woman if all women lived to the end
+of their childbearing years and bore children according to a given
+fertility rate at each age. The total fertility rate is a more direct
+measure of the level of fertility than the crude birth rate, since it
+refers to births per woman. This indicator shows the potential for
+population growth in the country. High rates will also place some
+limits on the labor force participation rates for women. Large numbers
+of children born to women indicate large family sizes that might limit
+the capacity of the families to educate their children.
+
+Transnational Issues: This category includes only two entries at the
+present time. Disputes--international and Illicit drugs--deal with
+current issues going beyond national boundaries.
+
+Transportation: This category includes the entries dealing with the
+movement of people or material.
+
+Transportation--note: This entry includes miscellaneous transportation
+information of significance not included elsewhere.
+
+Unemployment rate: This entry contains the percent of the labor force
+that is without jobs. Substantial underemployment might be noted.
+
+United Nations System: This information is presented in Appendix B:
+United Nations System which is a chart, table, or text (depending on
+the version of the Factbook) that shows the organization of the UN in
+detail.
+
+Waterways: This entry gives the total length and individual names of
+navigable rivers, canals, and other inland bodies of water.
+
+Weights and measures: This information is presented in Appendix E:
+Weights and Measures which includes mathematical notations
+(mathematical powers and names), metric interrelationships (prefix;
+symbol; length, weight, or capacity; area; volume), and standard
+conversion factors.
+
+Years: All year references are for the calendar year (CY) unless
+indicated as fiscal year (FY). The calendar year is an accounting
+period of 12 months from 1 January to 31 December. The fiscal year is
+an accounting period of 12 months other than 1 January to 31 December.
+FY93/94 refers to the fiscal year that began in calendar year 1993 and
+ended in calendar year 1994.
+
+Note: Information for the US and US dependencies was compiled from
+material in the public domain and does not represent Intelligence
+Community estimates. The [2]Handbook of International Economic
+Statistics, published annually in September by the Central
+Intelligence Agency, contains detailed economic information for the
+Organization for Economic Cooperation and Development (OECD)
+countries, the successor nations to the Soviet Union, and selected
+other countries. The Handbook can be obtained wherever the Factbook is
+available.
+
+References
+
+1. http://www.odci.gov/cia/publications/hies97/index.htm
+2. http://www.odci.gov/cia/publications/hies97/index.htm
+
+______________________________________________________________________
+
+GUIDE TO COUNTRY PROFILES (CATEGORIES, FIELDS AND SUBFIELDS)
+
+Introduction
+
+Current issues
+Historical perspective
+
+Geography
+
+Location
+Geographic coordinates
+Map references
+Area
+total
+    land
+    water
+
+Area--comparative
+Land boundaries
+total
+    border countries
+
+Coastline
+Maritime claims
+contiguous zone
+    continental shelf
+    exclusive economic zone
+    exclusive fishing zone
+    extended fishing zone
+    other
+    territorial sea
+
+Climate
+Terrain
+Elevation extremes
+lowest point
+    highest point
+
+Natural resources
+Land use
+arable land
+    permanent crops
+    permanent pastures
+    forests and woodland
+    other
+
+Irrigated land
+Natural hazards
+Environment--current issues
+Environment--international agreements
+party to
+    signed, but not ratified
+
+Geography--note
+
+People
+
+Population
+Age structure
+0-14 years
+    15-64 years
+    65 years and over
+
+Population growth rate
+Birth rate
+Death rate
+Net migration rate
+Sex ratio
+at birthunder
+    15 years
+    15-64 years
+    65 years and over
+    total population
+
+Infant mortality rate
+Life expectancy at birth
+total population
+    male
+    female
+
+Total fertility rate
+Nationality
+noun
+    adjective
+
+Ethnic groups
+Religions
+Languages
+Literacy
+definition
+    total population
+    male
+    female
+
+Government
+
+Country name
+conventional long form
+    conventional short form
+    local long form
+    local short form
+    former
+
+Data code
+Dependency status
+Government type
+National capital
+Administrative divisions
+Dependent areas
+Independence
+National holiday
+Constitution
+Legal system
+Suffrage
+Executive branch
+chief of state
+    head of government
+    cabinet
+    elections
+    election results
+
+Legislative branch
+elections
+    election results
+
+Judicial branch
+Political parties and leaders
+Political pressure groups and leaders
+International organization participation
+Diplomatic representation in the US
+chief of mission
+    chancery
+    telephone
+    FAX
+    consulate(s) general
+    consulate(s)
+    honorary consulate(s)
+    honorary consulate(s) general
+
+Diplomatic representation from the US
+chief of mission
+    embassy
+    branch office
+    mailing address
+    telephone
+    FAX
+    consulate(s) general
+    consulate(s)
+
+Flag description
+Government--note
+
+Economy
+
+Economy--overview
+GDP
+GDP--real growth
+GDP--per capita
+GDP--composition by sector
+agriculture
+    industry
+    services
+
+Inflation rate--consumer price index
+Labor force
+total
+    by occupation
+
+Unemployment rate
+Budget
+revenues
+    expenditures
+
+Industries
+Industrial production growth rate
+Electricity--capacity
+Electricity--production
+Electricity--consumption per capita
+Agriculture--products
+Exports
+total value
+    commodities
+    partners
+
+Imports
+total value
+    commodities
+    partners
+
+Debt--external
+Economic aid
+donor
+    recipient
+
+Currency
+Exchange rates
+Fiscal year
+
+Communications
+
+Telephones
+Telephone system
+domestic
+    international
+
+Radio broadcast stations
+Radios
+Television broadcast stations
+Televisions
+Communications--note
+
+Transportation
+
+Railways
+total
+    broad gauge
+    dual gauge
+    narrow gauge
+    other gauges
+    standard gauge
+
+Highways
+total
+    paved
+    unpaved
+
+Waterways
+Pipelines
+Ports and harbors
+Merchant marine
+total
+    ships by type
+
+Airports
+Airports--with paved runways
+total
+    over 3,047m
+    2,438 to 3,047m
+    1,524 to 2,437m
+    914 to 1,523m
+    under 914m
+
+Airports--with unpaved runways
+total
+    over 3,047m
+    2,438 to 3,047m
+    1,524 to 2,437m
+    914 to 1,523m
+    under 914m
+
+Heliports
+Transportation--note
+
+Military
+
+Military branches
+Military manpower--military age
+Military manpower--availability
+males age 15-49
+    females age 15-49
+
+Military manpower--fit for military service
+males
+    females
+
+Military manpower--reaching military age annually
+males
+    females
+
+Military expenditures--dollar figure
+Military expenditures--percent of GDP
+Military--note
+
+Transnational Issues
+
+Disputes--international
+Illicit drugs
+
+______________________________________________________________________
+
+
+AFGHANISTAN
+
+@Afghanistan:Geography
+
+Location: Southern Asia, north and west of Pakistan, east of Iran
+
+Geographic coordinates: 33 00 N, 65 00 E
+
+Map references: Asia
+
+Area:
+total: 647,500 sq km
+land: 647,500 sq km
+water: 0 sq km
+
+Area - comparative: slightly smaller than Texas
+
+Land boundaries:
+total: 5,529 km
+border countries: China 76 km, Iran 936 km, Pakistan 2,430 km,
+Tajikistan 1,206 km, Turkmenistan 744 km, Uzbekistan 137 km
+
+Coastline: 0 km (landlocked)
+
+Maritime claims: none (landlocked)
+
+Climate: arid to semiarid; cold winters and hot summers
+
+Terrain: mostly rugged mountains; plains in north and southwest
+
+Elevation extremes:
+lowest point: Amu Darya 258 m
+highest point: Nowshak 7,485 m
+
+Natural resources: natural gas, petroleum, coal, copper, talc,
+barites, sulfur, lead, zinc, iron ore, salt, precious and semiprecious
+stones
+
+Land use:
+arable land: 12%
+permanent crops : 0%
+permanent pastures: 46%
+forests and woodland: 3%
+other: 39% (1993 est.)
+
+Irrigated land: 30,000 sq km (1993 est.)
+
+Natural hazards: damaging earthquakes occur in Hindu Kush mountains;
+flooding
+
+Environment - current issues: soil degradation; overgrazing;
+deforestation (much of the remaining forests are being cut down for
+fuel and building materials); desertification
+
+Environment - international agreements:
+party to : Desertification, Endangered Species, Environmental
+Modification, Marine Dumping, Nuclear Test Ban
+signed, but not ratified: Biodiversity, Climate Change, Hazardous
+Wastes, Law of the Sea, Marine Life Conservation
+
+Geography - note: landlocked
+
+@Afghanistan:People
+
+Population: 23,738,085 (July 1997 est.)
+
+Age structure:
+0-14 years: 43% (male 5,201,585; female 5,003,503)
+15-64 years: 54% (male 6,680,687; female 6,208,463)
+65 years and over : 3% (male 341,301; female 302,546) (July 1997 est.)
+
+Population growth rate: 4.48% (1997 est.)
+note: this rate reflects the continued return of refugees
+
+Birth rate: 42.72 births/1,000 population (1997 est.)
+
+Death rate: 17.78 deaths/1,000 population (1997 est.)
+
+Net migration rate: 19.9 migrant(s)/1,000 population (1997 est.)
+
+Sex ratio:
+at birth: 1.05 male(s)/female
+under 15 years : 1.04 male(s)/female
+15-64 years: 1.08 male(s)/female
+65 years and over: 1.13 male(s)/female
+total population: 1.06 male(s)/female (1997 est.)
+
+Infant mortality rate: 146.7 deaths/1,000 live births (1997 est.)
+
+Life expectancy at birth:
+total population : 46.34 years
+male: 46.89 years
+female: 45.76 years (1997 est.)
+
+Total fertility rate: 6.07 children born/woman (1997 est.)
+
+Nationality:
+noun: Afghan(s)
+adjective: Afghan
+
+Ethnic groups: Pashtun 38%, Tajik 25%, Uzbek 6%, Hazara 19%, minor
+ethnic groups (Aimaks, Turkmen, Baloch, and others)
+
+Religions: Sunni Muslim 84%, Shi'a Muslim 15%, other 1%
+
+Languages: Pashtu 35%, Afghan Persian (Dari) 50%, Turkic languages
+(primarily Uzbek and Turkmen) 11%, 30 minor languages (primarily
+Balochi and Pashai) 4%, much bilingualism
+
+Literacy:
+definition: age 15 and over can read and write
+total population: 31.5%
+male : 47.2%
+female: 15% (1995 est.)
+
+@Afghanistan:Government
+
+Country name:
+conventional long form: Islamic State of Afghanistan
+conventional short form: Afghanistan
+local long form : Dowlat-e Eslami-ye Afghanestan
+local short form: Afghanestan
+former: Republic of Afghanistan
+
+Data code: AF
+
+Government type: transitional government
+
+National capital: Kabul
+
+Administrative divisions: 30 provinces (velayat, singular - velayat);
+Badakhshan, Badghis, Baghlan, Balkh, Bamian, Farah, Faryab, Ghazni,
+Ghowr, Helmand, Herat, Jowzjan, Kabol, Kandahar, Kapisa, Konar,
+Kondoz, Laghman, Lowgar, Nangarhar, Nimruz, Oruzgan, Paktia, Paktika,
+Parvan, Samangan, Sar-e Pol, Takhar, Vardak, Zabol
+note : there may be two new provinces of Nurestan (Nuristan) and
+Khowst
+
+Independence: 19 August 1919 (from UK control over Afghan foreign
+affairs)
+
+National holiday: Victory of the Muslim Nation, 28 April; Remembrance
+Day for Martyrs and Disabled, 4 May; Independence Day, 19 August
+
+Constitution: none
+
+Legal system: a new legal system has not been adopted but all factions
+tacitly agree they will follow Islamic law (Shari'a)
+
+Suffrage: undetermined; previously males 15-50 years of age
+
+Executive branch: on 27 September 1996, the ruling members of the
+Afghan Government were displaced by members of the Islamic Taliban
+movement; the Islamic State of Afghanistan has no functioning
+government at this time, and the country remains divided among
+fighting factions
+note: the Taliban have declared themselves the legitimate government
+of Afghanistan; the UN has deferred a decision on credentials and the
+Organization of the Islamic Conference has left the Afghan seat vacant
+until the question of legitimacy can be resolved through negotiations
+among the warring factions; the country is essentially divided along
+ethnic lines; the Taliban controls the capital of Kabul and
+approximately two-thirds of the country including the predominately
+
+Back to Full Books

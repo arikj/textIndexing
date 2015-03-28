@@ -1,0 +1,2004 @@
+The 1997 CIA World Factbook
+
+Industrial production growth rate: NA%
+
+Electricity - capacity: NA kW
+
+Electricity - production: NA kWh
+
+Electricity - consumption per capita: NA kWh
+
+Agriculture - products: coconuts, fruits, vegetables; cattle
+
+Exports: NA
+commodities: garments
+partners : NA
+
+Imports: NA
+commodities: food, construction equipment and materials, petroleum
+products
+partners : US, Japan
+
+Debt - external: $NA
+
+Economic aid: none
+
+Currency: 1 United States dollar (US$) = 100 cents
+
+Exchange rates: US currency is used
+
+Fiscal year: 1 October - 30 September
+
+@Northern Mariana Islands:Communications
+
+Telephones: 13,618 (1993 est.)
+
+Telephone system:
+domestic : NA
+international: satellite earth stations - 2 Intelsat (Pacific Ocean)
+
+Radio broadcast stations: AM 2, FM 3
+
+Radios: 15,350 (1987 est.)
+
+Television broadcast stations: none
+note: there are 2 cable TV stations
+
+Televisions: 10,650 (1993 est.)
+
+@Northern Mariana Islands:Transportation
+
+Railways: 0 km
+
+Highways:
+total : 362 km (1991 est.)
+paved: NA km
+unpaved: NA km
+
+Waterways: none
+
+Ports and harbors: Saipan, Tinian
+
+Merchant marine: none
+
+Airports: 5 (1996 est.)
+
+Airports - with paved runways:
+total: 4
+2,438 to 3,047 m: 1
+1,524 to 2,437 m: 2
+under 914 m: 1 (1996 est.)
+
+Airports - with unpaved runways:
+total: 1
+2,438 to 3,047 m : 1 (1996 est.)
+
+Heliports: 1 (1996 est.)
+
+Military
+
+Military - note: defense is the responsibility of the US
+
+Transnational Issues
+
+Disputes - international: none
+______________________________________________________________________
+
+NORWAY
+
+@Norway:Geography
+
+Location: Northern Europe, bordering the North Sea and the North
+Atlantic Ocean, west of Sweden
+
+Geographic coordinates: 62 00 N, 10 00 E
+
+Map references: Europe
+
+Area:
+total: 324,220 sq km
+land: 307,860 sq km
+water: 16,360 sq km
+
+Area - comparative: slightly larger than New Mexico
+
+Land boundaries:
+total: 2,515 km
+border countries: Finland 729 km, Sweden 1,619 km, Russia 167 km
+
+Coastline: 21,925 km (includes mainland 3,419 km, large islands 2,413
+km, long fjords, numerous small islands, and minor indentations 16,093
+km)
+
+Maritime claims:
+contiguous zone: 10 nm
+continental shelf: 200 nm
+exclusive economic zone : 200 nm
+territorial sea: 4 nm
+
+Climate: temperate along coast, modified by North Atlantic Current;
+colder interior; rainy year-round on west coast
+
+Terrain: glaciated; mostly high plateaus and rugged mountains broken
+by fertile valleys; small, scattered plains; coastline deeply indented
+by fjords; arctic tundra in north
+
+Elevation extremes:
+lowest point: Norwegian Sea 0 m
+highest point: Glittertinden 2,472 m
+
+Natural resources: petroleum, copper, natural gas, pyrites, nickel,
+iron ore, zinc, lead, fish, timber, hydropower
+
+Land use:
+arable land: 3%
+permanent crops: NA%
+permanent pastures : 0%
+forests and woodland: 27%
+other: 70% (1993 est.)
+
+Irrigated land: 970 sq km (1993 est.)
+
+Natural hazards: NA
+
+Environment - current issues: water pollution; acid rain damaging
+forests and adversely affecting lakes, threatening fish stocks; air
+pollution from vehicle emissions
+
+Environment - international agreements:
+party to: Air Pollution, Air Pollution-Nitrogen Oxides, Air
+Pollution-Sulphur 85, Air Pollution-Sulphur 94, Air Pollution-Volatile
+Organic Compounds, Antarctic-Environmental Protocol, Antarctic Treaty,
+Biodiversity, Climate Change, Desertification, Endangered Species,
+Environmental Modification, Hazardous Wastes, Law of the Sea, Marine
+Dumping, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution,
+Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling
+signed, but not ratified: none of the selected agreements
+
+Geography - note: about two-thirds mountains; some 50,000 islands off
+its much indented coastline; strategic location adjacent to sea lanes
+and air routes in North Atlantic; one of most rugged and longest
+coastlines in world; Norway and Turkey only NATO members having a land
+boundary with Russia
+
+@Norway:People
+
+Population: 4,399,993 (July 1997 est.)
+
+Age structure:
+0-14 years: 19% (male 440,621; female 417,331)
+15-64 years : 65% (male 1,446,739; female 1,399,291)
+65 years and over: 16% (male 289,426; female 406,585) (July 1997 est.)
+
+Population growth rate: 0.47% (1997 est.)
+
+Birth rate: 13.25 births/1,000 population (1997 est.)
+
+Death rate: 10.22 deaths/1,000 population (1997 est.)
+
+Net migration rate: 1.66 migrant(s)/1,000 population (1997 est.)
+
+Sex ratio:
+at birth : 1.06 male(s)/female
+under 15 years: 1.06 male(s)/female
+15-64 years : 1.03 male(s)/female
+65 years and over: 0.71 male(s)/female
+total population: 0.98 male(s)/female (1997 est.)
+
+Infant mortality rate: 5.1 deaths/1,000 live births (1997 est.)
+
+Life expectancy at birth:
+total population: 78.09 years
+male: 75.29 years
+female: 81.07 years (1997 est.)
+
+Total fertility rate: 1.83 children born/woman (1997 est.)
+
+Nationality:
+noun: Norwegian(s)
+adjective: Norwegian
+
+Ethnic groups: Germanic (Nordic, Alpine, Baltic), Lapps (Sami) 20,000
+
+Religions: Evangelical Lutheran 87.8% (state church), other Protestant
+and Roman Catholic 3.8%, none 3.2%, unknown 5.2% (1980)
+
+Languages: Norwegian (official)
+note: small Lapp- and Finnish-speaking minorities
+
+Literacy:
+definition : age 15 and over can read and write
+total population: 99% (1976 est.)
+male: NA%
+female: NA%
+
+@Norway:Government
+
+Country name:
+conventional long form : Kingdom of Norway
+conventional short form: Norway
+local long form: Kongeriket Norge
+local short form: Norge
+
+Data code: NO
+
+Government type: constitutional monarchy
+
+National capital: Oslo
+
+Administrative divisions: 19 provinces (fylker, singular - fylke);
+Akershus, Aust-Agder, Buskerud, Finnmark, Hedmark, Hordaland, More og
+Romsdal, Nordland, Nord-Trondelag, Oppland, Oslo, Ostfold, Rogaland,
+Sogn og Fjordane, Sor-Trondelag, Telemark, Troms, Vest-Agder, Vestfold
+
+Dependent areas: Bouvet Island, Jan Mayen, Svalbard
+
+Independence: 26 October 1905 (from Sweden)
+
+National holiday: Constitution Day, 17 May (1814)
+
+Constitution: 17 May 1814, modified in 1884
+
+Legal system: mixture of customary law, civil law system, and common
+law traditions; Supreme Court renders advisory opinions to legislature
+when asked; accepts compulsory ICJ jurisdiction, with reservations
+
+Suffrage: 18 years of age; universal
+
+Executive branch:
+chief of state : King HARALD V (since 17 January 1991); Heir Apparent
+Crown Prince HAAKON MAGNUS (born 20 July 1973)
+head of government: Prime Minister Thorbjoern JAGLAND (since 25
+October 1996)
+cabinet: State Council appointed by the king with the approval of the
+Parliament
+elections: none; the king is a hereditary monarch; following
+parliamentary elections, the leader of the majority party or leader of
+a majority coalition is usually appointed prime minister by the king
+with the approval of the Parliament
+
+Legislative branch: modified unicameral Parliament or Storting which,
+for certain purposes, divides itself into two chambers (165 seats;
+members are elected by popular vote by proportional representation to
+serve four-year terms)
+elections: last held 13 September 1993 (next to be held NA September
+1997)
+election results : percent of vote by party - Labor 37.1%, Center
+Party 18.5%, Conservatives 15.6%, Christian People's 8.4%, Socialist
+Left 7.9%, Progress 6%, Left Party 3.6%, Red Electoral Alliance 1.2%;
+seats by party - Labor 67, Center Party 32, Conservatives 18,
+Christian People's 13, Socialist Left 13, Progress 10, Left Party 1,
+Red Electoral Alliance 1, unawarded 10
+note : for certain purposes, the Parliament divides itself into two
+chambers and elects one-fourth of its membership to an upper house or
+Lagting
+
+Judicial branch: Supreme Court or Hoyesterett, justices appointed by
+the king
+
+Political parties and leaders: Labor Party [Thorbjorn JAGLAND];
+Conservative Party [Jan PETERSEN]; Center Party [Anne ENGER
+LAHNSTEIN]; Christian People's Party [Valgerd HAUGLAND]; Socialist
+Left [Erik SOLHEIM]; Norwegian Communist [Kare Andre NILSEN]; Progress
+Party [Carl I. HAGEN]; Liberal [Odd Einar DORUM]; Left Party; Red
+Electoral Alliance [Erling FOLKVORD]
+
+International organization participation: AfDB, AsDB, Australia Group,
+BIS, CBSS, CCC, CE, CERN, EBRD, ECE, EFTA, ESA, FAO, IADB, IAEA, IBRD,
+ICAO, ICC, ICFTU, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF,
+IMO, Inmarsat, Intelsat, Interpol, IOC, IOM, ISO, ITU, MINURSO, MTCR,
+NACC, NAM (guest), NATO, NC, NEA, NIB, NSG, OECD, OSCE, PCA, UN,
+UNAVEM III, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMOP, UNPREDEP,
+UNTAES, UNTSO, UPU, WEU (associate), WHO, WIPO, WMO, WTrO, ZC
+
+Diplomatic representation in the US:
+chief of mission: Ambassador Tom-Erik VRAALSON
+chancery : 2720 34th Street NW, Washington, DC 20008
+telephone: [1] (202) 333-6000
+FAX: [1] (202) 337-0870
+consulate(s) general: Houston, Minneapolis, New York, and San
+Francisco
+consulate(s): Miami
+
+Diplomatic representation from the US:
+chief of mission : Ambassador Thomas A. LOFTUS
+embassy: Drammensveien 18, 0244 Oslo
+mailing address: PSC 69, Box 1000, APO AE 09707
+telephone: [47] 22 44 85 50
+FAX : [47] 22 44 33 63
+
+Flag description: red with a blue cross outlined in white that extends
+to the edges of the flag; the vertical part of the cross is shifted to
+the hoist side in the style of the Dannebrog (Danish flag)
+
+Economy
+
+Economy - overview: Norway is a prosperous bastion of welfare
+capitalism. The economy consists of a combination of free market
+activity and government intervention. The government controls key
+areas, such as the vital petroleum sector (through large-scale state
+enterprises), and extensively subsidizes agriculture, fishing, and
+areas with sparse resources. Norway maintains an extensive welfare
+system that helps propel public sector expenditures to more than 50%
+of GDP and results in one of the highest average tax levels in the
+world (46%). A small country with a high dependence on international
+trade, Norway is basically an exporter of raw materials and
+semiprocessed goods, with an abundance of small- and medium-sized
+firms, and is ranked among the major shipping nations. The country is
+richly endowed with natural resources - petroleum, hydropower, fish,
+forests, and minerals - and is highly dependent on its oil sector.
+Only Saudi Arabia exports more oil than Norway. Norway imports more
+than half its food needs. Economic growth, only 1.6% in 1993, has
+improved steadily over the past few years, resulting in a budget
+surplus in 1996. Oslo opted to stay out of the EU during a referendum
+in November 1994. Despite their high per capita income - outstripped
+among major nations only by the US - and their generous welfare
+benefits, the Norwegians worry about that time in the 21st century
+when the oil and gas run out.
+
+GDP: purchasing power parity - $114.1 billion (1996 est.)
+
+GDP - real growth rate: 4.8% (1996 est.)
+
+GDP - per capita: purchasing power parity - $26,200 (1996 est.)
+
+GDP - composition by sector:
+agriculture: 2.9%
+industry: 34.7%
+services : 62.4% (1991)
+
+Inflation rate - consumer price index: 1.2% (1996 est.)
+
+Labor force:
+total: 2.13 million
+by occupation: services 71%, industry 23%, agriculture, forestry, and
+fishing 6% (1993)
+
+Unemployment rate: 4.5% (1996 est.)
+
+Budget:
+revenues: $48.6 billion
+expenditures: $53 billion, including capital expenditures of $NA (1994
+est.)
+
+Industries: petroleum and gas, food processing, shipbuilding, pulp and
+paper products, metals, chemicals, timber, mining, textiles, fishing
+
+Industrial production growth rate: 3% (1996 est.)
+
+Electricity - capacity: 26.43 million kW (1994)
+
+Electricity - production: 123.2 billion kWh (1995)
+
+Electricity - consumption per capita: 24,586 kWh (1995 est.)
+
+Agriculture - products: oats, other grains; beef, milk; livestock
+output exceeds value of crops; among world's top 10 fishing nations;
+fish catch of 2.33 million metric tons in 1994
+
+Exports:
+total value: $41.7 billion (f.o.b., 1995)
+commodities: petroleum and petroleum products 43%, metals and products
+11%, foodstuffs (mostly fish) 9%, chemicals and raw materials 25%,
+natural gas 6.0%, ships 5.4%
+partners: EU 77.2% (UK 19.8%, Germany 12.7%, Netherlands 9.1%, France
+7.8%, Sweden 9.8%), US 6.0% (1995)
+
+Imports:
+total value : $32.7 billion (c.i.f., 1995)
+commodities: machinery and equipment and manufactured consumer goods
+54%, chemicals and other industrial inputs 39%, foodstuffs 6%
+partners: EU 71.0% (Sweden 15.4%, Germany 13.8%, UK 9.7%, Denmark
+7.5%, Netherlands 4.4%), US 6.6% (1995)
+
+Debt - external: $NA
+
+Economic aid:
+donor: ODA, $1.014 billion (1993)
+
+Currency: 1 Norwegian krone (NKr) = 100 oere
+
+Exchange rates: Norwegian kroner (NKr) per US$1 - 6.4475 (January
+1997), 6.4498 (1996), 6.3352 (1995), 7.0576 (1994), 7.0941 (1993),
+6.2145 (1992)
+
+Fiscal year: calendar year
+
+@Norway:Communications
+
+Telephones: 2.39 million (1994 est.); 470,000 mobile phones in use in
+1994
+
+Telephone system: high-quality domestic and international telephone,
+telegraph, and telex services
+domestic: NA domestic satellite earth stations
+international: 2 buried coaxial cable systems; 4 coaxial submarine
+cables; satellite earth stations - NA Eutelsat, NA Intelsat (Atlantic
+Ocean), and 1 Inmarsat (Atlantic and Indian Ocean Regions); note -
+Norway shares the Inmarsat earth station with the other Nordic
+countries (Denmark, Finland, Iceland, and Sweden)
+
+Radio broadcast stations: AM 46, FM 493 (350 private and 143
+government), shortwave 0
+
+Radios: 3.3 million (1993 est.)
+
+Television broadcast stations: 54 (repeaters 2,100)
+
+Televisions: 1.5 million (1993 est.)
+
+@Norway:Transportation
+
+Railways:
+total: 4,027 km
+standard gauge: 4,027 km 1.435-m gauge (2422 km electrified; 96 km
+double track) (1995)
+
+Highways:
+total: 90,261 km
+paved : 66,342 km (including 105 km of expressways)
+unpaved: 23,919 km (1995)
+
+Waterways: 1,577 km along west coast; 2.4 m draft vessels maximum
+
+Pipelines: refined products 53 km
+
+Ports and harbors: Bergen, Drammen, Floro, Hammerfest, Harstad,
+Haugesund, Kristiansand, Larvik, Narvik, Oslo, Porsgrunn, Stavanger,
+Tromso, Trondheim
+
+Merchant marine:
+total : 718 ships (1,000 GRT or over) totaling 19,401,580
+GRT/31,740,273 DWT
+ships by type: bulk 102, cargo 106, chemical tanker 83, combination
+bulk 9, combination ore/oil 33, container 16, liquefied gas tanker 87,
+multi-function large load carrier 1, oil tanker 148, passenger 14,
+passenger-cargo 1, railcar carrier 1, refrigerated cargo 10,
+roll-on/roll-off cargo 49, short-sea passenger 24, vehicle carrier 34
+note: the government has created an internal register, the Norwegian
+International Ship register (NIS), as a subset of the Norwegian
+register; ships on the NIS enjoy many benefits of flags of convenience
+and do not have to be crewed by Norwegians (1996 est.)
+
+Airports: 102 (1996 est.)
+
+Airports - with paved runways:
+total: 97
+over 3,047 m : 1
+2,438 to 3,047 m: 11
+1,524 to 2,437 m: 14
+914 to 1,523 m: 12
+under 914 m: 59 (1996 est.)
+
+Airports - with unpaved runways:
+total : 5
+914 to 1,523 m: 5 (1996 est.)
+
+Heliports: 1 (1996 est.)
+
+Military
+
+Military branches: Norwegian Army, Royal Norwegian Navy (includes
+Coast Artillery and Coast Guard), Royal Norwegian Air Force, Home
+Guard
+
+Military manpower - military age: 20 years of age
+
+Military manpower - availability:
+males age 15-49: 1,112,390 (1997 est.)
+
+Military manpower - fit for military service:
+males : 925,780 (1997 est.)
+
+Military manpower - reaching military age annually:
+males: 27,382 (1997 est.)
+
+Military expenditures - dollar figure: $3.7 billion (1995)
+
+Military expenditures - percent of GDP: 2.9% (1995)
+
+Transnational Issues
+
+Disputes - international: territorial claim in Antarctica (Queen Maud
+Land); Svalbard is the focus of a maritime boundary dispute in the
+Barents Sea between Norway and Russia
+
+Illicit drugs: minor transshipment point for drugs shipped via the CIS
+and Baltic states for the European market; increasing domestic
+consumption of cannabis and amphetamines
+______________________________________________________________________
+
+OMAN
+
+@Oman:Geography
+
+Location: Middle East, bordering the Arabian Sea, Gulf of Oman, and
+Persian Gulf, between Yemen and UAE
+
+Geographic coordinates: 21 00 N, 57 00 E
+
+Map references: Middle East
+
+Area:
+total: 212,460 sq km
+land: 212,460 sq km
+water : 0 sq km
+
+Area - comparative: slightly smaller than Kansas
+
+Land boundaries:
+total: 1,374 km
+border countries: Saudi Arabia 676 km, UAE 410 km, Yemen 288 km
+
+Coastline: 2,092 km
+
+Maritime claims:
+contiguous zone: 24 nm
+exclusive economic zone : 200 nm
+territorial sea: 12 nm
+
+Climate: dry desert; hot, humid along coast; hot, dry interior; strong
+southwest summer monsoon (May to September) in far south
+
+Terrain: vast central desert plain, rugged mountains in north and
+south
+
+Elevation extremes:
+lowest point: Arabian Sea 0 m
+highest point: Jabal ash Sham 2,980 m
+
+Natural resources: petroleum, copper, asbestos, some marble,
+limestone, chromium, gypsum, natural gas
+
+Land use:
+arable land : 0%
+permanent crops: 0%
+permanent pastures: 5%
+forests and woodland: NA%
+other: 95% (1993 est.)
+
+Irrigated land: 580 sq km (1993 est.)
+
+Natural hazards: summer winds often raise large sandstorms and dust
+storms in interior; periodic droughts
+
+Environment - current issues: rising soil salinity; beach pollution
+from oil spills; very limited natural fresh water resources
+
+Environment - international agreements:
+party to: Biodiversity, Climate Change, Desertification, Hazardous
+Wastes, Law of the Sea, Marine Dumping, Ship Pollution
+signed, but not ratified: none of the selected agreements
+
+Geography - note: strategic location with small foothold on Musandam
+Peninsula controlling Strait of Hormuz, a vital transit point for
+world crude oil
+
+@Oman:People
+
+Population: 2,264,590 (July 1997 est.)
+
+Age structure:
+0-14 years: 46% (male 527,091; female 507,849)
+15-64 years: 51% (male 632,647; female 535,149)
+65 years and over: 3% (male 27,974; female 33,880) (July 1997 est.)
+
+Population growth rate: 3.49% (1997 est.)
+
+Birth rate: 37.85 births/1,000 population (1997 est.)
+
+Death rate: 4.39 deaths/1,000 population (1997 est.)
+
+Net migration rate: 1.42 migrant(s)/1,000 population (1997 est.)
+
+Sex ratio:
+at birth: 1.05 male(s)/female
+under 15 years: 1.04 male(s)/female
+15-64 years: 1.18 male(s)/female
+65 years and over: 0.83 male(s)/female
+total population: 1.1 male(s)/female (1997 est.)
+
+Infant mortality rate: 26.4 deaths/1,000 live births (1997 est.)
+
+Life expectancy at birth:
+total population: 70.8 years
+male : 68.84 years
+female: 72.85 years (1997 est.)
+
+Total fertility rate: 6.02 children born/woman (1997 est.)
+
+Nationality:
+noun : Omani(s)
+adjective: Omani
+
+Ethnic groups: Arab, Baluchi, South Asian (Indian, Pakistani, Sri
+Lankan, Bangladeshi), African
+
+Religions: Ibadhi Muslim 75%, Sunni Muslim, Shi'a Muslim, Hindu
+
+Languages: Arabic (official), English, Baluchi, Urdu, Indian dialects
+
+Literacy:
+definition: NA
+total population: approaching 80%
+male : NA%
+female: NA%
+
+@Oman:Government
+
+Country name:
+conventional long form: Sultanate of Oman
+conventional short form : Oman
+local long form: Saltanat Uman
+local short form: Uman
+
+Data code: MU
+
+Government type: monarchy
+
+National capital: Muscat
+
+Administrative divisions: 6 regions (mintaqah, singular - mintaqat)
+and 2 governorates* (muhafazah, singular - muhafazat) Ad Dakhiliyah,
+Al Batinah, Al Wusta, Ash Sharqiyah, Az Zahirah, Masqat, Musandam*,
+Zufar*
+
+Independence: 1650 (expulsion of the Portuguese)
+
+National holiday: National Day, 18 November (1940)
+
+Constitution: none; note - on 6 November 1996, Sultan QABOOS issued a
+royal decree promulgating a new basic law which, among other things,
+clarifies the royal succession, provides for a prime minister, bars
+ministers from holding interests in companies doing business with the
+government, establishes a bicameral Omani council, and guarantees
+basic civil liberties for Omani citizens
+
+Legal system: based on English common law and Islamic law; ultimate
+appeal to the sultan; has not accepted compulsory ICJ jurisdiction
+
+Suffrage: none
+
+Executive branch:
+chief of state: Sultan and Prime Minister QABOOS bin Said Al Said
+(since 23 July 1970); note - the sultan is both the chief of state and
+head of government
+head of government : Sultan and Prime Minister QABOOS bin Said Al Said
+(since 23 July 1970); note - the sultan is both the chief of state and
+head of government
+cabinet : Cabinet appointed by the sultan
+elections: none; the sultan is a hereditary monarch
+
+Legislative branch: unicameral Consultative Council or Majlis
+ash-Shura (80 members; two appointed from each wilayat with a
+population over 30,000, one appointed from each of the other wilayats;
+members serve four-year terms; has advisory powers only)
+note: new basic law to be implemented in 1997, provides for an upper
+chamber - the Majlis ad-Dawla or State Council; also the Majlis
+ash-Shura will be expanded to 110 members; the resulting bicameral
+legislature will be known as the Omani Council
+
+Judicial branch: none; traditional Islamic judges and a nascent civil
+court system, administered by region
+
+Political parties and leaders: none
+
+Political pressure groups and leaders: NA
+
+International organization participation: ABEDA, AFESD, AL, AMF,
+ESCWA, FAO, G-77, GCC, IBRD, ICAO, IDA, IDB, IFAD, IFC, IHO, ILO, IMF,
+IMO, Inmarsat, Intelsat, Interpol, IOC, ISO (correspondent), ITU, NAM,
+OIC, UN, UNCTAD, UNESCO, UNIDO, UPU, WFTU, WHO, WMO, WTrO (applicant)
+
+Diplomatic representation in the US:
+chief of mission: Ambassador Abdallah bin Muhammad bin Aqil al-DHAHAB
+chancery: 2535 Belmont Road, NW, Washington, DC 20008
+telephone: [1] (202) 387-1980 through 1982
+FAX : [1] (202) 745-4933
+
+Diplomatic representation from the US:
+chief of mission: Ambassador Frances D. COOK
+embassy: Jameat A'Duwal Al Arabiya Street, Al Khuwair area, Muscat
+mailing address: domestic - Unit 73000, Box 1, APO AE 09890-3000;
+international - P. O. Box 202, Code No. 115, Medinat Qaboos, Muscat
+telephone: [968] 698989 (Medinat Qaboos, switchboard)
+FAX: [968] 699779
+
+Flag description: three horizontal bands of white, red, and green of
+equal width with a broad, vertical, red band on the hoist side; the
+national emblem (a khanjar dagger in its sheath superimposed on two
+crossed swords in scabbards) in white is centered at the top of the
+vertical band
+
+Economy
+
+Economy - overview: Economic performance is closely tied to the
+fortunes of the oil industry. Petroleum accounts for 75% of export
+earnings and government revenues and for roughly 40% of GDP. Oman has
+proved oil reserves of 4 billion barrels, equivalent to about 20
+years' supply at the current rate of extraction. Agriculture is
+carried on at a subsistence level and the general population depends
+on imported food. The year 1996 was marked by higher oil production
+and prices. The government is encouraging private investment, both
+domestic and foreign, as a prime force for further economic
+development.
+
+GDP: purchasing power parity - $20.8 billion (1996 est.)
+
+GDP - real growth rate: 6.5% (1996 est.)
+
+GDP - per capita: purchasing power parity - $9,500 (1996 est.)
+
+GDP - composition by sector:
+agriculture : 3%
+industry: 55%
+services : 42% (1994 est.)
+
+Inflation rate - consumer price index: 0.5% (1996 est.)
+
+Labor force:
+total: 454,000
+by occupation: agriculture 37% (1993 est.)
+
+Unemployment rate: NA%
+
+Budget:
+revenues : $5.3 billion
+expenditures: $6 billion, including capital expenditures of $NA (1997
+est.)
+
+Industries: crude oil production and refining, natural gas production,
+construction, cement, copper
+
+Industrial production growth rate: 3% (1994 est.)
+
+Electricity - capacity: 1.74 million kW (1994)
+
+Electricity - production: 7.39 billion kWh (1994)
+
+Electricity - consumption per capita: 3,412 kWh (1995 est.)
+
+Agriculture - products: dates, limes, bananas, alfalfa, vegetables;
+camels, cattle; annual fish catch averages 100,000 metric tons
+
+Exports:
+total value: $7.2 billion (f.o.b., 1996 est.)
+commodities: petroleum 75%, reexports, fish, processed copper,
+textiles
+partners: Japan 32%, South Korea 16%, Thailand 12%, China 8%, US 6%,
+Taiwan 6% (1995)
+
+Imports:
+total value: $5.5 billion (c.i.f., 1996 est.)
+commodities: machinery, transportation equipment, manufactured goods,
+food, livestock, lubricants
+partners : UAE 25% (largely reexports), UK 16%, Japan 16%, France 11%,
+US 5% (1995)
+
+Debt - external: $2.7 billion (1995 est.)
+
+Economic aid:
+recipient : ODA, $82 million (1993)
+
+Currency: 1 Omani rial (RO) = 1,000 baiza
+
+Exchange rates: Omani rials (RO) per US$1 - 0.3845 (fixed rate since
+1986)
+
+Fiscal year: calendar year
+
+@Oman:Communications
+
+Telephones: 150,000 (1994 est.)
+
+Telephone system: modern system consisting of open wire, microwave,
+and radiotelephone communication stations; limited coaxial cable
+domestic: open wire, microwave, radiotelephone communications, and a
+domestic satellite system with 8 earth stations
+international : satellite earth stations - 2 Intelsat (Indian Ocean)
+and 1 Arabsat
+
+Radio broadcast stations: AM 2, FM 4, shortwave 1
+
+Radios: 1.043 million (1992 est.)
+
+Television broadcast stations: 9
+
+Televisions: 1.195 million (1992 est.)
+
+@Oman:Transportation
+
+Railways: 0 km
+
+Highways:
+total: 5,000 km
+paved: 3,500 km (including 426 km of expressways)
+unpaved: 1,500 km (1983 est.)
+
+Pipelines: crude oil 1,300 km; natural gas 1,030 km
+
+Ports and harbors: Matrah, Mina' al Fahl, Mina' Raysut
+
+Merchant marine:
+total: 3 ships (1,000 GRT or over) totaling 16,306 GRT/8,210 DWT
+ships by type: cargo 1, passenger 1, passenger-cargo 1 (1996 est.)
+
+Airports: 126 (1996 est.)
+
+Airports - with paved runways:
+total: 38
+over 3,047 m: 4
+1,524 to 2,437 m: 1
+914 to 1,523 m: 1
+under 914 m: 32 (1996 est.)
+
+Airports - with unpaved runways:
+total: 88
+over 3,047 m : 3
+2,438 to 3,047 m: 3
+1,524 to 2,437 m : 57
+914 to 1,523 m: 25 (1996 est.)
+
+Heliports: 1 (1996 est.)
+
+Military
+
+Military branches: Army, Navy, Air Force, paramilitary (includes Royal
+Oman Police)
+
+Military manpower - military age: 14 years of age
+
+Military manpower - availability:
+males age 15-49: 550,421 (1997 est.)
+
+Military manpower - fit for military service:
+males : 312,205 (1997 est.)
+
+Military expenditures - dollar figure: $1.82 billion (1996)
+
+Military expenditures - percent of GDP: 13.7% (1996)
+
+Transnational Issues
+
+Disputes - international: no defined boundary with most of UAE, but
+Administrative Line in far north
+______________________________________________________________________
+
+PACIFIC OCEAN
+[Map of Pacific Ocean]
+
+@Pacific Ocean:Geography
+
+Location: body of water between Antarctica, Asia, Australia, and the
+Western Hemisphere
+
+Geographic coordinates: 0 00 N, 160 00 W
+
+Map references: World
+
+Area:
+total: 165.384 million sq km
+note: includes Bali Sea, Bellingshausen Sea, Bering Sea, Bering
+Strait, Coral Sea, East China Sea, Flores Sea, Gulf of Alaska, Gulf of
+Tonkin, Java Sea, Philippine Sea, Ross Sea, Savu Sea, Sea of Japan,
+Sea of Okhotsk, South China Sea, Tasman Sea, Timor Sea, and other
+tributary water bodies
+
+Area - comparative: about 18 times the size of the US; the largest
+ocean (followed by the Atlantic Ocean, the Indian Ocean, and the
+Arctic Ocean); covers about one-third of the global surface; larger
+than the total land area of the world
+
+Coastline: 135,663 km
+
+Climate: planetary air pressure systems and resultant wind patterns
+exhibit remarkable uniformity in the south and east; trade winds and
+westerly winds are well-developed patterns, modified by seasonal
+fluctuations; tropical cyclones (hurricanes) may form south of Mexico
+from June to October and affect Mexico and Central America;
+continental influences cause climatic uniformity to be much less
+pronounced in the eastern and western regions at the same latitude in
+the North Pacific Ocean; the western Pacific is monsoonal - a rainy
+season occurs during the summer months, when moisture-laden winds blow
+from the ocean over the land, and a dry season during the winter
+months, when dry winds blow from the Asian land mass back to the
+ocean; tropical cyclones (typhoons) may strike southeast and East Asia
+from May to December
+
+Terrain: surface currents in the northern Pacific are dominated by a
+clockwise, warm-water gyre (broad circular system of currents) and in
+the southern Pacific by a counterclockwise, cool-water gyre; in the
+northern Pacific, sea ice forms in the Bering Sea and Sea of Okhotsk
+in winter; in the southern Pacific, sea ice from Antarctica reaches
+its northernmost extent in October; the ocean floor in the eastern
+Pacific is dominated by the East Pacific Rise, while the western
+Pacific is dissected by deep trenches, including the Marianas Trench,
+which is the world's deepest
+
+Elevation extremes:
+lowest point: Marianas Trench -10,924 m
+highest point: sea level 0 m
+
+Natural resources: oil and gas fields, polymetallic nodules, sand and
+gravel aggregates, placer deposits, fish
+
+Natural hazards: surrounded by a zone of violent volcanic and
+earthquake activity sometimes referred to as the "Pacific Ring of
+Fire"; subject to tropical cyclones (typhoons) in southeast and east
+Asia from May to December (most frequent from July to October);
+tropical cyclones (hurricanes) may form south of Mexico and strike
+Central America and Mexico from June to October (most common in August
+and September); southern shipping lanes subject to icebergs from
+Antarctica; occasional El Nino phenomenon occurs off the coast of
+Peru, when the trade winds slacken and the warm Equatorial
+Countercurrent moves south, killing the plankton that is the primary
+food source for anchovies; consequently, the anchovies move to better
+feeding grounds, causing resident marine birds to starve by the
+thousands because of the loss of their food source; ships subject to
+superstructure icing in extreme north from October to May and in
+extreme south from May to October; persistent fog in the northern
+Pacific can be a maritime hazard from June to December
+
+Environment - current issues: endangered marine species include the
+dugong, sea lion, sea otter, seals, turtles, and whales; oil pollution
+in Philippine Sea and South China Sea
+
+Environment - international agreements:
+party to : none of the selected agreements
+signed, but not ratified: none of the selected agreements
+
+Geography - note: the major choke points are the Bering Strait, Panama
+Canal, Luzon Strait, and the Singapore Strait; the Equator divides the
+Pacific Ocean into the North Pacific Ocean and the South Pacific
+Ocean; dotted with low coral islands and rugged volcanic islands in
+the southwestern Pacific Ocean
+
+@Pacific Ocean:Government
+
+Data code: none; the US Government has not approved a standard for
+hydrographic codes - see the Cross-Reference List of Hydrographic
+Codes appendix
+
+Economy
+
+Economy - overview: The Pacific Ocean is a major contributor to the
+world economy and particularly to those nations its waters directly
+touch. It provides low-cost sea transportation between East and West,
+extensive fishing grounds, offshore oil and gas fields, minerals, and
+sand and gravel for the construction industry. In 1985 over half (54%)
+of the world's fish catch came from the Pacific Ocean, which is the
+only ocean where the fish catch has increased every year since 1978.
+Exploitation of offshore oil and gas reserves is playing an
+ever-increasing role in the energy supplies of Australia, NZ, China,
+US, and Peru. The high cost of recovering offshore oil and gas,
+combined with the wide swings in world prices for oil since 1985, has
+slowed but not stopped new drillings.
+
+@Pacific Ocean:Communications
+
+Telephone system:
+international : several submarine cables with network nodal points on
+Guam and Hawaii
+
+@Pacific Ocean:Transportation
+
+Ports and harbors: Bangkok (Thailand), Hong Kong, Kao-hsiung (Taiwan),
+Los Angeles (US), Manila (Philippines), Pusan (South Korea), San
+Francisco (US), Seattle (US), Shanghai (China), Singapore, Sydney
+(Australia), Vladivostok (Russia), Wellington (NZ), Yokohama (Japan)
+
+Transnational Issues
+
+Disputes - international: some maritime disputes (see littoral states)
+______________________________________________________________________
+
+PAKISTAN
+
+@Pakistan:Geography
+
+Location: Southern Asia, bordering the Arabian Sea, between India on
+the east and Iran and Afghanistan on the west
+
+Geographic coordinates: 30 00 N, 70 00 E
+
+Map references: Asia
+
+Area:
+total : 803,940 sq km
+land: 778,720 sq km
+water: 25,220 sq km
+
+Area - comparative: slightly less than twice the size of California
+
+Land boundaries:
+total: 6,774 km
+border countries: Afghanistan 2,430 km, China 523 km, India 2,912 km,
+Iran 909 km
+
+Coastline: 1,046 km
+
+Maritime claims:
+contiguous zone: 24 nm
+continental shelf: 200 nm or to the edge of the continental margin
+exclusive economic zone: 200 nm
+territorial sea: 12 nm
+
+Climate: mostly hot, dry desert; temperate in northwest; arctic in
+north
+
+Terrain: flat Indus plain in east; mountains in north and northwest;
+Balochistan plateau in west
+
+Elevation extremes:
+lowest point: Indian Ocean 0 m
+highest point: K2 (Mt. Godwin-Austen) 8,611 m
+
+Natural resources: land, extensive natural gas reserves, limited
+petroleum, poor quality coal, iron ore, copper, salt, limestone
+
+Land use:
+arable land: 27%
+permanent crops: 1%
+permanent pastures: 6%
+forests and woodland: 5%
+other : 61% (1993 est.)
+
+Irrigated land: 171,100 sq km (1993 est.)
+
+Natural hazards: frequent earthquakes, occasionally severe especially
+in north and west; flooding along the Indus after heavy rains (July
+and August)
+
+Environment - current issues: water pollution from raw sewage,
+industrial wastes, and agricultural runoff; limited natural fresh
+water resources; a majority of the population does not have access to
+potable water; deforestation; soil erosion; desertification
+
+Environment - international agreements:
+party to : Biodiversity, Climate Change, Endangered Species,
+Environmental Modification, Hazardous Wastes, Nuclear Test Ban, Ozone
+Layer Protection, Ship Pollution, Wetlands
+signed, but not ratified: Desertification, Law of the Sea, Marine Life
+Conservation
+
+Geography - note: controls Khyber Pass and Bolan Pass, traditional
+invasion routes between Central Asia and the Indian Subcontinent
+
+@Pakistan:People
+
+Population: 132,185,299 (July 1997 est.)
+note: no national census has been conducted since 1981
+
+Age structure:
+0-14 years: 42% (male 28,702,496; female 27,048,787)
+15-64 years: 54% (male 36,387,329; female 34,708,803)
+65 years and over : 4% (male 2,667,936; female 2,669,948) (July 1997
+est.)
+
+Population growth rate: 2.22% (1997 est.)
+
+Birth rate: 35.26 births/1,000 population (1997 est.)
+
+Death rate: 10.95 deaths/1,000 population (1997 est.)
+
+Net migration rate: -2.14 migrant(s)/1,000 population (1997 est.)
+
+Sex ratio:
+at birth: 1.05 male(s)/female
+under 15 years : 1.06 male(s)/female
+15-64 years: 1.05 male(s)/female
+65 years and over: 1 male(s)/female
+total population: 1.05 male(s)/female (1997 est.)
+
+Infant mortality rate: 95.1 deaths/1,000 live births (1997 est.)
+
+Life expectancy at birth:
+total population: 58.77 years
+male: 57.97 years
+female : 59.61 years (1997 est.)
+
+Total fertility rate: 5.08 children born/woman (1997 est.)
+
+Nationality:
+noun : Pakistani(s)
+adjective: Pakistani
+
+Ethnic groups: Punjabi, Sindhi, Pashtun (Pathan), Baloch, Muhajir
+(immigrants from India and their descendants)
+
+Religions: Muslim 97% (Sunni 77%, Shi'a 20%), Christian, Hindu, and
+other 3%
+
+Languages: Punjabi 48%, Sindhi 12%, Siraiki (a Punjabi variant) 10%,
+Pashtu 8%, Urdu (official) 8%, Balochi 3%, Hindko 2%, Brahui 1%,
+English (official and lingua franca of Pakistani elite and most
+government ministries), Burushaski, and other 8%
+
+Literacy:
+definition: age 15 and over can read and write
+total population : 37.8%
+male: 50%
+female: 24.4% (1995 est.)
+
+@Pakistan:Government
+
+Country name:
+conventional long form: Islamic Republic of Pakistan
+conventional short form: Pakistan
+former: West Pakistan
+
+Data code: PK
+
+Government type: federal republic
+
+National capital: Islamabad
+
+Administrative divisions: 4 provinces, 1 territory*, and 1 capital
+territory**; Balochistan, Federally Administered Tribal Areas*,
+Islamabad Capital Territory**, North-West Frontier, Punjab, Sindh
+note: the Pakistani-administered portion of the disputed Jammu and
+Kashmir region includes Azad Kashmir and the Northern Areas
+
+Independence: 14 August 1947 (from UK)
+
+National holiday: Pakistan Day, 23 March (1956) (proclamation of the
+republic)
+
+Constitution: 10 April 1973, suspended 5 July 1977, restored with
+amendments 30 December 1985
+
+Legal system: based on English common law with provisions to
+accommodate Pakistan's stature as an Islamic state; accepts compulsory
+ICJ jurisdiction, with reservations
+
+Suffrage: 21 years of age; universal; separate electorates and
+reserved parliamentary seats for non-Muslims
+
+Executive branch:
+chief of state: President Sardar Farooq LEGHARI (since 13 November
+1993)
+head of government : Prime Minister Mohammad Nawaz SHARIF (since 17
+February 1997)
+cabinet: Cabinet appointed by the prime minister
+elections: president elected by Parliament for a five-year term;
+election last held 13 November 1993 (next to be held no later than 14
+October 1998); following legislative elections, the leader of the
+majority party or leader of a majority coalition is usually elected
+prime minister by the National Assembly; election last held 3 February
+1997 (next to be held NA February 2002)
+election results: Sardar Farooq LEGHARI elected president; percent of
+Parliament vote - NA; Mohammad Nawaz SHARIF elected prime minister;
+percent of National Assembly vote - NA
+
+Legislative branch: bicameral Parliament or Majlis-e-Shoora consists
+of the Senate (87 seats; members indirectly elected by provincial
+assemblies to serve six-year terms; one-third of the members up for
+election every two years; has advisory powers only) and the National
+Assembly (217 seats; 207 represent Muslims and 10 represent
+non-Muslims; members elected by popular vote to serve five-year terms)
+elections: Senate - last held 12 March 1997 (next to be held NA March
+1999); National Assembly - last held 3 February 1997 (next to be held
+NA February 2002)
+election results: Senate - percent of vote by party - NA; seats by
+party - PML/N 30, PPP 17, ANP 7, MQM/A 6, JWP 5, BNP 4, JUI/F 2, PML/J
+2, BNM/M 1, PKMAP 1, TJP 1, independents 6, vacant 5; National
+Assembly - percent of vote by party - NA; seats by party - PML/N 137,
+PPP 18, MQM/A 12, ANP 10, BNP 3, JWP 2, JUI/F 2, PPP/SB 1, NPP 1,
+independents 21, minorities 10
+
+Judicial branch: Supreme Court, judicial chiefs are appointed by the
+president; Federal Islamic (Shari'at) Court
+
+Political parties and leaders:
+government: Pakistan Muslim League, Nawaz Sharif faction (PML/N),
+Nawaz SHARIF; Awami National Party (ANP), Ajmal Khan KHATTAK;
+Balochistan National Movement/Mengal Group (BNM/M), Sardar Akhtar
+MENGAL; Mohajir Quami Movement, Altaf faction (MQM/A), Altaf HUSSAIN;
+Jamiat-al-Hadith (JAH); Jamhoori Watan Party (JWP), Akbar Khan BUGTI;
+Pakistan People's Party/Shaheed Bhutto (PPP/SB), Ghinva BHUTTO; Baluch
+National Party (BNP), leader NA
+opposition: Pakistan People's Party (PPP), Benazir BHUTTO; Pakistan
+Muslim League, Junejo faction (PML/J), Hamid Nasir CHATTHA; National
+People's Party (NPP), Ghulam Mustapha JATOI; Pakhtun Khwa Milli Awami
+Party (PKMAP), Mahmood Khan ACHAKZAI; Balochistan National
+Movement/Hayee Group (BNM/H), Dr. HAYEE Baluch; Pakhtun Quami Party
+(PKQP), Mohammed AFZAL Khan
+frequently shifting: Mutaheda Deeni Mahaz (MDM), Maulana Sami-ul-HAQ,
+the MDM includes Jamiat Ulema-i-Pakistan, Niazi faction (JUP/NI) and
+Sepah-i-Sahaba Pakistan (SSP); Islami-Jamhoori-Mahaz (IJM-Islamic
+Democratic Front) includes Jamiat Ulema-i-Islami, Fazlur Rehman group
+(JUI/F); Pakistan Muslim League, Functional Group (PML/F), Pir PAGARO;
+Pakistan National Party (PNP); Milli Yakjheti Council (MYC) is an
+umbrella organization which includes Jamaat-i-Islami (JI), Qazi
+Hussain AHMED, Jamiat Ulema-i-Islam, Sami-ul-Haq faction (JUI/S),
+Tehrik-I-Jafria Pakistan (TJP), Allama Sajid NAQVI, and Jamiat
+Ulema-i-Pakistan, Noorani faction (JUP/NO)
+note: political alliances in Pakistan can shift frequently
+
+Political pressure groups and leaders: military remains important
+political force; ulema (clergy), landowners, industrialists, and small
+merchants also influential
+
+International organization participation: AsDB, C, CCC, CP, ECO,
+ESCAP, FAO, G-19, G-24, G-77, IAEA, IBRD, ICAO, ICC, ICFTU, ICRM, IDA,
+IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Inmarsat, Intelsat,
+Interpol, IOC, IOM, ISO, ITU, MINURSO, NAM, OAS (observer), OIC, PCA,
+SAARC, UN, UNAVEM III, UNCTAD, UNESCO, UNHCR, UNIDO, UNIKOM, UNITAR,
+UNMIBH, UNMIH, UNOMIG, UNOMIL, UNPREDEP, UNTAES, UPU, WCL, WFTU, WHO,
+WIPO, WMO, WToO, WTrO
+
+Diplomatic representation in the US:
+chief of mission: Ambassador Riaz KHOKAR
+chancery: 2315 Massachusetts Avenue NW, Washington, DC 20008
+telephone: [1] (202) 939-6200
+FAX: [1] (202) 387-0484
+consulate(s) general: Los Angeles and New York
+
+Diplomatic representation from the US:
+chief of mission: Ambassador Thomas W. SIMONS, Jr.
+embassy : Diplomatic Enclave, Ramna 5, Islamabad
+mailing address: P. O. Box 1048, Unit 62200, APO AE 09812-2200
+telephone: [92] (51) 826161 through 826179
+FAX: [92] (51) 214222
+consulate(s) general : Karachi, Lahore
+consulate(s): Peshawar
+
+Flag description: green with a vertical white band (symbolizing the
+role of religious minorities) on the hoist side; a large white
+crescent and star are centered in the green field; the crescent, star,
+and color green are traditional symbols of Islam
+
+Economy
+
+Economy - overview: Pakistan is a poor, highly populated Third World
+country struggling to make the difficult transition to the modern
+world of high technology and international markets. Even though GDP
+growth has remained strong, at roughly 5% annually, international
+confidence in Prime Minister Benazir BHUTTO's government declined in
+1996. The IMF suspended a Standby Agreement in the spring; foreign
+investment declined; and the budget and trade deficits rose
+substantially. In October 1996, BHUTTO responded to IMF pressure to
+implement reforms, devaluing the rupee by about 8% and raising
+petroleum prices in an attempt to slow the drain on foreign exchange
+reserves. But Islamabad still failed to meet IMF revenue and borrowing
+targets. Pakistan's interim government - in power since President
+LEGHARI sacked BHUTTO on 5 November 1996 - agreed to slash the budget
+deficit, push down bank borrowing, implement an agricultural tax; and
+speed up reforms in the financial sector; accordingly, the Standby
+Agreement was reinstated in December 1996 and a tranche of $80 million
+released; but Pakistan fell out of compliance in February 1997. For
+the long run, Pakistan must deal with serious problems of
+deteriorating infrastructure, low literacy levels, and persistent
+sectarian and political violence.
+
+GDP: purchasing power parity - $296.5 billion (1996 est.)
+
+GDP - real growth rate: 5.5% (1996 est.)
+
+GDP - per capita: purchasing power parity - $2,300 (1996 est.)
+
+GDP - composition by sector:
+agriculture: 24.8%
+industry: 26.5%
+services: 48.7% (1996)
+
+Inflation rate - consumer price index: 10.8% (FY95/96)
+
+Labor force:
+total: 36.7 million (1997)
+by occupation: agriculture 47%, mining and manufacturing 17%, services
+17%, other 19%
+note : extensive export of labor, mostly to the Middle East, and use
+of child labor
+
+Unemployment rate: NA%
+
+Budget:
+revenues : $12.5 billion
+expenditures: $14 billion, including capital expenditures of $2.8
+billion (FY95/96 est.)
+
+Industries: textiles, food processing, beverages, construction
+materials, clothing, paper products, shrimp
+
+Industrial production growth rate: 6.1% (FY95/96 est.)
+
+Electricity - capacity: 13.17 million kW (1994)
+
+Electricity - production: 46.1 billion kWh (FY95/96)
+
+Electricity - consumption per capita: 403 kWh (1995 est.)
+
+Agriculture - products: cotton, wheat, rice, sugarcane, fruits,
+vegetables; milk, beef, mutton, eggs
+
+Exports:
+total value: $8.3 billion (FY95/96)
+commodities: cotton, textiles, clothing, rice, leather, carpets
+partners: US, Japan, Hong Kong, Germany, UK, UAE, France
+
+Imports:
+total value: $12 billion (FY95/96)
+commodities : petroleum, petroleum products, machinery, transportation
+equipment, vegetable oils, animal fats, chemicals
+partners: Japan, US, Germany, UK, Saudi Arabia, Malaysia, South Korea
+
+Debt - external: $28.6 billion (1996 est.)
+
+Economic aid:
+recipient: $2.6 billion from all bilateral and multilateral sources
+(FY95/96)
+
+Currency: 1 Pakistani rupee (PRe) = 100 paisa
+
+Exchange rates: Pakistani rupees (PRs) per US$1 - 40.120 (January
+1997), 36.078 (1996), 31.643 (1995), 30.567 (1994), 28.1 (1993), 25.1
+(1992); note - annual average of official rate; parallel market rate
+is higher
+
+Fiscal year: 1 July - 30 June
+
+@Pakistan:Communications
+
+Telephones: 1.572 million (1993 est.)
+
+Telephone system: the domestic system is mediocre, but adequate for
+government and business use, in part because major businesses have
+established their own private systems; since 1988, the government has
+promoted investment in the national telecommunications system on a
+priority basis; despite major improvements in trunk and urban systems,
+telecommunication services are still not readily available to the
+major portion of the population
+domestic: microwave radio relay
+international: satellite earth stations - 3 Intelsat (1 Atlantic Ocean
+and 2 Indian Ocean); microwave radio relay to neighboring countries
+
+Radio broadcast stations: AM 26, FM 8, shortwave 11
+
+Radios: 11.3 million (1992 est.)
+
+Television broadcast stations: 29
+
+Televisions: 2.08 million (1993 est.)
+
+@Pakistan:Transportation
+
+Railways:
+total: 8,163 km
+broad gauge: 7,718 km 1.676-m gauge (293 km electrified; 1,037 km
+double track)
+narrow gauge: 445 km 1.000-m gauge (1996 est.)
+
+Highways:
+total : 216,564 km
+paved: 116,945 km
+unpaved: 99,619 km (1995 est.)
+
+Pipelines: crude oil 250 km; petroleum products 885 km; natural gas
+4,044 km (1987)
+
+Ports and harbors: Karachi, Port Muhammad bin Qasim
+
+Merchant marine:
+total: 26 ships (1,000 GRT or over) totaling 425,140 GRT/699,040 DWT
+ships by type : bulk 5, cargo 17, container 3, oil tanker 1 (1996
+est.)
+
+Airports: 102 (1996 est.)
+
+Airports - with paved runways:
+total: 86
+over 3,047 m : 11
+2,438 to 3,047 m: 19
+1,524 to 2,437 m: 27
+914 to 1,523 m: 11
+under 914 m: 18 (1996 est.)
+
+Airports - with unpaved runways:
+total : 16
+over 3,047 m: 1
+1,524 to 2,437 m: 7
+914 to 1,523 m: 8 (1996 est.)
+
+Heliports: 6 (1996 est.)
+
+Military
+
+Military branches: Army, Navy, Air Force, Civil Armed Forces, National
+Guard
+
+Military manpower - military age: 17 years of age
+
+Military manpower - availability:
+males age 15-49: 31,456,430 (1997 est.)
+
+Military manpower - fit for military service:
+males: 19,288,081 (1997 est.)
+
+Military manpower - reaching military age annually:
+males: 1,431,074 (1997 est.)
+
+Military expenditures - dollar figure: $3.3 billion (FY96/97)
+
+Military expenditures - percent of GDP: 5.3% (FY96/97)
+
+Transnational Issues
+
+Disputes - international: status of Kashmir with India; water-sharing
+problems with upstream riparian India over the Indus (Wular Barrage)
+
+Illicit drugs: illicit producer of opium and hashish for the
+international drug trade (produced 75 metric tons in 1996, down from
+155 metric tons in 1995); major center for processing Afghan heroin
+and key transit area for Southwest Asian heroin moving to Western
+markets
+______________________________________________________________________
+
+PALAU
+
+@Palau:Geography
+
+Location: Oceania, group of islands in the North Pacific Ocean,
+southeast of the Philippines
+
+Geographic coordinates: 7 30 N, 134 30 E
+
+Map references: Oceania
+
+Area:
+total: 458 sq km
+land : 458 sq km
+water: 0 sq km
+
+Area - comparative: slightly more than 2.5 times the size of
+Washington, DC
+
+Land boundaries: 0 km
+
+Coastline: 1,519 km
+
+Maritime claims:
+continental shelf : 200-m depth or to the depth of exploitation
+exclusive fishing zone: 12 nm
+extended fishing zone: 200 nm
+territorial sea: 3 nm
+
+Climate: wet season May to November; hot and humid
+
+Terrain: varying geologically from the high, mountainous main island
+of Babelthuap to low, coral islands usually fringed by large barrier
+reefs
+
+Elevation extremes:
+lowest point: Pacific Ocean 0 m
+highest point: Mount Ngerchelchauus 242 m
+
+Natural resources: forests, minerals (especially gold), marine
+products, deep-seabed minerals
+
+Land use:
+arable land: NA%
+permanent crops: NA%
+permanent pastures : NA%
+forests and woodland: NA%
+other: NA%
+
+Irrigated land: NA sq km
+
+Natural hazards: typhoons (June to December)
+
+Environment - current issues: inadequate facilities for disposal of
+solid waste; threats to the marine ecosystem from sand and coral
+dredging, illegal fishing practices, and overfishing
+
+Environment - international agreements:
+party to : Law of the Sea
+signed, but not ratified: none of the selected agreements
+
+Geography - note: includes World War II battleground of Beliliou
+(Peleliu) and world-famous rock islands; archipelago of six island
+groups totaling over 200 islands in the Caroline chain
+
+@Palau:People
+
+Population: 17,240 (July 1997 est.)
+
+Age structure:
+0-14 years : NA
+15-64 years: NA
+65 years and over: NA
+
+Population growth rate: 1.66% (1997 est.)
+
+Birth rate: 21.04 births/1,000 population (1997 est.)
+
+Death rate: 6.61 deaths/1,000 population (1997 est.)
+
+Net migration rate: 2.12 migrant(s)/1,000 population (1997 est.)
+
+Sex ratio:
+at birth : NA male(s)/female
+under 15 years: NA male(s)/female
+15-64 years: NA male(s)/female
+65 years and over: NA male(s)/female
+total population: NA male(s)/female
+
+Infant mortality rate: 25.07 deaths/1,000 live births (1997 est.)
+
+Life expectancy at birth:
+total population: 71.01 years
+male : 69.14 years
+female: 73.02 years (1997 est.)
+
+Total fertility rate: 2.71 children born/woman (1997 est.)
+
+Nationality:
+noun: Palauan(s)
+adjective: Palauan
+
+Ethnic groups: Palauans are a composite of Polynesian, Malayan, and
+Melanesian races
+
+Religions: Christian (Catholics, Seventh-Day Adventists, Jehovah's
+Witnesses, the Assembly of God, the Liebenzell Mission, and Latter-Day
+Saints), Modekngei religion (one-third of the population observes this
+religion which is indigenous to Palau)
+
+Languages: English (official in all of Palau's 16 states), Sonsorolese
+(official in the state of Sonsoral), Angaur and Japanese (in the state
+of Anguar), Tobi (in the state of Tobi), Palauan (in the other 13
+states)
+
+Literacy:
+definition : age 15 and over can read and write
+total population: 92%
+male: 93%
+female: 90% (1980 est.)
+
+@Palau:Government
+
+Country name:
+conventional long form: Republic of Palau
+conventional short form: Palau
+local long form: Beluu er a Belau
+local short form : Belau
+former: Trust Territory of the Pacific Islands
+
+Data code: PS
+
+Government type: constitutional government in free association with
+the US; the Compact of Free Association entered into force 1 October
+1994
+
+National capital: Koror
+note: a new capital is being built about 20 km northeast in eastern
+Babelthuap
+
+Administrative divisions: there are no first-order administrative
+divisions as defined by the US Government, but there are 16 states
+named Aimeliik, Airai, Angaur, Kayangel, Koror, Melekeok, Ngaraard,
+Ngardmau, Ngaremlengui, Ngatpang, Ngchesar, Ngerchelong, Ngiwal,
+Peleliu, Sonsorol, Tobi
+
+Independence: 1 October 1994 (from the US-administered UN Trusteeship)
+
+National holiday: Constitution Day, 9 July (1979)
+
+Constitution: 1 January 1981
+
+Legal system: based on Trust Territory laws, acts of the legislature,
+municipal, common, and customary laws
+
+Suffrage: 18 years of age; universal
+
+Executive branch:
+chief of state: President Kuniwo NAKAMURA (since 1 January 1993) and
+Vice President Tommy E. REMENGESAU Jr. (since 1 January 1993); note -
+the president is both the chief of state and head of government
+head of government: President Kuniwo NAKAMURA (since 1 January 1993)
+and Vice President Tommy E. REMENGESAU Jr. (since 1 January 1993);
+note - the president is both the chief of state and head of government
+cabinet : Cabinet
+elections: president and vice president elected on separate tickets by
+popular vote for four-year terms; election last held 11 November 1996
+(next to be held NA November 2000)
+election results : Kuniwo NAKAMURA reelected president; percent of
+vote - Kuniwo NAKAMURA 64%, Chief Ibedul Yutuka GIBBONS 36%; Tommy E.
+REMENGESAU Jr. reelected vice president; percent of vote - Tommy E.
+REMENGESAU Jr. 69%, Kione ISECHAL 31%
+
+Legislative branch: bicameral Parliament or Olbiil Era Kelulau (OEK)
+consists of the Senate (14 seats; members elected by popular vote on a
+population basis to serve four-year terms) and the House of Delegates
+(16 seats - one from each state; members elected by popular vote to
+serve four-year terms)
+elections: Senate - last held 11 November 1996 (next to be held NA
+November 2000); House of Delegates - last held 11 November 1996 (next
+to be held NA November 2000)
+election results: Senate - percent of vote by party - NA; seats by
+party - NA; House of Delegates - percent of vote by party - NA; seats
+by party - NA
+
+Judicial branch: Supreme Court; National Court; Court of Common Pleas
+
+Political parties and leaders: Palau Nationalist Party, Polycarp
+BASILIUS
+
+International organization participation: ESCAP, SPC, SPF, UN, WHO
+
+Diplomatic representation in the US:
+chief of mission: Ambassador (vacant); Charge d'Affaires ad interim
+David A. ORRUKEM
+chancery: 2000 L Street NW, Suite 407, Washington, DC 20036
+telephone : [1] (202) 452-6814
+FAX: [1] (202) 452-6281
+
+Diplomatic representation from the US:
+chief of mission : Thomas C. HUBBARD (resident in Manila)
+embassy: address NA, Koror
+mailing address: P.O. Box 6028, Republic of Palau 96940
+telephone: [680] 488-2920, 2990
+FAX: [680] 488-2911
+
+Flag description: light blue with a large yellow disk (representing
+the moon) shifted slightly to the hoist side
+
+Economy
+
+Economy - overview: The economy consists primarily of subsistence
+agriculture and fishing. The government is the major employer of the
+work force, relying heavily on financial assistance from the US. The
+population, in effect, enjoys a per capita income of $5,000, twice
+that of the Philippines and much of Micronesia. Long-run prospects for
+the tourist sector have been greatly bolstered by the expansion of air
+travel in the Pacific and the rapidly rising prosperity of leading
+East Asian countries. Reducing budgeted operating expenditures - which
+have increased 56% from 1989 to 1993 - will be the biggest challenge
+for the government over the next several years.
+
+GDP: purchasing power parity - $81.8 million (1994 est.)
+note: GDP numbers reflect US spending
+
+GDP - real growth rate: NA%
+
+GDP - per capita: purchasing power parity - $5,000 (1994 est.)
+
+GDP - composition by sector:
+agriculture: NA%
+industry: NA%
+services: NA%
+
+Inflation rate - consumer price index: NA%
+
+Labor force: NA
+by occupation: NA
+
+Unemployment rate: NA%
+
+Budget:
+revenues : $21 million
+expenditures: $57 million, including capital expenditures of $NA (1996
+est.)
+
+Industries: tourism, craft items (from shell, wood, pearls), some
+commercial fishing and agriculture
+
+Industrial production growth rate: NA%
+
+Electricity - capacity: NA kW
+
+Electricity - production: NA kWh
+
+Electricity - consumption per capita: NA kWh
+
+Agriculture - products: coconuts, copra, cassava (tapioca), sweet
+potatoes
+
+Exports:
+total value: $600,000 (f.o.b., 1989)
+commodities: trochus (type of shellfish), tuna, copra, handicrafts
+partners: US, Japan
+
+Imports:
+total value : $24.6 million (c.i.f., 1989)
+commodities: NA
+partners: US
+
+Debt - external: about $100 million (1989)
+
+Economic aid:
+recipient: ODA, $NA
+note : the compact of "free association" with the US, entered into
+after the end of the UN trusteeship on 1 October 1994, will provide
+Palau with up to $700 million in US aid over 15 years in return for
+furnishing military facilities
+
+Currency: 1 United States dollar (US$) = 100 cents
+
+Exchange rates: US currency is used
+
+Fiscal year: 1 October - 30 September
+
+@Palau:Communications
+
+Telephones: 1,500 (1988 est.)
+
+Telephone system:
+domestic: NA
+international: satellite earth station - 1 Intelsat (Pacific Ocean)
+
+Radio broadcast stations: AM 1, FM 1, shortwave 0
+
+Radios: 9,000 (1993 est.)
+
+Television broadcast stations: 2
+
+Televisions: 1,600 (1993 est.)
+
+@Palau:Transportation
+
+Railways: 0 km
+
+Highways:
+total: 61 km
+paved: 36 km
+unpaved: 25 km
+
+Ports and harbors: Koror
+
+Merchant marine: none
+
+Airports: 3 (1996 est.)
+
+Airports - with paved runways:
+total : 1
+1,524 to 2,437 m: 1 (1996 est.)
+
+Airports - with unpaved runways:
+total: 2
+1,524 to 2,437 m: 2 (1996 est.)
+
+Military
+
+Military branches: NA
+
+Military expenditures - dollar figure: $NA
+
+Military expenditures - percent of GDP: NA%
+
+Military - note: defense is the responsibility of the US
+
+Transnational Issues
+
+Disputes - international: none
+______________________________________________________________________
+
+PALMYRA ATOLL
+
+(territory of the US) 
+
+@Palmyra Atoll:Geography
+
+Location: Oceania, atoll in the North Pacific Ocean, about one-half of
+the way from Hawaii to American Samoa
+
+Geographic coordinates: 5 52 N, 162 06 W
+
+Map references: Oceania
+
+Area:
+total : 11.9 sq km
+land: 11.9 sq km
+water: 0 sq km
+
+Area - comparative: about 20 times the size of The Mall in Washington,
+DC
+
+Land boundaries: 0 km
+
+Coastline: 14.5 km
+
+Maritime claims:
+exclusive economic zone: 200 nm
+territorial sea: 12 nm
+
+Climate: equatorial, hot, and very rainy
+
+Terrain: very low
+
+Elevation extremes:
+lowest point: Pacific Ocean 0 m
+highest point: unnamed location 2 m
+
+Natural resources: none
+
+Land use:
+arable land : 0%
+permanent crops: 0%
+permanent pastures: 0%
+forests and woodland: 100%
+other: 0%
+
+Irrigated land: 0 sq km (1993)
+
+Natural hazards: NA
+
+Environment - current issues: NA
+
+Environment - international agreements:
+party to : NA
+signed, but not ratified: NA
+
+Geography - note: about 50 islets covered with dense vegetation,
+coconut trees, and balsa-like trees up to 30 meters tall
+
+@Palmyra Atoll:People
+
+Population: uninhabited
+
+@Palmyra Atoll:Government
+
+Country name:
+conventional long form: none
+conventional short form: Palmyra Atoll
+
+Data code: LQ
+
+Dependency status: incorporated territory of the US; privately owned,
+but administered by the Office of Territorial and International
+Affairs, US Department of the Interior
+
+National capital: none; administered from Washington, DC
+
+Flag description: the flag of the US is used
+
+Economy
+
+Economy - overview: no economic activity
+
+@Palmyra Atoll:Transportation
+
+Highways: much of the road and many causeways built during World War
+II are unserviceable and overgrown
+
+Ports and harbors: West Lagoon
+
+Airports: airstrip has been overgrown by vegetation and is no longer
+serviceable
+
+Military
+
+Military - note: defense is the responsibility of the US
+
+Transnational Issues
+
+Disputes - international: none
+______________________________________________________________________
+
+PANAMA
+
+@Panama:Geography
+
+Location: Middle America, bordering both the Caribbean Sea and the
+North Pacific Ocean, between Colombia and Costa Rica
+
+Geographic coordinates: 9 00 N, 80 00 W
+
+Map references: Central America and the Caribbean
+
+Area:
+total: 78,200 sq km
+land: 75,990 sq km
+water: 2,210 sq km
+
+Area - comparative: slightly smaller than South Carolina
+
+Land boundaries:
+total: 555 km
+border countries: Colombia 225 km, Costa Rica 330 km
+
+Coastline: 2,490 km
+
+Maritime claims:
+territorial sea: 200 nm
+
+Climate: tropical; hot, humid, cloudy; prolonged rainy season (May to
+January), short dry season (January to May)
+
+Terrain: interior mostly steep, rugged mountains and dissected, upland
+plains; coastal areas largely plains and rolling hills
+
+Elevation extremes:
+lowest point: Pacific Ocean 0 m
+highest point: Volcan de Chiriqui 3,475 m
+
+Natural resources: copper, mahogany forests, shrimp
+
+Land use:
+arable land: 7%
+permanent crops: 2%
+permanent pastures: 20%
+forests and woodland : 44%
+other: 27% (1993 est.)
+
+Irrigated land: 320 sq km (1993 est.)
+
+Natural hazards: NA
+
+Environment - current issues: water pollution from agricultural runoff
+threatens fishery resources; deforestation of tropical rain forest;
+land degradation
+
+Environment - international agreements:
+party to: Biodiversity, Climate Change, Desertification, Endangered
+Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Nuclear
+Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 83,
+Tropical Timber 94, Wetlands
+signed, but not ratified: Marine Life Conservation
+
+Geography - note: strategic location on eastern end of isthmus forming
+land bridge connecting North and South America; controls Panama Canal
+that links North Atlantic Ocean via Caribbean Sea with North Pacific
+Ocean
+
+@Panama:People
+
+Population: 2,693,417 (July 1997 est.)
+
+Age structure:
+0-14 years: 32% (male 444,673; female 426,823)
+15-64 years: 62% (male 846,707; female 824,690)
+65 years and over : 6% (male 72,472; female 78,052) (July 1997 est.)
+
+Population growth rate: 1.58% (1997 est.)
+
+Birth rate: 22.27 births/1,000 population (1997 est.)
+
+Death rate: 5.15 deaths/1,000 population (1997 est.)
+
+Net migration rate: -1.35 migrant(s)/1,000 population (1997 est.)
+
+Sex ratio:
+at birth: 1.04 male(s)/female
+under 15 years : 1.04 male(s)/female
+15-64 years: 1.03 male(s)/female
+65 years and over: 0.93 male(s)/female
+total population: 1.03 male(s)/female (1997 est.)
+
+Infant mortality rate: 24.6 deaths/1,000 live births (1997 est.)
+
+Life expectancy at birth:
+total population: 74.28 years
+male: 71.55 years
+female : 77.1 years (1997 est.)
+
+Total fertility rate: 2.6 children born/woman (1997 est.)
+
+Nationality:
+noun: Panamanian(s)
+adjective: Panamanian
+
+Ethnic groups: mestizo (mixed Amerindian and white) 70%, Amerindian
+and mixed (West Indian) 14%, white 10%, Amerindian 6%
+
+Religions: Roman Catholic 85%, Protestant 15%
+
+Languages: Spanish (official), English 14%
+note: many Panamanians bilingual
+
+Literacy:
+definition: age 15 and over can read and write
+total population: 90.8%
+male: 91.4%
+female : 90.2% (1995 est.)
+
+@Panama:Government
+
+Country name:
+conventional long form: Republic of Panama
+conventional short form: Panama
+local long form: Republica de Panama
+local short form: Panama
+
+
+Back to Full Books

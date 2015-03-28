@@ -1,0 +1,2004 @@
+Acetylene, The Principles Of Its Generation And UsebyF. H. Leeds and W. J. Atkinson Butterfield
+
+jacketed decomposing vessel, might be free from the trouble of
+overheating. Nevertheless it will be seen in Chapter VI. that the use of
+copper is not permissible for such purposes, its advantages as a good
+conductor of heat being neutralised by its more important defects.
+
+When suitable precautions are not taken to remove the heat liberated in
+an acetylene apparatus, the temperature of the calcium carbide
+occasionally rises to a remarkable degree. Investigating this point, Caro
+has studied the phenomena of heat production in a "dipping" generator--
+_i.e._, an apparatus in which a cage of carbide is alternately
+immersed in and lifted out of a vessel containing water. Using a
+generator designed to supply five burners, he has found a maximum
+recording thermometer placed in the gas space of the apparatus to give
+readings generally between 60 deg. and 100 deg. C.; but in two tests out
+of ten he obtained temperatures of about 160 deg. C. To determine the
+actual temperature of the calcium carbide itself, he scattered amongst the
+carbide charge fragments of different fusible metallic alloys which were
+known to melt or soften at certain different temperatures. In all his ten
+tests the alloys melting at 120 deg. C. were fused completely; in two tests
+other alloys melting at 216 deg. and 240 deg. C. showed signs of fusion;
+and in one test an alloy melting at 280 deg. C. began to soften. Working
+with an experimental apparatus constructed on the "dripping" principle--
+_i.e._, a generator in which water is allowed to fall in single
+drops or as a fine stream upon a mass of carbide--with the deliberate
+object of ascertaining the highest temperatures capable of production
+when calcium carbide is decomposed in this particular fashion, and
+employing for the measurement of the heat a Le Chatelier thermo-couple,
+with its sensitive wires lying among the carbide lumps, Lewes has
+observed a maximum temperature of 674 deg. C. to be reached in 19 minutes
+when water was dripped upon 227 grammes of carbide at a speed of about 8
+grammes per minute. In other experiments he used a laboratory apparatus
+designed upon the "dipping" principle, and found maximum temperatures, in
+four different trials, of 703 deg., 734 deg., 754 deg., and 807 deg. C.,
+which were reached in periods of time ranging from 12 to 17 minutes. Even
+allowing for the greater delicacy of the instrument adopted by Lewes for
+measuring the temperature in comparison with the device employed by Caro,
+there still remains an astonishing difference between Caro's maximum of
+280 deg. and Lewes' maximum of 807 deg. C. The explanation of this
+discrepancy is to be inferred from what has just been said. The generator
+used by Caro was properly made of metal, was quite small in size, was
+properly designed with some skill to prevent overheating as much as possible,
+and was worked at the speed for which it was intended--in a word, it was as
+good an apparatus as could be made of this particular type. Lewes' generator
+was simply a piece of glass and metal, in which provisions to avoid
+overheating were absent; and therefore the wide difference between the
+temperatures noted does not suggest any inaccuracy of observation or
+experiment, but shows what can be done to assist in the dissipation of
+heat by careful arrangement of parts. The difference in temperature
+between the acetylene and the carbide in Caro's test accentuates the
+difficulty of gauging the heat in a carbide vessel by mere external
+touch, and supplies experimental proof of the previous assertions as to
+the low heat-conducting power of calcium carbide and of the gases of the
+decomposing vessel. It must not be supposed that temperatures such as
+Lewes has found ever occur in any commercial generator of reasonably good
+design and careful construction; they must be regarded rather as
+indications of what may happen in an acetylene apparatus when the
+phenomena accompanying the evolution of gas are not understood by the
+maker, and when all the precautions which can easily be taken to avoid
+excessive heating have been omitted, either by building a generator with
+carbide in excess too large in size, or by working it too rapidly, or
+more generally by adopting a system of construction unsuited to the ends
+in view. The fact, however, that Lewes has noted the production of a
+temperature of 807 deg. C. is important; because this figure is appreciably
+above the point 780 deg. C., at which acetylene decomposes into its elements
+in the absence of air.
+
+Nevertheless the production of a temperature somewhat exceeding 100 deg. C.
+among the lumps of carbide actually undergoing decomposition can hardly
+be avoided in any practical generator. Based on a suggestion in the
+"Report of the Committee on Acetylene Generators" which was issued by the
+British Home Office in 1902, Fouche has proposed that 130 deg. C., as
+measured with the aid of fusible metallic rods, [Footnote: An alloy made
+by melting together 55 parts by weight of commercial bismuth and 45 parts
+of lead fuses at 127 deg. C., and should be useful in performing the tests.]
+should be considered the maximum permissible temperature in any part of a
+generator working at full speed for a prolonged period of time. Fouche
+adopts this figure on the ground that 130 deg. C. sensibly corresponds with
+the temperature at which a yellow substance is formed in a generator by a
+process of polymerisation; and, referring to French conditions, states
+that few actual apparatus permit the development of so high a
+temperature. As a matter of fact, however, a fairly high temperature
+among the carbide is less important than in the gas, and perhaps it would
+be better to say that the temperature in any part of a generator occupied
+by acetylene should not exceed 100 deg. C. Fraenkel has carried out some
+experiments upon the temperature of the acetylene immediately after
+evolution in a water-to-carbide apparatus containing the carbide in a
+subdivided receptacle, using an apparatus now frequently described as
+belonging to the "drawer" system of construction. When a quantity of
+about 7 lb. of carbide was distributed between 7 different cells of the
+receptacle, each cell of which had a capacity of 25 fluid oz., and the
+apparatus was caused to develop acetylene at the rate of 7 cubic feet per
+hour, maximum thermometers placed immediately over the carbide in the
+different cells gave readings of from 70 deg. to 90 deg. C., the average
+maximum temperature being about 80 deg. C. Hence the Austrian code of
+rules issued in 1905 governing the construction of acetylene apparatus
+contains a clause to the effect that the temperature in the gas space of
+a generator must never exceed 80 deg. C.; whereas the corresponding
+Italian code contains a similar stipulation, but quotes the maximum
+temperature as 100 deg. C. (_vide_ Chapter IV.).
+
+It is now necessary to see why the production of an excessively high
+temperature in an acetylene generator has to be avoided. It must be
+avoided, because whenever the temperature in the immediate neighbourhood
+of a mass of calcium carbide which is evolving acetylene under the attack
+of water rises materially above the boiling-point of water, one or more
+of three several objectionable effects is produced--(_a_) upon the
+gas generated, (_b_) upon the carbide decomposed, and (_c_)
+upon the general chemical reaction taking place.
+
+It has been stated above that in moat generators when the action between
+the carbide and the water is proceeding smoothly, it occurs according to
+equation (2)--
+
+(2) CaC_2 + 2H_2O = C_2H_2 + Ca(OH)_2
+
+rather than in accordance with equation (1)--
+
+(1) CaC_2 + H_2O = C_2H_2 + CaO.
+
+This is because calcium oxide, or quicklime, the by-product in (1), has
+considerable affinity for water, evolving a noteworthy quantity of heat
+when it combines with one molecule of water to form one molecule of
+calcium hydroxide, or slaked lime, the by-product in (2). If, then, a
+small amount of water is added to a large amount of calcium carbide, the
+corresponding quantity of acetylene may be liberated on the lines of
+equation (1), and there will remain behind a mixture of unaltered calcium
+carbide, together with a certain amount of calcium oxide. Inasmuch as
+both these substances possess an affinity for water (setting heat free
+when they combine with it), when a further limited amount of water is
+introduced into the mixture some of it will probably be attracted to the
+oxide instead of to the carbide present. It is well known that at
+ordinary temperatures quicklime absorbs moisture, or combines with water,
+to produce slaked lime; but it is equally well known that in a furnace,
+at about a red heat, slaked lime gives up water and changes into
+quicklime. The reaction, in fact, between calcium oxide and water is
+reversible, and whether those substances combine or dissociate is simply
+a question of temperature. In other words, as the temperature rises, the
+heat of hydration of calcium oxide diminishes, and calcium hydroxide
+becomes constantly a less stable material. If now it should happen that
+the affinity between calcium carbide and water should not diminish, or
+should diminish in a lower ratio than the affinity between calcium oxide
+and water as the temperature of the mass rises from one cause or other,
+it is conceivable that at a certain temperature calcium carbide might be
+capable of withdrawing the water of hydration from the molecule of slaked
+lime, converting the latter into quicklime, and liberating one molecule
+of acetylene, thus--
+
+(3) CaC_2 + Ca_2(OH) = C_2H_2 + 2CaO.
+
+It has been proved that a reaction of this character does occur, the
+temperature necessary to determine it being given by Lewes as from 420 deg.
+to 430 deg. C., which is not much more than half that which he found in a
+generator having carbide in excess, albeit one of extremely bad design.
+Treating this reaction in the manner previously adopted, the thermo-
+chemical phenomena of equation (3) are:
+
+_Heat liberated._              | _Heat liberated._
+                               |
+Formation of 2CaO       290.0  | Formation of acetylene         58.1
+                               | Decomposition of Ca(OH)_2 [1] 229.1
+                               | Decomposition of carbide        3.9
+        Balance           1.1  |
+                       ______  |                               _____
+                               |
+                        291.1  |                               291.1
+
+[1 Footnote: Into its elements, Ca, O_2, and H_2; _cf._ footnote,
+p: 31.]
+
+Or, since the calcium hydroxide is only dehydrated without being
+entirely decomposed, and only one molecule of water is broken up, it may
+be written:
+
+
+Formation of CaO         145.0 | Formation of acetylene         58.1
+                               | Decomposition of Ca(OH)_2      15.1
+                               | Decomposition of water         69.0
+        Balance            1.1 | Decomposition of carbide        3.9
+                         _____ |                               _____
+                               |
+                         146.1 |                               146.1
+
+which comes to the same thing. Putting the matter in another shape, it may
+be said that the reaction between calcium carbide and water is exothermic,
+evolving either 14.0 or 29.1 calories according as the byproduct is calcium
+oxide or solid calcium hydroxide; and therefore either reaction proceeds
+without external assistance in the cold. The reaction between carbide and
+slaked lime, however, is endothermic, absorbing 1.1 calories; and therefore
+it requires external assistance (presence of an elevated temperature) to
+start it, or continuous introduction of heat (as from the reaction between
+the rest of the carbide present and the water) to cause it to proceed. Of
+itself, and were it not for the disadvantages attending the production of a
+temperature remotely approaching 400 deg. C. in an acetylene generator,
+which disadvantages will be explained in the following paragraphs, there is
+no particular reason why reaction (3) should not be permitted to occur, for
+it involves (theoretically) no loss of acetylene, and no waste of calcium
+carbide. Only one specific feature of the reaction has to be remembered,
+and due practical allowance made for it. The reaction represented by
+equation (2) proceeds almost instantaneously when the calcium carbide is
+of ordinarily good quality, and the acetylene resulting therefrom is
+wholly generated within a very few minutes. Equation (3), on the
+contrary, consumes much time for its completion, and the gas
+corresponding with it is evolved at a gradually diminishing speed which
+may cause the reaction to continue for hours--a circumstance that may be
+highly inconvenient or quite immaterial according to the design of the
+apparatus. When, however, it is desired to construct an automatic
+acetylene generator, _i.e._, an apparatus in which the quantity of
+gas liberated has to be controlled to suit the requirements of any
+indefinite number of burners in use on different occasions, equation (3)
+becomes a very important factor in the case. To determine the normal
+reaction (No. 2) of an acetylene generator, 64 parts by weight of calcium
+carbide must react with 36 parts of water to yield 26 parts by weight of
+acetylene, and apparently both carbide and water are entirely consumed;
+but if opportunity is given for the occurrence of reaction (3), another
+64 parts by weight of carbide may be attacked, without the addition of
+any more water, producing, inevitably, another 26 parts of acetylene. If,
+then, water is in chemical excess in the generator, all the calcium
+carbide present will be decomposed according to equation (2), and the
+action will take place without delay; after a few minutes' interval the
+whole of the acetylene capable of liberation will have been evolved, and
+nothing further can possibly happen until another charge of carbide is
+inserted in the apparatus. If, on the other hand, calcium carbide is in
+chemical excess in the generator, all the water run in will be consumed
+according to equation (2), and this action will again take place without
+delay; but unless the temperature of the residual carbide has been kept
+well below 400 deg. C., a further evolution of gas will occur which will not
+cease for an indeterminate period of time, and which, by strict theory,
+given the necessary conditions, might continue until a second volume of
+acetylene equal to that liberated at first had been set free. In practice
+this phenomenon of a secondary production of gas, which is known as
+"after-generation," is regularly met with in all generators where the
+carbide is in excess of the water added; but the amount of acetylene so
+evolved rarely exceeds one-quarter or one-third of the main make. The
+actual amount evolved and the rate of evolution depend, not merely upon
+the quantity of undecomposed carbide still remaining in contact with the
+damp lime, but also upon the rapidity with which carbide naturally
+decomposes in presence of liquid water, and the size of the lumps. Where
+"after-generation" is caused by the ascent of water vapour round lumps of
+carbide, the volume of gas produced in a given interval of time is
+largely governed by the temperature prevailing and the shape of the
+apparatus. It is evident that even copious "after-generation" is a matter
+of no consequence in any generator provided with a holder to store the
+gas, assuming that by some trustworthy device the addition of water is
+stopped by the time that the holder is two-thirds or three-quarters full.
+In the absence of a holder, or if the holder fitted is too small to serve
+its proper purpose, "aftergeneration" is extremely troublesome and
+sometimes dangerous, but a full discussion of this subject must be
+postponed to the next chapter.
+
+EFFECT OF HEAT ON ACETYLENE.--The effect of excessive retention of heat
+in an acetylene generator upon the gas itself is very marked, as
+acetylene begins spontaneously to suffer change, and to be converted into
+other compounds at elevated temperatures. Being a purely chemical
+phenomenon, the behaviour of acetylene when exposed to heat will be fully
+discussed in Chapter VI. when the properties of the gas are being
+systematically dealt with. Here it will be sufficient to assume that the
+character of the changes taking place is understood, and only the
+practical results of those changes as affecting the various components of
+an acetylene installation have to be studied. According to Lewes,
+acetylene commences to "polymerise" at a temperature of about 600 deg. C.,
+when it is converted into other hydrocarbons having the same percentage
+composition, but containing more atoms of carbon and hydrogen in their
+molecules. The formula of acetylene is C_2H_2 which means that 2 atoms of
+carbon and 2 atoms of hydrogen unite to form 1 molecule of acetylene, a
+body evidently containing roughly 92.3 per cent. by weight of carbon and
+7.7 per cent. by weight of hydrogen. One of the most noteworthy
+substances produced by the polymerisation of acetylene is benzene, the
+formula of which is C_6H_6, and this is formed in the manner indicated by
+the equation--
+
+(4) 3C_2H_2 = C_6H_6.
+
+Now benzene also contains 92.3 per cent. of carbon and 7.7 per cent. by
+weight of hydrogen in its composition, but its molecule contains 6 atoms
+of each element. When the chemical formula representing a compound body
+indicates a substance which is, or can be obtained as, a gas or vapour,
+it convoys another idea over and above those mentioned on a previous
+page. The formula "C_2H_2," for example, means 1 molecule, or 26 parts by
+weight of acetylene, just as "H_2" means 1 molecule, or 2 parts by weight
+of hydrogen; but both formulae also mean equal parts by volume of the
+respective substances, and since H_2 must mean 2 volumes, being twice H,
+which is manifestly 1, C_2H_2 must mean 2 volumes of acetylene as well.
+Thus equation (4) states that 6 volumes of acetylene, or 3 x 26 parts by
+weight, unite to form 2 volumes of benzene, or 78 parts by weight. If
+these hydrocarbons are burnt in air, both are indifferently converted
+into carbon dioxide (carbonic acid gas) and water vapour; and, neglecting
+for the sake of simplicity the nitrogen of the atmosphere, the processes
+may be shown thus:
+
+(5) 2C_2H_2 + 5O_2 = 4CO_2 + 2H_2O.
+
+(6) 2C_6H_6 + 15O_2 = 12CO_2 + 6H_2O.
+
+Equation (5) shows that 4 volumes of acetylene combine with 10 volumes of
+oxygen to produce 8 volumes of carbon dioxide and 4 of water vapour;
+while equation (6) indicates that 4 volumes of benzene combine with 30
+volumes of oxygen to yield 24 volumes of carbon dioxide and 12 of water
+vapour. Two parts by volume of acetylene therefore require 5 parts by
+volume of oxygen for perfect combustion, whereas two parts by volume of
+benzene need 15--_i.e._, exactly three times as much. In order to
+work satisfactorily, and to develop the maximum of illuminating power
+from any kind of gas consumed, a gas-burner has to be designed with
+considerable skill so as to attract to the base of the flame precisely
+that volume of air which contains the quantity of oxygen necessary to
+insure complete combustion, for an excess of air in a flame is only less
+objectionable than a deficiency thereof. If, then, an acetylene burner is
+properly constructed, as most modern ones are, it draws into the flame
+air corresponding with two and a half volumes of oxygen for every one
+volume of acetylene passing from the jets; whereas if it were intended
+for the combustion of benzene vapour it would have to attract three times
+that quantity. Since any flame supplied with too little air tends to emit
+free carbon or soot, it follows that any well-made acetylene burner
+delivering a gas containing benzene vapour will yield a more or lens
+smoky flame according to the proportion of benzene in the acetylene.
+Moreover, at ordinary temperatures benzene is a liquid, for it boils at
+81 deg. C., and although, as was explained above in the case of water, it is
+capable of remaining in the state of vapour far below its boiling-point
+so long as it is suspended in a sufficiency of some permanent gas like
+acetylene, if the proportion of vapour in the gas at any given
+temperature exceeds a certain amount the excess will be precipitated in
+the liquid form; while as the temperature falls the proportion of vapour
+which can be retained in a given volume of gas also diminishes to a
+noteworthy extent. Should any liquid, be it water or benzene, or any
+other substance, separate from the acetylene under the influence of cold
+while the gas is passing through pipes, the liquid will run downwards to
+the lowest points in those pipes; and unless due precautions are taken,
+by the insertion of draw-off cocks, collecting wells, or the like, to
+withdraw the deposited water or other liquid, it will accumulate in all
+bends, angles, and dips till the pipes are partly or completely sealed
+against the passage of gas, and the lights will either "jump" or be
+extinguished altogether. In the specific case of an acetylene generator
+this trouble is very likely to arise, even when the gas is not heated
+sufficiently during evolution for polymerisation to occur and benzene or
+other liquid hydrocarbons to be formed, because any excess of water
+present in the decomposing vessel is liable to be vaporised by the heat
+of the reaction--as already stated it is desirable that water shall be so
+vaporised--and will remain safely vaporised as long as the pipes are kept
+warm inside or near the generator; but directly the pipes pass away from
+the hot generator the cooling action of the air begins, and some liquid
+water will be immediately produced. Like the phenomenon of after-
+generation, this equally inevitable phenomenon of water condensation will
+be either an inconvenience or source of positive danger, or will be a
+matter of no consequence whatever, simply as the whole acetylene
+installation, including the service-pipes, is ignorantly or intelligently
+built.
+
+As long as nothing but pure polymerisation happens to the acetylene, as
+long, that is to say, as it is merely converted into other hydrocarbons
+also having the general formula C_(2n)H_(2n), no harm will be done to the
+gas as regards illuminating power, for benzene burns with a still more
+luminous flame than acetylene itself; nor will any injury result to the
+gas if it is required for combustion in heating or cooking stoves beyond
+the fact that the burners, luminous or atmospheric, will be delivering a
+material for the consumption of which they are not properly designed. But
+if the temperature should rise much above the point at which benzene is
+the most conspicuous product of polymerisation, other far more
+complicated changes occur, and harmful effects may be produced in two
+separate ways. Some of the new hydrocarbons formed may interact to yield
+a mixture of one or more other hydrocarbons containing a higher
+proportion of carbon than that which is present in acetylene and benzene,
+together with a corresponding proportion of free hydrogen; the former
+will probably be either liquids or solids, while the latter burns with a
+perfectly non-luminous flame. Thus the quantity of gas evolved from the
+carbide and passed into the holder is less than it should be, owing to
+the condensation of its non-gaseous constituents. To quote an instance of
+this, Haber has found 15 litres of acetylene to be reduced in volume to
+10 litres when the gas was heated to 638 deg. C. By other changes, some
+"saturated hydrocarbons," _i.e._, bodies having the general formula
+C_nH_(2n+2), of which methane or marsh-gas, CH_4 is the best known, may
+be produced; and those all possess lower illuminating powers than
+acetylene. In two of those experiments already described, where Lewes
+observed maximum temperatures ranging from 703 deg. to 807 deg. C.,
+samples of the gas which issued when the heat was greatest were submitted
+to chemical analysis, and their illuminating powers were determined. The
+figures he gives are as follows:
+
+                                     I.         II.
+                                  Per Cent.   Per Cent.
+       Acetylene                    70.0        69.7
+       Saturated hydrocarbons       11.3        11.4
+       Hydrogen                     18.7        18.9
+                                   _____       _____
+
+                                   100.0       100.0
+
+The average illuminating power of these mixed gases is about 126 candles
+per 5 cubic feet, whereas that of pure acetylene burnt under good
+laboratory conditions is 240 candles per 5 cubic feet. The product, it
+will be seen, had lost almost exactly 50 per cent. of its value as an
+illuminant, owing to the excessive heating to which it had been, exposed.
+Some of the liquid hydrocarbons formed at the same time are not limpid
+fluids like benzene, which is less viscous than water, but are thick oily
+substances, or even tars. They therefore tend to block the tubes of the
+apparatus with great persistence, while the tar adheres to the calcium
+carbide and causes its further attack by water to be very irregular, or
+even altogether impossible. In some of the very badly designed generators
+of a few years back this tarry matter was distinctly visible when the
+apparatus was disconnected for recharging, for the spent carbide was
+exceptionally yellow, brown, or blackish in colour, [Footnote: As will be
+pointed out later, the colour of the spent lime cannot always be employed
+as a means for judging whether overheating has occurred in a generator.]
+and the odour of tar was as noticeable as that of crude acetylene.
+
+There is another effect of heat upon acetylene, more calculated to be
+dangerous than any of those just mentioned, which must not be lost sight
+of. Being an endothermic substance, acetylene is prone to decompose into
+its elements--
+
+(7) C_2H_2 -> C_2 + H_2
+
+whenever it has the opportunity; and the opportunity arrives if the
+temperature of the gas risen to 780 deg. C., or if the pressure under which
+the gas is stored exceeds two atmospheres absolute (roughly 30 lb. per
+square inch). It decomposes, be it carefully understood, in the complete
+absence of air, directly the smallest spark of red-hot material or of
+electricity, or directly a gentle shock, such as that of a fall or blow
+on the vessel holding it, is applied to any volume of acetylene existing
+at a temperature exceeding 780 deg. or at a gross pressure of 30 lb. per
+square inch; and however large that volume may be, unless it is contained
+in tubes of very small diameter, as will appear hereafter, the
+decomposition or dissociation into its elements will extend throughout
+the whole of the gas. Equation (7) states that 2 volumes of acetylene
+yield 2 volumes of hydrogen and a quantity of carbon which would measure
+2 volumes were it obtained in the state of gas, but which, being a solid,
+occupies a space that may be neglected. Apparently, therefore, the
+dissociation of acetylene involves no alteration in volume, and should
+not exhibit explosive effects. This is erroneous, because 2 volumes of
+acetylene only yield exactly 2 volumes of hydrogen when both gases are
+measured at the same temperature, and all gases increase in volume as
+their temperature rises. As acetylene is endothermic and evolves much
+heat on decomposition, and as that heat must primarily be communicated to
+the hydrogen, it follows that the latter must be much hotter than the
+original acetylene; the hydrogen accordingly strives to fill a much
+larger space than that occupied by the undecomposed gas, and if that gas
+is contained in a closed vessel, considerable internal pressure will be
+set up, which may or may not cause the vessel to burst.
+
+What has been said in the preceding paragraph about the temperature at
+which acetylene decomposes is only true when the gas is free from any
+notable quantity of air. In presence of air, acetylene inflames at a much
+lower temperature, viz., 480 deg. C. In a manner precisely similar to that
+of all other combustible gases, if a stream of acetylene issues into the
+atmosphere, as from the orifices of a burner, the gas catches fire and
+burns quietly directly any substance having a temperature of 480 deg. C. or
+upwards is brought near it; but if acetylene in bulk is mixed with the
+necessary quantity of air to support combustion, and any object exceeding
+480 deg. C. in temperature comes in contact with it, the oxidation of the
+hydrocarbon proceeds at such a high rate of speed as to be termed an
+explosion. The proportion of air needed to support combustion varies with
+every combustible material within known limits (_cf._ Chapter VI.),
+and according to Eitner the smallest quantity of air required to make
+acetylene burn or explode, as the case may be, is 25 per cent. If, by
+ignorant design or by careless manipulation, the first batches of
+acetylene evolved from a freshly charged generator should contain more
+than 25 per cent. of air; or if in the inauguration of a new installation
+the air should not be swept out of the pipes, and the first makes of gas
+should become diluted with 25 to 50 per cent. of air, any glowing body
+whose temperature exceeds 480 deg. C. will fire the gas; and, as in the
+former instance, the flame will extend all through the mass of acetylene
+with disastrous violence and at enormous speed unless the gas is stored
+in narrow pipes of extremely small diameter. Three practical lessons are
+to be learnt from this circumstance: first, tobacco-smoking must never be
+permitted in any building where an escape of raw acetylene is possible,
+because the temperature of a lighted cigar, &c.;, exceeds 480 deg. C.;
+secondly, a light must never be applied to a pipe delivering acetylene
+until a proper acetylene burner has been screwed into the aperture;
+thirdly, if any appreciable amount of acetylene is present in the air, no
+operation should be performed upon any portion of an acetylene plant
+which involves such processes as scraping or chipping with the aid of a
+steel tool or shovel. If, for example, the iron or stoneware sludge-pipe
+is choked, or the interior of the dismantled generator is blocked, and
+attempts are made to remove the obstruction with a hard steel tool, a
+spark is very likely to be formed which, granting the existence of
+sufficient acetylene in the air, is perfectly able to fire the gas. For
+all such purposes wooden implements only are best employed; but the
+remark does not apply to the hand-charging of a carbide-to-water
+generator through its proper shoot. Before passing to another subject, it
+may be remarked that a quantity of air far less than that which causes
+acetylene to become dangerous is objectionable, as its presence is apt to
+reduce the illuminating power of the gas unduly.
+
+EFFECT OF HEAT ON CARBIDE.--Chemically speaking, no amount of heat
+possible of attainment in the worst acetylene generator can affect
+calcium carbide in the slightest degree, because that substance may be
+raised to almost any temperature short of those distinguishing the
+electric furnace, without suffering any change or deterioration. In the
+absence of water, calcium carbide is as inert a substance as can well be
+imagined: it cannot be made to catch fire, for it is absolutely
+incombustible, and it can be heated in any ordinary flame for reasonable
+periods of time, or thrown into any non-electrical furnace without
+suffering in the least. But in presence of water, or of any liquid
+containing water, matters are different. If the temperature of an
+acetylene generator rises to such an extent that part of the gas is
+polymerised into tar, that tar naturally tends to coat the residual
+carbide lumps, and, being greasy in character, more or less completely
+protects the interior from further attack. Action of this nature not only
+means that the acetylene is diminished in quantity and quality by partial
+decomposition, but it also means that the make is smaller owing to
+imperfect decomposition of the carbide: while over and above this is the
+liability to nuisance or danger when a mass of solid residue containing
+some unaltered calcium carbide is removed from the apparatus and thrown
+away. In fact, whenever the residue of a generator is not so saturated
+with excess of water as to be of a creamy consistency, it should be put
+into an uncovered vessel in the open air, and treated with some ten times
+its volume of water before being run into any drain or closed pipe where
+an accumulation of acetylene may occur. Even at temperatures far below
+those needed to determine a production of tar or an oily coating on the
+carbide, if water attacks an excess of calcium carbide somewhat rapidly,
+there is a marked tendency for the carbide to be "baked" by the heat
+produced; the slaked lime adhering to the lumps as a hard skin which
+greatly retards the penetration of more water to the interior.
+
+COLOUR OF SPENT CARBIDE.--In the early days of the industry, it was
+frequently taken for granted that any degradation in the colour of the
+spent lime left in an acetylene generator was proof that overheating had
+taken place during the decomposition of the carbide. Since both calcium
+oxide and hydroxide are white substances, it was thought that a brownish,
+greyish, or blackish residue must necessarily point to incipient
+polymerisation of the gas. This view would be correct if calcium carbide
+were prepared in a state of chemical purity, for it also is a white body.
+Commercial carbide, however, is not pure; it usually contains some
+foreign matter which tints the residue remaining after gasification. When
+a manufacturer strives to give his carbide the highest gas-making power
+possible he frequently increases the proportion of carbon in the charge
+submitted to electric smelting, until a small excess is reached, which
+remains in the free state amongst the finished carbide. After
+decomposition the fine particles of carbon stain the moist lime a bluish
+grey tint, the depth of shade manifestly depending upon the amount
+present. If such a sludge is copiously diluted with water, particles of
+carbon having the appearance and gritty or flaky nature of coke often
+rise to the surface or fall to the bottom of the liquid; whence they can
+easily be picked out and identified as pure or impure carbon by simple
+tests. Similarly the lime or carbon put into the electric furnace may
+contain small quantities of compounds which are naturally coloured; and
+which, reappearing in the sludge either in their original or in a
+different state of combination, confer upon the sludge their
+characteristic tinge. Spent lime of a yellowish brown colour is
+frequently to be met with in circumstances that are clearly no reproach
+to the generator. Doubtless the tint is due to the presence of some
+coloured metallic oxide or other compound which has escaped reduction in
+the electric furnace. The colour which the residual lime afterwards
+assumes may not be noticeable in the dry carbide before decomposition,
+either because some change in the colour-giving impurity takes place
+during the chemical reactions in the generator or because the tint is
+simply masked by the greyish white of the carbide and its free carbon.
+Hence it follows that a bad colour in the waste lime removed from a
+generator only points to overheating and polymerisation of the acetylene
+when corroborative evidence is obtained--such as a distinct tarry smell,
+the actual discovery of oily or tarry matters elsewhere, or a grave
+reduction in the illuminating power of the gas.
+
+MAXIMUM ATTAINABLE TEMPERATURES.--In order to discover the maximum
+temperature which can be reached in or about an acetylene generator when
+an apparatus belonging to one of the best types is fed at a proper rate
+with calcium carbide in lumps of the most suitable size, the following
+calculation may be made. In the first place, it will be assumed that no
+loss of heat by radiation occurs from the walls of the generator;
+secondly, the small quantity of heat taken up by the calcium hydroxide
+produced will be ignored; and, thirdly, the specific heat of acetylene
+will be assumed to be 0.25, which is about its most probable value. Now,
+a hand-fed carbide-to-water generator will work with half a gallon of
+water for every 1 lb. of carbide decomposed, quantities which correspond
+with 320 grammes of water per 64 grammes (1 molecular weight) of carbide.
+Of those 320 grammes of water, 18 are chemically destroyed, leaving 302.
+The decomposition of 64 grammes of commercial carbide evolves 28 large
+calories of heat. Assuming all the heat to be absorbed by the water, 28
+calories would raise 302 grammes through (28 X 1000 / 302) = 93 deg. C.,
+_i.e._, from 44.6 deg. F. to the boiling-point. Assuming all the heat to
+be communicated to the acetylene, those 28 calories would raise the 26
+grammes of gas liberated through (28 X 1000 / 26 / 0.25) = 4308 deg. C., if
+that were possible. But if, as would actually be the case, the heat were
+distributed uniformly amongst the 302 grammes of water and the 20 grammes
+of acetylene, both gas and water would be raised through the same number
+of degrees, viz., 90.8 deg. C. [Footnote: Let x = the number of large
+calories absorbed by the water; then 28 - x = those taken up by the gas.
+Then--
+
+1000x / 302 = 1000 (28 - x) / (26 X 0.25)
+
+whence x = 27.41; and 28 - x = 0.59.
+
+Therefore, for water, the rise in temperature is--
+
+27.41 X 1000 / 302 = 90.8 deg. C.;
+
+and for acetylene the rise is--
+
+0.59 X 1000 / 26 / 0.25 = 90.8 deg. C.]
+
+If the generator were designed on lines to satisfy the United States Fire
+Underwriters, it would contain 8.33 lb. of water to every 1 lb. of
+carbide attacked; identical calculations then showing that the original
+temperature of the water and gas would be raised through 53.7 deg. C.
+Provided the carbide is not charged into such an apparatus in lumps of
+too large a size, nor at too high a rate, there will be no appreciable
+amount of local overheating developed; and nowhere, therefore, will the
+rise in temperature exceed 91 deg. in the first instance, or 54 deg. C. in
+the second. Indeed it will be considerably smaller than this, because a
+large proportion of the heat evolved will be lost by radiation through the
+generator walls, while another portion will be converted from sensible
+into latent heat by causing part of the water to pass off as vapour with
+the acetylene.
+
+EFFECT OF HIGH TEMPERATURES ON GENERATORS.--As the temperature amongst
+the carbide in any generator in which water is not present in large
+excess may easily reach 200 deg. C. or upwards, no material ought to be
+employed in the construction of such generators which is not competent to
+withstand a considerable amount of heat in perfect safety. The ordinary
+varieties of soft solder applied with the bitt in all kinds of light
+metal-work usually melt, according to their composition, at about 180 deg.
+C.; and therefore this method of making joints is only suitable for
+objects that are never raised appreciably in temperature above the
+boiling-point of water. No joint in an acetylene generator, the partial
+or complete failure of which would radically affect the behaviour of the
+apparatus, by permitting the charges of carbide and of water to come into
+contact at an abnormal rate of speed, by allowing the acetylene to escape
+directly through the crack into the atmosphere, or by enabling the water
+to run out of the seal of any vessel containing gas so as to set up a
+free communication between that vessel and the air, ought ever to be made
+of soft solder--every joint of this character should be constructed
+either by riveting, by bolting, or by doubly folding the metal sheets.
+Apparently, a joint constantly immersed in water on one side cannot rise
+in temperature above the boiling-point of the liquid, even when its other
+side is heated strongly; but since, even if a generator is not charged
+with naturally hard water, its fluid contents soon become "hard" by
+dissolution of lime, there is always a liability to the deposition of
+water scale over the joint. Such water scale is a very bad heat
+conductor, as is seen in steam boilers, so that a seam coated with an
+exceedingly thin layer of scale, and heated sharply on one side, will
+rise above the boiling-point of water even if the liquid on its opposite
+side is ice-cold. For a while the film of scale may be quite water-tight,
+but after it has been heated by contact with the hot metal several times
+it becomes brittle and cracks without warning. But there is a more
+important reason for avoiding the use of plumbers' solder. It might seem
+that as the natural hard, protective skin of the metal is liable to be
+injured or removed by the bending or by the drilling or punching which
+precedes the insertion of the rivets or studs, an application of soft
+solder to such a joint should be advantageous. This is not true because
+of the influence of galvanic action. As all soft solders consist largely
+of lead, if a joint is soldered, a "galvanic couple" of lead and iron, or
+of lead and zinc (when the apparatus is built of galvanised steel), is
+exposed to the liquid bathing it; and since in both cases the lead is
+highly electro-negative to the iron or zinc, it is the iron or zinc which
+suffers attack, assuming the liquid to possess any corrosive properties
+whatever. Galvanised iron which has been injured during the joint-making
+presents a zinc-iron couple to the water, but the zinc protects the iron;
+if a lead solder is present, the iron will begin to corrode immediately
+the zinc has disappeared. In the absence of lead it is the less important
+metal, but in the presence of lead it is the more important (the
+foundation) metal which is the soluble element of the couple. Where
+practicable, joints in an acetylene generator may safely be made by
+welding or by autogenous soldering ("burning"), because no other metal is
+introduced into the system; any other process, except that of riveting or
+folding, only hastens destruction of the plant. The ideal method of
+making joints about an acetylene generator is manifestly that of
+autogenous soldering, because, as will appear in Chapter IX. of this
+book, the most convenient and efficient apparatus for performing the
+operation is the oxy-acetylene blow-pipe, which can be employed so as to
+convert two separate pieces of similar metal into one homogeneous whole.
+
+In less critical situations in an acetylene plant, such as the partitions
+of a carbide container, &c.;, where the collapse of the seam or joint
+would not be followed by any of the effects previously suggested, there
+is less cause for prohibiting the use of unfortified solder; but even
+here, two or three rivets, just sufficient to hold the metal in position
+if the solder should give way, are advisedly put into all apparatus. In
+other portions of an acetylene installation where a merely soldered joint
+is exposed to warm damp gas which is in process of cooling, instead of
+being bathed in hard water, an equal, though totally dissimilar, danger
+is courted. The main constituent of such solders that are capable of
+being applied with the bitt is lead; lead is distinctly soluble in soft
+or pure water; and the water which separates by condensation out of a
+warm damp gas is absolutely soft, for it has been distilled. If
+condensation takes place at or near a soldered joint in such a way that
+water trickles over the solder, by slow degrees the metallic lead will be
+dissolved and removed, and eventually a time will come when the joint is
+no longer tight to gas. In fact, if an acetylene installation is of more
+than very small dimensions, _e.g._, when it is intended to supply
+any building as large as, or larger than, the average country residence,
+if it is to give satisfaction to both constructor and purchaser by being
+quite trustworthy and, possessed of a due lease of life, say ten or
+fifteen years, it must be built of stouter materials than the light
+sheets which alone are suitable for manipulation with the soldering-iron
+or for bending in the ordinary type of metal press. Sound cast-iron,
+heavy sheet-metal, or light boiler-plate is the proper substance of which
+to construct all the important parts of a generator, and the joints in
+wrought metal must be riveted and caulked or soldered autogeneously as
+mentioned above. So built, the installation becomes much more costly to
+lay down than an apparatus composed of tinplate, zinc, or thin galvanised
+iron, but it will prove more economical in the long run. It is not too
+much to say that if ignorant and short-sighted makers in the earliest
+days of the acetylene industry had not recommended and supplied to their
+customers lightly built apparatus which has in many instances already
+begun to give trouble, to need repairs, and to fail by thorough
+corrosion--apparatus which frequently had nothing but cheapness in its
+favour--the use of the gas would have spread more rapidly than it has
+done, and the public would not now be hearing of partial or complete
+failures of acetylene installations. Each of these failures, whether
+accompanied by explosions and injury to persons or not, acts more
+powerfully to restrain a possible new customer from adopting the
+acetylene light, than several wholly successful plants urge him to take
+it up; for the average member of the public is not in a position to
+distinguish properly between the collapse of a certain generator owing to
+defective design or construction (which reflects no discredit upon the
+gas itself), and the failure of acetylene to show in practice those
+advantages that have been ascribed to it. One peculiar and noteworthy
+feature of acetylene, often overlooked, is that the apparatus is
+constructed by men who may have been accustomed to gas-making plant all
+their lives, and who may understand by mere habit how to superintend a
+chemical operation; but the same apparatus is used by persons who
+generally have no special acquaintance with such subjects, and who, very
+possibly, have not even burnt coal-gas at any period of their lives.
+Hence it happens that when some thoughtless action on the part of the
+country attendant of an acetylene apparatus is followed by an escape of
+gas from the generator, and by an accumulation of that gas in the house
+where the plant is situated, or when, in disregard of rules, he takes a
+naked light into the house and an explosion follows, the builder
+dismisses the episode as a piece of stupidity or wilful misbehaviour for
+which he can in nowise be held morally responsible; whereas the builder
+himself is to blame for designing an apparatus from which an escape of
+gas can be accompanied by sensible risks to property or life. However
+unpalatable this assertion may be, its truth cannot be controverted;
+because, short of criminal intention or insanity on the part of the
+attendant, it is in the first place a mere matter of knowledge and skill
+so to construct an acetylene plant that an escape of gas is extremely
+unlikely, even when the apparatus is opened for recharging, or when it is
+manipulated wrongly; and in the second place, it is easy so to arrange
+the plant that any disturbance of its functions which may occur shall be
+followed by an immediate removal of the surplus gas into a place of
+complete safety outside and above the generator-house.
+
+GENERATION AT LOW TEMPERATURES.--In all that has been said hitherto about
+the reaction between calcium carbide and water being instantaneous, it
+has been assumed that the two substances are brought together at or about
+the usual temperature of an occupied room, _i.e._, 15 degrees C. If,
+however, the temperature is materially lower than this, the speed of the
+reaction falls off, until at -5 degrees C., supposing the water still to
+remain liquid, evolution of acetylene practically ceases. Even at the
+freezing-point of pure water gas is produced but slowly; and if a lump of
+carbide is thrown on to a block of ice, decomposition proceeds so gently
+that the liberated acetylene may be ignited to form a kind of torch,
+while heat is generated with insufficient rapidity to cause the carbide
+to sink into the block. This fact has very important bearings upon the
+manipulation of an acetylene generator in winter time. It is evident that
+unless precautions are taken those portions of an apparatus which contain
+water are liable to freeze on a cold night; because, even if the
+generator has been at work producing gas (and consequently evolving heat)
+till late in the evening, the surplus heat stored in the plant may escape
+into the atmosphere long before more acetylene has to be made, and
+obviously while frost is still reigning in the neighbourhood. If the
+water freezes in the water store, in the pipes leading therefrom, in the
+holder seal, or in the actual decomposing chamber, a fresh batch of gas
+is either totally incapable of production, because the water cannot be
+brought into contact with the calcium carbide in the apparatus, or it can
+only be generated with excessive slowness because the carbide introduced
+falls on to solid ice. Theoretically, too, there is a possibility that
+some portion of the apparatus--a pipe in particular--may be burst by the
+freezing, owing to the irresistible force with which water expands when
+it changes into the solid condition. Probably this last contingency,
+clearly accompanied as it would be by grave risk, is somewhat remote, all
+the plant being constructed of elastic material; but in practice even a
+simple interference with the functions of a generator by freezing,
+ideally of no special moment, is highly dangerous, because of the great
+likelihood that hurried and wholly improper attempts to thaw it will be
+made by the attendant. As it has been well known for many years that the
+solidifying point of water can be lowered to almost any degree below
+normal freezing by dissolving in it certain salts in definite
+proportions, one of the first methods suggested for preventing the
+formation of ice in an acetylene generator was to employ such a salt,
+using, in fact, for the decomposition of the carbide some saline solution
+which remains liquid below the minimum night temperature of the winter
+season. Such a process, however, has proved unsuitable for the purpose in
+view; and the explanation of that fact is found in what has just been
+stated: the "water" of the generator may admittedly be safely maintained
+in the fluid state, but from so cold a liquid acetylene will not be
+generated smoothly, if at all. Moreover, were it not so, a process of
+this character is unnecessarily expensive, although suitable salts are
+very cheap, for the water of the generator is constantly being consumed,
+[Footnote: It has already been said that most generators "consume" a much
+larger volume of water than the amount corresponding with the chemical
+reaction involved: the excess of water passing into the sludge or by-
+product. Thus a considerable quantity of any anti-freezing agent must be
+thrown aside each time the apparatus is cleaned out or its fluid contents
+are run off.] and as constantly needs renewal; which means that a fresh
+batch of salt would be required every time the apparatus was recharged,
+so long as frost existed or might be expected. A somewhat different
+condition obtains in the holder of an acetylene installation. Here,
+whenever the holder is a separate item in the plant, not constituting a
+portion of the generating apparatus, the water which forms the seal of a
+rising holder, or which fills half the space of a displacement holder,
+lasts indefinitely; and it behaves equally well, whatever its temperature
+may be, so long as it retains a fluid state. This matter will be
+discussed with greater detail at the end of Chapter III. At present the
+point to be insisted on is that the temperature in any constituent of an
+acetylene installation which contains water must not be permitted to fall
+to the freezing-point; while the water actually used for decomposition
+must be kept well above that temperature.
+
+GENERATION AT HIGH TEMPERATURES.--At temperatures largely exceeding those
+of the atmosphere, the reaction between calcium carbide and water tends
+to become irregular; while at a red heat steam acts very slowly upon
+carbide, evolving a mixture of acetylene and hydrogen in place of pure
+acetylene. But since at pressures which do not materially exceed that of
+the atmosphere, water changes into vapour at 100 deg. C., above that
+temperature there can be no question of a reaction between carbide and
+liquid water. Moreover, as has been pointed out, steam or water vapour
+will continue to exist as such at temperatures even as low as the
+freezing-point so long as the vapour is suspended among the particles of
+a permanent gas. Between calcium carbide and water vapour a double
+decomposition occurs chemically identical with that between carbide and
+liquid water; but the physical effect of the reaction and its practical
+bearings are considerably modified. The quantity of heat liberated when
+30 parts by weight of steam react with 64 parts of calcium carbide should
+be essentially unaltered from that evolved when the reagent is in the
+liquid state; but the temperature likely to be attained when the speed of
+reaction remains the same as before will be considerably higher for two
+conspicuous reasons. In the first place, the specific heat of steam in is
+only 0.48, while that of liquid water is 1.0. Hence, the quantity of heat
+which is sufficient to raise the temperature of a given weight of liquid
+water through _n_ thermometric degrees, will raise the temperature
+of the same weight of water vapour through rather more than 2 _n_
+degrees. In the second place, that relatively large quantity of heat
+which in the case of liquid water merely changes the liquid into a
+vapour, becoming "latent" or otherwise unrecognisable, and which, as
+already shown, forms roughly five-sixths of the total heat needed to
+convert cold water into steam, has no analogue if the water has
+previously been vaporised by other means; and therefore the whole of the
+heat supplied to water vapour raises its sensible temperature, as
+indicated by the thermometer. Thus it appears that, except for the
+sufficient amount of cooling that can be applied to a large vessel
+containing carbide by surrounding it with a water jacket, there is no way
+of governing its temperature satisfactorily if water vapour is allowed to
+act upon a mass of carbide--assuming, of course, that the reaction
+proceeds at any moderate speed, _e.g._, at a rate much above that
+required to supply one or two burners with gas.
+
+The decomposition which with perfect chemical accuracy has been stated to
+occur quantitatively between 36 parts by weight, of water and 64 parts of
+calcium carbide scarcely ever takes place in so simple a fashion in an
+actual generator. Owing to the heat developed when carbide is in excess,
+about half the water is converted into vapour; and so the reaction
+proceeds in two stages: half the water added reacting with the carbide as
+a liquid, the other half, in a state of vapour, afterwards reacting
+similarly, [Footnote: This secondary reaction is manifestly only another
+variety of the phenomenon known as "after-generation" (cf. _ante_).
+After-generation is possible between calcium carbide and mechanically
+damp slaked lime, between carbide and damp gas, or between carbide and
+calcium hydroxide, as opportunity shall serve. In all cases the carbide
+must be in excess.] or hardly reacting at all, as the case may be.
+Suppose a vessel, A B, somewhat cylindrical in shape, is charged with
+carbide, and that water is admitted at the end called A. Suppose now (1)
+that the exit for gas is at the opposite end, B. As the lumps near A are
+attacked by half the liquid introduced, while the other half is changed
+into steam, a current, of acetylene and water vapour travels over the
+charge lying between the decomposing spot and the end B. During its
+passage the second half of the water, as vapour, reacts with the excess
+of carbide, the first make of acetylene being dried, and more gas being
+produced. Thus a second quantity of heat is developed, equal by theory to
+that previously evolved; but a second elevation in temperature, far more
+serious, and far less under control, than the former also occurs; and
+this is easily sufficient to determine some of those undesirable effects
+already described. Digressing for a moment, it may be admitted that the
+desiccation of the acetylene produced in this manner is beneficial, even
+necessary; but the advantages of drying the gas at this period of its
+treatment are outweighed by the concomitant disadvantages and by the
+later inevitable remoistening thereof. Suppose now (2) that both the
+water inlet and the gas exit of the carbide cylinder are at the same end,
+A. Again half the added water, as liquid, reacts with the carbide it
+first encounters, but the hot stream of damp gas is not permitted to
+travel over the rest of the lumps extending towards B: it is forced to
+return upon its steps, leaving B practically untouched. The gas
+accordingly escapes from the cylinder at A still loaded with water
+vapour, and for a given weight of water introduced much less acetylene is
+evolved than in the former case. The gas, too, needs drying somewhere
+else in the plant; but these defects are preferable to the apparent
+superiority of the first process because overheating is, or can be, more
+thoroughly guarded against.
+
+PRESSURE IN GENERATORS.--Inasmuch as acetylene is prone to dissociate or
+decompose into its elements spontaneously whenever its pressure reaches 2
+atmospheres or 30 lb. per square inch, as well as when its temperature at
+atmospheric pressure attains 780 deg. C., no pressure approaching that of 2
+atmospheres is permissible in the generator. A due observance of this
+rule, however, unlike a proper maintenance of a low temperature in an
+acetylene apparatus, is perfectly easy to arrange for. The only reason
+for having an appreciable positive pressure in any form of generating
+plant is that the gas may be compelled to travel through the pipes and to
+escape from the burner orifices; and since the plant is only installed to
+serve the burners, that pressure which best suits the burners must be
+thrown by the generator or its holder. Therefore the highest pressure it
+is ever requisite to employ in a generator is a pressure sufficient
+(_a_) to lift the gasholder bell, or to raise the water in a
+displacement holder, (_b_) to drive the gas through the various
+subsidiary items in the plant, such as washers and purifiers, (_c_)
+to overcome the friction in the service-pipes, [Footnote: This friction
+manifestly causes a loss of pressure, _i.e._, a fall in pressure, as
+a gas travels along a pipe; and, as will be shown in Chapter VII., it is
+the fall in pressure in a pipe rather than the initial pressure at which
+a gas enters a pipe that governs the volume of gas passing through that
+pipe. The proper behaviour and economic working of a burner (acetylene or
+other, luminous or incandescent) naturally depend upon the pressure in
+the pipe to which the burner is immediately attached being exactly suited
+to the design of that burner, and have nothing to do with the fall in
+pressure occurring in the delivery pipes. It is therefore necessary to
+keep entirely separate the ideas of proper burner pressure and of maximum
+desirable fall in pressure within the service due to friction.] and
+(d) to give at the points of combustion a pressure which is
+required by the particular burners adopted. In all except village or
+district installations, (_c_) may be virtually neglected. When the
+holder has a rising bell, (_a_) represents only an inch or so of
+water; but if a displacement holder is employed the pressure needed to
+work it is entirely indeterminate, being governed by the size and shape
+of the said holder. It will be argued in Chapter III. that a rising
+holder is always preferable to one constructed on the displacement
+principle. The pressure (d) at the burners may be taken at 4
+inches of water as a maximum, the precise figure being dependent upon the
+kind of burners--luminous, incandescent, boiling, &c.--attached; to the
+main. The pressure (_b_) also varies according to circumstances, but
+averages 2 or 3 inches. Thus a pressure in the generator exceeding that
+of the atmosphere by some 12 inches of water--_i.e._, by about 7
+oz., or less than half a pound per square inch--is amply sufficient for
+every kind of installation, the less meritorious generators with
+displacement holders only excepted. This pressure, it should be noted, is
+the net or effective pressure, the pressure with which the gas raises the
+liquid in a water-gauge glass out of the level while the opposite end of
+the water column is exposed to the atmosphere. The absolute pressure in a
+vessel containing gas at an effective pressure of 12 inches of water is 7
+oz. plus the normal, insensible pressure of the atmosphere itself--say
+15-1/4 lb. per square inch. The liquid in a barometer which measures the
+pressure of the atmosphere stands at a height of 30 inches only, because
+that liquid is mercury, 13.6 times as heavy as water. Were it filled with
+water the barometer would stand at (30 X 13.6) = 408 inches, or 34 feet,
+approximately. Gas pressures are always measured in inches of water
+column, because expressed either as pounds per square inch or as inches
+of mercury, the figures would be so small as to give decimals of unwieldy
+length.
+
+It would of course be perfectly safe so to arrange an acetylene plant
+that the pressure in the generating chamber should reach the 100 inches
+of water first laid down by the Home Office authorities as the maximum
+allowable. There is, however, no appreciable advantage to be gained by so
+doing, or by exceeding that pressure which feeds the burners best. Any
+higher original pressure involves the use of a governor at the exit of
+the plant, and a governor is a costly and somewhat troublesome piece of
+apparatus that can be dispensed with in most single installations by a
+proper employment of a well-balanced rising holder.
+
+
+
+CHAPTER III
+
+THE GENERAL PRINCIPLES OF ACETYLENE GENERATION--ACETYLENE GENERATING
+APPARATUS
+
+Inasmuch as acetylene is produced by the mere interaction of calcium
+carbide and water, that is to say, by simply bringing those two
+substances in the cold into mutual contact within a suitable closed
+space, and inasmuch as calcium carbide can always be purchased by the
+consumer in a condition perfectly fit for immediate decomposition, the
+preparation of the gas, at least from the theoretical aspect, is
+characterised by extreme simplicity. A cylinder of glass or metal, closed
+at one end and open at the other, filled with water, and inverted in a
+larger vessel containing the same liquid, may be charged almost
+instantaneously with acetylene by dropping into the basin a lump of
+carbide, which sinks to the bottom, begins to decompose, and evolves a
+rapid current of gas, displacing the water originally held in the
+inverted cylinder or "bell." If a very minute hole is drilled in the top
+of the floating bell, acetylene at once escapes in a steady stream, being
+driven out by the pressure of the cylinder, the surplus weight of which
+causes it to descend into the water of the basin as rapidly as gas issues
+from the orifice. As a laboratory experiment, and provided the bell has
+been most carefully freed from atmospheric air in the first instance,
+this escaping gas may be set light to with a match, and will burn with a
+more or loss satisfactory flame of high illuminating power. Such is an
+acetylene generator stripped of all desirable or undesirable adjuncts,
+and reduced to its most elementary form; but it is needless to say that
+so simple an apparatus would not in any way fulfil the requirements of
+everyday practice.
+
+Owing to the inequality of the seasons, and to the irregular nature of
+the demand for artificial light and heat in all households, the capacity
+of the plant installed for the service of any institution or district
+must be amply sufficient to meet the consumption of the longest winter
+evening--for, as will be shown in the proper place, attempts to make an
+acetylene generator evolve gas more quickly than it is designed to do are
+fraught with many objections--while the operation of the plant, must be
+under such thorough control that not only can a sudden and unexpected
+demand for gas be met without delay, but also that a sudden and
+unexpected interruption or cessation of the demand shall not be followed
+by any disturbance in the working of the apparatus. Since, on the one
+hand, acetylene is produced in large volumes immediately calcium carbide
+is wetted with water, so that the gas may be burnt within a minute or two
+of its first evolution; and, on the other, that acetylene once prepared
+can be stored without trouble or appreciable waste for reasonable periods
+of time in a water-sealed gasholder closely resembling, in everything but
+size, the holders employed on coal-gas works; it follows that there are
+two ways of bringing the output of the plant into accord with the
+consumption of the burners. It is possible to make the gas only as and
+when it is required, or it is possible in the space of an hour or so,
+during the most convenient part of the day, to prepare sufficient to last
+an entire evening, storing it in a gasholder till the moment arrives for
+its combustion. It is clear that an apparatus needing human attention
+throughout the whole period of activity would be intolerable in the case
+of small installations, and would only be permissible in the case of
+larger ones if the district supplied with gas was populous enough to
+justify the regular employment of two men at least in or about the
+generating station. But with the conditions obtaining in such a country
+as Great Britain, and in other lands where coal is equally cheap and
+accessible, if a neighbourhood was as thickly populated as has been
+suggested, it would be preferable on various grounds to lay down a coal-
+gas or electricity works; for, as has been shown in the first chapter,
+unless a very material fall in the price of calcium carbide should take
+place--a fall which at present is not to be expected--acetylene can only
+be considered a suitable and economical illuminant and heating agent for
+such places as cannot be provided cheaply with coal-gas or electric
+current. To meet this objection, acetylene generators have been invented
+in which, broadly speaking, gas is only produced when it is required,
+control of the chemical reaction devolving upon some mechanical
+arrangement. There are, therefore, two radically different types of
+acetylene apparatus to be met with, known respectively as "automatic" and
+"non-automatic" generators. In a non-automatic generator the whole of the
+calcium carbide put into the apparatus is more or less rapidly
+decomposed, and the entire volume of gas evolved from it is collected in
+a holder, there to await the moment of consumption. In an automatic
+apparatus, by means of certain devices which will be discussed in their
+proper place, the act of turning on a burner-tap causes some acetylene to
+be produced, and the act of turning it off brings the reaction to an end,
+thus obviating the necessity for storage. That, at any rate, is the
+logical definition of the two fundamentally different kinds of generator:
+in automatic apparatus the decomposition of the carbide is periodically
+interrupted in such fashion as more or less accurately to synchronise
+with the consumption of gas; in the non-automatic variety decomposition
+proceeds without a break until the carbide vessels are empty.
+Unfortunately a somewhat different interpretation of these two words has
+found frequent acceptance, a generator being denominated non-automatic or
+automatic according as the holder attached to it is or is not large
+enough to store the whole of the acetylene which the charge of carbide is
+capable of producing if it is decomposed all at once. Apart from the fact
+that a holder, though desirable, is not an absolutely indispensable part
+of an acetylene plant, the definition just quoted was sufficiently free
+from objection in the earliest days of the industry; but now efficient
+commercial generators are to be met with which become either automatic or
+non-automatic according to the manner of working them, while some would
+be termed non-automatic which comprise mechanism of a conspicuously self-
+acting kind.
+
+AUTOMATIC AND NON-AUTOMATIC GENERATORS.--Before proceeding to a detailed
+description of the various devices which may be adopted to render an
+acetylene generator automatic in action, the relative advantages of
+automatic and non-automatic apparatus, irrespective of type, from the
+consumer's point of view may be discussed. The fundamental idea
+underlying the employment of a non-automatic generator is that the whole
+of the calcium carbide put into the apparatus shall be decomposed into
+acetylene as soon after the charge is inserted as is natural in the
+circumstances; so that after a very brief interval of time the generating
+chambers shall contain nothing but spent lime and water, and the holder
+be as full of gas as is ever desirable. In an automatic apparatus, the
+fundamental idea is that the generating chamber, or one at least of
+several generating chambers, shall always contain a considerable quantity
+of undecomposed carbide, and some receptacle always contain a store of
+water ready to attack that carbide, so that whenever a demand for gas
+shall arise everything may be ready to meet it. Inasmuch as acetylene is
+an inflammable gas, it possesses all the properties characteristic of
+inflammable gases in general; one of which is that it is always liable to
+take fire in presence of a spark or naked light, and another of which is
+that it is always liable to become highly explosive in presence of a
+naked light or spark if, accidentally or otherwise, it becomes mixed with
+more than a certain proportion of air. On the contrary, in the complete
+absence of liquid or vaporised water, calcium carbide is almost as inert
+a body as it is possible to imagine: for it will not take fire, and
+cannot in any circumstances be made to explode. Hence it may be urged
+that a non-automatic generator, with its holder always containing a large
+volume of the actually inflammable and potentially explosive acetylene,
+must invariably be more dangerous than an automatic apparatus which has
+less or practically no ready-made gas in it, and which simply contains
+water in one chamber and unaltered calcium carbide in another. But when
+the generating vessels and the holder of a non-automatic apparatus are
+properly designed and constructed, the gas in the latter is acetylene
+practically free from air, and therefore while being, as acetylene
+inevitably is, inflammable, is devoid of explosive properties, always
+assuming, as must be the case in a water-sealed holder, that the
+temperature of the gas is below 780 deg. C.; and also assuming, as must
+always be the case in good plant, that the pressure under which the gas
+is stored remains less than two atmospheres absolute. It is perfectly
+true that calcium carbide is non-inflammable and non-explosive, that it
+is absolutely inert and incapable of change; but so comprehensive an
+assertion only applies to carbide in its original drum, or in some
+impervious vessel to which moisture and water have no access. Until it is
+exhausted, an automatic acetylene generator contains carbide in one place
+and water in another, dependence being put upon some mechanical
+arrangement to prevent the two substances coming into contact
+prematurely. Many of the devices adopted by builders of acetylene
+apparatus for keeping the carbide and water separate, and for mixing them
+in the requisite quantities when the proper time arrives, are as
+trustworthy, perhaps, as it is possible for any automatic gear to be; but
+some are objectionably complicated, and a few are positively inefficient.
+There are two difficulties which the designer of automatic mechanism has
+to contend with, and it is doubtful whether he always makes a sufficient
+allowance for them. The first is that not only must calcium carbide and
+liquid water be kept out of premature contact, but that moisture, or
+vapour of water, must not be allowed to reach the carbide; or
+alternatively, that if water vapour reaches the carbide too soon, the
+undesired reaction shall not determine overheating, and the liberated gas
+be not wasted or permitted to become a source of danger. The second
+difficulty encountered by the designer of automata is so to construct his
+apparatus that it shall behave well when attended to by completely
+unskilled labour, that it shall withstand gross neglect and resist
+positive ill-treatment or mismanagement. If the automatic principle is
+adopted in any part of an acetylene apparatus it must be adopted
+throughout, so that as far as possible--and with due knowledge and skill
+it is completely possible--nothing shall be left dependent upon the
+memory and common sense of the gasmaker. For instance, it must not be
+necessary to shut a certain tap, or to manipulate several cocks before
+opening the carbide vessel to recharge it; it must not be possible for
+gas to escape backwards out of the holder; and either the carbide-feed
+gear or the water-supply mechanism (as the case may be) must be
+automatically locked by the mere act of taking the cover off the carbide
+store, or of opening the sludge-cock at the bottom. It would be an
+advantage, even, if the purifiers and other subsidiary items of the plant
+were treated similarly, arranging them in such fashion that gas should be
+automatically prevented from escaping out of the rest of the apparatus
+when any lid was removed. In fact, the general notion of interlocking,
+which has proved so successful in railway signal-cabins and in
+carburetted water gas-plant for the prevention of accidents duo to
+carelessness or overnight, might be copied in principle throughout an
+acetylene installation whenever the automatic system is employed.
+
+It is no part of the present argument, to allege that automatic
+generators are, and must always be, inherently dangerous. Automatic
+devices of a suitable kind may be found in plenty which are remarkably
+simple and highly trustworthy; but it would be too bold a statement to
+say that any such arrangement is incapable of failure, especially when
+put into the hands of a person untrained in the superintendence of
+machinery. The more reliable a piece of automatic mechanism proves itself
+to be, the more likely is it to give trouble and inconvenience and
+utterly to destroy confidence when it does break down; because the better
+it has behaved in the past, and the longer it has lasted without
+requiring adjustment, the less likely is it that the attendant will be at
+hand when failure occurs. By suitable design and by an intelligent
+employment of safety-valves and blow-off pipes (which will be discussed
+in their proper place) it is quite easy to avoid the faintest possibility
+of danger arising from an increase of pressure or an improper
+accumulation of gas inside the plant or inside the building containing
+the plant; but every time such a safety-valve or blow-off pipe comes into
+action a waste of gas occurs, which means a sacrifice of economy, and
+shows that the generator is not working as it should.
+
+As glass is a fragile and brittle substance, and as it is not capable of
+bearing large, rapid, and oft-repeated alterations of temperature in
+perfect safety, it is not a suitable material for the construction of
+acetylene apparatus or of portions thereof. Hence it follows that a
+generator must be built of some non-transparent material which prevents
+the interior being visible when the apparatus is at work. Although it is
+comparatively easy, by the aid of a lamp placed outside the generator-
+shed in such a position as to throw its beams of light through a window
+upon the plant inside, to charge a generator after dark; and although it
+is possible, without such assistance, by methodical habits and a
+systematic arrangement of utensils inside the building to charge a
+generator even in perfect darkness, such an operation is to be
+deprecated, for it is apt to lead to mistakes, it prevents any slight
+derangement in the installation from being instantly noticed, and it
+offers a temptation to the attendant to break rules and to take a naked
+light with him. On all those grounds, therefore, it is highly desirable
+that every manipulation connected with a generator shall be effected
+during the daytime, and that the apparatus-house shall be locked up
+before nightfall. But owing to the irregular habits engendered by modern
+life it is often difficult to know, during any given day, how much gas
+will be required in the ensuing evening; and it therefore becomes
+necessary always to have, as ready-made acetylene, or as carbide in a
+proper position for instant decomposition, a patent or latent store of
+gas more than sufficient in quantity to meet all possible requirements.
+Now, as already stated, a non-automatic apparatus has its store of
+material in the form of gas in a holder; and since this is preferably
+constructed on the rising or telescopic principle, a mere inspection of
+the height of the bell--on which, if preferred, a scale indicating its
+contents in cubic feet or in burner-hours may be marked--suffices to show
+how near the plant is to the point of exhaustion. In many types of
+automatic apparatus the amount of carbide remaining undecomposed at any
+moment is quite unknown, or at best can only be deduced by a tedious and
+inexact calculation; although in some generators, where the store of
+carbide is subdivided into small quantities, or placed in several
+different receptacles, an inspection of certain levers or indicators
+gives an approximate idea as to the capacity of the apparatus for further
+gas production. In any case the position of a rising holder is the most
+obvious sign of the degree of exhaustion of a generator; and therefore,
+to render absolutely impossible a failure of the light during an evening,
+a non-automatic generator fitted with a rising holder is best.
+
+Since calcium carbide is a solid body having a specific gravity of 2.2,
+water being unity, and since 1 cubic foot of water weighs 62.4 lb., in
+round numbers 137 lb. of _compact_ carbide only occupy 1 cubic foot
+of space. Again, since acetylene is a gas having a specific gravity of
+0.91, air being unity, and since the specific gravity of air, water being
+unity, is 0.0013, the specific gravity of acetylene, water being unity,
+is roughly O.00116. Hence 1 cubic foot of acetylene weighs roughly 0.07
+lb. Furthermore, since 1 lb. of good carbide evolves 5 cubic feet of gas
+on decomposition with water, acetylene stored at atmospheric pressure
+occupies roundly 680 times as much space as the carbide from which it has
+been evolved. This figure by no means represents the actual state of
+affairs in a generator, because, as was explained in the previous
+chapter, a carbide vessel cannot be filled completely with solid; and,
+indeed, were it so "filled," in ordinary language, much of its space
+would be still occupied with air. Nevertheless it is incontrovertible
+that an acetylene plant calculated to supply so many burners for so long
+a period of time must be very much larger if it is constructed on the
+non-automatic principle, when the carbide is decomposed all at once, than
+if the automatic system is adopted, when the solid remains unattacked
+until a corresponding quantity of gas is required for combustion. Clearly
+it is the storage part of a non-automatic plant alone which must be so
+much larger; the actual decomposing chambers may be of the same size or
+even smaller, according to the system of generation to which the
+apparatus belongs. In practice this extra size of the non-automatic plant
+causes it to exhibit two disadvantages in comparison with automatic
+apparatus, disadvantages which are less serious than they appear, or than
+they may easily be represented to be. In the first place, the non-
+automatic generator requires more space for its erection. If acetylene
+were an illuminating agent suitable for adoption by dwellers in city or
+suburb, where the back premises and open-air part of the messuage are
+reduced to minute proportions or are even non-existent, this objection
+might well be fatal. But acetylene is for the inhabitant of a country
+village or the occupier of an isolated country house; and he has usually
+plenty of space behind his residence which he can readily spare. In the
+second place, the extra size of the non-automatic apparatus makes it more
+expensive to construct and more costly to instal. It is more cosily to
+construct and purchase because of its holder, which must be well built on
+a firm foundation and accurately balanced; it is more costly to instal
+because a situation must be found for the erection of the holder, and the
+apparatus-house may have to be made large enough to contain the holder as
+well as the generator itself. As regards the last point, it may be said
+at once that there is no necessity to place the holder under cover: it
+may stand out of doors, as coal-gas holders do in England, for the seal
+of the tank can easily be rendered frost-proof, and the gas itself is not
+affected by changes of atmospheric temperature beyond altering somewhat
+in volume. In respect of the other objections, it must be remembered that
+the extra expense is one of capital outlay alone, and therefore only
+increases the cost of the light by an inappreciable amount, representing
+interest and depreciation charges on the additional capital expenditure.
+The increased cost of a year's lighting due to these charges will amount
+to only 10 or 15 per cent, on the additional capital sunk. The extra
+capital sunk does not in any way increase the maintenance charges; and
+if, by having a large holder, additional security and trustworthiness are
+obtained, or if the holder leads to a definite, albeit illusive, sense of
+extra security and trustworthiness, the additional expenditure may well
+be permissible or even advantageous.
+
+The argument is sometimes advanced that inasmuch as for the same, or a
+smaller, capital outlay as is required to instal a non-automatic
+apparatus large enough to supply at one charging the maximum amount of
+light and heat that can ever be needed on the longest winter's night, an
+automatic plant adequate to make gas for two or three evenings can be
+laid down, the latter must be preferable, because the attendant, in the
+latter case, will only need to enter the generator-house two or three
+times a week. Such an argument is defective because it ignores the
+influence of habit upon the human being. A watch which must be wound
+every day, or a clock which must be wound every week, on a certain day of
+the week, is seldom permitted to run down; but a watch requiring to be
+re-wound every other day, or a fourteen-day clock (used as such), would
+rarely be kept going. Similarly, an acetylene generator might be charged
+once a week or once a day without likelihood of being forgotten; but the
+operation of charging at irregular intervals would certainly prove a
+nuisance. With a non-automatic apparatus containing all its gas in the
+holder, the attendant would note the position of the bell each morning,
+and would introduce sufficient carbide to fill the holder full, or partly
+full, as the case might be; with an automatic apparatus he would be
+tempted to trust that the carbide holders still contained sufficient
+material to last another night.
+
+The automatic system of generating acetylene has undoubtedly one
+advantage in those climates where frost tends to occur frequently, but
+only to prevail for a short period. As the apparatus is in operation
+during the evening hours, the heat evolved will, or can be made to,
+suffice to protect the apparatus from freezing until the danger has
+passed; whereas if the gas is generated of a morning in a non-automatic
+apparatus the temperature of the plant may fall to that of the atmosphere
+before evening, and some portion may freeze unless special precautions
+are taken to protect it.
+
+It was shown in Chapter II that overheating is one of the chief troubles
+to be guarded against in acetylene generators, and that the temperature
+attained is a function of the speed at which generation proceeds. Seeing
+that in an automatic apparatus the rate of decomposition depends on the
+rate at which gas is being burnt, while in a non-automatic generator it
+is, or may be, under no control, the critic may urge that the reaction
+must take place more slowly and regularly, and the maximum temperature
+therefore be lower, when the plant works automatically. This may be true
+if the non-automatic generator is unskilfully designed or improperly
+manipulated; but it is quite feasible to arrange an apparatus, especially
+one of the carbide-to-water or of the flooded-compartment type, in such
+fashion that overheating to an objectionable extent is rendered wholly
+impossible. In a non-automatic apparatus the holder is nothing but a
+holder and may be placed wherever convenient, even at a distance from the
+generating plant; in an automatic apparatus the holder, or a small
+similarly constructed holder placed before the main storage vessel, has
+to act as a water-supply governor, as the releasing gear for certain
+carbide-food mechanism, or indeed as the motive power of such mechanism;
+and accordingly it must be close to the water or carbide store, and more
+or less intimately connected by means of levers, or the like, with the
+receptacle in which decomposition occurs. Sometimes the holder surrounds,
+or is otherwise an integral part of, the decomposing chamber, the whole
+apparatus being made self-contained or a single structure with the object
+of gaining compactness. But it is evident that such methods of
+construction render additionally awkward, or even hazardous, any repair
+or petty operation to the generating portion of the plant; while the more
+completely the holder is isolated from the decomposing vessels the more
+easily can they be cleaned, recharged, or mended, without blowing off the
+stored gas and without interfering with the action of any burners that
+may be alight at the time. Owing to the ingenuity of inventors, and the
+experience they have acquired in the construction of automatic acetylene
+apparatus during the years that the gas has been in actual employment, it
+is going too far boldly to assert that non-automatic generators are
+invariably to be preferred before their rivals. Still in view of the
+nature of the labour which is likely to be bestowed on any domestic
+plant, of the difficulty in having repairs or adjustments done quickly in
+outlying country districts, and of the inconvenience, if not risk,
+attending upon any failure of the apparatus, the greater capital outlay,
+and the larger space required by non-automatic generators are in most
+instances less important than the economy in space and prime cost
+characteristic of automatic machines when the defects of each are weighed
+fairly in the balance. Indeed, prolonged experience tends to show that a
+selection between non-automatic and automatic apparatus may frequently be
+made on the basis of capacity. A small plant is undoubtedly much more
+convenient if automatic; a very large plant, such as that intended for a
+public supply, is certainly better if non-automatic, but between these
+two extremes choice may be exercised according to local conditions.
+
+CONTROL OF THE CHEMICAL REACTION.--Coming now to study the principles
+underlying the construction of an acetylene generator more closely it
+will be seen that as acetylene is produced by bringing calcium carbide
+into contact with water, the chemical reaction may be started either by
+adding the carbide to the water, or by adding the water to the carbide.
+Similarly, at least from the theoretical aspect, the reaction, may be
+caused to stop by ceasing to add carbide to water, or by ceasing to add
+water to carbide. Apparently if water is added by degrees to carbide,
+until the carbide is exhausted, the carbide must always be in excess; and
+manifestly, if carbide is added in small portions to water, the water
+must always be in excess, which, as was argued in Chapter II., is
+emphatically the more desirable position of affairs. But it in quite
+simple to have carbide present in large excess of the water introduced
+when the whole generator is contemplated, and yet to have the water
+always in chemical excess in the desired manner; because to realise the
+advantages of having water in excess, it is only necessary to subdivide
+the total charge of carbide into a number of separate charges which are
+each so small that more than sufficient water to decompose and flood one
+of them is permitted to enter every time the feed mechanism comes into
+play, or (in a non-automatic apparatus) every time the water-cock is
+opened; so arranging the charges that each one is protected from the
+water till its predecessor, or its predecessor, have been wholly
+decomposed. Thus it is possible to regard either the carbide or the water
+as the substance which has to be brought into contact with the other in
+specified quantity. It is perhaps permissible to repeat that in the
+construction of an automatic generator there is no advantage to be gained
+from regulating the supply of both carbide and water, because just as the
+mutual decomposition will begin immediately any quantity of the one meets
+any quantity of the other, so the reaction will cease (except in one case
+owing to "after-generation") directly the whole of that material which is
+not in chemical excess has been consumed-quite independently of the
+amount of the other material left unattacked. Being a liquid, and
+possessing as such no definite shape or form of its own irrespective of
+the vessel in which it is held, water is by far the more convenient of
+the two substances to move about or to deliver in predetermined volume to
+the decomposing chamber. A supply of water can be started instantaneously
+or cut oil as promptly by the movement of a cock or valve of the usual
+description; or it may be allowed to run down a depending pipe in
+obedience to the law of gravitation, and stopped from running down such a
+pipe by opposing to its passage a gas pressure superior to that
+gravitational force. In any one of several obvious ways the supply of
+water to a mass of carbide may be controlled with absolute certainty, and
+therefore it should apparently follow that the make of acetylene should
+be under perfect control by controlling the water current. On the other
+hand, unless made up into balls or cartridges of some symmetrical form,
+calcium carbide exists in angular masses of highly irregular shape and
+size. Its lumps alter in shape and size directly liquid water or moisture
+reaches them; a loose more or loss gritty powder, or a damp cohesive mud,
+being produced which is well calculated to choke any narrow aperture or
+to jam any moving valve. It is more difficult, therefore, by mechanical
+agency to add a supply of carbide to a mass of water than to introduce a
+supply of water to a stationary mass of carbide; and far more difficult
+still to bring the supply of carbide under perfect control with the
+certainty that the movement shall begin and stop immediately the proper
+time arrives.
+
+But assuming the mechanical difficulties to be satisfactorily overcome,
+the plan of adding carbide to a stationary mass of water has several
+chemical advantages, first, because, however the generator be
+constructed, water will be in excess throughout the whole time of gas
+production; and secondly, because the evolution of acetylene will
+actually cease completely at the moment when the supply of carbide is
+interrupted. There is, however, one particular type of generator in which
+as a matter of fact the carbide is the moving constituent, viz., the
+"dipping" apparatus (cf. _infra_), to which these remarks do not
+apply; but this machine, as will be seen directly, is, illogically
+perhaps, but for certain good reasons, classed among the water-to-carbide
+apparatus. All the mechanical advantages are in favour, as just
+indicated, of making water the moving substance; and accordingly, when
+classified in the present manner, a great majority of the generators now
+on the markets are termed water-to-carbide apparatus. Their disadvantages
+are twofold, though these may be avoided or circumvented: in all types
+save one the carbide is in excess at the immediate place and time of
+decomposition; and in all types without exception the carbide in the
+whole of the generator is in excess, so that the phenomenon of "after-
+generation" occurs with more or less severity. As explained in the last
+chapter, after-generation is the secondary production of acetylene which
+takes place more or less slowly after the primary reaction is finished,
+proceeding either between calcium hydroxide, merely damp lime, or damp
+gas and calcium carbide, with an evolution of more acetylene. As it is
+possible, and indeed usual, to fit a holder of some capacity even to an
+automatic generator, the simple fact that more acetylene is liberated
+after the main reaction is over does not matter, for the gas can be
+safely stored without waste and entirely without trouble or danger. The
+real objection to after-generation is the difficulty of controlling the
+temperature and of dissipating the heat with which the reaction is
+accompanied. It will be evident that the balance of advantage, weighing
+mechanical simplicity against chemical superiority, is somewhat even
+between carbide-to-water and water-to-carbide generators of the proper
+type; but the balance inclines towards the former distinctly in the ease
+of non-automatic apparatus, and points rather to the latter when
+automatism is desired. In the early days of the industry it would have
+been impossible to speak so favourably of automatic carbide-to-water
+generators, for they were at first constructed with absurdly complicated
+and unreliable mechanism; but now various carbide-feed gears have been
+devised which seem to be trustworthy even when carbide not in cartridge
+form is employed.
+
+NON-AUTOMATIC CARBIDE-TO-WATER GENERATORS.--There is little to be said in
+the present place about the principles underlying the construction of
+non-automatic generators. Such apparatus may either be of the carbide-to-
+water or the water-to-carbide type. In the former, lumps of carbide are
+dropped by hand down a vertical or sloping pipe or shoot, which opens at
+its lower end below the water-level of the generating chamber, and which
+is fitted below its mouth with a deflector to prevent the carbide from
+lodging immediately underneath that mouth. The carbide falls through the
+water which stands in the shoot itself almost instantaneously, but during
+its momentary descent a small quantity of gas is evolved, which produces
+an unpleasant odour unless a ventilating hood is fixed above the upper
+end of the tube. As the ratio of cubical contents to superficial area of
+a lump is greater as the lump itself is larger, and as only the outer
+surface of the lump can be attacked by the water in the shoot during its
+descent, carbide for a hand-fed carbide-to-water generator should be in
+fairly large masses--granulated material being wholly unsuitable--and
+this quite apart from the fact that large carbide is superior to small in
+gas-making capacity, inasmuch as it has not suffered the inevitable
+slight deterioration while being crushed and graded to size. If carbide
+is dropped too rapidly into such a generator which is not provided with a
+false bottom or grid for the lumps to rest upon, the solid is apt to
+descend among a mass of thick lime sludge produced at a former operation,
+which lies at the bottom of the decomposing chamber; and here it may be
+protected from the cooling action of fresh water to such an extent that
+its surface is baked or coated with a hard layer of lime, while
+overheating to a degree far exceeding the boiling-point of water may
+occur locally. When, however, it falls upon a grid placed some distance
+above the bottom of the water vessel, the various convection currents set
+up as parts of the liquid become warm, and the mechanical agitations
+produced by the upward current of gas rinse the spent lime from the
+carbide, and entirely prevent overheating, unless the lumps are
+excessively large in size. If the carbide charged into a hand-fed
+generator is in very large lumps there is always a possibility that
+overheating may occur in the centre of the masses, due to the baking of
+the exterior, even if the generator is fitted with a reaction grid.
+Manifestly, when carbide in lumps of reasonable size is dropped into
+excess of water which is not merely a thick viscid cream of lime, the
+temperature cannot possibly exceed the boiling-point--_i.e._, 100 deg.
+C.--provided always the natural convection currents of the water are
+properly made use of.
+
+The defect which is, or rather which may be, characteristic of a hand-fed
+carbide-to-water generator is a deficiency of gas yield due to
+solubility. At atmospheric temperatures and pressure 10 volumes of water
+dissolve 11 volumes of acetylene, and were the whole of the water in a
+large generator run to waste often, a sensible loss of gas would ensue.
+If the carbide falls nearly to the bottom of the water column, the rising
+gas is forced to bubble through practically the whole of the liquid, so
+that every opportunity is given it to dissolve in the manner indicated
+till the liquid is completely saturated. The loss, however, is not nearly
+so serious as is sometimes alleged, because (1) the water becomes heated
+and so loses much of its solvent power; and (2) the generator is worked
+intermittently, with sufficiently long intervals to allow the spent lime
+to settle into a thick cream, and only that thick cream is run off, which
+represents but a small proportion of the total water present. Moreover, a
+hand-fed carbide-to-water generator will work satisfactorily with only
+half a gallon [Footnote: The United States National Board of Fire
+Underwriters stipulates for the presence of 1 (American) gallon of water
+for every 1 lb. of carbide before such an apparatus is "permitted." This
+quantity of liquid might retain nearly 4 per cent. of the total acetylene
+evolved. Even this is an exaggeration; for neither her, nor in the
+corresponding figure given in the text, is any allowance made for the
+diminution in solvent power of the water as it becomes heated by the
+reaction.] of liquid present for every 1 lb. of carbide decomposed, and
+were all this water run off and a fresh quantity admitted before each
+fresh introduction of carbide, the loss of acetylene by dissolution could
+not exceed 2 per cent. of the total make, assuming the carbide to be
+capable of yielding 5 cubic feet of gas per lb. Admitting, however, that
+some loss of gas does occur in this manner, the defect is partly, if not
+wholly, neutralised by the concomitant advantages of the system: (1)
+granted that the generator is efficiently constructed, decomposition of
+the carbide is absolutely complete, so that no loss of gas occurs in this
+fashion; (2) the gas is evolved at a low temperature, so that it is
+unaccompanied, by products of polymerisation, which may block the leading
+pipes and must reduce the illuminating power; (3) the acetylene is not
+mixed with air (as always happens at the first charging of a water-to-
+carbide apparatus), which also lowers the illuminating power; and (4) the
+gas is freed from two of its three chief impurities, viz., ammonia and
+sulphuretted hydrogen, in the generating chamber itself. To prevent the
+loss of acetylene by dissolution, carbide-to-water generators are
+occasionally fitted with a reaction grid placed only just below the
+water-level, so that the acetylene has no more than 1 inch or so of
+liquid to bubble through. The principle is wrong, because hot water being
+lighter than cold, the upper layers may be raised to the boiling-point,
+and even converted into steam, while the bulk of the liquid still remains
+cold; and if the water actually surrounding the carbide is changed into
+vapour, nearly all control over the temperature attending the reaction is
+lost.
+
+The hand-fed carbide-to-water generator is very simple and, as already
+indicated, has proved itself perhaps the best type of all for the
+construction of very large installations; but the very simplicity of the
+generator has caused it more than once to be built in a manner that has
+not given entire satisfaction. As shown at L in Fig. 6, p. 84, the
+generator essentially consists of a closed cylindrical vessel
+communicating at its top with a separate rising holder. At one side as
+drawn, or disposed concentrically if so preferred, is an open-mouthed
+pipe or shoot (American "shute") having its lower open extremity below
+the water-level. Into this shoot are dropped by hand or shovel lumps of
+carbide, which fall into the water and there suffer decomposition. As the
+bottom of the shoot is covered with water, which, owing to the small
+effective gas pressure in the generator given by the holder, stands a few
+inches higher in the shoot than in the generator, gas cannot escape from
+the shoot; because before it could do so the water in the generator would
+have to fall below the level of the point _a_, being either driven
+out through the shoot or otherwise. Since the point _b_ of the shoot
+extends further into the generator than _a_, the carbide drops
+centrally, and as the bubbles of gas rise vertically, they have no
+opportunity of ascending into the shoot. In practice, the generator is
+fitted with a conical bottom for the collection of the lime sludge and
+with a cock or other aperture at the apex of the cone for the removal of
+the waste product. As it is not desirable that the carbide should be
+allowed to fall directly from the shoot into the thicker portion of the
+sludge within the conical part of the generator, one or more grids is
+usually placed in the apparatus as shown by the dotted lines in the
+sketch. It does not seem that there is any particular reason for the
+employment of more than one grid, provided the size of the carbide
+decomposed is suited to the generator, and provided the mesh of the grid
+is suited to the size of the carbide. A great improvement, however, is
+made if the grid is carried on a horizontal spindle in such a way that it
+can be rocked periodically in order to assist in freeing the lumps of
+carbide from the adhering particles of lime. As an alternative to the
+movable grid, or even as an adjunct thereto, an agitator scraping the
+conical sides of the generator may be fitted which also assists in
+ensuring a reasonably complete absence of undecomposed carbide from the
+sludge drawn off at intervals. A further point deserves attention. If
+constructed in the ideal manner shown in Fig. 6 removal of some of the
+sludge in the generator would cause the level of the liquid to descend
+and, by carelessness, the level might fall below the point _a_ at
+the base of the shoot. In these circumstances, if gas were unable to
+return from the holder, a pressure below that of the atmosphere would be
+established in the gas space of the generator and air would be drawn in
+through the shoot. This air might well prove a source of danger when
+generation was started again. Any one of three plans may be adopted to
+prevent the introduction of air. A free path may be left on the gas-main
+passing from the generator to the holder so that gas may be free to
+return and so to maintain the usual positive pressure in the decomposing
+vessel; the sludge may be withdrawn into some vessel so small in capacity
+that the shoot cannot accidentally become unsealed; or the waterspace of
+the generator may be connected with a water-tank containing a ball-valve
+attached to a constant service of water be that liquid runs in as quickly
+as sludge is removed, and the level remains always at the same height.
+The first plan is only a palliative and has two defects. In the first
+place, the omission of any non-return valve between, the generator and
+the next item in the train of apparatus is objectionable of itself; in
+the second place, should a very careless attendant withdraw too much
+liquid, the shoot might become unsealed and the whole contents of the
+holder be passed into the air of the building containing the apparatus
+through the open mouth of the shoot. The second plan is perfectly sound,
+but has the practical defect of increasing the labour of cleaning the
+generator. The third plan is obviously the best. It can indeed be adopted
+where no real constant service of water is at hand by connecting the
+generator to a water reservoir of relatively large size and by making the
+latter of comparatively large transverse area, in proportion to its
+depth; so that the escape of even a largo volume of water from the
+reservoir may not involve a large reduction in the level at which it
+stands there.
+
+The dust that always clings to lumps of carbide naturally decomposes with
+extreme rapidity when the material is thrown into the shoot of a carbide-
+to-water generator, and the sudden evolution of gas so produced has on
+more than one occasion seriously alarmed the attendant on the plant.
+Moreover, to a trifling extent the actual superficial layers of the
+carbide suffer attack before the lumps reach the true interior of the
+generator, and a small loss of gas thereby occurs through the open mouth
+of the shoot. To remove these objections to the hand-fed generator it has
+become a common practice in large installations to cause the lower end of
+the shoot to dip under the level of some oil contained in an appropriate
+receptacle, the carbide falling into a basket carried upon a horizontal
+spindle. The basket and its support are so arranged that when a suitable
+charge of carbide has been dropped into it, a partial rotation of an
+external hand-wheel lifts the basket and carbide out of the oil into an
+air-tight portion of the generator where the surplus oil can drain away
+from the lumps. A further rotation of the hand-wheel then tips the basket
+over a partition inside the apparatus, allowing the carbide to fall into
+the actual decomposing chamber. This method of using oil has the
+advantage of making the evolution of acetylene on a large scale appear to
+proceed more quietly than usual, and also of removing the dust from the
+carbide before it reaches the water of the generator. The oil itself
+obviously does not enter the decomposing chamber to any appreciable
+extent and therefore does not contaminate the final sludge. The whole
+process accordingly lies to be favourably distinguished from those other
+methods of employing oil in generators or in the treatment of carbide
+which are referred to elsewhere in this book.
+
+NON-AUTOMATIC WATER-TO-CARBIDE GENERATORS.--The only principle underlying
+the satisfactory design of a non-automatic water-to-carbide generator is
+to ensure the presence of water in excess at the spot where decomposition
+is taking place. This may be effected by employing what is known as the
+"flooded-compartment" system of construction, _i.e._, by subdividing
+the total carbide charge into numerous compartments arranged either
+vertically or horizontally, and admitting the water in interrupted
+quantities, each more than sufficient thoroughly to decompose and
+saturate the contents of one compartment, rather than in a slow, steady
+stream. It would be quite easy to manage this without adopting any
+mechanism of a moving kind, for the water might be stored in a tank kept
+full by means of a ball-valve, and admitted to an intermediate reservoir
+in a slow, continuous current, the reservoir being fitted with an
+inverted syphon, on the "Tantalus-cup" principle, so that it should first
+fill itself up, and then suddenly empty into the pipe leading to the
+carbide container. Without this refinement, however, a water-to-carbide
+generator, with subdivided charge, behaves satisfactorily as long as each
+separate charge of carbide is so small that the heat evolved on its
+decomposition can be conducted away from the solid through the water-
+jacketed walls of the vessel, or as the latent heat of steam, with
+sufficient rapidity. Still it must be remembered that a water-to-carbide
+generator, with subdivided charge, does not belong to the flooded-
+compartment type if the water runs in slowly and continuously: it is then
+simply a "contact" apparatus, and may or may not exhibit overheating, as
+well as the inevitable after-generation. All generators of the water-to-
+carbide type, too, must yield a gas containing some air in the earlier
+portions of their make, because the carbide containers can only be filled
+one-third or one-half full of solid. Although the proportion of air so
+passed into the holder may be, and usually is, far too small in amount to
+render the gas explosive or dangerous in the least degree, it may well be
+sufficient to reduce the illuminating power appreciably until it is swept
+out of the service by the purer gas subsequently generated. Moreover, all
+water-to-carbide generators are liable, as just mentioned, to produce
+sufficient overheating to lower the illuminating power of the gas
+whenever they are wilfully driven too fast, or when they are reputed by
+their makers to be of a higher productive capacity than they actually
+should be; and all water-to-carbide generators, excepting those where the
+carbide is thoroughly soaked in water at some period of their operation,
+are liable to waste gas by imperfect decomposition.
+
+DEVICES TO SECURE AUTOMATIC ACTION,--The devices which are commonly
+employed to render a generator automatic in action, that is to say, to
+control the supply of one of the two substances required in the
+intermittent evolution of gas, may be divided into two broad classes: (A)
+those dependent upon the position of a rising-holder bell, and (B) those
+dependent upon the gas pressure inside the apparatus. As the bell of a
+rising holder descends in proportion as its gaseous contents are
+exhausted, it may (A^1) be fitted with some laterally projecting pin
+which, arrived at a certain position, actuates a series of rods or
+levers, and either opens a cock on the water-supply pipe or releases a
+mechanical carbide-feed gear, the said cock being closed again or the
+feed-gear thrown out of action when the pin, rising with the bell, once
+more passes a certain position, this time in its upward path. Secondly
+(A^2), the bell may be made to carry a perforated receptacle containing
+carbide, which is dipped into the water of the holder tank each time the
+bell falls, and is lifted out of the water when it rises again. Thirdly
+(A^3), by fitting inside the upper part of the bell a false interior,
+conical in shape, the descent of the bell may cause the level of the
+water in the holder tank to rise until it is above some lateral aperture
+through which the liquid may escape into a carbide container placed
+elsewhere. These three methods are represented in the annexed diagram
+(Fig. 1). In Al the water-levels in the tank and bell remain always at
+_l_, being higher in the tank than in the bell by a distance
+corresponding with the pressure produced by the bell itself. As the bell
+falls a pin _X_ moves the lever attached to the cock on the water-
+pipe, and starts, or shuts off, a current passing from a store-tank or
+reservoir to a decomposing vessel full of carbide. It is also possible to
+make _X_ work some releasing gear which permits carbide to fall into
+water--details of this arrangement are given later on. In A^1 the water
+in the tank serves as a holder seal only, a separate quantity being
+employed for the purposes of the chemical reaction. This arrangement has
+the advantage that the holder water lasts indefinitely, except for
+evaporation in hot weather, and therefore it may be prevented from
+freezing by dissolving in it some suitable saline body, or by mixing with
+it some suitable liquid which lowers its point of solidification. It will
+be observed, too, that in A^1 the pin _X_, which derives its motive
+power from the surplus weight of the falling bell, has always precisely
+the same amount of work to do, viz., to overcome the friction of the plug
+of the water-cock in its barrel. Hence at all times the pressure
+obtaining in the service-pipe is uniform, except for a slight jerk
+momentarily given each time the cock is opened or closed. When _X_
+actuates a carbide-feed arrangement, the work it does may or may not vary
+on different occasions, as will appear hereafter. In A^2 the bell itself
+carries a perforated basket of carbide, which is submerged in the water
+when the bell falls, and lifted out again when it rises. As the carbide
+is thus wetted from below, the lower portion of the mass soon becomes a
+layer of damp slaked lime, for although the basket is raised completely
+above the water-level, much liquid adheres to the spent carbide by
+capillary attraction. Hence, even when the basket is out of the water,
+acetylene is being produced, and it is produced in circumstances which
+prevent any control over the temperature attained. The water clinging to
+the lower part of the basket is vaporised by the hot, half-spent carbide,
+and the steam attacks the upper part, so that polymerisation of the gas
+and baking of the carbide are inevitable. In the second place, the
+pressure in the service-pipe attached to A^2 depends as before upon the
+net weight of the holder bell; but here that net weight is made up of the
+weight of the bell itself, that of the basket, and that of the carbide it
+contains. Since the carbide is being gradually converted into damp slaked
+lime, it increases in weight to an indeterminate extent as the generator
+in exhausted; but since, on the other hand, some lime may be washed out
+of the basket each time it is submerged, and some of the smaller
+fragments of carbide may fall through the perforations, the basket tends
+to decrease in weight as the generator is exhausted. Thus it happens in
+A^2 that the combined weight of bell plus basket plus contents is wholly
+indefinite, and the pressure in the service becomes so irregular that a
+separate governor must be added to the installation before the burners
+can be expected to behave properly. In the third place, the water in the
+tank serves both for generation and for decomposition, and this involves
+the employment of some arrangement to keep its level fairly constant lest
+the bell should become unsealed, while protection from frost by saline or
+liquid additions is impossible. A^2 is known popularly as a "dipping"
+generator, and it will be seen to be defective mechanically and bad
+chemically. In both A^1 and A^2 the bell is constructed of thin sheet-
+metal, and it is cylindrical in shape; the mass of metal in it is
+therefore negligible in comparison with the mass of water in the tank,
+and so the level of the liquid is sensibly the same whether the bell be
+high or low. In A^3 the interior of the bell is fitted with a circular
+plate which cuts off its upper corners and leaves a circumferential space
+_S_ triangular in vertical section. This space is always full of
+air, or air and water, and has to be deducted from the available storage
+capacity of the bell. Supposing the bell transparent, and viewing it from
+above, its effective clear or internal diameter will be observed to be
+smaller towards the top than near the bottom; or since the space _S_
+is closed both against the water and against the gas, the walls of the
+bell may be said to be thicker near its top. Thus it happens that as the
+bell descends into the water past the lower angle of _S_, it begins
+to require more space for itself in the tank, and so it displaces the
+water until the levels rise. When high, as shown in the sketch marked
+A^3(a), the water-level is at _l_, below the mouth of a pipe
+_P_; but when low, as in A^3(b), the water is raised to the point
+_l'_, which is above _P_. Water therefore flows into _P_,
+whence it reaches the carbide in an attached decomposing chamber. Here
+also the water in the tank is used for decomposition as well as for
+sealing purposes, and its normal level must be maintained exactly at
+_l_, lest the mouth of _P_ should not be covered whenever the
+bell falls.
+
+[Illustration: FIG. 1.--TYPICAL METHODS OF AUTOMATIC GENERATION
+CONTROLLED BY BELL GASHOLDER.]
+
+The devices employed to render a generator automatic which depend upon
+pressure (B) are of three main varieties: (B^1) the water-level in the
+decomposing chamber may be depressed by the pressure therein until its
+surface falls below a stationary mass of carbide; (B^2) the level in a
+water-store tank may be depressed until it falls below the mouth of a
+pipe leading to the carbide vessel; (B^3) the current of water passing
+down a pipe to the decomposing chamber may be interrupted by the action
+of a pressure superior to the force of gravitation. These arrangements
+are indicated roughly in Fig. 2. In B^1, D is a hollow cylinder closed at
+all points except at the cock G and the hole E, which are always below
+the level of the water in the annulus F, the latter being open to the air
+at its top. D is rigidly fastened to the outer vessel F so that it cannot
+move vertically, and the carbide cage is rigidly fastened to D. Normally
+the water-levels are at _l_, and the liquid has access to the
+carbide through perforations in the basket. Acetylene is thus produced;
+but if G is shut, the gas is unable to escape, and so it presses
+downwards upon the water until the liquid falls in D to the dotted line
+_l"_, rising in F to the dotted line _l'_. The carbide is then
+out of water, and except for after-generation, evolution of gas ceases.
+On opening G more or less fully, the water more or less quickly reaches
+its original position at _l_, and acetylene is again produced.
+Manifestly this arrangement is identical with that of A^2 as regards the
+periodical immersion of the carbide holder in the liquid; but it is even
+worse than the former mechanically because there is no rising holder in
+B^1, and the pressure in the service is never constant. B^2 represents
+the water store of an unshown generator which works by pressure. It
+consists of a vessel divided vertically by means of a partition having a
+submerged hole N. One-half, H, is cloned against the atmosphere, but
+communicates with the gas space of the generator through L; the other
+half, K, is open to the air. M is a pipe leading water to the carbide.
+When gas is being burnt as fast as, or faster than, it is being evolved,
+the pressure in the generator is small, the level of the water stands at
+_l_, and the mouth of M is below it. When the pressure rises by
+cessation of consumption, that pressure acts through L upon the water in
+H, driving it down in H and up in K till it takes the positions
+_l"_, and _l'_, the mouth of M being then above the surface. It
+should be observed that in the diagrams B^1 and B^3, the amount of
+pressure, and the consequent alteration in level, is grossly exaggerated
+to gain clearness; one inch or less in both cases may be sufficient to
+start or retard evolution of acetylene. Fig. B^3 is somewhat ideal, but
+indicates the principle of opposing gas pressure to a supply of water
+depending upon gravitation; a method often adopted in the construction of
+portable acetylene apparatus. The arrangement consists of an upper tank
+containing water open to the air, and a lower vessel holding carbide
+closed everywhere except at the pipe P, which leads to the burners, and
+at the pipe S, which introduces water from the store-tank. If the cock at
+T is closed, pressure begins to rise in the carbide holder until it is
+sufficient to counterbalance the weight of the column of water in the
+pipe S, when a further supply is prevented until the pressure sinks
+again. This idea is simply an application of the displacement-holder
+principle, and as such is defective (except for vehicular lamps) by
+reason of lack of uniformity in pressure.
+
+[Illustration: FIG. 2.--TYPICAL METHODS OF AUTOMATIC GENERATION
+CONTROLLED BY INTERNAL GAS PRESSURE.]
+
+DISPLACEMENT GASHOLDERS.--An excursion may here be made for the purpose
+of studying the action of a displacement holder, which in its most
+elementary form is shown at C. It consists of an upright vessel open at
+the top, and divided horizontally into two equal portions by a partition,
+through which a pipe descends to the bottom of the lower half. At the top
+of the closed lower compartment a tube is fixed, by means of which gas
+can be introduced below the partition. While the cock is open to the air,
+water is poured in at the open top till the lower compartment is
+completely full, and the level of the liquid is at _l_. If now, gas
+is driven in through the side tube, the water is forced downwards in the
+lower half, up through the depending pipe till it begins to fill the
+upper half of the holder, and finally the upper half is full of water and
+the lower half of gas an shown by the levels _l'_ and _l"_. But
+the force necessary to introduce gas into such an apparatus, which
+conversely is equal to the force with which the apparatus strives to
+expel its gaseous contents, measured in inches of water, is the distance
+at any moment between the levels _l'_ and _l"_; and as these
+are always varying, the effective pressure needed to fill the apparatus,
+or the effective pressure given by the apparatus, may range from zero to
+a few inches less than the total height of the whole holder. A
+displacement holder, accordingly, may be used either to store a varying
+quantity of gas, or to give a steady pressure just above or just below a
+certain desired figure; but it will not serve both purposes. If it is
+employed as a holder, it in useless as a governor or pressure regulator;
+if it is used as a pressure regulator, it can only hold a certain fixed
+volume of gas. The rising holder, which is shown at A^1 in Fig. 1
+(neglecting the pin X, &c.;) serves both purposes simultaneously; whether
+nearly full or nearly empty, it gives a constant pressure--a pressure
+solely dependent upon its effective weight, which may be increased by
+loading its crown or decreased by supporting it on counterpoises to any
+extent that may be required. As the bell of a rising holder moves, it
+must be provided with suitable guides to keep its path vertical; these
+guides being arranged symmetrically around its circumference and carried
+by the tank walls. A fixed control rod attached to the tank over which a
+tube fastened to the bell slides telescope-fashion is sometimes adopted;
+but such an arrangement is in many respects less admirable than the
+former.
+
+Two other devices intended to give automatic working, which are scarcely
+capable of classification among their peers, may be diagrammatically
+shown in Fig. 3. The first of these (D) depends upon the movements of a
+flexible diaphragm. A vessel (_a_) of any convenient size and shape
+is divided into two portions by a thin sheet of metal, leather,
+caoutchouc, or the like. At its centre the diaphragm is attached by some
+air-tight joint to the rod _c_, which, held in position by suitable
+guides, is free to move longitudinally in sympathy with the diaphragm,
+and is connected at its lower extremity with a water-supply cock or a
+carbide-feed gear. The tube _e_ opens at its base into the gas space
+of the generator, so that the pressure below the diaphragm in _a_ is
+the same as that elsewhere in the apparatus, while the pressure in
+_a_ above the diaphragm is that of the atmosphere. Being flexible
+and but slightly stretched, the diaphragm is normally depressed by the
+weight of _c_ until it occupies the position _b_; but if the
+pressure in the generator (_i.e._, in _e_) rises, it lifts the
+diaphragm to somewhat about the position _b'_--the extent of
+movement being, as usual, exaggerated in the sketch. The movement of the
+diaphragm is accompanied by a movement of the rod _c_, which can be
+employed in any desirable way. In E the bell of a rising holder of the
+ordinary typo is provided with a horizontal striker which, when the bell
+descends, presses against the top of a bag _g_ made of any flexible
+material, such as india-rubber, and previously filled with water. Liquid
+is thus ejected, and may be caused to act upon calcium carbide in some
+adjacent vessel. The sketch is given because such a method of obtaining
+an intermittent water-supply has at one time been seriously proposed; but
+it is clearly one which cannot be recommended.
+
+[Illustration: FIG. 3.--TYPICAL METHODS OF AUTOMATIC GENERATION
+CONTROLLED BY A FLEXIBLE DIAPHRAM OR BAG.]
+
+ACTION OF WATER-TO-CARBIDE GENERATORS.--Having by one or other of the
+means described obtained a supply of water intermittent in character, it
+remains to be considered how that supply may be made to approach the
+carbide in the generator. Actual acetylene apparatus are so various in
+kind, and merge from one type to another by such small differences, that
+it is somewhat difficult to classify them in a simple and intelligible
+fashion. However, it may be said that water-to-carbide generators,
+_i.e._, such as employ water as the moving material, may be divided
+into four categories: (F^1) water is allowed to fall as single drops or
+as a fine stream upon a mass of carbide--this being the "drip" generator;
+(F^2) a mass of water is made to rise round and then recede from a
+stationary vessel containing carbide--this being essentially identical in
+all respects save the mechanical one with the "dip" or "dipping"
+generator shown in A^2, Fig. 1; (F^3) a supply of water is permitted to
+rise round, or to flow upon, a stationary mass of carbide without ever
+receding from the position it has once assumed--this being the "contact"
+generator; and (F^4) a supply of water is admitted to a subdivided charge
+of carbide in such proportion that each quantity admitted is in chemical
+excess of the carbide it attacks. With the exception of F^2, which has
+already been illustrated as A^2 Fig. 1, or as B^1 in Fig. 2, these
+methods of decomposing carbide are represented in Figs. 4 and 5. It will
+be observed that whereas in both F^1 and F^3 the liberated acetylene
+passes off at the top of the apparatus, or rather from the top of the
+non-subdivided charge of carbide, in F^1 the water enters at the top, and
+in F^3 it enters at the bottom. Thus it happens that the mixture of
+acetylene and steam, which is produced at the spot where the primary
+chemical reaction is taking place, has to travel through the entire mass
+of carbide present in a generator belonging to type F^3, while in F^1 the
+damp gas flows directly to the exit pipe without having to penetrate the
+lumps of solid. Both F^1 and F^3 exhibit after-generation caused by a
+reaction between the liquid water mechanically clinging to the mass of
+spent lime and the excess of carbide to an approximately equal extent;
+but for the reason just mentioned, after-generation due to a reaction
+between the vaporised water accompanying the acetylene first evolved and
+the excess of carbide is more noticeable in F^3 than in F^1; and it is
+precisely this latter description of after-generation which leads to
+overheating of the most ungovernable kind. Naturally both F^1 and F^3 can
+be fitted with water jackets, as is indicated by the dotted lines in the
+second sketch; but unless the generating chamber in quite small and the
+evolution of gas quite slow, the cooling action of the jacket will not
+prove sufficient. As the water in F^1 and F^3 is not capable of backward
+motion, the decomposing chambers cannot be employed as displacement
+holders, as is the case in the dipping generator pictured at B^1, Fig. 2.
+They must be coupled, accordingly, to a separate holder of the
+displacement or, preferably, of the rising type; and, in order that the
+gas evolved by after-generation may not be wasted, the automatic
+mechanism must cut off the supply of water to the generator by the time
+that holder is two-thirds or three-quarters full.
+
+[Illustration: FIG. 4.--TYPICAL METHODS OF DECOMPOSING CARBIDE (WATER TO
+CARBIDE).]
+
+[Illustration: FIG. 5.--TYPICAL METHODS OF DECOMPOSING CARBIDE (WATER TO
+CARBIDE).]
+
+The diagrams G, H, and K in Figs. 4 and 5 represent three different
+methods of constructing a generator which belongs either to the contact
+type (F^3) if the supply of water is essentially continuous, _i.e._,
+if less is admitted at each movement of the feeding mechanism than is
+sufficient to submerge the carbide in each receptacle; or to the flooded-
+compartment type (F') if the water enters in large quantities at a time.
+In H the main carbide vessel is arranged horizontally, or nearly so, and
+each partition dividing it into compartments is taller than its
+predecessor, so that the whole of the solid in (1) must be decomposed,
+and the compartment entirely filled with liquid before it can overflow
+into (2), and so on. Since the carbide in all the later receptacles is
+exposed to the water vapour produced in that one in which decomposition
+is proceeding at any given moment, at least at its upper surface, some
+after-generation between vapour and carbide occurs in H; but a partial
+control over the temperature may be obtained by water-jacketing the
+container. In G the water enters at the base and gas escapes at the top,
+the carbide vessels being disposed vertically; hero, perhaps, more after-
+generation of the same description occurs, as the moist gas streams round
+and over the higher baskets. In K, the water enters at the top and must
+completely fill basket (1) before it can run down the depending pipe into
+(2); but since the gas also leaves the generator at the top, the later
+carbide receptacles do not come in contact with water vapour, but are
+left practically unattacked until their time arrives for decomposition by
+means of liquid water. K, therefore, is the best arrangement of parts to
+avoid after-generation, overheating, and polymerisation of the acetylene
+whether the generator be worked as a contact or as a flooded-compartment
+apparatus; but it may be freely admitted that the extent of the
+overheating due to reaction between water vapour and carbide may be kept
+almost negligible in either K, H, or G, provided the partitions in the
+carbide container be sufficient in number--provided, that is to say, that
+each compartment holds a sufficiently small quantity of carbide; and
+provided that the quantity of water ultimately required to fill each
+compartment is relatively so large that the temperature of the liquid
+never approaches the boiling-point where vaporisation is rapid. The type
+of generator indicated by K has not become very popular, but G is fairly
+common, whilst H undoubtedly represents the apparatus which is most
+generally adopted for use in domestic and other private installations in
+the United Kingdom and the Continent of Europe. The actual generators
+made according to the design shown by H usually have a carbide receptacle
+designed in the form of a semi-cylindrical or rectangular vessel of steel
+sliding fairly closely into an outside container, the latter being either
+built within the main water space of the entire apparatus or placed
+within a separate water-jacketed casing. Owing to its shape and the
+sliding motion with which the carbide receptacle is put into the
+container these generators are usually termed "drawer" generators. In
+comparison with type G, the drawer generator H certainly exhibits a lower
+rise in temperature when gas is evolved in it at a given speed and when
+the carbide receptacles are constructed of similar dimensions. It is very
+desirable that the whole receptacle should be subdivided into a
+sufficient number of compartments and that it should be effectively
+water-cooled from outside. It would also be advantageous if the water-
+supply were so arranged that the generator should be a true flooded-
+compartment apparatus, but experience has nevertheless shown that
+generators of type H do work very well when the water admitted to the
+carbide receptacle, each time the feed comes into action, is not enough
+to flood the carbide in one of the compartments. Above a certain size
+drawer generators are usually constructed with two or even more complete
+decomposing vessels, arrangements being such that one drawer can be taken
+out for cleaning, whilst the other is in operation. When this is the case
+a third carbide receptacle should always be employed so that it may be
+dry, lit to receive a charge of carbide, and ready to insert in the
+apparatus when one of the others is withdrawn. The water-feed should
+always be so disposed that the attendant can see at a glance which of the
+two (or more) carbide receptacles is in action at any moment, and it
+should be also so designed that the supply is automatically diverted to
+the second receptacle when the first is wholly exhausted and back again
+to the first (unless there are more than two) when the carbide in the
+second is entirely gasified. In the sketches G, H, and K, the total space
+occupied by the various carbide receptacles is represented as being
+considerably smaller than the capacity of the decomposing chamber. Were
+this method of construction copied in actual acetylene apparatus, the
+first makes of gas would be seriously (perhaps dangerously) contaminated
+
+Back to Full Books

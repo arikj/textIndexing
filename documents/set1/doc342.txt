@@ -1,0 +1,2004 @@
+Acetylene, The Principles Of Its Generation And UsebyF. H. Leeds and W. J. Atkinson Butterfield
+
+observed.
+
+_Class A.--Stationary Automatic Apparatus._
+
+1. FOUNDATIONS.--(_a_) Must, where practicable, be of brick, stone,
+concrete or iron. If necessarily of wood they shall be extra heavy,
+located in a dry place and open to the circulation of air.
+
+The ordinary board platform is not satisfactory. Wooden foundations shall
+be of heavy planking, joists or timbers, arranged so that the air will
+circulate around them so as to form a firm base.
+
+(_b_) Must be so arranged that the machine will be level and unequal
+strain will not be placed on the generator or connexions.
+
+2. LOCATION.--(_a_) Generators, especially in closely built up
+districts should preferably be placed outside of insured buildings in
+generator houses constructed and located in compliance with Rule 9.
+
+(_b_) Generators must be so placed that the operating mechanism will
+have room for free and full play and can be adjusted without artificial
+light. They must not be subject to interference by children or careless
+persons, and if for this purpose further enclosure is necessary, it must
+be furnished by means of slatted partitions permitting the free
+circulation of air.
+
+(_c_) Generators which from their construction are rendered
+inoperative during the process of recharging must be so located that they
+can be recharged without the aid of artificial light.
+
+(_d_) Generators must be placed where water will not freeze.
+
+3. ESCAPES OR RELIEF-PIPES.--Each generator must be provided with an
+escape or relief-pipe of ample size; no such pipe to be less than 3/4-
+inch internal diameter. This pipe shall be substantially installed,
+without traps, and so that any condensation will drain back to the
+generator. It must be carried to a suitable point outside the building,
+and terminate in an approved hood located at least 12 feet above ground
+and remote from windows.
+
+The hood must be constructed in such a manner that it cannot be
+obstructed by rain, snow, ice, insects or birds.
+
+4. CAPACITY.--(_a_) Must be sufficient to furnish gas continuously
+for the maximum lighting period to all lights installed. A lighting
+period of at least 5 hours shall be provided for in every case.
+
+(_b_) Generators for conditions of service requiring lighting period
+of more than 5 hours must be of sufficient capacity to avoid recharging
+at night. The following ratings will usually be found advisable.
+
+(i) For dwellings, and where machines are always used intermittently, the
+generator must have a rated capacity equal to the total number of burners
+installed.
+
+(ii) For stores, opera houses, theatres, day-run factories, and similar
+service, the generator must have a rated capacity of from 30 to 50 per
+cent, in excess of the total number of burners installed.
+
+(iii) For saloons and all night or continued service, the generator must
+have a rated capacity of from 100 to 200 per cent. in excess of the total
+number of burners installed.
+
+(_c_) A small generator must never be installed to supply a large
+number of lights, even though it seems probable that only a few lights
+will be used at a time. _An overworked generator adds to the cost of
+producing acetylene gas_.
+
+5. CARBIDE CHARGES.--Must be sufficient to furnish gas continuously for
+the maximum lighting period to all burners installed. In determining
+charges lump carbide must be estimated as capable of producing 4-1/2
+cubic foot of gas to the pound, commercial 1/4-inch carbide 4 cubic feet
+of gas to the pound, and burners must be considered as requiring at least
+25 per cent. more than their rated consumption of gas.
+
+6. BURNERS.--Burners consuming one-half of a cubic foot of gas per hour
+are considered standard in rating generators. Those having a greater or
+less capacity will decrease or increase the number of burners allowable
+in proportion.
+
+Burners usually consume from 25 to 100 per cent. more than their rated
+consumption of gas, depending largely on the working pressure. The so-
+called 1/2-foot burner when operated at pressures of from 20- to 25-
+tenths inches water column (2 to 2-1/2 inches) is usually used with best
+economy.
+
+7. PIPING.--(_a_) Connexions from generators to service-pipes must
+be made with right and left thread nipples or long thread nipples with
+lock nuts. All forms of unions are prohibited.
+
+(_b_) Piping must, as far as possible, be arranged so that any
+moisture will drain back to the generator. If low points occur of
+necessity in any piping, they must be drained through tees into drip cups
+permanently closed with screw caps or plugs. No pet-cocks shall be used.
+
+(_c_) A valve and by-pass connexion must be provided from the
+service-pipe to the blow-off for removing the gas from the holder in case
+it should be necessary to do so.
+
+(_d_) The schedule of pipe sizes for piping from generators to
+burners should conform to that commonly used for ordinary gas, but in no
+case must the feeders be smaller than three-eighths inch.
+
+The following schedule is advocated:
+
+    3/8 inch pipe,  26 feet, three burners.
+    1/2 inch pipe,  30 feet, six burners.
+    3/4 inch pipe,  50 feet, twenty burners.
+  1     inch pipe,  70 feet, thirty-five burners.
+  1-1/4 inch pipe, 100 feet, sixty burners.
+  1-1/2 inch pipe, 150 feet, one hundred burners.
+  2     inch pipe, 200 feet, two hundred burners.
+  2-1/2 inch pipe, 300 feet, three hundred burners.
+  3     inch pipe, 450 feet, four hundred and fifty burners,
+  3-1/2 inch pipe, 500 feet, six hundred burners.
+  4     inch pipe, 600 feet, seven hundred and fifty burners.
+
+(_e_) Machines of the carbide-feed type must not be fitted with
+continuous drain connexions leading to sewers, but must discharge into
+suitable open receptacles which may have such connections.
+
+(_f_) Piping must be thoroughly tested both before and after the
+burners have been installed. It must not show loss in excess of 2 inches
+within twelve hours when subjected to a pressure equal to that of 15
+inches of mercury.
+
+(_g_) Piping and connexions must be installed by persons experienced
+in the installation of acetylene apparatus.
+
+8. CARE AND ATTENDANCE.--In the care of generators designed for a
+lighting period of more than five hours always clean and recharge the
+generating chambers at regular stated intervals, regardless of the number
+of burners actually used.
+
+Where generators are not used throughout the entire year always remove
+all water and gas and clean thoroughly at the end of the season during
+which they are in service.
+
+It is usually necessary to take the bell portion out and invert it so as
+to allow all gas to escape. This should never be done in the presence of
+artificial light or fire of any kind.
+
+Always observe a regular time, during daylight hours only, for attending
+to and charging the apparatus.
+
+In charging the generating chambers of water-feed machines clean all
+residuum carefully from the containers and remove it at once from the
+building. Separate from the mass any unslacked carbide remaining and
+return it to the containers, adding now carbide as required. Be careful
+never to fill the containers over the specified mark, as it is important
+to allow for the swelling of the carbide when it comes in contact with
+water. The proper action and economy of the machine are dependent on the
+arrangement and amount of carbide placed in the generator. Carefully
+guard against the escape of gas.
+
+Whenever recharging with carbide always replenish the water-supply.
+
+Never deposit residuum or exhausted material from water-feed machines in
+sewer-pipes or near inflammable material.
+
+Always keep water-tanks and water-seals filled with clean water.
+
+Never test the generator or piping for leaks with a flame, and never
+apply flame to an outlet from which the burner has been removed.
+
+Never use a lighted match, lamp, candle, lantern or any open light near
+the machine.
+
+Failure to observe the above cautions is as liable to endanger life as
+property.
+
+9. OUTSIDE GENERATOR HOUSES.--(_a_) Outside generator houses should
+not be located within 5 feet of any opening into, nor shall they open
+toward any adjacent building, and must be kept under lock and key.
+
+(_b_) The dimensions must be no greater than the apparatus requires
+to allow convenient room for recharging and inspection of parts. The
+floor must be at least 12 inches above grade and the entire structure
+thoroughly weather-proof.
+
+(_c_) Generator houses must be thoroughly ventilated, and any
+artificial heating necessary to prevent freezing shall be done by steam
+or hot-water systems.
+
+(_d_) Generator houses must not be used for the storage of calcium
+carbide except in accordance with the rules relating to that subject
+(_vide_ Chapter II.).
+
+_Class B.--Stationary Non-Automatic Apparatus_.
+
+10. FOUNDATIONS.--(_a_) Must be of brick, stone or concrete.
+
+(_b_) Must be so arranged that the machine will be level and so that
+strain will not be brought upon the connexions.
+
+11. GAS-HOUSES.--(_a_) Must be constructed entirely of non-
+combustible material and must not be lighted by any system of
+illumination involving open flames.
+
+(_b_) Must be heated, where artificial heating is necessary to
+prevent freezing, by steam or hot-water systems, the heater to be located
+in a separate building, and no open flames to be permitted within
+generator enclosures.
+
+(_c_) Must be kept closed and locked excepting during daylight
+hours.
+
+(_d_) Must be provided with a permanent and effective system of
+ventilation which will be operative at all times, regardless of the
+periods of operation of the plant.
+
+12. ESCAPE-PIPES.--Each generator must be provided with a vent-pipe of
+ample size, substantially installed, without traps. It must be carried to
+a suitable point outside the building and terminate in an approved hood
+located at least 12 feet above ground and remote from windows.
+
+The hood must be constructed in such a manner that it cannot be
+obstructed by rain, snow, ice, insects or birds.
+
+13. CARE AND MAINTENANCE.--All charging and cleaning of apparatus,
+generation of gas and execution of repairs must be done during daylight
+hours only, and generators must not be manipulated or in any way tampered
+with in the presence of artificial light.
+
+This will require gasholders of a capacity sufficient to supply all
+lights installed for the maximum lighting period, without the necessity
+of generation of gas at night or by artificial light.
+
+In the operation of generators of the carbide-feed type it is important
+that only a limited amount of carbide be fed into a given body of water.
+An allowance of at least one gallon of generating water per pound of
+carbide must be made in every case, and when this limit has been reached
+the generator should be drained and flushed, and clean water introduced.
+These precautions are necessary to avoid over-heating during generation
+and accumulation of hard deposits of residuum in the generating chamber.
+
+(Rule 14, referring to the storage of carbide, has been quoted in Chapter
+II. (page 19)).
+
+RULES FOR THE CONSTRUCTION OF GENERATORS.
+
+The following Rules are intended to provide only against the more
+hazardous defects usually noted in apparatus of this kind. The Rules do
+not cover all details of construction nor the proper proportioning of
+parts, and devices which comply with these requirements alone are not
+necessarily suitable for listing as permissible for use. These points are
+often only developed in the examination required before permission is
+given for installation.
+
+_Class A.--Stationary Apparatus for Isolated Installations._
+
+15. GENERAL RULES. GENERATORS.--(_a_) Must be made of iron or steel,
+and in a manner and of material to insure stability and durability.
+
+(_b_) Must be automatically regulated and uniform in their action,
+producing gas only as immediate consumption demands, and so designed that
+gas is generated without producing sufficient heat to cause yellow
+discoloration of residuum (which will occur at about 500 deg. F.) or
+abnormal pressure at any stage of the process when using carbide of any
+degree of fineness.
+
+The presence of excessive heat tends to change the chemical character of
+the gas and may even cause its ignition, while in machines of the
+carbide-feed type, finely divided carbide will produce excessive pressure
+unless provision is made to guard against it.
+
+(_c_) Must be so arranged that during recharging, back flow of gas
+from the gasholder will be automatically prevented, or so arranged that
+it will be impossible to charge the apparatus without first closing the
+supply-pipe to the gasholder, and to the other generating chambers if
+several are used.
+
+This is intended to prevent the dangerous escape of gas.
+
+(_d_) The water or carbide supply to the generating chamber must be
+so arranged that gas will be generated long enough in advance of the
+exhaustion of the supply already in the gasholder to allow the using of
+all lights without exhausting such supply.
+
+This provides for the continuous working of the apparatus under all
+conditions of water-feed and carbide charge, and it obviates the
+extinction of lights through intermittent action of the machine.
+
+(_e_) No valves or pet-cocks opening into the room from the gas-
+holding part or parts, the draining of which will allow an escape of gas,
+are permitted, and condensation from all parts of the apparatus must be
+automatically removed without the use of valves or mechanical working
+parts.
+
+Such valves and pet-cocks are not essential; their presence increases the
+possibility of leakage. The automatic removal of condensation from the
+apparatus is essential to the safe working of the machine.
+
+U-traps opening into the room from the gas-holding parts must not be used
+for removal of condensation. All sealed drip connexions must be so
+arranged as to discharge gas to the blow-off when blown out, and the
+seals must be self-restoring upon relief of abnormal pressure.
+
+(_f_) The apparatus must be capable of withstanding fire from
+outside causes.
+
+Sheet-metal joints must be double-seamed or riveted and thoroughly
+sweated with solder. Pipes must be attached to sheet-metal with lock-nuts
+or riveted flanges.
+
+This prohibits the use of wood or of joints relying entirely upon solder.
+
+(_g_) Gauge glasses, the breakage of which would allow the escape of
+gas, must not be used.
+
+(_h_) The use of mercury seals is prohibited.
+
+Mercury has been found unreliable as a seal in acetylene apparatus.(_i_)
+Combustible oils must not be used in connexion with the
+apparatus.
+
+(_j_) The construction must be such that liquid seals shall not
+become thickened by the deposit of lime or other foreign matter.
+
+(_k_) The apparatus must be constructed so that accidental siphoning
+of water will be impossible.
+
+(_l_) Flexible tubing, swing joints, unions, springs, mechanical
+check-valves, chains, pulleys, stuffing-boxes and lead or fusible piping
+must not be used on acetylene apparatus except where failure of such
+parts will not vitally affect the working or safety of the machine.
+
+Floats must not be used excepting in cases where failure will result only
+in rendering the machine inoperative.
+
+(_m_) Every machine must be plainly marked with the maximum number
+of lights it is designed to supply, the amount of carbide necessary for a
+single charge, the manufacturer's name and the name of the machine.
+
+16. GENERATING CHAMBERS.--(_a_) Must be constructed of galvanised
+iron or steel not less than No. 24 U.S. Standard gauge in thickness for
+capacities up to and including 20 gallons, not less than No. 22 U.S.
+Standard gauge for capacities between 20 and 75 gallons, and not less
+than No. 20 U.S. Standard gauge for capacities in excess of 75 gallons.
+
+(_b_) Must each be connected with the gasholder in such a manner
+that they will, at all times, give open connexion either to the gasholder
+or to the blow-off pipe to the outer air.
+
+This prevents dangerous pressure within or the escape of gas from the
+generating chamber.
+
+(_c_) Must be so constructed that not more than 5 pounds of carbide
+can be acted upon at once, in machines which apply water in small
+quantities to the carbide.
+
+This tends to reduce the danger of overheating and excessive after-
+generation by providing for division of the carbide charges in machines
+of this type.
+
+(_d_) Must be provided with covers having secure fastenings to hold
+them properly in place and those relying on a water-seal must be
+submerged in at least 12 inches of water. Water-seal chambers for covers
+depending on a water-seal must be 1-1/2 inches wide and 15 inches deep,
+excepting those depending upon the filling of the seal chambers for the
+generation of gas, where 9 inches will be sufficient.
+
+(_e_) Must be so designed that the residuum will not clog or affect
+the working of the machine and can conveniently be handled and removed.
+
+(_f_) Must be provided with suitable vent connexions to the blow-off
+pipe so that residuum may be removed and the generating water replaced
+without causing siphoning or introducing air to the gasholder upon
+recharging.
+
+This applies to machines of the carbide-feed type.
+
+(_g_) Feed mechanism for machines of the carbide-feed type must be
+so designed that the direct fall of carbide from the carbide holder into
+the water of the generator is prevented at all positions of the feed
+mechanisms; or, when actuated by the rise and fall of a gas-bell, must be
+so arranged that the feed-valve will not remain open after the landing of
+the bell, and so that the feed valve remains inoperative as long as the
+filling opening on the carbide hopper remains open. Feed mechanisms must
+always be far enough above the water-level to prevent clogging from the
+accumulation of damp lime. For this purpose the distance should be not
+less than 10 inches.
+
+17. CARBIDE CHAMBERS.--(_a_) Must be constructed of galvanised iron
+or steel not less than No. 24 U.S. Standard gauge in thickness for
+capacities up to and including 50 pounds and not less than No. 22 U.S.
+Standard gauge for capacities in excess of 50 pounds.
+
+(_b_) Must have sufficient carbide capacity to supply the full
+number of burners continuously and automatically during the maximum
+lighting period.
+
+This rule removes the necessity of recharging or attending to the machine
+at improper hours. Burners almost invariably require more than their
+rated consumption of gas, and carbide is not of staple purity, and there
+should therefore be an assurance of sufficient quantity to last as long
+as light is needed. Another important consideration is that in some
+establishments burners are called upon for a much longer period of
+lighting than in others, requiring a generator of greater gas-producing
+capacity. Machines having several generating chambers must automatically
+begin generation in each upon exhaustion of the preceding chamber.
+
+(_c_) Must be arranged so that the carbide holders or charges may be
+easily and entirely removed in case of necessity.
+
+18. GASHOLDERS.--(_a_) Must be constructed of galvanised iron or
+steel not less than No. 24 U.S. Standard gauge in thickness for
+capacities up to and including 20 gallons, not less than No. 22 U.S.
+Standard gauge for capacities between 20 and 75 gallons, and not less
+than No. 20 U.S. Standard gauge for capacities in excess of 75 gallons.
+
+Gas-bells, if used, may be two gauges lighter than holders.
+
+Condensation chambers, if placed under holders, to be of same gauge as
+holders.
+
+(_b_) Must be of sufficient capacity to contain all gas generated
+after all lights have been extinguished.
+
+If the holder is too small and blows off frequently after the lights are
+extinguished there is a waste of gas. This may suggest improper working
+of the apparatus and encourage tampering.
+
+(_c_) Must, when constructed on the gasometer principle, be so
+arranged that when the gas-bell is filled to its maximum with gas at
+normal pressure its lip or lower edge will extend at least 9 inches below
+the inner water-level.
+
+(_d_) Must, when constructed on the gasometer principle, have the
+dimensions of the tank portion so related to those of the bell that a
+pressure of at least 11 inches will be necessary before gas can be forced
+from the holder.
+
+(_e_) The bell portion of a gasholder constructed on the gasometer
+principle must be provided with a substantial guide to its upward
+movement, preferably in the centre of the holder, carrying a stop acting
+to chock the bell 1 inch above the normal blow-off point.
+
+This tends to insure the proper action of the bell and decreases the
+liability of escaping gas.
+
+(_f_) A space of at least three-quarters of an inch must be allowed
+between the sides of the tank and the bell.
+
+(_g_) All water-seals must be so arranged that the water-level may
+be readily seen and maintained.
+
+19. WATER-SUPPLY.--(_a_) The supply of water to the generator for
+generating purposes must not be taken from the water-seal of any
+gasholder constructed on the gasometer principle, unless the feed
+mechanism is so arranged that the water-seals provided for in Rules 18,
+(_c_), (_d_), and (_e_) may be retained under all
+conditions. This provides for the proper level of water in the gasholder.
+
+(_b_) In cases where machines of the carbide-feed type are supplied
+with water from city water-mains or house-pipes, the pipe connexion must
+discharge into the regularly provided filling trap on the generator and
+not through a separate continuous connexion leading into the generating
+chamber.
+
+This is to prevent the expulsion of explosive mixtures through the
+filling trap in refilling.
+
+20. RELIEFS OR SAFETY BLOW-OFFS.--(_a_) Must in all cases be
+provided, and must afford free vent to the outer air for any over-
+production of gas, and also afford relief in case of abnormal pressure in
+the machine.
+
+Both the above-mentioned vents may be connected, with the same escape-
+pipe.
+
+(_b_) Must be of at least 3/4-inch internal diameter and be provided
+with suitable means for connecting to the pipe loading outside of the
+building.
+
+(_c_) Must be constructed without valves or other mechanical working
+parts.
+
+(_d_) Apparatus requiring pressure regulators must be provided with
+an additional approved safety blow-off attachment located between the
+pressure regulator and the service-pipes and discharging to the outer
+air.
+
+This is intended to prevent the possibility of undue pressure in the
+service-pipes due to failure of the pressure regulator.
+
+21. PRESSURES.--(_a_) The working pressure at the generator must not
+vary more than ten-tenths (1) inch water column under all conditions of
+carbide charge and feed, and between the limits of no load and 50 per
+cent. overload.
+
+(_b_) Apparatus not requiring pressure regulators must be so
+arranged that the gas pressure cannot exceed sixty-tenths (6) inches
+water column.
+
+This requires the use of the pressure relief provided for in Rule No. 20
+(_a_).
+
+(_c_) Apparatus requiring pressure regulators must be so arranged
+that the gas pressure cannot exceed three pounds to the square inch.
+
+The pressure limit of 3 pounds is taken since that is the pressure
+corresponding to a water column about 6 feet high, which is about, the
+limit in point of convenience for water-sealed reliefs.
+
+22. AIR MIXTURES.--Generators must be so arranged as to contain the
+minimum amount of air when first started or recharged, and no device or
+attachment facilitating or permitting mixture of air with the gas prior
+to consumption, except at the burners, shall be allowed.
+
+Owing to the explosive properties of acetylene mixed with air, machines
+must be so designed that such mixtures are impossible.
+
+23. PURIFIERS.--(_a_) Must be constructed of galvanised iron or
+steel not less than No. 24 U.S. Standard gauge in thickness.
+
+(_b_) Where installed, purifiers must conform to the general rules
+for the construction of other acetylene apparatus and allow the free
+passage of gas.
+
+(_c_) Purifiers must contain no carbide for drying purposes.
+
+(_d_) Purifiers must be located inside of gasholders, or, where
+necessarily outside, must have no hand-holes which can be opened without
+first shutting off the gas-supply.
+
+24. PRESSURE REGULATORS.--(_a_) Must conform to the rules for the
+construction of other acetylene apparatus so far as they apply and must
+not be subject to sticking or clogging.
+
+(_b_) Must be capable of maintaining a uniform pressure, not varying
+more than four-tenths inch water column, at any load within their rating.
+
+(_c_) Must be installed between valves in such a manner as to
+facilitate inspection and repairs.
+
+_Class B.--Stationary Apparatus for Central Station Service._
+
+Generators of over 300 lights capacity for central station service are
+not required to be automatic in operation. Generators of less than 300
+lights capacity must be automatic in operation and must comply in every
+respect with the requirements of Class A.
+
+25. GENERAL RULES. GENERATORS.--(_a_) Must be substantially
+constructed of iron or steel and be protected against depreciation by an
+effective and durable preventive of corrosion.
+
+Galvanising is strongly recommended as a protection against oxidation,
+and it may to advantage be reinforced by a thorough coating of asphaltum
+or similar material.
+
+(_b_) Must contain no copper or alloy of copper in contact with
+acetylene, excepting in valves.
+
+(_c_) Must be so arranged that generation will take place without
+overheating; temperatures in excess of 500 deg. F. to be considered
+excessive.
+
+(_d_) Must be provided with means for automatic removal of
+condensation from gas passages.
+
+(_e_) Must be provided with suitable protection against freezing of
+any water contained in the apparatus.
+
+No salt or other corrosive chemical is permissible as a protection
+against freezing.
+
+(_f_) Must in general comply with the requirements governing the
+construction of apparatus for isolated installations so far as they are
+applicable.
+
+(_g_) Must be so arranged as to insure correct procedure in
+recharging and cleaning.
+
+(_h_) Generators of the carbide-feed type must be provided with some
+form of approved measuring device to enable the attendant to determine
+when the maximum allowable quantity of carbide has been fed into the
+generating chamber.
+
+In the operation of generators of this type an allowance of at least 1
+gallon of clean generating water per pound of carbide should be made, and
+the generator should be cleaned after slaking of every full charge. Where
+lump carbide is used the lumps may become embedded in the residuum, if
+the latter is allowed to accumulate at the bottom of the generating
+chamber, causing overheating from slow and restricted generation, and
+rendering the mass more liable to form a hard deposit and bring severe
+stresses upon the walls of the generator by slow expansion.
+
+26. GENERATING CHAMBERS.--(_a_) Must each be connected with the
+gasholder in such a manner that they will, at all times, give open
+connexion either to the gasholder or to the blow-off pipe into the outer
+air.
+
+(_b_) Must be so arranged as to guard against appreciable escape of
+gas to the room at any time during the introduction of the charges.
+
+(_c_) Must be so designed that the residuum will not clog or affect
+the operation of the machine and can conveniently be handled and removed.
+
+(_d_) Must be so arranged that during the process of cleaning and
+recharging the back-flow of gas from the gasholder or other generating
+chambers will be automatically prevented.
+
+27. GASHOLDERS.--(_a_) Must be of sufficient capacity to contain at
+least 4 cubic feet of gas per 1/2-foot burner of the rating.
+This is to provide for the requisite lighting period without the
+necessity of making gas at night, allowance being made for the
+enlargement of burners caused by the use of cleaners.
+
+(_b_) Must be provided with suitable guides to direct the movement
+of the bell throughout its entire travel.
+
+28. PRESSURE RELIEFS.--Must in all cases be provided, and must be so
+arranged as to prevent pressure in excess of 100-tenths (10) inches water
+column in the mains.
+
+29. PRESSURES.--Gasholders must be adjusted to maintain a pressure of
+approximately 25-tenths (2.5) inches water column in the mains.
+
+
+
+CHAPTER V
+
+THE TREATMENT OF ACETYLENE AFTER GENERATION
+
+IMPURITIES IN CALCIUM CARBIDE.--The calcium carbide manufactured at the
+present time, even when of the best quality commercially obtainable, is
+by no means a chemically pure substance; it contains a large number of
+foreign bodies, some of which evolve gas on treatment with water. To a
+considerable extent this statement will probably always remain true in
+the future; for in order to make absolutely pure carbide it would be
+necessary for the manufacturer to obtain and employ perfectly pure lime,
+carbon, and electrodes in an electric furnace which did not suffer attack
+during the passage of a powerful current, or he would have to devise some
+process for simultaneously or subsequently removing from his carbide
+those impurities which were derived from his impure raw materials or from
+the walls of his furnace--and either of these processes would increase
+the cost of the finished article to a degree that could hardly be borne.
+Beside the impurities thus inevitably arising from the calcium carbide
+decomposed, however, other impurities may be added to acetylene by the
+action of a badly designed generator or one working on a wrong system of
+construction; and therefore it may be said at once that the crude gas
+coming from the generating plant is seldom fit for immediate consumption,
+while if it be required for the illumination of occupied rooms, it must
+invariably be submitted to a rigorous method of chemical purification.
+
+IMPURITIES OF ACETYLENE.--Combining together what may be termed the
+carbide impurities and the generator impurities in crude acetylene, the
+foreign bodies are partly gaseous, partly liquid, and partly solid. They
+may render the gas dangerous from the point of view of possible
+explosions; they, or the products derived from them on combustion, may be
+harmful to health if inspired, injurious to the fittings and decorations
+of rooms, objectionable at the burner orifices by determining, or
+assisting in, the formation of solid growths which distort the flame and
+so reduce its illuminating power; they may give trouble in the pipes by
+condensing from the state of vapour in bends and dips, or by depositing,
+if they are already solid, in angles, &c.;, and so causing stoppages; or
+they may be merely harmful economically by acting as diluents to the
+acetylene and, by having little or no illuminating value of themselves,
+causing the gas to emit less light than it should per unit of volume
+consumed, more particularly, of course, when the acetylene is not burnt
+under the mantle. Also, not being acetylene, or isomeric therewith, they
+require, even if they are combustible, a different proportion of oxygen
+for their perfect combustion; and a good acetylene jet is only calculated
+to attract precisely that quantity of air to the flame which a gas having
+the constitution C_2H_2 demands. It will be apparent without argument
+that a proper system of purification is one that is competent to remove
+the carbide impurities from acetylene, so far as that removal is
+desirable or necessary; it should not be called upon to extract the
+generator impurities, because the proper way of dealing with them is, to
+the utmost possible extent, to prevent their formation. The sole
+exception to this rule is that of water-vapour, which invariably
+accompanies the best acetylene, and must be partially removed as soon as
+convenient. Vapour of water almost always accompanies acetylene from the
+generator, even when the apparatus does not belong to those systems of
+working where liquid water is in excess, this being due to the fact that
+in a generator where the carbide is in excess the temperature tends to
+rise until part of the water is vapourised and carried out of the
+decomposing chamber before it has an opportunity of reacting with the
+excess of carbide. The issuing gas is therefore more or less hot, and it
+usually comes from the generating chamber saturated with vapour, the
+quantity needed so to saturate it rising as the temperature of the gas
+increases. Practically speaking, there is little objection to the
+presence of water-vapour in acetylene beyond the fear of deposition of
+liquid in the pipes, which may accumulate till they are partially or
+completely choked, and may even freeze and burst them in very severe
+weather. Where the chemical purifiers, too, contain a solid material
+which accidentally or intentionally acts as a drier by removing moisture
+from the acetylene, it is a waste of such comparatively expensive
+material to allow gas to enter the purifier wetter than need be.
+
+EXTRACTION OF MOISTURE.--In all large plants the extraction of the
+moisture may take place in two stages. Immediately after the generator,
+and before the washer if the generator requires such an apparatus to
+follow it, a condenser is placed. Here the gas is made to travel somewhat
+slowly through one or more pipes surrounded with cold air or water, or is
+made to travel through a space containing pipes in which cold water is
+circulating, the precise method of constructing the condenser being
+perfectly immaterial so long as the escaping gas has a temperature not
+appreciably exceeding that of the atmosphere. So cooled, however, the gas
+still contains much water-vapour, for it remains saturated therewith at
+the temperature to which it is reduced, and by the inevitable law of
+physics a further fall in temperature will be followed by a further
+deposition of liquid water from the acetylene. Manifestly, if the
+installation is so arranged that the gas can at no part of the service
+and on no occasion fall to a lower temperature than that at which it
+issues from the condenser, the removal of moisture as effected by such a
+condenser will be sufficient for all practical purposes; but at least in
+all large plants where a considerable length of main is exposed to the
+air, a more complete moisture extractor must be added to the plant, or
+water will be deposited in the pipes every cold night in the winter. It
+is, however, useless to put a chemical drier, or one more searching in
+its action than a water-cooled condenser, at so early a position in the
+acetylene plant, because the gas will be subsequently stored in a water-
+sealed holder, where it will most probably once again be saturated with
+moisture from the seal. When such generators are adopted as require to
+have a specific washer placed after them in order to remove the water-
+soluble impurities, _e.g._, those in which the gas does not actually
+bubble through a considerable quantity of liquid in the generating
+chamber itself, it is doubtful whether a separate condenser is altogether
+necessary, because, as the water in the washer can easily be kept at the
+atmospheric temperature (by means of water circulating in pipes or
+otherwise), the gas will be brought to the atmospheric temperature in the
+washer, and at that temperature it cannot carry with it more than a
+certain fixed proportion of moisture. The notion of partially drying a
+gas by causing it to pass through water may appear paradoxical, but a
+comprehension of physical laws will show that it is possible, and will
+prove efficient in practice, when due attention is given to the facts
+that the gas entering the washer is hot, and that it is subsequently to
+be stored over water in a holder.
+
+GENERATOR IMPURITIES.--The generator impurities present in the crudest
+acetylene consist of oxygen and nitrogen, _i.e._, the main
+constituents of air, the various gaseous, liquid, and semi-solid bodies
+described in Chapter II., which are produced by the polymerising and
+decomposing action of heat upon the carbide, water, and acetylene in the
+apparatus, and, whenever the carbide is in excess in the generator, some
+lime in the form of a very fine dust. In all types of water-to-carbide
+plant, and in some automatic carbide-feed apparatus, the carbide chamber
+must be disconnected and opened each time a fresh charge has to be
+inserted; and since only about one-third of the space in the container
+can be filled with carbide, the remaining two-thirds are left full of
+air. It is easy to imagine that the carbide container of a small
+generator might be so large, or loaded with so small a quantity of
+carbide, or that the apparatus might in other respects be so badly
+designed, that the gas evolved might contain a sufficient proportion of
+air to render it liable to explode in presence of a naked light, or of a
+temperature superior to its inflaming-point. Were a cock, however, which
+should have been shut, to be carelessly left open, an escape of gas from,
+rather than an introduction of air into, the apparatus would follow,
+because the pressure in the generator is above that of the atmosphere. As
+is well known, roughly four-fifths by volume of the air consist of
+nitrogen, which is non-inflammable and accordingly devoid of danger-
+conferring properties; but in all flames the presence of nitrogen is
+harmful by absorbing much of the heat liberated, thus lowering the
+temperature of that flame, and reducing its illuminating power far more
+seriously. On the other hand, a certain quantity of air in acetylene
+helps to prevent burner troubles by acting as a mere diluent (albeit an
+inferior one to methane or marsh-gas), and therefore it has been proposed
+intentionally to add air to the gas before consumption, such a process
+being in regular use on the large scale in some places abroad. As Eitner
+has shown (Chapter VI.) that in a 3/4-inch pipe acetylene ceases to be
+explosive when mixed with less than 47.7 per cent. of air, an amount of,
+say, 40 per cent. or less may in theory be safely added to acetylene; but
+in practice the amount of air added, if any, would have to be much
+smaller, because the upper limit of explosibility of acetylene-air
+mixtures is not rigidly fixed, varying from about 50 per cent. of air
+when the mixture is in a small vessel, and fired electrically to about 25
+per cent. of air in a large vessel approached with a flame. Moreover,
+safely to prepare such mixtures, after the proportion of air had been
+decided upon, would require the employment of some additional perfectly
+trustworthy automatic mechanism to the plant to draw into the apparatus a
+quantity of air strictly in accordance with the volume of acetylene made
+--a pair of meters geared together, one for the gas, the other for the
+air--and this would introduce extra complexity and extra expense. On the
+whole the idea cannot be recommended, and the action of the British Home
+Office in prohibiting the use of all such mixtures except those
+unavoidably produced in otherwise good generators, or in burners of the
+ordinary injector type, is perfectly justifiable. The derivation and
+effect of the other gaseous and liquid generator impurities in acetylene
+were described in Chapter II. Besides these, very hot gas has been found
+to contain notable amounts of hydrogen and carbon monoxide, both of which
+burn with non-luminous flames. The most plausible explanation of their
+origin has been given by Lewes, who suggests that they may be formed by
+the action of water-vapour upon very hot carbide or upon carbon separated
+therefrom as the result of previous dissociation among the gases present;
+the steam and the carbon reacting together at a temperature of 500 deg. C.
+or thereabouts in a manner resembling that of the production of water-gas.
+The last generator impurity is lime dust, which is calcium oxide or
+hydroxide carried forward by the stream of gas in a state of extremely
+fine subdivision, and is liable to be produced whenever water acts
+rapidly upon an excess of calcium carbide. This lime occasionally appears
+in the alternative form of a froth in the pipes leading directly from the
+generating chamber; for some types of carbide-to-water apparatus,
+decomposing certain kinds of carbide, foam persistently when the liquid
+in them becomes saturated with lime, and this foam or froth is remarkably
+difficult to break up.
+
+FILTERS.--It has just been stated that the purifying system added to an
+acetylene installation should not be called upon to remove these
+generator impurities; because their appearance in quantity indicates a
+faulty generator, which should be replaced by one of better action. On
+the contrary, with the exception of the gases which are permanent at
+atmospheric temperature--hydrogen, carbon monoxide, nitrogen, and oxygen--
+and which, once produced, must remain in the acetylene (lowering its
+illuminating value, but giving no further trouble), extraction of these
+generator impurities is quite simple. The dust or froth of lime will be
+removed in the washer where the acetylene bubbles through water--the dust
+itself can be extracted by merely filtering the gas through cotton-wool,
+felt, or the like. The least volatile liquid impurities will be removed
+partly in the condenser, partly in the washer, and partly by the
+mechanical dry-scrubbing action of the solid purifying material in the
+chemical purifier. To some extent the more volatile liquid bodies will be
+removed similarly; but a complete extraction of them demands the
+employment of some special washing apparatus in which the crude acetylene
+is compelled to bubble (in finely divided streams) through a layer of
+some non-volatile oil, heavy mineral lubricating oil, &c.; for though
+soluble in such oil, the liquid impurities are not soluble in, nor do
+they mix with, water; and since they are held in the acetylene as
+vapours, a simple passage through water, or through water-cooled pipes,
+does not suffice for their recovery. It will be seen that a sufficient
+removal of these generator impurities need throw no appreciable extra
+labour upon the consumer of acetylene, for he can readily select a type
+of generator in which their production is reduced to a minimum; while a
+cotton-wool or coke filter for the gas, a water washer, which is always
+useful in the plant if only employed as a non-return valve between the
+generator and the holder, and the indispensable chemical purifiers, will
+take out of the acetylene all the remaining generator impurities which
+need, and can, be extracted.
+
+CARBIDE IMPURITIES.--Neglecting very minute amounts of carbon monoxide
+and hydrogen (which may perhaps come from cavities in the calcium carbide
+itself), as being utterly insignificant from the practical point of view,
+the carbide impurities of the gas fall into four main categories: those
+containing phosphorus, those containing sulphur, those containing
+silicon, and those containing gaseous ammonia. The phosphorus in the gas
+comes from calcium phosphide in the calcium carbide, which is attacked by
+water, and yields phosphoretted hydrogen (or phosphine, as it will be
+termed hereafter). The calcium phosphide, in its turn, is produced in the
+electric furnace by the action of the coke upon the phosphorus in
+phosphatic lime--all commercially procurable lime and some varieties of
+coke (or charcoal) containing phosphates to a larger or smaller extent.
+The sulphur in the gas comes from aluminium sulphide in the carbide,
+which is produced in the electric furnace by the interaction of
+impurities containing aluminium and sulphur (clay-like bodies, &c.;)
+present in the lime and coke; this aluminium sulphide is attacked by
+water and yields sulphuretted hydrogen. Even in the absence of aluminium
+compounds, sulphuretted hydrogen may be found in the gases of an
+acetylene generator; here it probably arises from calcium sulphide, for
+although the latter is not decomposed by water, it gradually changes in
+water into calcium sulphydrate, which appears to suffer decomposition.
+When it exists in the gas the silicon is derived from certain silicides
+in the carbide; but this impurity will be dealt with by itself in a later
+paragraph. The ammonia arises from the action of the water upon
+magnesium, aluminium, or possibly calcium nitride in the calcium carbide,
+which are bodies also produced in the electric furnace or as the carbide
+is cooling. In the gas itself the ammonia exists as such; the phosphorus
+exists mainly as phosphine, partly as certain organic compounds
+containing phosphorus, the exact chemical nature of which has not yet
+been fully ascertained; the sulphur exists partly as sulphuretted
+hydrogen and partly as organic compounds analogous, in all probability,
+to those of phosphorus, among which Caro has found oil of mustard, and
+certain bodies that he regards as mercaptans. [Footnote: It will be
+convenient to borrow the phrase used in the coal-gas industry, calling
+the compounds of phosphorus other than phosphine "phosphorus compounds,"
+and the compounds of sulphur other than sulphuretted hydrogen "sulphur
+compounds." The "sulphur compounds" of coal-gas, however, consist mainly
+of carbon bisulphide, which is certainly not the chief "sulphur compound"
+in acetylene, even if present to any appreciable extent.] The precise way
+in which these organic bodies are formed from the phosphides and
+sulphides of calcium carbide is not thoroughly understood; but the system
+of generation employed, and the temperature obtaining in the apparatus,
+have much to do with their production; for the proportion of the total
+phosphorus and sulphur found in the crude gas which exists as "compounds"
+tends to be greater as the generating plant yields a higher temperature.
+It should be noted that ammonia and sulphuretted hydrogen have one
+property in common which sharply distinguishes them from the sulphur
+"compounds," and from all the phosphorus compounds, including phosphine.
+Ammonia and sulphuretted hydrogen are both very soluble in water, the
+latter more particularly in the lime-water of an active acetylene
+generator; while all the other bodies referred to are completely
+insoluble. It follows, therefore, that a proper washing of the crude gas
+in water should suffice to remove all the ammonia and sulphuretted
+hydrogen from the acetylene; and as a matter of fact those generators in
+which the gas is evolved in presence of a large excess of water, and in
+which it has to bubble through such water, yield an acetylene practically
+free from ammonia, and containing nearly all the sulphur which it does
+contain in the state of "compounds." It must also be remembered that
+chemical processes which are perfectly suited to the extraction of
+sulphuretted hydrogen and phosphine are not necessarily adapted for the
+removal of the other phosphorus and sulphur compounds.
+
+WASHERS.--In designing a washer for the extraction of ammonia and
+sulphuretted hydrogen it is necessary to see that the gas is brought into
+most intimate contact with the liquid, while yet no more pressure than
+can possibly be avoided is lost. Subdivision of the gas stream may be
+effected by fitting the mouth of the inlet-pipe with a rose having a
+large number of very small holes some appreciable distance apart, or by
+bending the pipe to a horizontal position and drilling it on its upper
+surface with numbers of small holes. Another method is to force the gas
+to travel under a series of partitions extending just below the water-
+level, forming the lower edges of those partitions either perfectly
+horizontal or with small notches like the teeth of a saw. One volume of
+pure water only absorbs about three volumes of sulphuretted hydrogen at
+atmospheric temperatures, but takes up some 600 volumes of gaseous
+ammonia; and as ammonia always accompanies the sulphuretted hydrogen, the
+latter may be said to be absorbed in the washer by a solution of ammonia,
+a liquid in which sulphuretted hydrogen is much more soluble. Therefore,
+since water only dissolves about an equal volume of acetylene, the liquid
+in the washer will continue to extract ammonia and sulphuretted hydrogen
+long after it is saturated with the hydrocarbon. For this reason,
+_i.e._, to avoid waste of acetylene by dissolution in the clean
+water of the washer, the plan is sometimes adopted of introducing water
+to the generator through the washer, so that practically the carbide is
+always attacked by a liquid saturated with acetylene. Provided the liquid
+in the generator does not become seriously heated, there is no objection
+to this arrangement; but if the water is heated strongly in the generator
+it loses much or all of its solvent properties, and the impurities may be
+driven back again into the washer. Clearly if the waste lime of the
+generator occurs as a dry or damp powder, the plan mentioned is not to be
+recommended; but when the waste lime is a thin cream--water being in
+large excess--it may be adopted. If the generator produces lime dust
+among the gas, and if the acetylene enters the washer through minute
+holes, a mechanical filter to remove the dust must be inserted between
+the generator and the washer, or the orifices of the leading pipe will be
+choked. Whenever a water-cooled condenser is employed after the
+generator, in which the gas does not come in contact with the water, that
+liquid may always be used to charge the generator. For compactness and
+simplicity of parts the water of the holder seal is occasionally used as
+the washing liquid, but unless the liquid of the seal is constantly
+renewed it will thus become offensive, especially if the holder is under
+cover, and it will also act corrosively upon the metal of the tank and
+bell. The water-soluble impurities in acetylene will not be removed
+completely by merely standing over the holder seal for a short time, and
+it is not good practice to pass unnecessarily impure gas into a holder.
+[Footnote: This is not a contradiction of what has been said in Chapter
+III. about the relative position of holder and chemical purifiers,
+because reference is now being made to ammonia and sulphuretted hydrogen
+only.]
+
+HARMFULNESS OF IMPURITIES.--The reasons why the carbide impurities must
+be removed from acetylene before it is burned have now to be explained.
+From the strictly chemical point of view there are three compounds of
+phosphorus, all termed phosphoretted hydrogen or phosphine: a gas, PH_3;
+a liquid, P_2H_4; and a solid, P_4H_2. The liquid is spontaneously
+inflammable in presence of air; that is to say, it catches fire of itself
+without the assistance of spark or flame immediately it comes in contact
+with atmospheric oxygen; being very volatile, it is easily carried as
+vapour by any permanent gas. The gaseous phosphine is not actually
+spontaneously inflammable at temperatures below 100 deg. C.; but it oxidises
+so rapidly in air, even when somewhat diluted, that the temperature may
+quickly rise to the point of inflammation. In the earliest days of the
+acetylene industry, directly it was recognised that phosphine always
+accompanies crude acetylene from the generator, it was believed that
+unless the proportion were strictly limited by decomposing only a carbide
+practically free from phosphides, the crude acetylene might exhibit
+spontaneously inflammable properties. Lewes, indeed, has found that a
+sample of carbide containing 1 per cent of calcium phosphide gave
+(probably by local decomposition--the bulk of the phosphide suffering
+attack first) a spontaneously inflammable gas; but when examining
+specimens of commercial carbide the highest amount of phosphine he
+discovered in the acetylene was 2.3 per cent, and this gas was not
+capable of self-inflammation. According to Bullier, however, acetylene
+must contain 80 per cent of phosphine to render it spontaneously
+inflammable. Berdenich has reported a case of a parcel of carbide which
+yielded on the average 5.1 cubic foot of acetylene per lb., producing gas
+which contained only 0.398 gramme of phosphorus in the form of phosphine
+per cubic metre (or 0.028 per cent. of phosphine) and was spontaneously
+inflammable. But on examination the carbide in question was found to be
+very irregular in composition, and some lumps produced acetylene
+containing a very high proportion of phosphorus and silicon compounds. No
+doubt the spontaneous inflammability was due to the exceptional richness
+of these lumps in phosphorus. As manufactured at the present day, calcium
+carbide ordinarily never contains an amount of phosphide sufficient to
+render the gas dangerous on the score of spontaneous inflammability; but
+should inferior material ever be put on the markets, this danger might
+have to be guarded against by submitting the gas evolved from it to
+chemical analysis. Another risk has been suggested as attending the use
+of acetylene contaminated with phosphine (and to a minor degree with
+sulphuretted hydrogen), viz., that being highly toxic, as they
+undoubtedly are, the gas containing them might be extremely dangerous to
+breathe if it escaped from the service, or from a portable lamp,
+unconsumed. Anticipating what will be said in a later paragraph, the
+worst kind of calcium carbide now manufactured will not yield a gas
+containing more than 0.1 per cent. by volume of sulphuretted hydrogen and
+0.05 per cent. of phosphine. According to Haldane, air containing 0.07
+per cent. of sulphuretted hydrogen produces fatal results on man if it is
+breathed for some hours, while an amount of 0.2 per cent. is fatal in 1-
+1/2 minutes. Similar figures for phosphine cannot be given, because
+poisoning therewith is very rare or quite unknown: the cases of "phossy-
+jaw" in match factories being caused either by actual contact with yellow
+phosphorus or by inhalation of its vapour in the elemental state.
+However, assuming phosphine to be twice as toxic as sulphuretted
+hydrogen, its effect in crude acetylene of the above-mentioned
+composition will be equal to that of the sulphuretted hydrogen, so that
+in the present connexion the gas may be said to be equally toxic with a
+sample of air containing 0.2 per cent. of sulphuretted hydrogen, which
+kills in less than two minutes. But this refers only to crude acetylene
+undiluted with air; and being a hydrocarbon--being in fact neither oxygen
+nor common air--acetylene is irrespirable of itself though largely devoid
+of specific toxic action. Numerous investigations have been made of the
+amount of acetylene (apart from its impurities) which can be breathed in
+safety; but although these point to a probable recovery after a fairly
+long-continued respiration of an atmosphere charged with 30 per cent. of
+acetylene, the figure is not trustworthy, because toxicological
+experiments upon animals seldom agree with similar tests upon man. If
+crude acetylene were diluted with a sufficient proportion of air to
+remove its suffocating qualities, the percentage of specifically toxic
+ingredients would be reduced to a point where their action might be
+neglected; and short of such dilution the acetylene itself would in all
+probability determine pathological effects long before its impurities
+could set up symptoms of sulphur and phosphorus poisoning.
+
+Ammonia is objectionable in acetylene because it corrodes brass fittings
+and pipes, and because it is partially converted (to what extent is
+uncertain) into nitrous and nitric acids as it passes through the flame.
+Sulphur is objectionable in acetylene because it is converted into
+sulphurous and sulphuric anhydrides, or their respective acids, as it
+passes through the flame. Phosphorus is objectionable because in similar
+circumstances it produces phosphoric anhydride and phosphoric acid. Each
+of these acids is harmful in an occupied room because they injure the
+decorations, helping to rot book-bindings, [Footnote: It is only fair to
+state that the destruction of leather bindings is commonly due to traces
+of sulphuric acid remaining in the leather from the production employed
+in preparing it, and is but seldom caused directly by the products of
+combustion coming from gas or oil.] tarnishing "gold-leaf" ornaments, and
+spoiling the colours of dyed fabrics. Each is harmful to the human
+system, sulphuric and phosphoric anhydrides (SO_3, and P_4O_10) acting as
+specific irritants to the lungs of persons predisposed to affections of
+the bronchial organs. Phosphorus, however, has a further harmful action:
+sulphuric anhydride is an invisible gas, but phosphoric anhydride is a
+solid body, and is produced as an extremely fine, light, white voluminous
+dust which causes a haze, more or less opaque, in the apartment.
+[Footnote: Lewes suggests that ammonia in the gas burnt may assist in the
+production of this haze, owing to the formation of solid ammonium salts
+in the state of line dust.] Immediately it comes in contact with
+atmospheric moisture phosphoric anhydride is converted into phosphoric
+acid, but this also occurs at first as a solid substance. The solidity
+and visibility of the phosphoric anhydride and acid are beneficial in
+preventing highly impure acetylene being unwittingly burnt in a room;
+but, on the other hand, being merely solids in suspension in the air, the
+combustion products of phosphorus are not so easily carried away from the
+room by the means provided for ventilation as are the products of the
+combustion of sulphur. Phosphoric anhydride is also partly deposited in
+the solid state at the burner orifices, perhaps actually corroding the
+steatite jets, and always assisting in the deposition of carbon from any
+polymerised hydrocarbons in the acetylene; thus helping the carbon to
+block up or distort those orifices. Whenever the acetylene is to be burnt
+on the incandescent system under a mantle of the Welsbach or other type,
+phosphorus, and possibly sulphur, become additionally objectionable, and
+rigorous extraction is necessary. As is well known, the mantle is
+composed of the oxides of certain "rare earths" which owe their practical
+value to the fact that they are non-volatile at the temperature of the
+gas-flame. When a gas containing phosphorus is burnt beneath such a
+mantle, the phosphoric anhydride attacks those oxides, partially
+converting them into the respective phosphates, and these bodies are less
+refractory. A mantle exposed to the combustion products of crude
+acetylene soon becomes brittle and begins to fall to pieces, occasionally
+showing a yellowish colour when cold. The actual advantage of burning
+acetylene on the incandescent system is not yet thoroughly established--
+in this country at all events; but it is clear that the process will not
+exhibit any economy (rather the reverse) unless the plant is provided
+with most capable chemical purifiers. Phosphorus, sulphur, and ammonia
+are not objectionable in crude acetylene because they confer upon the gas
+a nauseous odour. From a well-constructed installation no acetylene
+escapes unconsumed: the gas remains wholly within the pipes until it is
+burnt, and whatever odour it may have fails to reach the human nostrils.
+A house properly piped for acetylene will be no more conspicuous by its
+odour than a house properly piped for coal-gas. On the contrary, the fact
+that the carbide impurities of acetylene, which, in the absolutely pure
+state, is a gas of somewhat faint, hardly disagreeable, odour, do confer
+upon that gas a persistent and unpleasant smell, is distinctly
+advantageous; for, owing to that odour, a leak in the pipes, an unclosed
+tap, or a fault in the generating plant is instantly brought to the
+consumer's attention. A gas wholly devoid of odour would be extremely
+dangerous in a house, and would have to be scented, as is done in the
+case of non-carburetted water-gas when it is required for domestic
+purposes.
+
+AMOUNTS OF IMPURITIES AND SCOPE OF PURIFICATION.--Partly for the reason
+which has just been given, and partly on the ground of expense, a
+complete removal of the impurities from crude acetylene is not desirable.
+All that need be done is to extract sufficient to deprive the gas of its
+injurious effects upon lungs, decorations, and burners. As it stands,
+however, such a statement is not sufficiently precise to be useful either
+to consumers of acetylene or to manufacturers of plant, and some more or
+less arbitrary standard must be set up in order to define the composition
+of "commercially pure" acetylene, as well as to gauge the efficiency of
+any process of purification. In all probability such limit may be
+reasonably taken at 0.1 milligramme of either sulphur or phosphorus
+(calculated as elementary bodies) per 1 litre of acetylene, _i.e._,
+0.0-1.1 grain per cubic foot; a quantity which happens to correspond
+almost exactly with a percentage by weight of 0.01. Owing to the atomic
+weights of these substances, and the very small quantities being
+considered, the same limit hardly differs from that of 0.01 per cent. by
+weight of sulphuretted hydrogen or of phosphine--it being always
+recollected that the sulphur and phosphorus do not necessarily exist in
+the gas as simple hydrides. Keppeler, however, has suggested the higher
+figure of 0.15 milligramme of either sulphur or phosphorus per litre of
+acetylene (=0.066 grain per cubic foot) for the maximum amount of these
+impurities permissible in purified acetylene. He adopts this standard on
+the basis of the results of observations of the amounts of sulphur and
+phosphorus present in the gas issuing from a purifier charged with
+heratol at the moment when the last layer of the heratol is beginning to
+change colour. No limit has been given for the removal of the ammonia,
+partly because that impurity can more easily, and without concomitant
+disadvantage, be extracted entirely; and partly because it is usually
+removed in the washer and not in the true chemical purifier.
+
+According to Lewes, the maximum amount of ammonia found in the acetylene
+coming from a dripping generator is 0.95 gramme per litre, while in
+carbide-to-water gas it is 0.16 gramme: 417 and 70.2 grains per cubic
+foot respectively. Rossel and Landriset have found 4 milligrammes (1.756
+grains [Footnote: Milligrammes per litre; grains per cubic foot. It is
+convenient to remember that since 1 cubic foot of water weighs 62.321 x
+16 - 997.14 avoirdupois ounces, grammes per litre are approximately equal
+to oz. per cubic foot; and grammes per cubic metre to oz. per 1000 cubic
+feet.]) to be the maximum in water-to-carbide gas, and none to occur in
+carbide-to-water acetylene. Rossel and Landriset return the minimum
+proportion of sulphur, calculated as H_2S, found in the gaseous state in
+acetylene when the carbide has not been completely flooded with water at
+1.18 milligrammes per litre, or 0.52 grain per cubic foot; and the
+corresponding maxima at 1.9 milligrammes, or 0.84 grain. In carbide-to-
+water gas, the similar maxima are 0.23 milligramme or 0.1 grain. As
+already stated, the highest proportion of phosphine yet found in
+acetylene is 2.3 per cent. (Lewes), which is equal to 32.2 milligrammes
+of PH_3 per litre or 14.13 grains per cubic foot (Polis); but this sample
+dated from 1897. Eitner and Keppeler record the minimum proportion of
+phosphorus, calculated as PH_3, found in crude acetylene, as 0.45
+milligramme per litre, and the maximum as 0.89 milligramme per litre; in
+English terms these figures are 0.2 and 0.4 grain per cubic foot. On an
+average, however, British and Continental carbide of the present day may
+be said to give a gas containing 0.61 milligramme of phosphorus
+calculated as PH_3 per litre and 0.75 milligramme of sulphur calculated
+as H_2S. In other units these figures are equal to 0.27 grain of PH_3 and
+0.33 grain of H_2S per 1 cubic foot, or to 0.041 per cent. by volume of
+PH_3 and 0.052 per cent. of H_2S. Yields of phosphorus and sulphur much
+higher than these will be found in the journals and books, but such
+analytical data were usually obtained in the years 1896-99, before the
+manufacture of calcium carbide had reached its present degree of
+systematic control. A commercial specimen of carbide was seen by one of
+the authors as late as 1900 which gave an acetylene containing 1.12
+milligramme of elementary sulphur per litre, i.e., 0.096 per cent, by
+volume, or 0.102 per cent, by volume of H_2S; but the phosphorus showed
+the low figure of 0.36 milligramme per litre (0.031 per cent, of P or
+0.034 per cent, of PH_3 by volume).
+
+The British Acetylene Association's regulations relating to carbide of
+calcium (_vide_ Chap. XIV.) contain a clause to the effect that
+"carbide which, when properly decomposed, yields acetylene containing
+from all phosphorus compounds therein more than 0.05 per cent, by volume
+of phosphoretted hydrogen, may be refused by the buyer." This limit is
+equivalent to 0.74 milligramme of phosphorus calculated as PH_3 per
+litre. A latitude of 0.01 per cent, is, however, allowed for the
+analysis, so that the ultimate limit on which carbide could be rejected
+is: 0.06 volume per cent. of PH_3, or 0.89 milligramme of phosphorus per
+litre.
+
+The existence in appreciable quantity of combined silicon as a normal
+impurity in acetylene seems still open to doubt. Calcium carbide
+frequently contains notable quantities of iron and other silicides; but
+although these bodies are decomposed by acids, yielding hydrogen
+silicide, or siliciuretted hydrogen, they are not attacked by plain
+water. Nevertheless Wolff and Gerard have found hydrogen silicide in
+crude acetylene, and Lewes looks upon it as a common impurity in small
+amounts. When it occurs, it is probably derived, as Vigouroux has
+suggested, from "alloys" of silicon with calcium, magnesium, and
+aluminium in the carbide. The metallic constituents of these substances
+would naturally be attacked by water, evolving hydrogen; and the
+hydrogen, in its nascent state, would probably unite with the liberated
+silicon to form hydrogen silicide. Many authorities, including Keppeler,
+have virtually denied that silicon compounds exist in crude acetylene,
+while the proportion 0.01 per cent. has been given by other writers as
+the maximum. Caro, however, has stated that the crude gas almost
+invariably contains silicon, sometimes in very small quantities, but
+often up to the limit of 0.8 per cent.; the failure of previous
+investigators to discover it being due to faulty analytical methods. Caro
+has seen one specimen of (bad) carbide which gave a spontaneously
+inflammable gas although it contained only traces of phosphine; its
+inflammability being caused by 2.1 per cent. of hydrogen silicide.
+Practically speaking, all the foregoing remarks made about phosphine
+apply equally to hydrogen silicide: it burns to solid silicon oxide
+(silica) at the burners, is insoluble in water, and is spontaneously
+inflammable when alone or only slightly diluted, but never occurs in good
+carbide in sufficient proportion to render the acetylene itself
+inflammable. According to Caro the silicon may be present both as
+hydrogen silicide and as silicon "compounds." A high temperature in the
+generator will favour the production of the latter; an apparatus in which
+the gas is washed well in lime-water will remove the bulk of the former.
+Fraenkel has found that magnesium silicide is not decomposed by water or
+an alkaline solution, but that dilute hydrochloric acid acts upon it and
+spontaneously inflammable hydrogen silicide results. If it may be assumed
+that the other silicides in commercial calcium carbide also behave in
+this manner it is plain that hydrogen silicide cannot occur in crude
+acetylene unless the gas is supposed to be hurried out of the generator
+before the alkaline water therein has had time to decompose any traces of
+the hydrogen silicide which is produced in the favouring conditions of
+high temperature sometimes prevailing. Mauricheau-Beaupre has failed to
+find silica in the products of combustion of acetylene from carbide of
+varying degrees of purity. He found, however, that a mixture of strong
+nitric and hydrochloric acids (_aqua regia_), if contaminated with
+traces of phosphoric acid, dissolved silica from the glass of laboratory
+vessels. Consequently, since phosphoric acid results from the phosphine
+in crude acetylene when the gas is passed through aqua regia, silica may
+be found on subsequently evaporating the latter. But this, silica, he
+found, was derived from the glass and not through the oxidation of
+silicon compounds in the acetylene. It is possible that some of the
+earlier observers of the occurrence of silicon compounds in crude
+acetylene may have been misled by the solution of silica from the glass
+vessels used in their investigations. The improbability of recognisable
+quantities of silicon compounds occurring in acetylene in any ordinary
+conditions of generation is demonstrated by a recent study by Fraenkel of
+the composition of the deposit produced on reflectors exposed to the
+products of combustion of a sample of acetylene which afforded a haze
+when burnt. The deposit contained 51.07 per cent. of phosphoric acid, but
+no silica. The gas itself contained from 0.0672 to 0.0837 per cent. by
+volume of phosphine.
+
+PURIFYING MATERIALS.--When acetylene first began to be used as a domestic
+illuminant, most generator builders denied that there was any need for
+the removal of these carbide impurities from the gas, some going so far
+as to assert that their apparatus yielded so much purer an acetylene than
+other plant, where purification might be desirable, that an addition of a
+special purifier was wholly unnecessary. Later on the more responsible
+members of the trade took another view, but they attacked the problem of
+purification in a perfectly empirical way, either employing some purely
+mechanical scrubber filled with some moist or dry porous medium, or
+perhaps with coke or the like wetted with dilute acid, or they simply
+borrowed the processes adopted in the purification of coal-gas. At first
+sight it might appear that the more simple methods of treating coal-gas
+should be suitable for acetylene; since the former contains two of the
+impurities--sulphuretted hydrogen and ammonia--characteristic of crude
+acetylene. After removing the ammonia by washing with water, therefore,
+it was proposed to extract the sulphur by passing the acetylene through
+that variety of ferric hydroxide (hydrated oxide of iron) which is so
+serviceable in the case of coal-gas. The idea, however, was quite
+unsound: first, because it altogether ignores the phosphorus, which is
+the most objectionable impurity in acetylene, but is not present in coal-
+gas; secondly, because ferric hydroxide is used on gasworks to extract in
+a marketable form the sulphur which occurs as sulphuretted hydrogen, and
+true sulphuretted hydrogen need not exist in well-generated and well-
+washed acetylene to any appreciable extent; thirdly, because ferric
+hydroxide is not employed by gasmakers to remove sulphur compounds (this
+is done with lime), being quite incapable of extracting them, or the
+analogous sulphur compounds of crude acetylene.
+
+About the same time three other processes based on somewhat better
+chemical knowledge were put forward. Pictet proposed leading the gas
+through a strong solution of calcium chloride and then through strong
+sulphuric acid, both maintained at a temperature of -20 deg. to -40 deg. C.,
+finally washing the gas in a solution of some lead salt. Proof that such
+treatment would remove phosphorus to a sufficient degree is not
+altogether satisfactory; but apart from this the necessity of maintaining
+such low temperatures, far below that of the coldest winter's night,
+renders the idea wholly inadmissible for all domestic installations.
+Willgerodt suggested removing sulphuretted hydrogen by means of potassium
+hydroxide (caustic potash), then absorbing the phosphine in bromine
+water. For many reasons this process is only practicable in the
+laboratory. Berge and Reychler proposed extracting both sulphuretted
+hydrogen and phosphine in an acid solution of mercuric chloride
+(corrosive sublimate). The poisonousness of this latter salt, apart from
+all other objections, rules such a method out.
+
+BLEACHING POWDER.--The next idea, first patented by Smith of Aberdeen,
+but fully elaborated by Lunge and Cedercreutz, was to employ bleaching-
+powder [Footnote: Bleaching-powder is very usually called chloride of
+lime; but owing to the confusion which is constantly arising in the minds
+of persons imperfectly acquainted with chemistry between chloride of lime
+and chloride of calcium--two perfectly distinct bodies--the less
+ambiguous expression "bleaching-powder" will be adopted here.] either in
+the solid state or as a liquid extract. The essential constituent of
+bleaching-powder from the present aspect is calcium hypochlorite, which
+readily oxidises sulphuretted hydrogen, and more particularly phosphine,
+converting them into sulphuric and phosphoric acids, while the acetylene
+is practically unattacked. In simple purifying action the material proved
+satisfactory; but since high-grade commercial bleaching-powder contains
+some free chlorine, or some is set free from it in the purifier under the
+influence of the passing gas, the issuing acetylene was found to contain
+chlorine, free or combined; and this, burning eventually to hydrochloric
+acid, is hardly less harmful than the original sulphur compounds.
+Moreover, a mixture of acetylene, chlorine, and air is liable to catch
+fire of itself when exposed to bright sunlight; and therefore the use of
+a bleaching-powder purifier, or rather the recharging thereof, was not
+unattended by danger in the early days. To overcome these defects, the
+very natural process was adopted of diluting the bleaching-powder, such
+diluent also serving to increase the porosity of the material. A very
+unsuitable substance, however, was selected for the purpose, viz.,
+sawdust, which is hygroscopic organic, and combustible. Owing to the
+exothermic chemical action between the impurities of the acetylene and
+the bleaching-powder, the purifying mass became heated; and thus not only
+were the phenomena found in a bad generator repeated in the purifying
+vessel, but in presence of air and light (as in emptying the purifier),
+the reaction proceeded so rapidly that the heat caused inflammation of
+the sawdust and the gas, at least on one occasion an actual fire taking
+place which created much alarm and did some little damage. For a time,
+naturally, bleaching-powder was regarded as too dangerous a material to
+be used for the purification of crude acetylene; but it was soon
+discovered that danger could be avoided by employing the substance in a
+proper way.
+
+HERATOL, FRANKOLINE, ACAGINE AND PURATYLENE.--Setting aside as unworthy
+of attention certain compositions offered as acetylene purifying
+materials whose constitution has not been divulged or whose action has
+not been certified by respectable authority, there are now three
+principal chemical reagents in regular use. Those are chromic acid,
+cuprous chloride (sub- or proto-chloride of copper), and bleaching-
+powder. Chromic acid is employed in the form of a solution acidified with
+acetic or hydrochloric acid, which, in order to obtain the advantages
+(_see_ below) attendant upon the use of a solid purifying material,
+is absorbed in that highly porous and inert description of silica known
+as infusorial earth or "kieselguhr." This substance was first recommended
+by Ullmann, and is termed commercially "heratol" As sold it contains
+somewhere about 136 grammes of chromic acid per kilo. Cuprous chloride is
+used as a solution in strong hydrochloric acid mixed with ferric
+chloride, and similarly absorbed in kieselguhr. From the name of its
+proposer, this composition is called "frankoline." It will be shown in
+Chapter VI. that the use of metallic copper in the construction of
+acetylene apparatus is not permissible or judicious, because the gas is
+liable to form therewith an explosive compound known as copper acetylide;
+it might seem, therefore, that the employment of a copper salt for
+purification courts accident. The objection is not sound, because the
+acetylide is not likely to be produced except in the presence of ammonia;
+and since frankoline is a highly acid product, the ammonia is converted
+into its chloride before any copper acetylide can be produced. As a
+special acetylene purifier, bleaching-powder exists in at least two chief
+modifications. In one, known as "acagine," it is mixed with 15 per cent.
+of lead chromate, and sometimes with about the same quantity of barium
+sulphate; the function of the latter being simply that of a diluent,
+while to the lead chromate is ascribed by its inventor (Wolff) the power
+of retaining any chlorine that may be set free from the bleaching-powder
+by the reduction of the chromic acid. The utility of the lead chromate in
+this direction has always appeared doubtful; and recently Keppeler has
+argued that it can have no effect upon the chlorine, inasmuch as in the
+spent purifying material the lead chromate may be found in its original
+condition unchanged. The second modification of bleaching-powder is
+designated "puratylene," and contains calcium chloride and quick or
+slaked lime. It is prepared by evaporating to dryness under diminished
+pressure solutions of its three ingredients, whereby the finished
+material is given a particularly porous nature.
+
+It will be observed that both heratol and frankoline are powerfully acid,
+whence it follows they are capable of extracting any ammonia that may
+enter the purifier; but for the same reason they are liable to act
+corrosively upon any metallic vessel in which they are placed, and they
+therefore require to be held in earthenware or enamelled receivers. But
+since they are not liquid, the casing of the purifier can be safely
+constructed of steel or cast iron. Puratylene also removes ammonia by
+virtue of the calcium chloride in it. Acagine would probably pass the
+ammonia; but this is no real objection, as the latter can be extracted by
+a preliminary washing in water. Heratol changes, somewhat obscurely, in
+colour as it becomes spent, its original orange tint, due to the chromic
+acid, altering to a dirty green, characteristic of the reduced salts of
+chromium oxide. Frankoline has been asserted to be capable of
+regeneration or revivification, _i.e._, that when spent it may be
+rendered fit for further service by being exposed to the air for a time,
+as is done with gas oxide; this, however, may be true to some extent with
+the essential constituents of frankoline, but the process is not
+available with the commercial solid product. Of all these materials,
+heratol is the most complete purifier of acetylene, removing phosphorus
+and sulphur most rapidly and thoroughly, and not appreciably diminishing
+in speed or efficiency until its chromic acid is practically quite used
+up. On the other hand, heratol does act upon pure acetylene to some
+extent; so that purifiers containing it should be small in size and
+frequently recharged. In one of his experiments Keppeler found that 13
+per cent. of the chromic acid in heratol was wasted by reacting with
+acetylene. As this waste of chromic acid involves also a corresponding
+loss of gas, small purifiers are preferable, because at any moment they
+only contain a small quantity of material capable of attacking the
+acetylene itself. Frankoline is very efficacious as regards the
+phosphorus, but it does not wholly extract the sulphur, leaving,
+according to Keppeler, from 0.13 to 0.20 gramme of the latter in every
+cubic metre of the gas. It does not attack acetylene itself; and if,
+owing to its free hydrochloric acid, it adds any acid vapours to the
+purified gas, these vapours may be easily removed by a subsequent passage
+through a vessel containing lime or a carbide drier. Both being
+essentially bleaching-powder, acagine and puratylene are alike in
+removing phosphorus to a satisfactory degree; but they leave some sulphur
+behind. Acagine evidently attacks acetylene to a slight extent, as
+Keppeler has found 0.2 gramme of chlorine per cubic metre in the issuing
+gas.
+
+Although some of these materials attack acetylene slightly, and some
+leave sulphur in the purified gas, they may be all considered reasonably
+efficient from the practical point of view; for the loss of true
+acetylene is too small to be noticeable, and the quantity of sulphur not
+extracted too trifling to be harmful or inconvenient. They may be valued,
+accordingly, mainly by their price, proper allowance being made for the
+quantity of gas purified per unit weight of substance taken. This
+quantity of gas must naturally vary with the proportion of phosphorus and
+sulphur in the crude acetylene; but on an average the composition of
+unpurified gas is what has already been given above, and so the figures
+obtained by Keppeler in his investigation of the subject may be accepted.
+In the annexed table these are given in two forms: (1) the number of
+litres of gas purified by 1 kilogramme of the substance, (2) the number
+of cubic feet purified per lb. It should be noted that the volumes of gas
+refer to a laboratory degree of purification; in practice they may all be
+increased by 10 or possibly 20 per cent.
+
+ _________________________________________________
+|              |                   |              |
+|              |      Litres       | Cubic Feet   |
+|              |  per Kilogramme.  |   per Lb.    |
+|______________|___________________|______________|
+|              |                   |              |
+|  Heratol     |       5,000       |      80      |
+|  Frankoline  |       9,000       |     144      |
+|  Puratylene  |      10,000       |     160      |
+|  Acagine     |      13,000       |     208      |
+|______________|___________________|______________|
+
+Another method of using dry bleaching-powder has been proposed by
+Pfeiffer. He suggests incorporating it with a solution of some lead salt,
+so that the latter may increase the capacity of the calcium hypochlorite
+to remove sulphur. Analytical details as to the efficiency of this
+process have not been given. During 1901 and 1902 Bullier and Maquenne
+patented a substance made by mixing bleaching-powder with sodium
+sulphate, whereby a double decomposition occurs, sodium hypochlorite,
+which is equally efficient with calcium hypochlorite as a purifying
+material, being produced together with calcium sulphate, which, being
+identical with plaster of Paris, sets into a solid mass with the excess
+of water present, and is claimed to render the whole more porous. This
+process seemed open to objection, because Blagden had shown that a
+solution of sodium hypochlorite was not a suitable purifying reagent in
+practice, since it was much more liable to add chlorine to the gas than
+calcium hypochlorite. The question how a solidified modification of
+sodium hypochlorite would behave in this respect has been investigated by
+Keppeler, who found that the Bullier and Maquenne material imparted more
+chlorine to the gas which had traversed it than other hypochlorite
+purifying agents, and that the partly foul material was liable to cause
+violent explosions. About the same time Rossel and Landriset pointed out
+that purification might be easily effected in all generators of the
+carbide-to-water pattern by adding to the water of the generator itself a
+quantity of bleaching-powder equivalent to 5 to 20 grammes for every 1
+kilogramme of carbide decomposed, claiming that owing to the large amount
+of liquid present, which is usually some 4 litres per kilogramme of
+carbide (0.4 gallon per lb.), no nitrogen chloride could be produced, and
+that owing to the dissolved lime in the generator, chlorine could not be
+added to the gas. The process is characterised by extreme simplicity, no
+separate purifier being needed, but it has been found that an
+introduction of bleaching-powder in the solid condition is liable to
+cause an explosive combination of acetylene and chlorine, while the use
+of a solution is attended by certain disadvantages. Granjon has proposed
+impregnating a suitable variety of wood charcoal with chlorine, with or
+without an addition of bleaching-powder; then grinding the product to
+powder, and converting it into a solid porous mass by the aid of cement.
+The material is claimed to last longer than ordinary hypochlorite
+mixtures, and not to add chlorine to the acetylene.
+
+SUBSIDIARY PURIFYING MATERIALS.--Among minor reagents suggested as
+purifying substances for acetylene may be mentioned potassium
+permanganate, barium peroxide, potassium bichromate, sodium plumbate and
+arsenious oxide. According to Benz the first two do not remove the
+sulphuretted hydrogen completely, and oxidise the acetylene to some
+extent; while potassium bichromate leaves some sulphur and phosphorus
+behind in the gas. Sodium plumbate has been suggested by Morel, but it is
+a question whether its action on the impurities would not be too violent
+and whether it would be free from action on the acetylene itself. The use
+of arsenious oxide dissolved in a strong acid, and the solution absorbed
+in pumice or kieselguhr has been protected by G. F. Jaubert. The
+phosphine is said to combine with the arsenic to form an insoluble
+brownish compound. In 1902 Javal patented a mixture of 1 part of
+potassium permanganate, 5 of "sulphuric acid," and 1 of water absorbed in
+4 parts of infusorial earth. The acid constantly neutralised by the
+ammonia of the crude gas is as constantly replaced by fresh acid formed
+by the oxidation of the sulphuretted hydrogen; and this free acid, acting
+upon the permanganate, liberates manganese peroxide, which is claimed to
+destroy the phosphorus and sulphur compounds present in the crude
+acetylene.
+
+EPURENE.--A purifying material to which the name of epurene has been
+given has been described, by Mauricheau-Beaupre, as consisting of a
+mixture of ferric chloride and ferric oxide in the proportion of 2
+molecules, or 650 parts, of the former with one molecule, or 160 parts,
+of the latter, together with a suitable quantity of infusorial earth. In
+the course of preparation, however, 0.1 to 0.2 per cent. of mercuric
+chloride is introduced into the material. This mercuric chloride is said
+to form an additive compound with the phosphine of the crude acetylene,
+which compound is decomposed by the ferric chloride, and the mercuric
+chloride recovered. The latter therefore is supposed to act only as a
+carrier of the phosphine to the ferric chloride and oxide, by which it is
+oxidised according to the equation:
+
+8Fe_2Cl_6 + 4Fe_2O_3 + 3PH_3 = 12Fe_2Cl_4 + 3H_3PO_4.
+
+Thus the ultimate products are phosphoric acid and ferrous chloride,
+which on exposure to air is oxidised to ferric chloride and oxide. It is
+said that this revivification of the fouled or spent epurene takes place
+in from 20 to 48 hours when it is spread in the open in thin layers, or
+it may be partially or wholly revivified _in situ_ by adding a small
+proportion of air to the crude acetylene as it enters the purifier. The
+addition of 1 to 2 per cent. of air, according to Mauricheau-Beaupre,
+suffices to double the purifying capacity of one charge of the material,
+while a larger proportion would achieve its continuous revivification.
+Epurene is said to purify 10,000 to 11,000 litres of crude acetylene per
+kilogramme, or, say, 160 to 176 cubic feet per pound, when the acetylene
+contains on the average 0.05 per cent, by volume of phosphine.
+
+For employment in all acetylene installations smaller than those which
+serve complete villages, a solid purifying material is preferable to a
+liquid one. This is partly due to the extreme difficulty of subdividing a
+stream of gas so that it shall pass through a single mass of liquid in
+small enough bubbles for the impurities to be removed by the time the gas
+arrives at the surface. This time cannot be prolonged without increasing
+the depth of liquid in the vessel, and the greater the depth of liquid,
+the more pressure is consumed in forcing the gas through it. Perfect
+purification by means of fluid reagents unattended by too great a
+consumption of pressure is only to be effected by a mechanical scrubber
+such as is used on coal-gas works, wherein, by the agency of external
+power, the gas comes in contact with large numbers of solid surfaces kept
+constantly wetted; or by the adoption of a tall tower filled with porous
+matter or hollow balls over which a continuous or intermittent stream of
+the liquid purifying reagent is made to trickle, and neither of these
+devices is exactly suited to the requirements of a domestic acetylene
+installation. When a solid material having a proper degree of porosity or
+aggregation is selected, the stream of gas passing through it is broken
+up most thoroughly, and by employing several separate layers of such
+material, every portion of the gas is exposed equally to the action of
+the chemical reagent by the time the gas emerges from the vessel. The
+amount of pressure so consumed is less than that in a liquid purifier
+where much fluid is present; but, on the other hand, the loss of pressure
+is absolutely constant at all times in a liquid purifier, provided the
+head of liquid is maintained at the same point. A badly chosen solid
+purifying agent may exhibit excessive pressure absorption as it becomes
+partly spent. A solid purifier, moreover, has the advantage that it may
+simultaneously act as a drier for the gas; a liquid purifier, in which
+the fluid is mainly water, obviously cannot behave in a similar fashion
+For thorough purification it is necessary that the gas shall actually
+stream through the solid material; a mere passage over its surface is
+neither efficient nor economical of material.
+
+DISPOSITION OF PURIFYING MATERIAL.--Although much has been written, and
+some exaggerated claims made, about the maximum, volume of acetylene a
+certain variety of purifying material will treat, little has been said
+about the method in which such a material should be employed to obtain
+the best results. If 1 lb. of a certain substance will purify 200 cubic
+feet of normal crude acetylene, that weight is sufficient to treat the
+gas evolved from 40 lb. of carbide; but it will only do so provided it is
+so disposed in the purifier that the gas does not pass through it at too
+high a speed, and that it is capable of complete exhaustion. In the coal-
+gas industry it is usually assumed that four layers of purifying
+material, each having a superficial area of 1 square foot, are the
+minimum necessary for the treatment of 100 cubic feet of gas per hour,
+irrespective of the nature of the purifying material and of the impurity
+it is intended to extract. If there is any sound basis for this
+generalization, it should apply equally to the purification of acetylene,
+because there is no particular reason to imagine that the removal of
+phosphine by a proper substance should occur at an appreciably different
+speed from the removal of carbon dioxide, sulphuretted hydrogen, and
+carbon bisulphide by lime, ferric oxide, and sulphided lime respectively,
+Using the coal gas figures, then, for every 10 cubic feet of acetylene
+generated per hour, a superficial area of (4 x 144 / 10) 57.6 square
+inches of purifying material is required. In the course of Keppeler's
+research upon different purifying materials it is shown that 400 grammes
+of heratol, 360 grammes of frankoline, 250 grammes of acagine, and 230
+grammes of puratylene each occupy a space of 500 cubic centimetres when
+loosely loaded into a purifying vessel, and from these data, the
+following table has been calculated:
+
+ __________________________________________________________
+|             |            |                |              |
+|             |   Weight   |     Weight     | Cubic Inches |
+|             | per Gallon | per Cubic Foot |   Occupied   |
+|             |   in Lbs.  |     in Lbs.    |    per Lb.   |
+|_____________|____________|________________|______________|
+|             |            |                |              |
+|  Water      |    10.0    |     62.321     |     27.73    |
+|  Heratol    |     8.0    |     49.86      |     31.63    |
+|  Frankoline |     7.2    |     41.87      |     38.21    |
+|  Acagine    |     6.0    |     31.16      |     55.16    |
+|  Puratylene |     4.6    |     28.67      |     60.28    |
+|_____________|____________|________________|______________|
+
+As regards the minimum weight of material required, data have been given
+by Pfleger for use with puratylene. He states that 1 Kilogramme of that
+substance should be present for every 100 litres of crude acetylene
+evolved per hour, 4 kilogrammes being the smallest quantity put into the
+purifier. In English units these figures are 1 lb. per 1.5 cubic feet per
+hour, with 9 lb. as a minimum, which is competent to treat 1.1 cubic feet
+of gas per hour. Thus it appears that for the purification of the gas
+coming from any generator evolving up to 14 cubic feet of acetylene per
+hour a weight of 9 lb of puratylene must be charged into the purifier,
+which will occupy (60.28 / 9) 542 cubic inches of space; and it must be
+so spread out as to present a total superficial area of (4 x 144 x 14 /
+100) 80.6 square inches to the passing gas. It follows, therefore, that
+the material should be piled to a depth of (542 / 80.6) 6.7 inches on a
+support having an area of 80.6 square inches; but inasmuch as such a
+depth is somewhat large for a small vessel, and as several layers are
+better than one, it would be preferable to spread out these 540 cubic
+inches of substance on several supports in such a fashion that a total
+surface of 80.6 square inches or upwards should be exhibited. These
+figures may obviously be manipulated in a variety of ways for the design
+of a purifying vessel; but, to give an example, if the ordinary
+cylindrical shape be adopted with four circular grids, each having a
+clear diameter of 8 inches (_i.e._, an area of 50.3 square inches),
+and if the material is loaded to a depth of 3 inches on each, there would
+be a total volume of (50.3 x 3 x 4) = 604 cubic inches of puratylene in
+the vessel, and it would present a total area of (50.3 x 4) = 201 square
+inches to the acetylene. At Keppeler's estimation such an amount of
+puratylene should weigh roughly 10 lb., and should suffice for the
+purification of the gas obtained from 320 lb. of ordinary carbide; while,
+applying the coal-gas rule, the total area of 201 square inches should
+render such a vessel equal to the purification of acetylene passing
+through it at a speed not exceeding (201 / 5.76) = 35 cubic feet per
+hour. Remembering that it is minimum area in square inches of purifying
+material that must govern the speed at which acetylene may be passed
+through a purifier, irrespective probably of the composition of the
+material; while it is the weight of material which governs the ultimate
+capacity of the vessel in terms of cubic feet of acetylene or pounds of
+carbide capable of purification, these data, coupled with Keppeler's
+efficiency table, afford means for calculating the dimensions of the
+purifying vessel to be affixed to an installation of any desired number
+of burners. There is but little to say about the design of the vessel
+from the mechanical aspect. A circular horizontal section is more likely
+to make for thorough exhaustion of the material. The grids should be
+capable of being lifted out for cleaning. The lid may be made tight
+either by a clamp and rubber or leather washer, or by a liquid seal. If
+the purifying material is not hygroscopic, water, calcium chloride
+solution, or dilute glycerin may be used for sealing purposes; but if the
+material, or any part of it, does absorb water, the liquid in the seal
+should be some non-aqueous fluid like lubricating oil. Clamped lids are
+more suitable for small purifiers, sealed lids for large vessels. Care
+must be taken that condensation products cannot collect in the purifying
+vessel. If a separate drying material is employed in the same purifier
+the space it takes must be considered separately from that needed by the
+active chemical reagent. When emptying a foul purifier it should be
+recollected that the material may be corrosive, and being saturated with
+acetylene is likely to catch fire in presence of a light.
+
+Purifiers charged with heratol are stated, however, to admit of a more
+rapid flow of the gas through them than that stated above for puratylene.
+The ordinary allowance is 1 lb. of heratol for every cubic foot per hour
+of acetylene passing, with a minimum charge of 7 lb. of the material. As
+the quantity of material in the purifier is increased, however, the flow
+of gas per hour may be proportionately increased, _e.g._, a purifier
+charged with 132 lb. of heratol should purify 144 cubic feet of acetylene
+per hour.
+
+In the systematic purification of acetylene, the practical question
+arises as to how the attendant is to tell when his purifiers approach
+exhaustion and need recharging; for if it is undesirable to pass crude
+gas into the service, it is equally undesirable to waste so comparatively
+expensive a material as a purifying reagent. In Chapter XIV. it will be
+shown that there are chemical methods of testing for the presence, or
+determining the proportion, of phosphorus and sulphur in acetylene; but
+these are not suitable for employment by the ordinary gas-maker. Heil has
+stated that the purity of the gas may be judged by an inspection of its
+atmospheric flame as given by a Bunsen burner. Pure acetylene gives a
+perfectly transparent moderately dark blue flame, which has an inner cone
+of a pale yellowish green colour; while the impure gas yields a longer
+flame of an opaque orange-red tint with a bluish red inner zone. It
+should be noted, however, that particles of lime dust in the gas may
+cause the atmospheric flame to be reddish or yellowish (by presence of
+calcium or sodium) quite apart from ordinary impurities; and for various
+other reasons this appearance of the non-luminous flame is scarcely to be
+relied upon. The simplest means of ascertaining definitely whether a
+purifier is sufficiently active consists in the use of the test-papers
+prepared by E. Merck of Darmstadt according to G. Keppeler's
+prescription. These papers, cut to a convenient size, are put up in small
+books from which they may be torn one at a time. In order to test whether
+gas is sufficiently purified, one of the papers is moistened with
+hydrochloric acid of 10 per cent. strength, and the gas issuing from a
+pet-cock or burner orifice is allowed to impinge on the moistened part.
+The original black or dark grey colour of the paper is changed to white
+if the gas contains a notable amount of impurity, but remains unchanged
+if the gas is adequately purified. The paper consists of a specially
+prepared black porous paper which has been dipped in a solution of
+mercuric chloride (corrosive sublimate) and dried. Moistening the paper
+with hydrochloric acid provides in a convenient form for application
+Berge's solution for the detection of phosphine (_vide_ Chapter
+XIV.). The Keppeler test-papers turn white when the gas contains either
+ammonia, phosphine, siliciuretted hydrogen, sulphuretted hydrogen or
+organic sulphur compounds, but with carbon disulphide the change is slow.
+Thus the paper serves as a test for all the impurities likely to occur in
+acetylene. The sensitiveness of the test is such that gas containing
+about 0.15 milligramme of sulphur, and the same amount of phosphorus, per
+litre (= 0.0655 grain per cubic foot) imparts in five minutes a distinct
+white mark to the moistened part of the paper, while gas containing 0.05
+milligramme of sulphur per litre (= 0.022 grain per cubic foot) gives in
+two minutes a dull white mark visible only by careful inspection. If,
+therefore, a distinct white mark appears on moistened Keppeler paper when
+it is exposed for five minutes to a jet of acetylene, the latter is
+inadequately purified. If the gas has passed through a purifier, this
+test indicates that the material is not efficient, and that the purifier
+needs recharging. The moistening of the Keppeler paper with hydrochloric
+acid before use is essential, because if not acidified the paper is
+marked by acetylene itself. The books of Keppeler papers are put up in a
+case which also contains a bottle of acid for moistening them as required
+and are obtainable wholesale of E. Merek, 16 Jewry Street, London, E.C.,
+and retail of the usual dealers in chemicals. If Keppeler's test-papers
+are not available, the purifier should be recharged as a matter of
+routine as soon as a given quantity of carbide--proportioned to the
+purifying capacity of the charge of purifying material--has been used
+since the last recharging. Thus the purifier may conveniently contain
+enough material to purify the gas evolved from two drums of carbide, in
+which case it would need recharging when every second drum of carbide is
+opened.
+
+REGULATIONS AS TO PURIFICATION.--The British Acetylene
+Association has issued the following set of regulations as to purifying
+material and purifiers for acetylene:
+
+Efficient purifying material and purifiers shall comply with the
+following requirements:
+
+(1) The purifying material shall remove phosphorus and sulphur compounds
+to a commercially satisfactory degree; _i.e._, not to a greater
+degree than will allow easy detection of escaping gas through its odour.
+
+(2) The purifying material shall not yield any products capable of
+corroding the gas-mains or fittings.
+
+(3) The purifying material shall, if possible, be efficient as a drying
+agent, but the Association does not consider this an absolute necessity.
+
+(4) The purifying material shall not, under working conditions, be
+capable of forming explosive compounds or mixtures. It is understood,
+naturally, that this condition does not apply to the unavoidable mixture
+of acetylene and air formed when recharging the purifier.
+
+(5) The apparatus containing the purifying material shall be simple in
+construction, and capable of being recharged by an inexperienced person
+without trouble. It shall be so designed as to bring the gas into proper
+contact with the material.
+
+(6) The containers in purifiers shall be made of such materials as are
+not dangerously affected by the respective purifying materials used.
+
+(7) No purifier shall be sold without a card of instructions suitable or
+hanging up in some convenient place. Such instructions shall be of the
+most detailed nature, and shall not presuppose any expert knowledge
+whatever on the part of the operator.
+
+Reference also to the abstracts of the official regulations as to
+acetylene installations in foreign countries given in Chapter IV. will
+show that they contain brief rules as to purifiers.
+
+DRYING.--It has been stated in Chapter III. that the proper position for
+the chemical purifiers of an acetylene plant is after the holder; and
+they therefore form the last items in the installation unless a "station"
+governor and meter are fitted. It is therefore possible to use them also
+to remove the moisture in the gas, if a material hygroscopic in nature is
+employed to charge them. This should be true more particularly with
+puratylene, which contains a notable proportion of the very hygroscopic
+body calcium chloride. If a separate drier is desirable, there are two
+methods of charging it. It may be filled either with some hygroscopic
+substance such as porous calcium chloride or quicklime in very coarse
+powder, which retains the water by combining with it; or the gas may be
+led through a vessel loaded with calcium carbide, which will manifestly
+hold all the moisture, replacing it by an equivalent quantity of
+(unpurified) acetylene. The objection is sometimes urged against this
+latter method, that it restores to the gas the nauseous odour and the
+otherwise harmful impurities it had more or less completely lost in the
+purifiers; but as regards the first point, a nauseous odour is not, as
+has previously been shown, objectionable in itself, and as regards the
+second, the amount of impurities added by a carbide drier, being strictly
+limited by the proportion of moisture in the damp gas, is too small to be
+noticeable at the burners or elsewhere. As is the case with purification,
+absolute removal of moisture is not called for; all that is needed is to
+extract so much that the gas shall never reach its saturation-point in
+the inaccessible parts of the service during the coldest winter's night.
+Any accessible length of main specially exposed to cold may be
+safeguarded by itself; being given a steady fall to a certain point
+(preferably in a frost-free situation), and there provided with a
+collecting-box from which the deposited liquid can be removed
+periodically with a pump or otherwise.
+
+FILTRATION.--The gas issuing from the purifier or drier is very liable to
+hold in suspension fine dust derived from the purifying or drying
+material used. It is essential that thin dust should be abstracted before
+the gas reaches the burners, otherwise it will choke the orifices and
+prevent them functioning properly. Consequently the gas should pass
+through a sufficient layer of filtering material after it has traversed
+the purifying material (and drier if one is used). This filtering
+material may be put either as a final layer in the purifier (or drier),
+or in a separate vessel known as a filter. Among filtering materials in
+common use may be named cotton-wool, fine canvas or gauze, felt and
+asbestos-wool. The gas must be fairly well dried before it enters the
+filter, otherwise the latter will become choked with deposited moisture,
+and obstruct the passage of the gas.
+
+Having now described the various items which go to form a well-designed
+acetylene installation, it may be useful to recapitulate briefly, with
+the object of showing the order in which they should be placed. From the
+generator the gas passes into a condenser to cool it and to remove any
+tarry products and large quantities of water. Next it enters a washing
+apparatus filled with water to extract water-soluble impurities. If the
+generator is of the carbide-to-water pattern, the condenser may be
+omitted, and the washer is only required to retain any lime froth and to
+act as a water-seal or non-return valve. If the generator does not wash
+the gas, the washer must be large enough to act efficiently as such, and
+between it and the condenser should be put a mechanical filter to extract
+any dust. From the washer the acetylene travels to the holder. From the
+holder it passes through one or two purifiers, and from there travels to
+the drier and filter. If the holder does not throw a constant pressure,
+or if the purifier and drier are liable to cause irregularities, a
+governor or pressure regulator must be added after the drier. The
+acetylene is then ready to enter the service; but a station meter (the
+last item in the plant) is useful as giving a means of detecting any leak
+in the delivery-pipes and in checking the make of gas from the amount of
+carbide consumed. If the gas is required for the supply of a district, a
+station meter becomes quite necessary, because the public lamps will be
+fed with gas at a contract rate, and without the meter there would be no
+control over the volume of acetylene they consume. Where the gas finally
+leaves the generating-house, or where it enters the residence, a full-way
+stopcock should be put on the main.
+
+GENERATOR RESIDUES.--According to the type of generator employed the
+waste product removed therefrom may vary from a dry or moist powder to a
+thin cream or milk of lime. Any waste product which is quite liquid in
+its consistency must be completely decomposed and free from particles of
+calcium carbide of sensible magnitude; in the case of more solid
+residues, the less fluid they are the greater is the improbability (or
+the less is the evidence) that the carbide has been wholly spent within
+the apparatus. Imperfect decomposition of the carbide inside the
+generator not only means an obvious loss of economy, but its presence
+among the residues makes a careful handling of them essential to avoid
+accident owing to a subsequent liberation of acetylene in some
+unsuitable, and perhaps closed, situation. A residue which is not
+conspicuously saturated with water must be taken out of the generator-
+house into the open air and there flooded with water, being left in some
+uncovered receptacle for a sufficient time to ensure all the acetylene
+being given off. A residue which is liquid enough to flow should be run
+directly from the draw-off cock of the generator through a closed pipe to
+the outside; where, if it does not discharge into an open conduit, the
+waste-pipe must be trapped, and a ventilating shaft provided so that no
+gas can blow back into the generator-house.
+
+DISPOSAL OF RESIDUES.--These residues have now to be disposed of. In some
+circumstances they can be put to a useful purpose, as will be explained
+in Chapter XII.; otherwise, and always perhaps on the small scale--
+certainly always if the generator overheats the gas and yields tar among
+the spent lime--they must be thrown into a convenient place. It should be
+remembered that although methods of precipitating sewage by adding lime,
+or lime water, to it have frequently been used, they have not proved
+satisfactory, partly because the sludge so obtained is peculiarly
+objectionable in odour, and partly because an excess of lime yields an
+effluent containing dissolved lime, which among other disadvantages is
+harmful to fish. The plan of running the liquid residues of acetylene
+manufacture into any local sewerage system which may be found in the
+neighbourhood of the consumer's premises, therefore, is very convenient
+to the consumer; but is liable to produce complaints if the sewage is
+afterwards treated chemically, or if its effluent is passed untreated
+into a highly preserved river; and the same remark applies in a lesser
+degree if the residues are run into a private cesspool the liquid
+contents of which automatically flow away into a stream. If, however, the
+cesspool empties itself of liquid matter by filtration or percolation
+through earth, there can be no objection to using it to hold the lime
+sludge, except in so far as it will require more frequent emptying. On
+the whole, perhaps the best method of disposing of these residues is to
+run them into some open pit, allowing the liquid to disappear by
+evaporation and percolation, finally burying the solid in some spot where
+it will be out of the way. When a large carbide-to-water generator is
+worked systematically so as to avoid more loss of acetylene by solution
+in the excess of liquid than is absolutely necessary, the liquid residues
+coming from it will be collected in some ventilated closed tank where
+they can settle quietly. The clear lime-water will then be pumped back
+into the generator for further use, and the almost solid sludge will be
+ready to be carried to the pit where it is to be buried. Special care
+must be taken in disposing of the residues from a generator in which oil
+is used to control evolution of gas. Such oil floats on the aqueous
+liquid; and a very few drops spread for an incredible distance as an
+exceedingly thin film, causing those brilliant rainbow-like colours which
+are sometimes imagined to be a sign of decomposing organic matter. The
+liquid portions of these residues must be led through a pit fitted with a
+depending partition projecting below the level at which the water is
+constantly maintained; all the oil then collects on the first side of the
+partition, only water passing underneath, and the oil may be withdrawn
+and thrown away at intervals.
+
+
+
+CHAPTER VI
+
+THE CHEMICAL AND PHYSICAL PROPERTIES OF ACETYLENE
+
+It will only be necessary for the purpose of this book to indicate the
+more important chemical and physical properties of acetylene, and, in
+particular, those which have any bearing on the application of acetylene
+for lighting purposes. Moreover, it has been found convenient to discuss
+fully in other chapters certain properties of acetylene, and in regard to
+such properties the reader is referred to the chapters mentioned.
+
+PHYSICAL PROPERTIES.--Acetylene is a gas at ordinary temperatures,
+colourless, and, when pure, having a not unpleasant, so-called "ethereal"
+odour. Its density, or specific gravity, referred to air as unity, has
+been found experimentally by Leduc to be 0.9056. It is customary to adopt
+the value 0.91 for calculations into which the density of the gas enters
+(_vide_ Chapter VII.). The density of a gas is important not only
+for the determination of the size of mains needed to convey it at a given
+rate of flow under a given pressure, as explained in Chapter VII., but
+also because the volume of gas which will pass through small orifices in
+a given time depends on its density. According to Graham's well-known law
+of the effusion of gases, the velocity with which a gas effuses varies
+directly as the square root of the difference of pressure on the two
+sides of the opening, and inversely as the square root of the density of
+the gas. Hence it follows that the volume of gas which escapes through a
+porous pipe, an imperfect joint, or a burner orifice is, provided the
+pressure in the gas-pipe is the same, a function of the square root of
+the density of the gas. Hence this density has to be taken into
+consideration in the construction of burners, i.e., a burner required to
+pass a gas of high density must have a larger orifice than one for a gas
+of low density, if the rate of flow of gas is to be the same under the
+same pressure. This, however, is a question for the burner manufacturers,
+who already make special burners for gases of different densities, and it
+need not trouble the consumer of acetylene, who should always use burners
+devised for the consumption of that gas. But the Law of effusion
+indicates that the volume of acetylene which can escape from a leaky
+supply-pipe will be less than the volume of a gas of lower density,
+_e.g._, coal-gas, if the pressure in the pipe is the same for both.
+This implies that on an extensive distributing system, in which for
+practical reasons leakage is not wholly avoidable, the loss of gas
+through leakage will be less for acetylene than for coal-gas, given the
+same distributing pressure. If _v_ = the loss of acetylene from a
+distributing system and _v'_ = the loss of coal-gas from a similar
+system worked at the same pressure, both losses being expressed in
+volumes (cubic feet) per hour, and the coal-gas being assumed to have a
+density of 0.04, then
+
+(1) (_v_/_v'_) = (0.40 / 0.91)^(1/2) = 0.663
+
+or, _v_ = 0.663_v'_,
+
+which signifies that the loss of acetylene by leakage under the same
+conditions of pressure, &c.;, will be only 0.663 times that of the loss of
+coal-gas. In practice, however, the pressures at which the gases are
+usually sent through mains are not identical, being greater in the case
+of acetylene than in that of coal-gas. Formula (1) therefore requires
+correction whenever the pressures are different, and calling the pressure
+at which the acetylene exists in the main _p_, and the corresponding
+pressure of the coal-gas _p'_, the relative losses by leakage are--
+
+(2) (_v_/_v'_) = (0.40 / 0.91)^(1/2) x (_p_/_p'_)^(1/2)
+
+_v_ = 0.663_v'_ x (_p_/_p'_)^(1/2)
+
+It will be evident that whenever the value of the fraction
+(_p_/_p'_)^(1/2), is less than 1.5, _i.e._, whenever the pressure of
+the acetylene does not exceed double that of the coal-gas present in
+pipes of given porosity or unsoundness, the loss of acetylene will be
+less than that of coal-gas. This is important, especially in the case of
+large village acetylene installations, where after a time it would be
+impossible to avoid some imperfect joints, fractured pipes, &c.;,
+throughout the extensive distributing mains. The same loss of gas by
+leakage would represent a far higher pecuniary value with acetylene than
+with coal-gas, because the former must always be more costly per unit of
+volume than the latter. Hence it is important to recognise that the rate
+of leakage, _coeteris paribus_, is less with acetylene, and it is
+also important to observe the economical advantage, at least in terms of
+gas or calcium carbide, of sending the acetylene into the mains at as low
+a pressure as is compatible with the length of those mains and the
+character of the consumers' burners. As follows from what will be said in
+Chapter VII., a high initial pressure makes for economy in the prime cost
+of, and in the expense of laying, the mains, by enabling the diameter of
+those mains to be diminished; but the purchase and erection of the
+distributing system are capital expenses, while a constant expenditure
+upon carbide to meet loss by leakage falls upon revenue.
+
+The critical temperature of acetylene, _i.e._, the temperature below
+which an abrupt change from the gaseous to the liquid state takes place
+if the pressure is sufficiently high, is 37 deg. C., and the critical
+pressure, _i.e._, the pressure under which that change takes place
+at that temperature, is nearly 68 atmospheres. Below the critical
+temperature, a lower pressure than this effects liquefaction of the gas,
+_i.e._, at 13.5 deg. C. a pressure of 32.77 atmospheres, at 0 deg. C.,
+21.53 atmospheres (Ansdell, _cf._ Chapter XI.). These data are of
+comparatively little practical importance, owing to the fact that, as
+explained in Chapter XI., liquefied acetylene cannot be safely utilised.
+
+The mean coefficient of expansion of gaseous acetylene between 0 deg. C.
+and 100 deg. C., is, under constant pressure, 0.003738; under constant
+volume, 0.003724. This means that, if the pressure is constant, 0.003738
+represents the increase in volume of a given mass of gaseous acetylene
+when its temperature is raised one degree (C.), divided by the volume of
+the same mass at 0 deg. C. The coefficients of expansion of air are: under
+constant pressure, 0.003671; under constant volume, 0.003665; and those
+of the simple gases (nitrogen, hydrogen, oxygen) are very nearly the
+same. Strictly speaking the table given in Chapter XIV., for facilitating
+the correction of the volume of gas measured over water, is not quite
+correct for acetylene, owing to the difference in the coefficients of
+expansion of acetylene and the simple gases for which the table was drawn
+up, but practically no appreciable error can ensue from its use. It is,
+however, for the correction of volumes of gases measured at different
+temperatures to one (normal) temperature, and, broadly, for determining
+the change of volume which a given mass of the gas will undergo with
+change of temperature, that the coefficient of expansion of a gas becomes
+an important factor industrially.
+
+Ansdell has found the density of liquid acetylene to range from 0.460 at
+-7 deg. C. to 0.364 at +35.8 deg. C., being 0.451 at 0 deg. C. Taking the
+volume of the liquid at -7 deg. as unity, it becomes 1.264 at 35.8 deg.,
+and thence Ansdell infers that the mean coefficient of expansion per degree
+is 0.00489 deg. for the total range of pressure." Assuming that the liquid
+was under the same pressure at the two temperatures, the coefficient of
+expansion per degree Centigrade would be 0.00605, which agrees more nearly
+with the figure 0.007 which is quoted, by Fouche As mentioned before, data
+referring to liquid (_i.e._, liquefied) acetylene are of no practical
+importance, because the substance is too dangerous to use. They are,
+however, interesting in so far as they indicate the differences in
+properties between acetylene converted into the liquid state by great
+pressure, and acetylene dissolved in acetone under less pressure; which
+
+Back to Full Books

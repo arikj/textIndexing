@@ -1,0 +1,2004 @@
+Acetylene, The Principles Of Its Generation And UsebyF. H. Leeds and W. J. Atkinson Butterfield
+
+differences make the solution fit for employment. It may be observed that
+as the solution of acetylene in acetone is a liquid, the acetylene must
+exist therein as a liquid; it is, in fact, liquid acetylene in a state of
+dilution, the diluent being an exothermic and comparatively stable body.
+
+The specific heat of acetylene is given by M. A. Morel at 0.310, though
+he has not stated by whom the value was determined. For the purpose of a
+calculation in Chapter III. the specific heat at constant pressure was
+assumed to be 0.25, which, in the absence of precise information, appears
+somewhat more probable as an approximation to the truth. The ratio
+(_k_ or C_p/C_v ) of the specific heat at constant pressure to that
+at constant volume has been found by Maneuvrier and Fournier to be 1.26;
+but they did not measure the specific heat itself. [Footnote: The ratio
+1.26 _k_ or (C_p/C_v) has been given in many text-books as the value
+of the specific heat of acetylene, whereas this value should obviously be
+only about one-fourth or one-fifth of 1.26.
+
+By employing the ordinary gas laws it is possible approximately to
+calculate the specific heat of acetylene from Maneuvrier and Fournier's
+ratio. Taking the molecular weight of acetylene as 26, we have
+
+26 C_p - 26 C_v = 2 cal.,
+
+and
+
+C_p = 1.26 C_v.
+
+From this it follows that C_p, _i.e._, the specific heat at constant
+pressure of acetylene, should be 0.373.] It will be seen that this value
+for _k_ differs considerably from the corresponding ratio in the
+case of air and many common gases, where it is usually 1.41; the figure
+approaches more closely that given for nitrous oxide. For the specific
+heat of calcium carbide Carlson quotes the following figures:
+
+  0 deg.   1000 deg.  1500 deg.  2000 deg.  2500 deg.  3000 deg.  3500 deg.
+0.247  0.271  0.296  0.325  0.344  0.363  0.381
+
+The molecular volume of acetylene is 0.8132 (oxygen = 1).
+
+According to the international atomic weights adopted in 1908, the
+molecular weight of acetylene is 26.016 if O = 16; in round numbers, as
+ordinarily used, it is 26. Employing the latest data for the weight of 1
+litre of dry hydrogen and of dry normal air containing 0.04 per cent. of
+carbon dioxide at a temperature of 0 deg. C. and a barometric pressure of
+760 mm. in the latitude of London, viz., 0.089916 and 1.29395 grammes
+respectively (Castell-Evans), it now becomes possible to give the weight
+of a known volume of dry or moist acetylene as measured under stated
+conditions with some degree of accuracy. Using 26.016 as the molecular
+weight of the gas (O = 16), 1 litre of dry acetylene at 0 deg. C. and 760 mm.
+weighs 1.16963 grammes, or 1 gramme measures 0.854973 litre. From this it
+follows that the theoretical specific gravity of the gas at 0 deg./0 deg. C.
+is 0.9039 (air = 1), a figure which may be compared with Leduc's
+experimental value of 0.9056. Taking as the coefficient of expansion at
+constant pressure the figure already given, viz., 0.003738, the weights
+and measures of dry and moist acetylene observed under British conditions
+(60 deg. F. and 30 inches of mercury) become approximately:
+
+                            Dry.             Saturated.
+     1 litre  .  .  .    1.108 grm.   .  .   1.102 grm.
+     1 gramme .  .  .    0.902 litre. .  .   0.907 litre.
+  1000 cubic feet   .   69.18 lb.  .  .  .  68.83  lb.
+
+It should be remembered that unless the gas has been passed through a
+chemical drier, it is always saturated with aqueous vapour, the amount of
+water present being governed by the temperature and pressure. The 1 litre
+of moist acetylene which weighs 1.102 gramme at 60 deg. F. and 30 inches of
+mercury, contains 0.013 gramme of water vapour; and therefore the weight
+of dry acetylene in the 1 litre of moist gas is 1.089 gramme. Similarly,
+the 68.83 pounds which constitute the weight of 1000 cubic feet of moist
+acetylene, as measured under British standard conditions, are composed of
+almost exactly 68 pounds of dry acetylene and 0.83 pound of water vapour.
+The data required in calculating the mass of vapour in a known volume of
+a saturated gas at any observed temperature and pressure, _i.e._, in
+reducing the figures to those which represent the dry gas at any other
+(standard) temperature and pressure, will be found in the text-books of
+physical chemistry. It is necessary to recollect that since coal-gas is
+measured wet, the factors given in the table quoted in Chapter XIV. from
+the "Notification of the Gas Referees" simply serve to convert the volume
+of a wet gas observed under stated conditions to the equivalent volume of
+the same wet gas at the standard conditions mentioned.
+
+HEAT OF COMBUSTION, &C--Based; on Berthelot and Matignon's value for the
+heat of combustion which is given on a subsequent page, viz., 315.7 large
+calories per molecular weight of 26.016 grammes, the calorific power of
+acetylene under different conditions is shown in the following table:
+
+              Dry.              Dry.              Saturated.
+          0 deg. C. & 760 mm.   60 deg. F & 30 ins.   60 deg. F. & 30 ins.
+
+1 gramme     12.14 cals.      12.14 cals.        12.0  cals.
+1 litre      14.l9  "         13.45  "           13.22  "
+1 cubic foot 40.19  "        380.8   "          374.4   "
+
+The figures in the last column refer to the dry acetylene in the gas, no
+correction having been made for the heat absorbed by the water vapour
+present. As will appear in Chapter X., the average of actual
+determinations of the calorific value of ordinary acetylene is 363 large
+calories or 1440 B.Th.U. per cubic foot. The temperature of ignition of
+acetylene has been generally stated to be about 480 deg. C. V. Meyer and
+Muench in 1893 found that a mixture of acetylene and oxygen ignited
+between 509 deg. and 515 deg. C. Recent (1909) investigations by H. B. Dixon
+and H. F. Coward show, however, that the ignition temperature in neat oxygen
+is between 416 deg. and 440 deg. (mean 428 deg. C.) and in air between
+406 deg. and 440 deg., with a mean of 429 deg. C. The corresponding mean
+temperature of ignition found by the same investigators for other gases are:
+hydrogen, 585 deg.; carbon monoxide, moist 664 deg., dry 692 deg.; ethylene,
+in oxygen 510 deg., in air 543 deg.; and methane, in oxygen between 550 deg.
+and 700 deg., and in air, between 650 deg. and 750 deg. C.
+
+Numerous experiments have been performed to determine the temperature of the
+acetylene flame. According to an exhaustive research by L. Nichols, when the
+gas burns in air it attains a maximum temperature of 1900 deg. C. +- 20 deg.,
+which is 120 deg. higher than the temperature he found by a similar method
+of observation for the coal-gas flame (fish-tail burner). Le Chatelier had
+previously assigned to the acetylene flame a temperature between 2100 deg.
+and 2400 deg., while Lewes had found for the dark zone 459 deg., for the
+luminous zone 1410 deg., and for the tip 1517 deg. C, Fery and Mahler have
+also made measurements of the temperatures afforded by acetylene and other
+fuels, some of their results being quoted below. Fery employed his optical
+method of estimating the temperature, Mahler a process devised by Mallard
+and Le Chatelier. Mahler's figures all relate to flames supplied with air
+at a temperature of 0 deg. C. and a constant pressure of 760 mm.
+
+Hydrogen .   .   .   .   .   .   .   .   .   .   . 1900     1960
+Carbon monoxide  .   .   .   .   .   .   .   .   .  --      2100
+Methane  .   .   .   .   .   .   .   .   .   .   .  --   _  1850
+Coal-gas (luminous)  .   .   .   .   .   .   .   . 1712   |
+   " (atmospheric, with deficient supply of air) . 1812   | 1950
+   " (atmospheric, with full supply of air)  .   . 1871  _|
+Water-gas    .   .   .   .   .   .   .   .   .   .  --      2000
+Oxy-coal-gas blowpipe    .   .   .   .   .   .   . 2200      --
+Oxy-hydrogen blowpipe    .   .   .   .   .   .   . 2420      --
+Acetylene    .   .   .   .   .   .   .   .   .   . 2548     2350
+Alcohol  .   .   .   .   .   .   .   .   .   .   . 1705     1700
+Alcohol (in Denayrouze Bunsen)   .   .   .   .   . 1862      --
+Alcohol and petrol in equal parts    .   .   .   . 2053      --
+Crude petroleum (American)   .   .   .   .   .   .  --      2000
+Petroleum spirit    "    .   .   .   .   .   .   .  --      1920
+Petroleum oil       "    .   .   .   .   .   .   .  --      1660
+
+Catani has published the following determinations of the temperature
+yielded by acetylene when burnt with cold and hot air and also with
+oxygen:
+
+Acetylene and cold air .   .   .   .   .   . 2568 deg. C.
+   "          air at 500 deg. C    .   .   .   . 2780 deg. C.
+   "          air at 1000 deg. C   .   .   .   . 3000 deg. C.
+   "          oxygen   .   .   .   .   .   . 4160 deg. C.
+
+EXPLOSIVE LIMITS.--The range of explosibility of mixtures of acetylene
+and air has been determined by various observers. Eitner's figures for
+the lower and upper explosive limits, when the mixture, at 62.6 deg. F.,
+is in a tube 19 mm. in diameter, and contains 1.9 per cent. of aqueous
+vapour, are 3.35 and 52.3 per cent. of acetylene (_cf._ Chapter X.).
+In this case the mixture was fired by electric spark. In wider vessels,
+the upper explosive limit, when the mixture was fired by a Bunsen flame,
+was found to be as high as 75 per cent. of acetylene. Eitner also found
+that when 13 of the 21 volumes of oxygen in air are displaced by carbon
+dioxide, a mixture of such "carbon dioxide air" with acetylene is
+inexplosive in all proportions. Also that when carbon dioxide is added to
+a mixture of acetylene and air, an explosion no longer occurs when the
+carbon dioxide amounts to 46 volumes or more to every 54 volumes of air,
+whatever may be the proportion of acetylene in the mixture. [Footnote:
+According to Caro, if acetylene is added to a mixture composed of 55 per
+cent. by volume of air and 45 per cent. of carbon dioxide, the whole is
+only explosive when the proportion of acetylene lies between 5.0 and 5.8
+per cent. Caro has also quoted the effect of various inflammable vapours
+upon the explosive limits of acetylene, his results being referred to in
+Chapter X.] These figures are valuable in connexion with the prevention
+of the formation of explosive mixtures of air and acetylene when new
+mains or plant are being brought into operation (_cf._ Chapter
+VII.). Eitner has also shown, by direct investigation on mixtures of
+other combustible gases and air, that the range of explosibility is
+greatly reduced by increase in the proportion of aqueous vapour present.
+As the proportion of aqueous vapour in gas standing over water increases
+with the temperature the range of explosibility of mixtures of a
+combustible gas and air is naturally and automatically reduced when the
+temperature rises, provided the mixture is in contact with water. Thus at
+17.0 deg. C., mixtures of hydrogen, air, and aqueous vapour containing from
+9.3 to 65.0 per cent, of hydrogen are explosive, whereas at 78.1 deg. C.,
+provided the mixture is saturated with aqueous vapour, explosion occurs
+only when the percentage of hydrogen in the mixture is between 11.2 and
+21.9. The range of explosibility of mixtures of acetylene and air is
+similarly reduced by the addition of aqueous vapour (though the exact
+figures have not been experimentally ascertained); and hence it follows
+that when the temperature in an acetylene generator in which water is in
+excess, or in a gasholder, rises, the risk of explosion, if air is mixed
+with the gas, is automatically reduced with the rise in temperature by
+reason of the higher proportion of aqueous vapour which the gas will
+retain at the higher temperature. This fact is alluded to in Chapter II.
+Acetone vapour also acts similarly in lowering the upper explosive limit
+of acetylene (_cf._ Chapter XI.).
+
+It may perhaps be well to indicate briefly the practical significance of
+the range of explosibility of a mixture of air and a combustible gas,
+such as acetylene. The lower explosive limit is the lowest percentage of
+combustible gas in the mixture of it and air at which explosion will
+occur in the mixture if a light or spark is applied to it. If the
+combustible gas is present in the mixture with air in less than that
+percentage explosion is impossible. The upper explosive limit is the
+highest percentage of combustible gas in the mixture of it and air at
+which explosion will occur in the mixture if a light or spark is applied
+to it. If the combustible gas is present in the mixture with air in more
+than that percentage explosion is impossible. Mixtures, however, in which
+the percentage of combustible gas lies between these two limits will
+explode when a light or spark is applied to them; and the comprehensive
+term "range of explosibility" is used to cover all lying between the two
+explosive limits. If, then, a naked light is applied to a vessel
+containing a mixture of a combustible gas and air, in which mixture the
+proportion of combustible gas is below the lower limit of explosibility,
+the gas will not take fire, but the light will continue to burn, deriving
+its necessary oxygen from the excess of air present. On the other hand,
+if a light is applied to a vessel containing a mixture of a combustible
+gas and air, in which mixture the proportion of combustible gas is above
+the upper limit of explosibility, the light will be extinguished, and
+within the vessel the gaseous mixture will not burn; but it may burn at
+the open mouth of the vessel as it comes in contact with the surrounding
+air, until by diffusion, &c.;, sufficient air has entered the vessel to
+form, with the remaining gas, a mixture lying within the explosive
+limits, when an explosion will occur. Again, if a gaseous mixture
+containing less of its combustible constituent than is necessary to
+attain the lower explosive limit escapes from an open-ended pipe and a
+light is applied to it, the mixture will not burn as a useful compact
+flame (if, indeed, it fires at all); if the mixture contains more of its
+combustible constituent than is required to attain the upper explosive
+limit, that mixture will burn quietly at the mouth of the pipe and will
+be free from any tendency to fire back into the pipe--assuming, of
+course, that the gaseous mixture within the pipe is constantly travelling
+towards the open end. If, however, a gaseous mixture containing a
+proportion of its combustible constituent which lies between the lower
+and the upper explosive limit of that constituent escapes from an open-
+ended pipe and a light is applied, the mixture will fire and the flame
+will pass back into the pipe, there to produce an explosion, unless the
+orifice of the said pipe is so small as to prevent the explosive wave
+passing (as is the case with a proper acetylene burner), or unless the
+pipe itself is so narrow as appreciably to alter the range of
+explosibility by lowering the upper explosive limit from its normal
+value.
+
+By far the most potent factor in altering the range of explosibility of
+any gas when mixed with air is the diameter of the vessel containing or
+delivering such mixture. Le Chatelier has investigated this point in the
+case of acetylene, and his values are reproduced overleaf; they are
+comparable among themselves, although it will be observed that his
+absolute results differ somewhat from those obtained by Eitner which are
+quoted later:
+
+_Explosive Limits of Acetylene mixed with Air._--(Le Chatelier.)
+
+ ___________________________________________________________
+|                  |                       |                |
+|                  |    Explosive Limits.  |                |
+| Diameter of Tube |_______________________|    Range of    |
+| in Millimetres.  |           |           | Explosibility. |
+|                  |   Lower.  |   Upper.  |                |
+|__________________|___________|___________|________________|
+|                  |           |           |                |
+|                  | Per Cent. | Per Cent. |   Per Cent.    |
+|       40         |    2.9    |    64     |     61.1       |
+|       30         |    3.1    |    62     |     58.9       |
+|       20         |    3.5    |    55     |     51.5       |
+|        6         |    4.0    |    40     |     36.0       |
+|        4         |    4.5    |    25     |     20.5       |
+|        2         |    5.0    |    15     |     10.0       |
+|        0.8       |    7.7    |    10     |      2.3       |
+|        0.5       |    ...    |    ...    |      ...       |
+|__________________|___________|___________|________________|
+
+Thus it appears that past an orifice or constriction 0.5 mm. in diameter
+no explosion of acetylene can proceed, whatever may be the proportions
+between the gas and the air in the mixture present.
+
+With every gas the explosive limits and the range of explosibility are
+also influenced by various circumstances, such as the manner of ignition,
+the pressure, and other minor conditions; but the following figures for
+mixtures of air and different combustible gases were obtained by Eitner
+under similar conditions, and are therefore strictly comparable one with
+another. The conditions were that the mixture was contained in a tube 19
+mm. (3/4-inch) wide, was at about 60 deg. to 65 deg. F., was saturated with
+aqueous vapour, and was fired by electric spark.
+
+_Table giving the Percentage by volume of Combustible Gas in a Mixture
+of that Gas and Air corresponding with the Explosive Limits of such a
+Mixture._--(Eitner.)
+
+ ____________________________________________________________________
+|                  |           |           |                         |
+| Description of   |   Lower   |   Upper   | Difference between the  |
+| Combustible Gas. | Explosive | Explosive | Lower and Upper Limits, |
+|                  |   Limit.  |  Limit.   |    showing the range    |
+|                  |           |           |     covered by the      |
+|                  |           |           |   Explosive Mixtures.   |
+|__________________|___________|___________|_________________________|
+|                  |           |           |                         |
+|                  | Per Cent. | Per Cent. |        Per Cent.        |
+| Carbon monoxide  |  16.50    |  74.95    |         58.45           |
+| Hydrogen         |   9.45    |  66.40    |         57.95           |
+| Water-gas        |           |           |                         |
+|  (uncarburetted) |  12.40    |  66.75    |         54.35           |
+| ACETYLENE        |   3.35    |  52.30    |         48.95           |
+| Coal-gas         |   7.90    |  19.10    |         11.20           |
+| Ethylene         |   4.10    |  14.60    |         10.50           |
+| Methane          |   6.10    |  12.80    |          6.70           |
+| Benzene (vapour) |   2.65    |   6.50    |          3.85           |
+| Pentane   "      |   2.40    |   4.90    |          2.50           |
+| Benzoline "      |   2.40    |   4.90    |          2.50           |
+|__________________|___________|___________|_________________________|
+
+These figures are of great practical significance. They indicate that a
+mixture of acetylene and air becomes explosive (_i.e._, will explode
+if a light is applied to it) when only 3.35 per cent. of the mixture is
+acetylene, while a similar mixture of coal-gas and air is not explosive
+until the coal-gas reaches 7.9 per cent. of the mixture. And again, air
+may be added to coal-gas, and it does not become explosive until the
+coal-gas is reduced to 19.1 per cent. of the mixture, while, on the
+contrary, if air is added to acetylene, the mixture becomes explosive as
+soon as the acetylene has fallen to 52.3 per cent. Hence the immense
+importance of taking precautions to avoid, on the one hand, the escape of
+acetylene into the air of a room, and, on the other hand, the admixture
+of air with the acetylene in any vessel containing it or any pipe through
+which it passes. These precautions are far more essential with acetylene
+than with coal-gas. The table shows further how great is the danger of
+explosion if benzene, benzoline, or other similar highly volatile
+hydrocarbons [Footnote: The nomenclature of the different volatile
+spirits is apt to be very confusing. "Benzene" is the proper name for the
+most volatile hydrocarbon derived from coal-tar, whose formula is C_6H_6.
+Commercially, benzene is often known as "benzol" or "benzole"; but it
+would be generally advantageous if those latter words were only used to
+mean imperfectly rectified benzene, _i.e._, mixtures of benzene with
+toluene, &c.;, such as are more explicitly understood by the terms "90.s
+benzol" and "50.s benzol." "Gasoline," "carburine," "petroleum ether,"
+"benzine," "benzoline," "petrol," and "petroleum spirit" all refer to
+more or less volatile (the most volatile being mentioned first) and more
+or less thoroughly rectified products obtained from petroleum. They are
+mixtures of different hydrocarbons, the greater part of them having the
+general chemical formula C_nH_2n+2 where n = 5 or more. None of them is a
+definite chemical compound as is benzene; when n = 5 only the product is
+pentane. These hydrocarbons are known to chemists as "paraffins,"
+"naphthenes" being occasionally met with; while a certain proportion of
+unsaturated hydrocarbons is also present in most petroleum spirits. The
+hydrocarbons of coal-tar are "aromatic hydrocarbons," their generic
+formula being C_nH_2^n-6, where n is never less than 6.] are allowed to
+vaporise in a room in which a light may be introduced. Less of the vapour
+of these hydrocarbons than of acetylene in the air of a room brings the
+mixture to the lower explosive limit, and therewith subjects it to the
+risk of explosion. This tact militates strongly against the use of such
+hydrocarbons within a house, or against the use of air-gas, which, as
+explained in Chapter I., is air more or less saturated with the vapour of
+volatile hydrocarbons. Conversely, a combustible gas, such as acetylene,
+may be safely "carburetted" by these hydrocarbons in a properly
+constructed apparatus set up outside the dwelling-house, as explained in
+Chapter X., because there would be no air (as in air-gas) in the pipes,
+&c.;, and a relatively large escape of carburetted acetylene would be
+required to produce an explosive atmosphere in a room. Moreover, the
+odour of the acetylene itself would render the detection of a leak far
+easier with carburetted acetylene than with air-gas.
+
+N. Teclu has investigated the explosive limits of mixtures of air with
+certain combustible gases somewhat in the same manner as Eitner, viz.: by
+firing the mixture in an eudiometer tube by means of an electric spark.
+He worked, however, with the mixture dry instead of saturated with
+aqueous vapour, which doubtless helps to account for the difference
+between his and Eitner's results.
+
+_Table giving the Percentages by volume of Combustible Gas in a
+Dehydrated Mixture of that Gas and Air between which the Explosive Limits
+of such a Mixture lie._--(Teclu).
+
+ ____________________________________________________________________
+|                  |                        |                        |
+|                  | Lower Explosive Limit. | Upper Explosive Limit. |
+| Description of   |________________________|________________________|
+| Combustible Gas. |                        |                        |
+|                  |    Per Cent. of Gas.   |   Per Cent. of Gas.    |
+|__________________|________________________|________________________|
+|                  |                        |                        |
+| ACETYLENE        |       1.53-1.77        |      57.95-58.65       |
+| Hydrogen         |       9.73-9.96        |      62.75-63.58       |
+| Coal-gas         |       4.36-4.82        |      23.35-23.63       |
+| Methane          |       3.20-3.67        |       7.46- 7.88       |
+|__________________|________________________|________________________|
+
+Experiments have been made at Lechbruch in Bavaria to ascertain directly
+the smallest proportion of acetylene which renders the air of a room
+explosive. Ignition was effected by the flame resulting when a pad of
+cotton-wool impregnated with benzoline or potassium chlorate was fired by
+an electrically heated wire. The room in which most of the tests were
+made was 8 ft. 10 in. long, 6 ft. 7 in. wide, and 6 ft. 8 in. high, and
+had two windows. When acetylene was generated in this room in normal
+conditions of natural ventilation through the walls, the volume generated
+could amount to 3 per cent. of the air-space of the room without
+explosion ensuing on ignition of the wool, provided time elapsed for
+equable diffusion, which, moreover, was rapidly attained. Further, it was
+found that when the whole of the acetylene which 2 kilogrammes or 4.4 lb.
+of carbide (the maximum permissible charge in many countries for a
+portable lamp for indoor use) will yield was liberated in a room, a
+destructive explosion could not ensue on ignition provided the air-space
+exceeded 40 cubic metres or 1410 cubic feet, or, if the evolved gas were
+uniformly diffused, 24 cubic metres or 850 cubic feet. When the walls of
+the room were rendered impervious to air and gas, and acetylene was
+liberated, and allowed time for diffusion, in the air of the room, an
+explosion was observed with a proportion of only 2-1/2 per cent. of
+acetylene in the air.
+
+_Solubility of Acetylene in Various Liquids._
+
+ _____________________________________________________________________
+|                           |         |            |                  |
+|                           |         | Volumes of |                  |
+|                           |  Tem-   | Acetylene  |                  |
+|       Solvent.            |perature.|dissolved by|   Authority.     |
+|                           |         |  100 Vols. |                  |
+|                           |         | of Solvent.|                  |
+|___________________________|_________|____________|__________________|
+|                           |         |            |                  |
+|                           | Degs. C |            |                  |
+| Acetone  .    .    .    . |   15    |   2500     | Claude and Hess  |
+|    "     .    .    .    . |   50    |   1250     |    "             |
+| Acetic acid; alcohol    . |   18    |    600     | Berthelot        |
+| Benzoline; chloroform   . |   18    |    400     |    "             |
+| Paraffin oil  .    .    . |    0    |    103.3   | E. Muller        |
+|    "          .    .    . |   18    |    150     | Berthelot        |
+| Olive oil .   .    .    . |   --    |     48     | Fuchs and Schiff |
+| Carbon bisulphide  .    . |   18    |    100     | Berthelot        |
+|    "   tetrachloride    . |    0    |     25     | Nieuwland        |
+| Water (at 4 65 atmospheres|         |            |                  |
+|         pressure)  .    . |    0    |    160     | Villard          |
+|    " (at 755 mm. pressure)|   12    |    118     | Berthelot        |
+|    " (760 mm. pressure) . |   12    |    106.6   | E. Mueller       |
+|    "         "          . |   15    |    110     | Lewes            |
+|    "         "          . |   18    |    100     | Berthelot        |
+|    "         "          . |   --    |    100     | E. Davy (in 1836)|
+|    "         "          . |   19.5  |     97.5   | E. Mueller       |
+| Milk of lime: about 10    |         |            |                  |
+|   grammes of calcium hy-  |    5    |    112     | Hammerschmidt    |
+|   droxide per 100 c.c.  . |         |            |  and Sandmann    |
+|   "        "        "     |   10    |     95     |        "         |
+|   "        "        "     |   20    |     75     |        "         |
+|   "        "        "     |   50    |     38     |        "         |
+|   "        "        "     |   70    |     20     |        "         |
+|   "        "        "     |   90    |      6     |        "         |
+| Solution of common salt,5%|   19    |     67.9   |        "         |
+|   (sodium chloride)     " |   25    |     47.7   |        "         |
+|       "                20%|   19    |     29.6   |        "         |
+|       "                 " |   25    |     12.6   |        "         |
+|       "(nearly saturated, |         |            |                  |
+|            26%)    .    . |   15    |     20.6   |        "         |
+|       "(saturated, sp. gr.|         |            |                  |
+|           1-21)    .    . |    0    |     22.0   | E. Mueller       |
+|       "       "        "  |   12    |     21.0   |    "             |
+|       "       "        "  |   18    |     20.4   |    "             |
+| Solution of calcium       |         |            | Hammerschmidt    |
+| chloride (saturated)    . |   15    |      6.0   |  and Sandmann    |
+| Berge and Reychler's re-  |         |            |                  |
+|   agent   .   .    .    . |   --    |     95     | Nieuwland        |
+|___________________________|_________|____________|__________________|
+
+SOLUBILITY.--Acetylene is readily soluble in many liquids. It is
+desirable, on the one hand, as indicated in Chapter III., that the liquid
+in the seals of gasholders, &c.;, should be one in which acetylene is
+soluble to the smallest degree practically attainable; while, on the
+other hand, liquids in which acetylene is soluble in a very high degree
+are valuable agents for its storage in the liquid state. Hence it is
+important to know the extent of the solubility of acetylene in a number
+of liquids. The tabular statement (p. 179) gives the most trustworthy
+information in regard to the solubilities under the normal atmospheric
+pressure of 760 mm. or thereabouts.
+
+The strength of milk of lime quoted in the above table was obtained by
+carefully allowing 50 grammes of carbide to interact with 550 c.c. of
+water at 5 deg. C. A higher degree of concentration of the milk of lime
+was found by Hammerschmidt and Sandmann to cause a slight decrease in the
+amount of acetylene held in solution by it. Hammerschmidt and Sandmann's
+figures, however, do not agree well with others obtained by Caro, who has
+also determined the solubility of acetylene in lime-water, using first, a
+clear saturated lime-water prepared at 20 deg. C. and secondly, a milk of
+lime obtained by slaking 10 grammes of quicklime in 100 c.c. of water. As
+before, the figures relate to the volumes of acetylene dissolved at
+atmospheric pressure by 100 volumes of the stated liquid.
+
+ _________________________________________________
+|               |               |                 |
+|  Temperature. |  Lime-water.  |  Milk of Lime.  |
+|_______________|_______________|_________________|
+|               |               |                 |
+|    Degs C.    |               |                 |
+|       0       |    146.2      |     152.6       |
+|       5       |    138.5      |       --        |
+|      15       |    122.8      |     134.8       |
+|      50       |     43.9      |      62.6       |
+|      90       |      6.2      |       9.2       |
+|_______________|_______________|_________________|
+
+Figures showing the solubility of acetylene in plain water at different
+temperatures have been published in Landolt-Boernstein's Physico-
+Chemical Tables. These are reproduced below. The "Coefficient of
+Absorption" is the volume of the gas, measured at 0 deg. C. and a
+barometric height of 760 mm. taken up by one volume of water, at the stated
+temperature, when the gas pressure on the surface, apart from the vapour
+pressure of the water itself, is 760 mm. The "Solubility" is the weight
+of acetylene in grammes taken up by 100 grammes of water at the stated
+temperature, when the total pressure on the surface, including that of
+the vapour pressure of the water, is 760 mm.
+
+ _____________________________________________
+|              |                |             |
+| Temperature. | Coefficient of | Solubility. |
+|              |   Absorption.  |             |
+|______________|________________|_____________|
+|              |                |             |
+|   Degs. C.   |                |             |
+|      0       |      1.73      |    0.20     |
+|      1       |      1.68      |    0.19     |
+|      2       |      1.63      |    0.19     |
+|      3       |      1.58      |    0.18     |
+|      4       |      1.53      |    0.18     |
+|      5       |      1.49      |    0.17     |
+|      6       |      1.45      |    0.17     |
+|      7       |      1.41      |    0.16     |
+|      8       |      1.37      |    0.16     |
+|      9       |      1.34      |    0.15     |
+|     10       |      1.31      |    0.15     |
+|     11       |      1.27      |    0.15     |
+|     12       |      1.24      |    0.14     |
+|     13       |      1.21      |    0.14     |
+|     14       |      1.18      |    0.14     |
+|     15       |      1.15      |    0.13     |
+|     16       |      1.13      |    0.13     |
+|     17       |      1.10      |    0.13     |
+|     18       |      1.08      |    0.12     |
+|     19       |      1.05      |    0.12     |
+|     20       |      1.03      |    0.12     |
+|     21       |      1.01      |    0.12     |
+|     22       |      0.99      |    0.11     |
+|     23       |      0.97      |    0.11     |
+|     24       |      0.95      |    0.11     |
+|     25       |      0.93      |    0.11     |
+|     26       |      0.91      |    0.10     |
+|     27       |      0.89      |    0.10     |
+|     28       |      0.87      |    0.10     |
+|     29       |      0.85      |    0.10     |
+|     30       |      0.84      |    0.09     |
+|______________|________________|_____________|
+
+Advantage is taken, as explained in Chapter XI., of the high degree of
+solubility of acetylene in acetone, to employ a solution of the gas in
+that liquid when acetylene is wanted in a portable condition. The
+solubility increases very rapidly with the pressure, so that under a
+pressure of twelve atmospheres acetone dissolves about 300 times its
+original volume of the gas, while the solubility also increases greatly
+with a reduction in the temperature, until at -80 deg. C. acetone takes up
+2000 times its volume of acetylene under the ordinary atmospheric
+pressure. Further details of the valuable qualities of acetone as a
+solvent of acetylene are given in Chapter XI., but it may here be
+remarked that the successful utilisation of the solvent power of acetone
+depends to a very large extent on the absolute freedom from moisture of
+both the acetylene and the acetone, so that acetone of 99 per cent.
+strength is now used as the solvent.
+
+Turning to the other end of the scale of solubility, the most valuable
+liquids for serving as seals of gasholders, &c.;, are readily discernible.
+Far superior to all others is a saturated solution of calcium chloride,
+and this should be selected as the confining liquid whenever it is
+important to avoid dissolution of acetylene in the liquid as far as may
+be. Brine comes next in order of merit for this purpose, but it is
+objectionable on account of its corrosive action on metals. Olive oil
+should, according to Fuchs and Schiff, be of service where a saline
+liquid is undesirable; mineral oil seems useless. Were they concordant,
+the figures for milk of lime would be particularly useful, because this
+material is naturally the confining liquid in the generating chambers of
+carbide-to-water apparatus, and because the temperature of the liquid
+rises through the heat evolved during the generation of the gas
+(_vide_ Chapters II. and III.). It will be seen that these figures
+would afford a means of calculating the maximum possible loss of gas by
+dissolution when a known volume of sludge is run off from a carbide-to-
+water generator at about any possible temperature.
+
+According to Garelli and Falciola, the depression in the freezing-point of
+water caused by the saturation of that liquid with acetylene is 0.08 deg.
+C., the corresponding figure for benzene in place of water being 1.40 deg.
+C. These figures indicate that 100 parts by weight of water should dissolve
+0.1118 part by weight of acetylene at 0 deg. C., and that 100 parts of
+benzene should dissolve about 0.687 part of acetylene at 5 deg. C. In other
+words, 100 volumes of water at the freezing-point should dissolve 95
+volumes of acetylene, and 100 volumes of benzene dissolve some 653
+volumes of the gas. The figure calculated for water in this way is lower
+than that which might be expected from the direct determinations at other
+temperatures already referred to; that for benzene may be compared with
+Berthelot's value of 400 volumes at 18 deg. C. Other measurements of the
+solubility of acetylene in water at 0 deg. C. have given the figure 0.1162
+per cent. by weight.
+
+TOXICITY.--Many experiments have been made to determine to what extent
+acetylene exercises a toxic action on animals breathing air containing a
+large proportion of it; but they have given somewhat inconclusive
+results, owing probably to varying proportions of impurities in the
+samples of acetylene used. The sulphuretted hydrogen and phosphine which
+are found in acetylene as ordinarily prepared are such powerful toxic
+agents that they would always, in cases of "acetylene" poisoning, be
+largely instrumental in bringing about the effects observed. Acetylene
+_per se_ would appear to have but a small toxic action; for the
+principal toxic ingredient in coal-gas is carbon monoxide, which does not
+occur in sensible quantity in acetylene as obtained from calcium carbide.
+The colour of blood is changed by inhalation of acetylene to a bright
+cherry-red, just as in cases of poisoning by carbon monoxide; but this is
+due to a more dissolution of the gas in the haemoglobin of the blood, so
+that there is much more hope of recovery for a subject of acetylene
+poisoning than for one of coal-gas poisoning. Practically the risk of
+poisoning by acetylene, after it has been purified by one of the ordinary
+means, is _nil_. The toxic action of the impurities of crude
+acetylene is discussed in Chapter V.
+
+Acetylene is an "endothermic" compound, as has been mentioned in Chapter
+II., where the meaning of the expression endothermic is explained. It has
+there been indicated that by reason of its endothermic nature it is
+unsafe to have acetylene at either a temperature of 780 deg. C. and upwards,
+or at a pressure of two atmospheres absolute, or higher. If that
+temperature or that pressure is exceeded, dissociation (_i.e._,
+decomposition into its elements), if initiated at any spot, will extend
+through the whole mass of acetylene. In this sense, acetylene at or above
+780 deg. C., or at two or more atmospheres pressure, is explosive in the
+absence of air or oxygen, and it is thereby distinguished from the
+majority of other combustible gases, such as the components of coal-gas.
+But if, by dilution with another gas, the partial pressure of the
+acetylene is reduced, then the mixture may be subjected to a higher
+pressure than that of two atmospheres without acquiring explosiveness, as
+is fully shown in Chapter XI. Thus it becomes possible safely to compress
+mixtures of acetylene and oil-gas or coal-gas, whereas unadmixed
+acetylene cannot be safely kept under a pressure of two atmospheres
+absolute or more. In a series of experiments carried out by Dupre on
+behalf of the British Home Office, and described in the Report on
+Explosives for 1897, samples of moist acetylene, free from air, but
+apparently not purified by any chemical process, were exposed to the
+influence of a bright red-hot wire. When the gas was held in the
+containing vessel at the atmospheric pressure then obtaining, viz., 30.34
+inches (771 mm.) of mercury, no explosion occurred. When the pressure was
+raised to 45.34 inches (1150 mm.), no explosion occurred; but when the
+pressure was further raised to 59.34 inches (1505 mm., or very nearly two
+atmospheres absolute) the acetylene exploded, or dissociated into its
+elements.
+
+Acetylene readily polymerises when heated, as has been stated in Chapter
+II., where the meaning of the term "polymerisation" has been explained.
+The effects of the products of the polymerisation of acetylene on the
+flame produced when the gas is burnt at the ordinary acetylene burners
+have been stated in Chapter VIII., where the reasons therefor have been
+indicated. The chief primary product of the polymerisation of acetylene
+by heat appears to be benzene. But there are also produced, in some cases
+by secondary changes, ethylene, methane, naphthalene, styrolene,
+anthracene, and homologues of several of these hydrocarbons, while carbon
+and hydrogen are separated. The production of these bodies by the action
+of heat on acetylene is attended by a reduction of the illuminative value
+of the gas, while owing to the change in the proportion of air required
+for combustion (_see_ Chapter VIII.), the burners devised for the
+consumption of acetylene fail to consume properly the mixture of gases
+formed by polymerisation from the acetylene. It is difficult to compare
+the illuminative value of the several bodies, as they cannot all be
+consumed economically without admixture, but the following table
+indicates approximately the _maximum_ illuminative value obtainable
+from them either by combustion alone or in admixture with some non-
+illuminating or feebly-illuminating gas:
+
+ ________________________________________________
+|              |                   |             |
+|              |                   | Candles per |
+|              |                   | Cubic Foot  |
+|______________|___________________|_____________|
+|              |                   |             |
+|              |                   |    (say)    |
+| Acetylene    |  C_2H_2           |      50     |
+| Hydrogen     |  H_2              |       0     |
+| Methane      |  CH_4             |       1     |
+| Ethane       |  C_2H_6           |       7     |
+| Propane      |  C_3H_8           |      11     |
+| Pentane      |  C_5H_12 (vapour) |      35     |
+| Hexane       |  C_6H_14     "    |      45     |
+| Ethylene     |  C_2H_4           |      20     |
+| Propylene    |  C_3H_6           |      25     |
+| Benzene      |  C_6H_6  (vapour) |     200     |
+| Toluene      |  C_7H_8      "    |     250     |
+| Naphthalene  |  C_10H_8     "    |     400     |
+|______________|___________________|_____________|
+
+It appears from this table that, with the exception of the three
+hydrocarbons last named, no substance likely to be formed by the action
+of heat on acetylene has nearly so high an illuminative value--volume for
+volume--as acetylene itself. The richly illuminating vapours of benzene
+and naphthalene (and homologues) cannot practically add to the
+illuminative value of acetylene, because of the difficulty of consuming
+them without smoke, unless they are diluted with a large proportion of
+feebly- or non-illuminating gas, such as methane or hydrogen. The
+practical effect of carburetting acetylene with hydrocarbon vapours will
+be shown in Chapter X. to be disastrous so far as the illuminating
+efficiency of the gas is concerned. Hence it appears that no conceivable
+products of the polymerisation of acetylene by heat can result in its
+illuminative value being improved--even presupposing that the burners
+could consume the polymers properly--while practically a considerable
+deterioration of its value must ensue.
+
+The heat of combustion of acetylene was found by J. Thomson to be 310.57
+large calories per gramme-molecule, and by Berthelot to be 321.00
+calories. The latest determination, however, made by Berthelot and
+Matignon shows it to be 315.7 calories at constant pressure. Taking the
+heat of formation of carbon dioxide from diamond carbon at constant
+pressure as 94.3 calories (Berthelot and Matignon), which is equal to
+97.3 calories from amorphous carbon, and the heat of formation of liquid
+water as 69 calories; this value for the heat of combustion of acetylene
+makes its heat of formation to be 94.3 x 2 + 69 - 315.7 = -58.1 large
+calories per gramme-molecule (26 grammes) from diamond carbon, or -52.1
+from amorphous carbon. It will be noticed that the heat of combustion of
+acetylene is greater than the combined heats of combustion of its
+constituents; which proves that heat has been absorbed in the union of
+the hydrogen and carbon in the molecule, or that acetylene is
+endothermic, as elsewhere explained. These calculations, and others given
+in Chapter IX., will perhaps be rendered more intelligible by the
+following table of thermochemical phenomena:
+
+ _______________________________________________________________
+|                                |         |           |        |
+|           Reaction.            | Diamond | Amorphous |        |
+|                                | Carbon. |  Carbon.  |        |
+|________________________________|_________|___________|________|
+|                                |         |           |        |
+| (1) C (solid) + O    .   .   . |  26.1   |   29.1    |   ...  |
+| (2) C (solid) + O_2  .   .   . |  94.3   |   97.3    |   ...  |
+| (3) CO + O (2 - 1)   .   .   . |   ...   |    ...    |  68.2  |
+| (4) Conversion of solid carbon |         |           |        |
+|     into gas (3 - 1) .   .   . |  42.1   |   39.1    |   ...  |
+| (5) C (gas) + O (1 + 4)  .   . |   ...   |    ...    |  68.2  |
+| (6) Conversion of amorphous    |         |           |        |
+|     carbon to diamond    .   . |   ...   |    ...    |   3.0  |
+| (7) C_2 + H_2    .   .   .   . | -58.1   |  -52.1    |   ...  |
+| (8) C_2H_2 + 2-1/2O_2    .   . |   ...   |    ...    | 315.7  |
+|________________________________|_________|___________|________|
+
+W. G. Mixter has determined the heat of combustion of acetylene to be
+312.9 calories at constant volume, and 313.8 at constant pressure. Using
+Berthelot and Matignon's data given above for amorphous carbon, this
+represents the heat of formation to be -50.2 (Mixter himself calculates
+it as -51.4) calories. By causing compressed acetylene to dissociate
+under the influence of an electric spark, Mixter measured its heat of
+formation as -53.3 calories. His corresponding heats of combustion of
+ethylene are 344.6 calories (constant volume) and 345.8 (constant
+pressure); for its heat of formation he deduces a value -7.8, and
+experimentally found one of about -10.6 (constant pressure).
+
+THE ACETYLENE FLAME.--It has been stated in Chapter I. that acetylene
+burnt in self-luminous burners gives a whiter light than that afforded by
+any other artificial illuminant, because the proportion of the various
+spectrum colours in the light most nearly resembles the corresponding
+proportion found in the direct rays of the sun. Calling the amount of
+monochromatic light belonging to each of the five main spectrum colours
+present in the sun's rays unity in succession, and comparing the amount
+with that present in the light obtained from electricity, coal-gas, and
+acetylene, Muensterberg has given the following table for the composition
+of the several lights mentioned:
+
+ ______________________________________________________________________
+|          |                |                  |               |       |
+|          |  Electricity   |    Coal-Gas      |    Acetylene  |       |
+|          |________________|__________________|_______________|_______|
+|  Colour  |      |         |        |         |       |       |       |
+|   in     |      |         |        |         |       | With  |       |
+| Spectrum.| Arc. | Incan-  | Lumin- | Incan-  | Alone.| 3 per | Sun-  |
+|          |      | descent.|  ous.  | descent.|       | Cent. | light.|
+|          |      |         |        |         |       | Air.  |       |
+|__________|______|_________|________|_________|_______|_______|_______|
+|          |      |         |        |         |       |       |       |
+| Red      | 2.09 |  1.48   |  4.07  |  0.37   | 1.83  | 1.03  |   1   |
+| Yellow   | 1.00 |  1.00   |  1.00  |  0.90   | 1.02  | 1.02  |   1   |
+| Green    | 0.99 |  0.62   |  0.47  |  4.30   | 0.76  | 0.71  |   1   |
+| Blue     | 0.87 |  0.91   |  1.27  |  0.74   | 1.94  | 1.46  |   1   |
+| Violet   | 1.08 |  0.17   |  0.15  |  0.83   | 1.07  | 1.07  |   1   |
+| Ultra-   |      |         |        |         |       |       |       |
+|   Violet | 1.21 |   ...   |   ...  |   ...   |  ...  |  ...  |   1   |
+|__________|______|_________|________|_________|_______|_______|_______|
+
+These figures lack something in explicitness; but they indicate the
+greater uniformity of the acetylene light in its proportion of rays of
+different wave-lengths. It does not possess the high proportion of green
+of the Welsbach flame, or the high proportion of red of the luminous gas-
+flame. It is interesting to note the large amount of blue and violet
+light in the acetylene flame, for these are the colours which are chiefly
+concerned in photography; and it is to their prominence that acetylene
+has been found to be so very actinic. It is also interesting to note that
+an addition of air to acetylene tends to make the light even more like
+that of the sun by reducing the proportion of red and blue rays to nearer
+the normal figure.
+
+H. Erdmann has made somewhat similar calculation, comparing the light of
+acetylene with that of the Hefner (amyl acetate) lamp, and with coal-gas
+consumed in an Argand and an incandescent burner. Consecutively taking
+the radiation of the acetylene flame as unity for each of the spectrum
+colours, his results are:
+
+ __________________________________________________________________
+|           |               |              |                       |
+|           |               |              |    Coal-Gas           |
+| Colour in | Wave-Lengths, |              |_______________________|
+| Spectrum  |      uu       | Hefner Light |        |              |
+|           |               |              | Argand | Incandescent |
+|___________|_______________|______________|________|______________|
+|           |               |              |        |              |
+| Red       |      650      |     1.45     |  1.34  |     1.03     |
+| Orange    |      610      |     1.22     |  1.13  |     1.00     |
+| Yellow    |      590      |     1.00     |  1.00  |     1.00     |
+| Green     |      550      |     0.87     |  0.93  |     0.86     |
+| Blue      |      490      |     0.72     |  1.27  |     0.92     |
+| Violet    |      470      |     0.77     |  1.35  |     1.73     |
+|___________|_______________|______________|________|______________|
+
+B. Heise has investigated the light of different flames, including
+acetylene, by a heterochromatic photometric method; but his results
+varied greatly according to the pressure at which the acetylene was
+supplied to the burner and the type of burner used. Petroleum affords
+light closely resembling in colour the Argand coal-gas flame; and
+electric glow-lamps, unless overrun and thereby quickly worn out, give
+very similar light, though with a somewhat greater preponderance of
+radiation in the red and yellow.
+
+ ____________________________________________________________________
+|                            |                   |                   |
+|                            | Percent of Total  |                   |
+|          Light.            | Energy manifested |     Observer.     |
+|                            |     as Light.     |                   |
+|____________________________|___________________|___________________|
+|                            |                   |                   |
+| Candle, spermaceti   .   . |       2.1         | Thomsen           |
+|   "     paraffin .   .   . |       1.53        | Rogers            |
+| Moderator lamp   .   .   . |       2.6         | Thomsen           |
+| Coal-gas .   .   .   .   . |       1.97        | Thomsen           |
+|    "     .   .   .   .   . |       2.40        | Langley           |
+|    "   batswing  .   .   . |       1.28        | Rogers            |
+|    "   Argand    .   .   . |       1.61        | Rogers            |
+|    "   incandesce    .   . |      2 to 7       | Stebbins          |
+| Electric glow-lamp   .   . |     about 6       | Merritt           |
+|    "        "        .   . |       5.5         | Abney and Festing |
+| Lime light (new) .   .   . |      14           | Orehore           |
+|    "       (old) .   .   . |       8.4         | Orehore           |
+| Electric arc .   .   .   . |      10.4         | Tyndall; Nakano   |
+|    "         .   .   .   . |     8 to 13       | Marks             |
+| Magnesium light  .   .   . |      12.5         | Rogers            |
+| Acetylene    .   .   .   . |      10.5         | Stewart and Hoxie |
+|    "    (No. 0 slit burner |      11.35        | Neuberg           |
+|    "    (No. 00000   .   . |                   |                   |
+|            Bray fishtail)  |      13.8         | Neuberg           |
+|    "    (No. 3 duplex)   . |      14.7         | Neuberg           |
+| Geissler tube    .   .   . |      32.0         | Staub             |
+|____________________________|___________________|___________________|
+
+Violle and Fery, also Erdmann, have proposed the use of acetylene as a
+standard of light. As a standard burner Fery employed a piece of
+thermometer tube, cut off smoothly at the end and having a diameter of
+0.5 millimetre, a variation in the diameter up to 10 per cent. being of
+no consequence. When the height of the flame ranged from 10 to 25
+millimetres the burner passed from 2.02 to 4.28 litres per hour, and the
+illuminating power of the light remained sensibly proportional to the
+height of the jet, with maximum variations from the calculated value of
++-0.008. It is clear that for such a purpose as this the acetylene must be
+prepared from very pure carbide and at the lowest possible temperature in
+the generator. Further investigations in this direction should be
+welcome, because it is now fairly easy to obtain a carbide of standard
+quality and to purify the gas until it is essentially pure acetylene from
+a chemical point of view.
+
+L. W. Hartmann has studied the flame of a mixture of acetylene with
+hydrogen. He finds that the flame of the mixture is richer in light of
+short wave-lengths than that of pure acetylene, but that the colour of
+the light does not appear to vary with the proportion of hydrogen
+present.
+
+Numerous investigators have studied the optical or radiant efficiency of
+artificial lights, _i.e._, the proportion of the total heat plus
+light energy emitted by the flame which is produced in the form of
+visible light. Some results are shown in the table on the previous page.
+
+Figures showing the ratio of the visible light emitted by various
+illuminants to the amount of energy expended in producing the light and
+also the energy equivalent of each spherical Hefner unit evolved have
+been published by H. Lux, whose results follow:
+
+ _______________________________________________________________________
+|                    |            |            |            |           |
+|                    |  Ratio of  |  Ratio of  |   Mean     |  Energy   |
+|                    |   Light    |   Light    | Spherical  |  Equiva-  |
+|       Light.       | emitted to | emitted to | Illuminat- | lent to 1 |
+|                    |    Total   |   Energy   | ing Power. | Spherical |
+|                    | Radiation. | Impressed. |  Hefners.  | Hefner in |
+|                    |            |            |            |   Watts.  |
+|____________________|____________|____________|____________|___________|
+|                    |            |            |            |           |
+|                    |  Per Cent. |  Per Cent. |            |           |
+| Hefner lamp        |    0.89    |    0.103   |     0.825  |   0.108   |
+| Paraffin lamp, 14" |    1.23    |    0.25    |    12.0    |   0.105   |
+| ACETYLENE, 7.2     |            |            |            |           |
+|     litre burner   |    6.36    |    0.65    |     6.04   |   0.103   |
+| Coal-gas incandes- |            |            |            |           |
+|     cent, upturned | 2.26-2.92  |    0.46    |    89.6    |   0.037   |
+|  "       incandes- |            |            |            |           |
+|     cent, inverted | 2.03-2.97  |    0.51    |    82.3    |   0.035   |
+| Carbon filament    |            |            |            |           |
+|     glow-lamp      |  3.2-2.7   |    2.07    |    24.5    |   0.085   |
+| Nernst lamp        |    5.7     | 4.21-3.85  |    91.9    |   0.073   |
+| Tantalum lamp      |    8.5     |    4.87    |    26.7    |   0.080   |
+| Osram lamp         |    9.1     |    5.36    |    27.4    |   0.075   |
+| Direct-current arc |    8.1     |    5.60    |   524      |   0.047   |
+|   "    "  enclosed |    2.0     |    1.16    |   295      |   0.021   |
+| Flame arc, yellow  |   15.7     |   13.20    |  1145      |   0.041   |
+|   "    "   white   |    7.6     |    6.66    |   760      |   0.031   |
+| Alternating-       |            |            |            |           |
+|     current arc    |    3.7     |    1.90    |    89      |   0.038   |
+| Uviol mercury      |            |            |            |           |
+|     vapour lamp    |    5.8     |    2.24    |   344      |   0.015   |
+| Quartz lamp        |   17.6     |    6.00    |  2960      |   0.014   |
+|____________________|____________|____________|____________|___________|
+
+CHEMICAL PROPERTIES.--It is unnecessary for the purpose of this work to
+give an exhaustive account of the general chemical reactions of acetylene
+with other bodies, but a few of the more important must be referred to.
+Since the gases are liable to unite spontaneously when brought into
+contact, the reactions between, acetylene and chlorine require attention,
+first, because of the accidents that have occurred when using bleaching-
+powder (_see_ Chapter V.) as a purifying material for the crude gas;
+secondly, because it has been proposed to manufacture one of the products
+of the combination, viz., acetylene tetrachloride, on a large scale, and
+to employ it as a detergent in place of carbon tetrachloride or carbon
+disulphide. Acetylene forms two addition products with chlorine,
+C_2H_2Cl_2, and C_2H_2Cl_4. These are known as acetylene dichloride and
+tetrachloride respectively, or more systematically as dichlorethylene and
+tetrachlorethane. One or both of the chlorides is apt to be produced when
+acetylene comes into contact with free chlorine, and the reaction
+sometimes proceeds with explosive violence. The earliest writers, such as
+E. Davy, Woehler, and Berthelot, stated that an addition of chlorine to
+acetylene was invariably followed by an explosion, unless the mixture was
+protected from light; whilst later investigators thought the two gases
+could be safely mixed if they were both pure, or if air was absent. Owing
+to the conflicting nature of the statements made, Nieuwland determined in
+1905 to study the problem afresh; and the annexed account is chiefly
+based on his experiments, which, however, still fail satisfactorily to
+elucidate all the phenomena observed. According to Nieuwland's results,
+the behaviour of mixtures of acetylene and chlorine appears capricious,
+for sometimes the gases unite quietly, although sometimes they explode.
+Acetylene and chlorine react quite quietly in the dark and at low
+temperatures; and neither a moderate increase in temperature, nor the
+admission of diffused daylight, nor the introduction of small volumes of
+air, is necessarily followed by an explosion. Doubtless the presence of
+either light, air, or warmth increases the probability of an explosive
+reaction, while it becomes more probable still in their joint presence;
+but in given conditions the reaction may suddenly change from a gentle
+formation of addition products to a violent formation of substitution
+products without any warning or manifest cause. When the gases merely
+unite quietly, tetrachlorethane, or acetylene tetrachloride, is produced
+thus:
+
+C_2H_2 + 2Cl_2 = C_2H_2Cl_4;
+
+but when the reaction is violent some hexachlorethane is formed,
+presumably thus:
+
+2C_2H_2 + 5Cl_2 = 4HCl + C_2 + C_2Cl_6.
+
+The heat evolved by the decomposition of the acetylene by the formation
+of the hydrochloric acid in the last equation is then propagated amongst
+the rest of the gaseous mixture, accelerating the action, and causing the
+acetylene to react with the chlorine to form more hydrochloric acid and
+free carbon thus;
+
+C_2H_2 + Cl_2 = 2HCl + C_2.
+
+It is evident that these results do not altogether explain the mechanism
+of the reactions involved. Possibly the formation of substitution
+products and the consequent occurrence of an explosion is brought about
+by some foreign substance which acts as a catalytic agent. Such substance
+may conceivably be one of the impurities in crude acetylene, or the solid
+matter of a bleaching-powder purifying material. The experiments at least
+indicate the direction in which safety may be sought when bleaching-
+powder is employed to purify the crude gas, viz., dilution of the powder
+with an inert material, absence of air from the gas, and avoidance of
+bright sunlight in the place where a spent purifier is being emptied.
+Unfortunately Nieuwland did not investigate the action on acetylene of
+hypochlorites, which are presumably the active ingredients in bleaching-
+powder. As will appear in due course, processes have been devised and
+patented to eliminate all danger from the reaction between acetylene and
+chlorine for the purpose of making tetrachlorethane in quantity.
+
+Acetylene combines with hydrogen in the presence of platinum black, and
+ethylene and then ethane result. It was hoped at one time that this
+reaction would lead to the manufacture of alcohol from acetylene being
+achieved on a commercial basis; but it was found that it did not proceed
+with sufficient smoothness for the process to succeed, and a number of
+higher or condensation products were formed at the same time. It has been
+shown by Erdmann that the cost of production of alcohol from acetylene
+through this reaction must prove prohibitive, and he has indicated
+another reaction which he considered more promising. This is the
+conversion of acetylene by means of dilute sulphuric acid (3 volumes of
+concentrated acid to 7 volumes of water), preferably in the presence of
+mercuric oxide, to acetaldehyde. The yield, however, was not
+satisfactory, and the process does not appear to have passed beyond the
+laboratory stage.
+
+It has also been proposed to utilise the readiness with which acetylene
+polymerises on heating to form benzene, for the production of benzene
+commercially; but the relative prices of acetylene and benzene would have
+to be greatly changed from those now obtaining to make such a scheme
+successful. Acetylene also lends itself to the synthesis of phenol or
+carbolic acid. If the dry gas is passed slowly into fuming sulphuric
+acid, a sulpho-derivative results, of which the potash salt may be thrown
+down by means of alcohol. This salt has the formula C_2H_4O_2,S_2O_6K_2,
+and on heating it with caustic potash in an atmosphere of hydrogen,
+decomposing with excess of sulphuric acid, and distilling, phenol results
+and may be isolated. The product is, however, generally much contaminated
+with carbon, and the process, which was devised by Berthelot, does not
+appear to have been pursued commercially. Berthelot has also investigated
+the action of ordinary concentrated sulphuric acid on acetylene, and
+obtained various sulphonic derivatives. Schroeter has made similar
+investigations on the action of strongly fuming sulphuric acid on
+acetylene. These investigations have not yet acquired any commercial
+significance.
+
+If a mixture of acetylene with either of the oxides of carbon is led
+through a red-hot tube, or if a similar mixture is submitted to the
+action of electric sparks when confined within a closed vessel at some
+pressure, a decomposition occurs, the whole of the carbon is liberated in
+the free state, while the hydrogen and oxygen combine to form water.
+Analogous reactions take place when either oxide of carbon is led over
+calcium carbide heated to a temperature of 200 deg. or 250 deg. C., the
+second product in this case being calcium oxide. The equations
+representing these actions are:
+
+C_2H_2  + CO   = H_2O  + 3C
+
+2C_2H_2 + CO_2 = 2H_2O + 5C
+
+CaC_2   + CO   = CaO   + 3C
+
+2CaC_2  + CO_2 = 2CaO  + 5C
+
+By urging the temperature, or by increasing the pressure at which the
+gases are led over the carbide, the free carbon appears in the graphitic
+condition; at lower temperatures and pressures, it is separated in the
+amorphous state. These reactions are utilised in Frank's process for
+preparing a carbon pigment or an artificial graphite (_cf._ Chapter
+XII.).
+
+Parallel decompositions occur between carbon bisulphide and either
+acetylene or calcium carbide, all the carbon of both substances being
+eliminated, while the by-product is either sulphuretted hydrogen or
+calcium (penta) sulphide. Other organic bodies containing sulphur are
+decomposed in the same fashion, and it has been suggested by Ditz that if
+carbide could be obtained at a suitable price, the process might be made
+useful in removing sulphur (_i.e._, carbon bisulphide and thiophen)
+from crude benzol, in purifying the natural petroleum oil which contains
+sulphur, and possibly in removing "sulphur compounds" from coal-gas.
+
+COMPOUNDS WITH COPPER. By far the most important chemical reactions of
+acetylene in connexion with its use as an illuminant or fuel are those
+which it undergoes with certain metals, notably copper. It is known that
+if acetylene comes in contact with copper or with one of its salts, in
+certain conditions a compound is produced which, at least when dry, is
+highly explosive, and will detonate either when warmed or when struck or
+gently rubbed. The precise mechanism of the reaction, or reactions,
+between acetylene and copper (or its compounds), and also the character
+of the product, or products, obtained have been studied by numerous
+investigators; but their results have been inconclusive and sometimes
+rather contradictory, so that it can hardly be said that the conditions
+which determine or preclude the formation of an explosive compound and
+the composition of the explosive compound are yet known with certainty.
+Copper is a metal which yields two series of compounds, cuprous and
+cupric salts, the latter of which contain half the quantity of metal per
+unit of acid constituent that is found in the former. It should follow,
+therefore, that there are two compounds of copper with carbon, or copper
+carbides: cuprous carbide, Cu_2C_2, and cupric carbide, CuC_2. Acetylene
+reacts at ordinary temperatures with an ammoniacal solution of any cupric
+salt, forming a black cupric compound of uncertain constitution which
+explodes between 50 deg. and 70 deg. C. It is decomposed by dilute acids,
+yielding some polymerised substances. At more elevated temperatures other
+cupric compounds are produced which also give evidence of polymerisation.
+Cuprous carbide or acetylide is the reddish brown amorphous precipitate
+which is the ultimate product obtained when acetylene is led into an
+ammoniacal solution of cuprous chloride. This body is decomposed by
+hydrochloric acid, yielding acetylene; but of itself it is, in all
+probability, not explosive. Cuprous carbide, however, is very unstable
+and prone to oxidation; so that, given the opportunity, it combines with
+oxygen or hydrogen, or both, until it produces the copper acetylide, or
+acetylene-copper, which is explosive--a body to which Blochmann's formula
+C_2H_2Cu_2O is generally ascribed. Thus it should happen that the exact
+nature of the copper acetylene compound may vary according to the
+conditions in which it has been formed, from a substance that is not
+explosive at all at first, to one that is violently explosive; and the
+degree of explosiveness should depend on the greater exposure of the
+compound to air and moisture, or the larger amount of oxygen and moisture
+in the acetylene during its contact with the copper or copper salt. For
+instance, Mai has found that freshly made copper acetylide can be heated
+to 60 deg. C. or higher without explosion; but that if the compound is
+exposed to air for a few hours it explodes on warming, while if warmed
+with oxygen it explodes on contact with acetylene. It is said by Mai and
+by Caro to absorb acetylene when both substances are dry, becoming so hot
+as to explode spontaneously. Freund and Mai have also observed that when
+copper acetylide which has been dried in contact with air for four or
+five hours at a temperature of 50 deg. or 60 deg. C. is allowed to explode
+in the presence of a current of acetylene, an explosion accompanied by light
+takes place; but it is always local and is not communicated to the gas,
+whether the latter is crude or pure. In contact with neutral or acid
+solutions of cuprous salts acetylene yields various double compounds
+differing in colour and crystallising power; but according to Chavastelon
+and to Caro they are all devoid of explosive properties. Sometimes a
+yellowish red precipitate is produced in solutions of copper salts
+containing free acid, but the deposit is not copper acetylide, and is
+more likely to be, at least in part, a copper phosphide--especially if
+the gas is crude. Hence acid solutions or preparations of copper salts
+may safely be used for the purification of acetylene, as is done in the
+case of frankoline, mentioned in Chapter V. It is clear that the amount
+of free acid in such a material is much more than sufficient to
+neutralise all the ammonia which may accompany the crude acetylene into
+the purifier until the material is exhausted in other respects; and
+moreover, in the best practice, the gas would have been washed quite or
+nearly free from ammonia before entering the purifier.
+
+From a practical aspect the possible interaction of acetylene and
+metallic copper has been investigated by Gerdes and by Grittner, whose
+results, again, are somewhat contradictory. Gerdes exposed neat acetylene
+and mixtures of acetylene with oil-gas and coal-gas to a pressure of nine
+or ten atmospheres for ten months at ordinary summer and winter
+temperatures in vessels made of copper and various alloys. Those metals
+and alloys which resisted oxidation in air resisted the attack of the
+gases, but the more corrodible substances were attacked superficially;
+although in no instance could an explosive body be detected, nor could an
+explosion be produced by heating or hammering. In further experiments the
+acetylene contained ammonia and moisture and Gerdes found that where
+corrosion took place it was due exclusively to the ammonia, no explosive
+compounds being produced even then. Grittner investigated the question by
+leading acetylene for months through pipes containing copper gauze. His
+conclusions are that a copper acetylide is always produced if impure
+acetylene is allowed to pass through neutral or ammoniacal solutions of
+copper; that dry acetylene containing all its natural impurities except
+ammonia acts to an equal extent on copper and its alloys, yielding the
+explosive compound; that pure and dry gas does not act upon copper or its
+alloys, although it is possible that an explosive compound may be
+produced after a great length of time. Grittner has asserted that an
+explosive compound may be produced when acetylene is brought into contact
+with such alloys of copper as ordinary brass containing 64.66 per cent.
+of copper, or red brass containing 74.46 per cent. of copper, 20.67 per
+cent. of zinc, and 4.64 per cent. of tin; whereas none is obtained when
+the metal is either "alpaca" containing 64.44 per cent. of copper, 18.79
+per cent. of nickel, and 16.33 per cent. of zinc, or britannia metal
+composed of 91.7 per cent. of copper and 8.3 per cent. of tin. Caro has
+found that when pure dry acetylene is led for nine months over sheets or
+filings of copper, brass containing 63.2 per cent. of copper, red brass
+containing 73.8 per cent., so-called "alpaca-metal" containing 65.3 per
+cent., and britannia metal containing 90.2 per cent. of copper, no action
+whatever takes place at ordinary temperatures; if the gas is moist very
+small quantities of copper acetylide are produced in six months, whatever
+metal is tested, but the yield does not increase appreciably afterwards.
+At high temperatures condensation occurs between acetylene and copper or
+its alloys, but explosive bodies are not formed.
+
+Grittner's statement that crude acetylene, with or without ammonia, acts
+upon alloys of copper as well as upon copper itself, has thus been
+corroborated by Caro; but experience renders it tolerably certain that
+brass (and presumably gun-metal) is not appreciably attacked in practical
+conditions. Gerdes' failure to obtain an explosive compound in any
+circumstances may very possibly be explained by the entire absence of any
+oxygen from his cylinders and gases, so that any copper carbide produced
+remained unoxidised. Grittner's gas was derived, at least partially, from
+a public acetylene supply, and is quite likely to have been contaminated
+with air in sufficient quantity to oxidise the original copper compound,
+and to convert it into the explosive modification.
+
+For the foregoing reasons the use of unalloyed copper in the construction
+of acetylene generators or in the subsidiary items of the plant, as well
+as in burner fittings, is forbidden by statute or some quasi-legal
+enactment in most countries, and in others the metal has been abandoned
+for one of its alloys, or for iron or steel, as the case may be.
+Grittner's experiments mentioned above, however, probably explain why
+even alloys of copper are forbidden in Hungary. (_Cf._ Chapter IV.,
+page 127.)
+
+When acetylene is passed over finely divided copper or iron (obtained by
+reduction of the oxide by hydrogen) heated to from 130 deg. C. to 250 deg.
+C., the gas is more or less completely decomposed, and various products,
+among which hydrogen predominates, result. Ethane and ethylene are
+undoubtedly formed, and certain homologues of them and of acetylene, as
+well as benzene and a high molecular hydrocarbon (C_7H_6)_n termed
+"cuprene," have been found by different investigators. Nearly the same
+hydrocarbons, and others constituting a mixture approximating in
+composition to some natural petroleums, are produced when acetylene is
+passed over heated nickel (or certain other metals) obtained by the
+reduction of the finely divided oxide. These observations are at present
+of no technical importance, but are interesting scientifically because
+they have led up to the promulgation of a new theory of the origin of
+petroleum, which, however, has not yet found universal acceptance.
+
+
+
+CHAPTER VII
+
+MAINS AND SERVICE-PIPES--SUBSIDIARY APPARATUS
+
+The process by which acetylene is produced, and the methods employed for
+purifying it and rendering it fit for consumption in dwelling-rooms,
+having been dealt with in the preceding pages, the present chapter will
+be devoted to a brief account of those items in the plant which lie
+between the purifier outlet and the actual burner, including the meter,
+governor, and pressure gauge; the proper sizes of pipe for acetylene;
+methods of laying it, joint-making, quality of fittings, &c.; while
+finally a few words will be said about the precautions necessary when
+bringing a new system of pipes into use for the first time.
+
+THE METER.--A meter is required either to control the working of a
+complete acetylene installation or to measure the volume of gas passing
+through one particular pipe, as when a number of consumers are supplied
+through separate services under agreement from a central supply plant.
+The control which may be afforded by the inclusion of a meter in the
+equipment of a domestic acetylene generating plant is valuable, but in
+practice will seldom be exercised. The meter records check the yield of
+gas from the carbide consumed in a simple and trustworthy manner, and
+also serve to indicate when the material in the purifier is likely to be
+approaching exhaustion. The meter may also be used experimentally to
+check the soundness of the service-pipes or the consumption of a
+particular burner or group of burners. Altogether it may be regarded as a
+useful adjunct to a domestic lighting plant, provided full advantage is
+taken of it. If, however, there is no intention to pay systematic
+attention to the records of the meter, it is best to omit it from such an
+installation, and so save its initial cost and the slight loss of
+pressure which its use involves on the gas passing through it. A domestic
+acetylene lighting plant can be managed quite satisfactorily without a
+meter, and as a multiplication of parts is undesirable in an apparatus
+which will usually be tended by someone not versed in technical
+operations, it is on the whole better to omit the meter in such an
+installation. Where the plant is supervised by a technical man, a meter
+may advisedly be included in the equipment. Its proper position in the
+train of apparatus is immediately after the purifier. A meter must not be
+used for unpurified or imperfectly purified acetylene, because the
+impurities attack the internal metallic parts and ultimately destroy
+them. The supply of acetylene to various consumers from a central
+generating station entails the fixing of a meter on each consumer's
+service-pipe, so that the quantity consumed by each may be charged for
+accordingly, just as in the case of public coal-gas supplies.
+
+There are two types of gas-meter in common use, either of which may,
+without essential alteration, be employed for measuring the volume of
+acetylene passing through a pipe. It is unnecessary to refer here at
+length to their internal mechanism, because their manufacture by other
+than firms of professed meter-makers is out of the question, and the user
+will be justified in accepting the mechanism as trustworthy and durable.
+Meters can always be had stamped with the seal of a local authority or
+other body having duly appointed inspectors under the Sales of Gas Act,
+and the presence of such a stamp on a meter implies that it has been
+officially examined and found to register quantities accurately, or not
+varying beyond 2 per cent. in favour of the seller, or 3 per cent, in
+favour of the consumer. [Footnote: It may be remarked that when a meter--
+wet or dry--begins to register incorrectly by reason of old age or want
+of adjustment, its error is very often in the direction that benefits the
+customer, _i.e._, more gas passes through it than the dials record.]
+Hence a "stamped" meter may be regarded for practical purposes as
+affording a correct register of the quantities of gas passing through it.
+
+Except that the use of unalloyed copper in any part of the meter where it
+may come in contact with the gas must be wholly avoided, for the reason
+that copper is inadmissible in acetylene apparatus (_see_ Chapter
+VI.), the meters ordinarily employed for coal-gas serve quite well for
+acetylene. Obviously, however, since so very much less acetylene than
+coal-gas is consumed per burner, comparatively small meters only will be
+required even for large installations of acetylene lighting. This fact is
+now recognised by meter-makers, and meters of all suitable sizes can be
+obtained. It is desirable, if an ordinary coal-gas meter is being bought
+for use with acetylene, to have it subjected to a somewhat more rigorous
+test for soundness than is customary before "stamping" but the makers
+would readily be able to carry out this additional test.
+
+The two types of gas-meter are known as "wet" and "dry." The case of the
+wet meter is about hall-filled with water or other liquid, the level of
+which has to be maintained nearly constant. Several ingenious devices are
+in use for securing this constancy of level over a more or less extended
+period, but the necessity for occasional inspection and adjustment of the
+water-level, coupled with the stoppage of the passage of gas in the event
+of the water becoming frozen, are serious objections to the employment of
+the wet meter in many situations. The trouble of freezing may be avoided
+by substituting for the simple water an aqueous solution of glycerin, or
+mixture of glycerin with water, suitable strengths for which may be
+deduced from the table relating to the use of glycerin in holder seals
+given at the close of Chapter III. The dry meter, on the other hand, is
+very convenient, because it is not obstructed by the effects of frost,
+and because it acts for years without requiring attention. It is not
+susceptible of adjustment for measuring with so high a degree of accuracy
+as a good wet meter, but its indications are sufficiently correct to fall
+well within the legalised deviations already mentioned. Such errors,
+perhaps, are somewhat large for so costly and powerful a gas as
+acetylene, and they would be better reduced; but it is not so very often
+that a dry meter reaches its limit of inaccuracy. Whether wet or dry, the
+meter should be fixed in a place where the temperature is tolerably
+uniform, otherwise the volumes registered at different times will not
+bear the same ratio to the mass of gas (or volume at normal temperature),
+and the registrations will be misleading unless troublesome corrections
+to compensate for changes of temperature are applied.
+
+THE GOVERNOR, which can be dispensed with in most ordinary domestic
+acetylene lighting installations provided with a good gasholder of the
+rising-bell type, is designed to deliver the acetylene to a service-pipe
+at a uniform pressure, identical with that under which the burners
+develop their maximum illuminating efficiency. It must therefore both
+cheek the pressure anterior to it whenever that is above the determined
+limit to which it is set, and deliver to the efferent service-pipe
+acetylene at a constant pressure whether all or any number of the burners
+down to one only are in use. Moreover, when the pressure anterior to the
+governor falls to or below the determined limit, the governor should
+offer no resistance--entailing a loss of pressure to the passage of the
+acetylene. These conditions, which a perfect governor should fulfil, are
+not absolutely met by any simple apparatus at present in use, but so far
+as practical utility is concerned service governors which are readily
+obtainable are sufficiently good. They are broadly of two types, viz.,
+those having a bell floating in a mercury seal, and those having a
+diaphragm of gas-tight leather or similar material, either the bell or
+the diaphragm being raised by the pressure of the gas. The action is
+essentially the same in both cases: the bell or the diaphragm is so
+weighted that when the pressure of the gas exceeds the predetermined
+limit the diaphragm or bell is lifted, and, through an attached rod and
+valve, brings about a partial closure of the orifice by which the gas
+flows into the bell or the diaphragm chamber. The valve of the governor,
+therefore, automatically throttles the gas-way more or less according to
+the difference in pressure before and after the apparatus, until at any
+moment the gas-way is just sufficient in area to pass the quantity of gas
+which any indefinite number of burners require at their fixed working
+pressure; passing it always at that fixed working pressure irrespective
+of the number of burners, and maintaining it constant irrespective of the
+amount of pressure anterior to the governor, or of any variations in that
+anterior pressure. In most patterns of service governor weights may be
+added when it is desired to increase the pressure of the effluent gas. It
+is necessary, in ordering a governor for an acetylene-supply, to state
+the maximum number of cubic feet per hour it will be required to pass,
+and approximately the pressure at which it will be required to deliver
+the gas to the service-pipe. This will usually be between 3 and 5 inches
+(instead of about 1 inch in the case of coal-gas), and if the anterior
+pressure is likely to exceed 10 inches, this fact should be stated also.
+The mercury-seal governors are usually the more trustworthy and durable,
+but they are more costly than those with leather diaphragms. The seal
+should have twice or thrice the depth it usually has for coal-gas. The
+governor should be placed where it is readily accessible to the man in
+charge of the installation, but where it will not be interfered with by
+irresponsible persons. In large installations, where a number of separate
+buildings receive service-pipes from one long main, each service-pipe
+should be provided with a governor.
+
+GASHOLDER PRESSURE.--In drawing up the specification or scheme of an
+acetylene installation, it is frequently necessary either to estimate the
+pressure which a bell gasholder of given diameter and weight will throw,
+or to determine what should be the weight of the bell of a gasholder of
+given diameter when the gas is required to be delivered from it at a
+particular pressure. The gasholder of an acetylene installation serves
+not only to store the gas, but also to give the necessary pressure for
+driving it through the posterior apparatus and distributing mains and
+service-pipes. In coal-gas works this office is generally given over
+wholly or in part to a special machine, known as the exhauster, but this
+machine could not be advantageously employed for pumping acetylene unless
+the installation were of very great magnitude. Since, therefore,
+acetylene is in practice always forced through mains and service-pipes in
+virtue of the pressure imparted to it by the gasholder and since, for
+reasons already given, only the rising-bell type of gasholder can be
+regarded as satisfactory, it becomes important to know the relations
+which subsist between the dimensions and weight of a gasholder bell and
+the pressure which it "throws" or imparts to the contained gas.
+
+The bell must obviously be a vessel of considerable weight if it is to
+withstand reasonable wear and tear, and this weight will give a certain
+hydrostatic pressure to the contained gas. If the weight of the bell is
+known, the pressure which it will give can be calculated according to the
+general law of hydrostatics, that the weight of the water displaced must
+be equal to the weight of the floating body. Supposing for the moment
+that there are no other elements which will have to enter into the
+calculation, then if _d_ is the diameter in inches of the
+(cylindrical) bell, the surface of the water displaced will have an area
+of _d^2_ x 0.7854. If the level of the water is depressed _p_
+inches, then the water displaced amounts to _p_(_d^2_ x 0.7854)
+cubic inches, and its weight will be (at 62 deg. F.):
+
+(0.7854_pd^2_ x 0.03604) = 0.028302_pd^2_ lb.
+
+Consequently a bell which is _d_ inches in diameter, and gives a
+pressure of _p_ inches of water, will weigh 0.028302_pd^2_ lb.
+Or, if W = the weight of the bell in lb., the pressure thrown by it will
+be W/0.028302_d^2_ or 35.333W/_d^2_. This is the fundamental
+formula, which is sometimes given as _p_ = 550W/_d^2_, in which
+W = the weight of the bell in tons, and _d_ the diameter in feet.
+This value of _p_, however, is actually higher than the holder would
+give in practice. Reductions have to be made for two influences, viz.,
+the lifting power of the contained gas, which is lighter than air, and
+the diminution in the effective weight of so much of the bell as is
+immersed in water. The effect of these influences was studied by Pole,
+who in 1839 drew up some rules for calculating the pressure thrown by a
+gasholder of given dimensions and weight. These rules form the basis of
+the formula which is commonly used in the coal-gas industry, and they may
+be applied, _mutatis mutandis_, to acetylene holders. The
+corrections for both the influences mentioned vary with the height at
+which the top of the gasholder bell stands above the level of the water
+in the tank. Dealing first with the correction for the lifting power of
+the gas, this, according to Pole, is a deduction of _h_(1 -
+_d_)/828 where _d_ is the specific gravity of the gas and
+_h_ the height (in inches) of the top of the gasholder above the
+water level. This strictly applies only to a flat-topped bell, and hence
+if the bell has a crown with a rise equal to about 1/20 of the diameter
+of the bell, the value of _h_ here must be taken as equal to the
+height of the top of the sides above the water-level (= _h'_), plus
+the height of a cylinder having the same capacity as the crown, and the
+same diameter as the bell, that is to say, _h_=_h'_ +
+_d_/40 where _d_ = the diameter of the bell. The specific
+gravity of commercially made acetylene being constantly very nearly 0.91,
+the deduction for the lifting power of the gas becomes, for acetylene
+gasholders, 0.0001086_h_ + 0.0000027_d_, where _h_ is the
+height in inches of the top of the sides of the bell above the water-
+level, and _d_ is the diameter of the bell. Obviously this is a
+negligible quantity, and hence this correction may be disregarded for all
+acetylene gasholders, whereas it is of some importance with coal-gas and
+other gases of lower specific gravity. It is therefore wrong to apply to
+acetylene gasholders formulae in which a correction for the lifting power
+of the gas has been included when such correction is based on the average
+specific gravity of coal-gas, as is the case with many abbreviated
+gasholder pressure formulae.
+
+The correction for the immersion of the sides of the bell is of greater
+magnitude, and has an important practical significance. Let H be the
+total height in inches of the side of the gasholder, _h_ the height
+in inches of the top of the sides of the gasholder above the water-level,
+and _w_ = the weight of the sides of the gasholder in lb.; then, for
+any position of the bell, the proportion of the total height of the sides
+immersed (H - _h_)/H, and the buoyancy is (H - _h_)/H x
+_w_/S + pi/4_d^2_, in which S = the specific gravity of the
+material of which the bell is made. Assuming the material to be mild
+steel or wrought iron, having a specific gravity of 7.78, the buoyancy is
+(4_w_(H - _h_)) / (7.78Hpi_d^2_) lb. per square inch
+(_d_ being inches and _w_ lb.), which is equivalent to
+(4_w_(H - _h_)) / (0.03604 x 7.78Hpi_d^2_) =
+(4.54_w_(H - _h_)) / (H_d^2_) inches of water. Hence the
+complete formula for acetylene gasholders is:
+
+_p_ = 35.333W / _d^2_ - 4.54_w_(H - _h_) /
+H_d^2_
+
+It follows that _p_ varies with the position of the bell, that is to
+say, with the extent to which it is filled with gas. It will be well to
+consider how great this variation is in the case of a typical acetylene
+holder, as, if the variation should be considerable, provision must be
+made, by the employment of a governor on the outlet main or otherwise, to
+prevent its effects being felt at the burners.
+
+Now, according to the rules of the "Acetylen-Verein" (_cf._ Chapter
+IV.), the bells of holders above 53 cubic feet in capacity should have
+sides 1.5 mm. thick, and crowns 0.5 mm. thicker. Hence for a holder from
+150 to 160 cubic feet capacity, supposing it to be 4 feet in diameter and
+about 12 feet high, the weight of the sides (say of steel No. 16 S.W.G. =
+2.66 lb. per square foot) will be not less than 12 x 4pi x 2.66 = 401 lb.
+The weight of the crown (say of steel No. 14 S.W.G. = 3.33 lb. per square
+foot) will be not less than about 12.7 x 3.33 = about 42 lb. Hence the
+total weight of holder = 401 + 42 = 443 lb. Then if the holder is full,
+_h_ is very nearly equal to H, and _p_ = (35.333 x 443) / 48^2
+= 6.79 inches. If the holder stands only 1 foot above the water-level,
+then _p_ = 6.79 - (4.54 x 401 (144 - 12)) / (144 x 48^2) = 6.79 -
+0.72 = 6.07 inches. The same result can be arrived at without the direct
+use of the second member of the formula:
+
+For instance, the weight of the sides immersed is 11 x 4pi x 2.66 = 368
+lb., and taking the specific gravity of mild steel at 7.78, the weight of
+water displaced is 368 / 7.78 = 47.3 lb. Hence the total effective weight
+of the bell is 443 - 47.3 = 395.7 lb., and _p_ = (35.333 x 395.7) /
+48^2 = 6.07 inches. [Footnote: If the sealing liquid in the gasholder
+tank is other than simple water, the correction for the immersion of the
+sides of the bell requires modification, because the weight of liquid
+displaced will be _s'_ times as great as when the liquid is water,
+if _s'_ is the specific gravity of the sealing liquid. For instance,
+in the example given, if the sealing liquid were a 16 per cent. solution
+of calcium chloride, specific gravity 1.14 (_vide_ p. 93) instead of
+water, the weight of liquid displaced would be 1.14 (368 / 7.78) = 53.9
+lb., and the total effective weight of the bell = 443 - 53.9 = 389.1 lb.
+Therefore _p_ becomes = (35.333 x 389.1) / 48^2 = 5.97 inches,
+instead of 6.07 inches.]
+
+The value of _p_ for any position of the bell can thus be arrived
+at, and if the difference between its values for the highest and for the
+lowest positions of the bell exceeds 0.25 inch, [Footnote: This figure is
+given as an example merely. The maximum variation in pressure must be
+less than one capable of sensibly affecting the silence, steadiness, and
+economy of the burners and stoves, &c.;, connected with the installation.]
+a governor should be inserted in the main leading from the holder to the
+burners, or one of the more or less complicated devices for equalising
+the pressure thrown by a holder as it rises and falls should be added to
+the holder. Several such devices were at one time used in connexion with
+coal-gas holders, and it is unnecessary to describe them in this work,
+especially as the governor is practically the better means of securing
+uniform pressure at the burners.
+
+It is frequently necessary to add weight to the bell of a small gasholder
+in order to obtain a sufficiently high pressure for the distribution of
+acetylene. It is best, having regard to the steadiness of the bell, that
+any necessary weighting of it should be done near its bottom rim, which
+moreover is usually stiffened by riveting to it a flange or curb of
+heavier gauge metal. This flange may obviously be made sufficiently stout
+to give the requisite additional weighting. As the flange is constantly
+immersed, its weight must not be added to that of the sides in computing
+the value of _w_ for making the correction of pressure in respect of
+the immersion of the bell. Its effective weight in giving pressure to the
+contained gas is its actual weight less its actual weight divided by its
+specific gravity (say 7.2 for cast iron, 7.78 for wrought iron or mild
+steel, or 11.4 for lead). Thus if _x_ lb. of steel is added to the
+rim its weight in computing the value of W in the formula _p_ =
+35.333W / _d_^2 should be taken as x - x / 7.78. If the actual
+weight is 7.78 lb., the weight taken for computing W is 7.78 - 1 = 6.78
+lb.
+
+THE PRESSURE GAUGE.--The measurement of gas pressure is effected by means
+of a simple instrument known as a pressure gauge. It comprises a glass U-
+tube filled to about half its height with water. The vacant upper half of
+one limb is put in communication with the gas-supply of which the
+pressure is to be determined, while the other limb remains open to the
+atmosphere. The difference then observed, when the U-tube is held
+vertical, between the levels of the water in the two limbs of the tube
+indicates the difference between the pressure of the gas-supply and the
+atmospheric pressure. It is this _difference_ that is meant when the
+_pressure_ of a gas in a pipe or piece of apparatus is spoken of,
+and it must of necessity in the case of a gas-supply have a positive
+value. That is to say, the "pressure" of gas in a service-pipe expresses
+really by how much the pressure in the pipe _exceeds_ the
+atmospheric pressure. (Pressures less than the atmospheric pressure will
+not occur in connexion with an acetylene installation, unless the
+gasholder is intentionally manipulated to that end.) Gas pressures are
+expressed in terms of inches head or pressure of water, fractions of an
+inch being given in decimals or "tenths" of an inch. The expression
+"tenths" is often used alone, thus a pressure of "six-tenths" means a
+pressure equivalent to 0.6 inch head of water.
+
+The pressure gauge is for convenience provided with an attached scale on
+which the pressures may be directly read, and with a connexion by which
+the one limb is attached to the service-pipe or cock where the pressure
+is to be observed. A portable gauge of this description is very useful,
+as it can be attached by means of a short piece of flexible tubing to any
+tap or burner. Several authorities, including the British Acetylene
+Association, have recommended that pressure gauges should not be directly
+attached to generators, because of the danger that the glass might be
+fractured by a blow or by a sudden access of heat. Such breakage would be
+followed by an escape of gas, and might lead to an accident. Fixed
+pressure gauges, however, connected with every item of a plant are
+extremely useful, and should be employed in all large installations, as
+they afford great aid in observing and controlling the working, and in
+locating the exact position of any block. All danger attending their use
+can be obviated by having a stopcock between the gauge inlet and the
+portion of the plant to which it is attached; the said stopcock being
+kept closed except when it is momentarily opened to allow of a reading
+being taken. As an additional precaution against its being left open, the
+stopcock may be provided with a weight or spring which automatically
+closes the gas-way directly the observer's hand is removed from the tap.
+In the best practice all the gauges will be collected together on a board
+fastened in some convenient spot on the wall of the generator-house, each
+gauge being connected with its respective item of the plant by means of a
+permanent metallic tube. The gauges must be filled with pure water, or
+with a liquid which does not differ appreciably in specific gravity from
+pure water, or the readings will be incorrect. Greater legibility will be
+obtained by staining the water with a few drops of caramel solution, or
+of indigo sulphate (indigo carmine); or, in the absence of these dyes,
+with a drop or two of common blue-black writing ink. If they are not
+erected in perfectly frost-free situations, the gauges may be filled with
+a mixture of glycerin and pure alcohol (not methylated spirit), with or
+without a certain proportion of water, which will not freeze at any
+winter temperature. The necessary mixture, which must have a density of
+exactly 1.00, could be procured from any pharmacist.
+
+It is the pressure as indicated by the pressure gauge which is referred
+to in this book in all cases where the term "pressure of the gas" or the
+like is used. The quantity of acetylene which will flow in a given time
+from the open end of a pipe is a function of this pressure, while the
+quantity of acetylene escaping through a tiny hole or crack or a burner
+orifice also depends on this total pressure, though the ratio in this
+instance is not a simple one, owing to the varying influence of friction
+between the issuing gas and the sides of the orifice. Where, however,
+acetylene or other gas is flowing through pipes or apparatus there is a
+loss of energy, indicated by a falling off in the pressure due to
+friction, or to the performance of work, such as actuating a gas-meter.
+The extent of this loss of energy in a given length of pipe or in a meter
+is measured by the difference between the pressures of the gas at the two
+ends of the pipe or at the inlet and outlet of the meter. This difference
+is the "loss" or "fall" of pressure, due to friction or work performed,
+and is spoken of as the "actuating" pressure in regard to the passage of
+gas through the stretch of pipe or meter. It is a measure of the energy
+absorbed in actuating the meter or in overcoming the friction. (Cf.
+footnote, Chapter II., page 54.)
+
+DIMENSIONS OF MAINS.--The diameter of the mains and service-pipes for an
+acetylene installation must be such that the main or pipe will convey the
+maximum quantity of the gas likely to be required to feed all the burners
+properly which are connected to it, without an excessive actuating
+pressure being called for to drive the gas through the main or pipe. The
+flow of all gases through pipes is of course governed by the same general
+principles; and it is only necessary in applying these principles to a
+particular gas, such as acetylene, to know certain physical properties of
+the gas and to make due allowance for their influence. The general
+principles which govern the flow of a gas through pipes have been
+exhaustively studied on account of their importance in relation to the
+distribution of coal-gas and the supply of air for the ventilation of
+places where natural circulation is absent or deficient. It will be
+convenient to give a very brief reference to the way in which these
+principles have been ascertained and applied, and then to proceed to the
+particular case of the distribution of acetylene through mains and
+service-pipes.
+
+The subject of "The Motion of Fluids in Pipes" was treated in a lucid and
+comprehensive manner in an Essay by W. Pole in the _Journal of Gas
+Lighting_ during 1852, and his conclusions have been generally adopted
+by gas engineers ever since. He recapitulated the more important points
+of this essay in the course of some lectures delivered in 1872, and one
+or other of these two sources should be consulted for further
+information. Briefly, W. Pole treated the question in the following
+manner:
+
+The practical question in gas distribution is, what quantity of gas will
+a given actuating pressure cause to flow along a pipe of given length and
+given diameter? The solution of this question allows of the diameters of
+pipes being arranged so that they will carry a required quantity of gas a
+given distance under the actuating pressure that is most convenient or
+appropriate. There are five quantities to be dealt with, viz.:
+
+(1) The length of pipe = _l_ feet.
+
+(2) The internal diameter of the pipe = _d_ inches.
+
+(3) The actuating pressure = _h_ inches of head of water. (4) The
+specific gravity or density of the gas = _d_ times that of air.
+
+(5) The quantity of gas passing through the pipe--Q cubic feet per hour.
+This quantity is the product of the mean velocity of the gas in the pipe
+and the area of the pipe.
+
+The only work done in maintaining the flow of gas along a pipe is that
+required to overcome the friction of the gas on the walls of the pipe,
+or, rather, the consequential friction of the gas on itself, and the laws
+which regulate such friction have not been very exhaustively
+investigated. Pole pointed out, however, that the existing knowledge on
+the point at the time he wrote would serve for the purpose of determining
+the proper sizes of gas-mains. He stated that the friction (1) is
+proportional to the area of rubbing surface (viz., pi_ld_); (2)
+varies with the velocity, in some ratio greater than the first power, but
+usually taken as the square; and (3) is assumed to be proportional to the
+specific gravity of the fluid (viz., _s_).
+
+Thus the force (_f_) necessary to maintain the motion of the gas in
+the pipe is seen to vary (1) as pi_ld_, of which pi is a constant;
+(2) as _v^2_, where _v_ = the velocity in feet per hour; and
+(3) as _s_. Hence, combining these and deleting the constant pi, it
+appears that
+
+_f_ varies as _ldsv^2_.
+
+Now the actuating force is equal to _f_, and is represented by the
+difference of pressure at the two ends of the pipe, _i.e._, the
+initial pressure, viz., that at the place whence gas is distributed or
+issues from a larger pipe will be greater by the quantity _f_ than
+the terminal pressure, viz., that at the far end of the pipe where it
+branches or narrows to a pipe or pipes of smaller size, or terminates in
+a burner. The terminal pressure in the case of service-pipes must be
+settled, as mentioned in Chapter II., broadly according to the pressure
+at which the burners in use work best, and this is very different in the
+case of flat-flame burners for coal-gas and burners for acetylene. The
+most suitable pressure for acetylene burners will be referred to later,
+but may be taken as equal to p_0 inches head of water. Then, calling the
+initial pressure (_i.e._, at the inlet head of service-pipe) p_1, it
+follows that p_1 - p_0 = _f_. Now the cross-section of the pipe has
+an area (pi/4)_d^2_, and if _h_ represents the difference of
+pressure between the two ends of the pipe per square inch of its area, it
+follows that _f_ = _h(pi/4)d^2_. But since _f_ has been
+found above to vary as _ldsv^2_ , it is evident that
+
+_h(pi/4)d^2_ varies as _ldsv^2_.
+
+Hence
+
+_v^2_ varies as _hd/ls_,
+
+and putting in some constant M, the value of which must be determined by
+experiment, this becomes
+
+_v^2_ = M_hd/ls_.
+
+The value of M deduced from experiments on the friction of coal-gas in
+pipes was inserted in this equation, and then taking Q = pi/4_d^2v_,
+it was found that for coal-gas Q = 780(_hd/sl_)^(1/2)
+
+This formula, in its usual form, is
+
+Q = 1350_d^2_(_hd/sl_)^(1/2)
+
+in which _l_ = the length of main in yards instead of in feet. This
+is known as Pole's formula, and has been generally used for determining
+the sizes of mains for the supply of coal-gas.
+
+For the following reasons, among others, it becomes prudent to revise
+Pole's formula before employing it for calculations relating to
+acetylene. First, the friction of the two gases due to the sides of a
+pipe is very different, the coefficient for coal-gas being 0.003, whereas
+that of acetylene, according to Ortloff, is 0.0001319. Secondly, the
+mains and service-pipes required for acetylene are smaller, _cateria
+paribus_, than those needed for coal-gas. Thirdly, the observed
+specific gravity of acetylene is 0.91, that of air being unity, whereas
+the density of coal-gas is about 0.40; and therefore, in the absence of
+direct information, it would be better to base calculations respecting
+acetylene on data relating to the flow of air in pipes rather than upon
+such as are applicable to coal-gas. Bernat has endeavoured to take these
+and similar considerations into account, and has given the following
+formula for determining the sizes of pipes required for the distribution
+of acetylene:
+
+Q = 0.001253_d^2_(_hd/sl_)^(1/2)
+
+in which the symbols refer to the same quantities as before, but the
+constant is calculated on the basis of Q being stated in cubic metres, l
+in metres, and d and h in millimetres. It will be seen that the equation
+has precisely the same shape as Pole's formula for coal-gas, but that the
+constant is different. The difference is not only due to one formula
+referring to quantities stated on the metric and the other to the same
+quantities stated on the English system of measures, but depends partly
+on allowance having been made for the different physical properties of
+the two gases. Thus Bernat's formula, when merely transposed from the
+metric system of measures to the English (_i.e._, Q being cubic feet
+per hour, _l_ feet, and _d_ and _h_ inches) becomes
+
+Q = 1313.5_d^2_(_hd/sl_)^(1/2)
+
+or, more simply,
+
+Q = 1313.4(_hd^5/sl_)^(1/2)
+
+But since the density of commercially-made acetylene is practically the
+same in all cases, and not variable as is the density of coal-gas, its
+value, viz., 0.91, may be brought into the constant, and the formula then
+becomes
+
+Q = 1376.9(_hd^5/l_)^(1/2)
+
+Bernat's formula was for some time generally accepted as the most
+trustworthy for pipes supplying acetylene, and the last equation gives it
+in its simplest form, though a convenient transposition is
+
+d = 0.05552(Q^2_l/h_)^(1/5)
+
+Bernat's formula, however, has now been generally superseded by one given
+by Morel, which has been found to be more in accordance with the actual
+results observed in the practical distribution of acetylene. Morel's
+formula is
+
+D = 1.155(Q^2_l/h_)^(1/5)
+
+in which D = the diameter of the pipe in centimetres, Q = the number of
+cubic metres of gas passing per hour, _l_ = the length of pipe in
+metres, and _h_ = the loss of pressure between the two ends of the
+pipe in millimetres. On converting tins formula into terms of the English
+system of measures (_i.e._, _l_ feet, Q cubic feet, and
+_h_ and _d_ inches) it becomes
+
+(i) d = 0.045122(Q^2_l/h_)^(1/5)
+
+At first sight this formula does not appear to differ greatly from
+Bernat's, the only change being that the constant is 0.045122 instead of
+0.05552, but the effect of this change is very great--for instance, other
+factors remaining unaltered, the value of Q by Morel's formula will be
+1.68 times as much as by Bernat's formula. Transformations of Morel's
+formula which may sometimes be more convenient to apply than (i) are:
+
+(ii) Q = 2312.2(_hd^5/l_)^(1/2)
+
+(iii) _h_ = 0.000000187011(Q^2_l/d^5_)
+
+and (iv) _l_ = 5,346,340(_hd^5_/Q^2)
+
+In order to avoid as far as possible expenditure of time and labour in
+repeating calculations, tables have been drawn up by the authors from
+Morel's formulae which will serve to give the requisite information as to
+the proper sizes of pipes to be used in those cases which are likely to
+be met with in ordinary practice. These tables are given at the end of
+this chapter.
+
+When dealing with coal-gas, it is highly important to bear in mind that
+the ordinary distributing formulae apply directly only when the pipe or
+main is horizontal, and that a rise in the pipe will be attended by an
+increase of pressure at the upper end. But as the increase is greater the
+lower the density of the gas, the disturbing influence of a moderate rise
+in a pipe is comparatively small in the case of a gas of so high a
+density as acetylene. Hence in most instances it will be unnecessary to
+make any allowance for increase of pressure due to change of level. Where
+the change is very great, however, allowance may advisedly be made on the
+following basis: The pressure of acetylene in pipes increases by about
+one-tenth of an inch (head of water) for every 75 feet rise in the pipe.
+Hence where acetylene is supplied from a gasholder on the ground-level to
+all floors of a house 75 feet high, a burner at the top of the house will
+ordinarily receive its supply at a pressure greater by one-tenth of an
+inch than a burner in the basement. Such a difference, with the
+relatively high pressures used in acetylene supplies, is of no practical
+moment. In the case of an acetylene-supply from a central station to
+different parts of a mountainous district, the variations of pressure
+with level should be remembered.
+
+The distributing formulae also assume that the pipe is virtually straight;
+bends and angles introduce disturbing influences. If the bend is sharp,
+or if there is a right-angle, an allowance should be made if it is
+desired to put in pipes of the smallest permissible dimensions. In the
+case of the most usual sizes of pipes employed for acetylene mains or
+services, it will suffice to reckon that each round or square elbow is
+equivalent in the resistance it offers to the flow of gas to a length of
+5 feet of pipe of the same diameter. Hence if 5 feet is added to the
+actual length of pipe to be laid for every bond or elbow which will occur
+in it, and the figure so obtained is taken as the value of _l_ in
+formulae (i), (ii), or (iii), the values then found for Q, _d_, or
+_h_ will be trustworthy for all practical purposes.
+
+It may now be useful to give an example of the manner of using the
+foregoing formulae when the tables of sizes of pipes are not available.
+Let it be supposed that an institution is being equipped for acetylene
+lighting; that 50 burners consuming 0.70 cubic foot, and 50 consuming
+1.00 cubic foot of acetylene per hour may be required in use
+simultaneously; that a pressure of at least 2-1/2 inches is required at
+all the burners; that for sufficient reasons it is considered undesirable
+to use a higher distributing pressure than 4 inches at the gasholder,
+outlet of the purifiers, or initial governor (whichever comes last in the
+train of apparatus); that the gasholder is located 100 feet from the main
+building of the institution, and that the trunk supply-pipe through the
+latter must be 250 feet in length, and the supplies to the burners,
+either singly or in groups, be taken from this trunk pipe through short
+lengths of tubing of ample size. What should be the diameter of the trunk
+pipe, in which it will be assumed that ten bonds or elbows are necessary?
+
+In the first instance, it is convenient to suppose that the trunk pipe
+may be of uniform diameter throughout. Then the value of _l_ will be
+100 (from gasholder to main building) + 250 (within the building) + 50
+(equivalent of 10 elbows) = 400. The maximum value of Q will be (50 x
+0.7) + (50 x 1.0) = 85; and the value of _h_ will be 1 - 2.5 - 1.5.
+Then using formula (i), we have:
+
+d = 0.045122((85^2 x 400)/1.5)^(1/5) = 0.045122(1,926,667)^(1/5)
+
+= 0.045122 x 18.0713 = 0.8154.
+
+The formula, therefore, shows that the pipe should have an internal
+diameter of not less than 0.8154 inch, and consequently 1 inch (the next
+size above 0.8154 inch) barrel should be used. If the initial pressure
+(i.e., at outlet of purifiers) could be conveniently increased from 4 to
+4.8 inches, 3/4 inch barrel could be employed for the service-pipe. But
+if connexions for burners were made immediately the pipe entered the
+building, these burners would then be supplied at a pressure of 4.2
+inches, while those on the extremity of the pipe would, when all burners
+were in use, be supplied at a pressure of only 2.5 inches. Such a great
+difference of pressure is not permissible at the several burners, as no
+type of burner retains its proper efficiency over more than a very
+limited range of pressure. It is highly desirable in the case of the
+ordinary Naphey type of burner that all the burners in a house should be
+supplied at pressures which do not differ by more than half an inch;
+hence the pipes should, wherever practicable, be of such a size that they
+will pass the maximum quantity of gas required for all the burners which
+will ever be in use simultaneously, when the pressure at the first burner
+connected to the pipe after it enters the house is not more than half an
+inch above the pressure at the burner furthermost removed from the first
+one, all the burner-taps being turned on at the time the pressures are
+observed. If the acetylene generating plant is not many yards from the
+building to be supplied, it is a safe rule to calculate the size of pipes
+required on the basis of a fall of pressure of only half an inch from the
+outlet of the purifiers or initial governor to the farthermost burner.
+The extra cost of the larger size of pipe which the application of this
+rule may entail will be very slight in all ordinary house installations.
+
+VELOCITY OF FLOW IN PIPES.--For various purposes, it is often desirable
+to know the mean speed at which acetylene, or any other gas, is passing
+through a pipe. If the diameter of the pipe is _d_ inches, its
+cross-sectional area is _d^2_ x 0.7854 square inches; and since
+there are 1728 cubic inches in 1 cubic foot, that quantity of gas will
+occupy in a pipe whose diameter is _d_ inches a length of
+
+1728/(_d^2_ x 0.7854) linear inches or 183/_d^2_^ linear feet.
+
+If the gas is in motion, and the pipe is delivering Q cubic feet per
+hour, since there are 3600 seconds of time in one hour, the mean speed of
+the gas becomes
+
+183/_d^2_ x Q/3600 = Q/(19 x 7_d^2_) linear feet per second.
+
+This value is interesting in several ways. For instance, taking a rough
+average of Le Chatelier's results, the highest speed at which the
+explosive wave proceeds in a mixture of acetylene and air is 7 metres or
+22 feet per second. Now, even if a pipe is filled with an acetylene-air
+mixture of utmost explosibility, an explosion cannot travel backwards
+from B to A in that pipe, if the gas is moving from A to B at a speed of
+over 22 feet per second. Hence it may be said that no explosion can occur
+in a pipe provided
+
+Q/(19.7_d^2_) = 22 or more;
+
+_i.e._, Q/_d^2_=433.4
+
+In plain language, if the number of cubic feet passing through the pipe
+per hour divided by the square of the diameter of the pipe is at least
+433.4, no explosion can take place within that pipe, even if the gas is
+highly explosive and a light is applied to its exit.
+
+In Chapter VI. are given the explosive limits of acetylene-air mixtures
+as influenced by the diameter of the tube containing them. If we
+possessed a similar table showing the speed of the explosive wave in
+mixtures of known composition, the foregoing formulae would enable us to
+calculate the minimum speed which would insure absence of explosibility
+in a supply-pipe of any given diameter throughout its length, or at its
+narrowest part. It would not, however, be possible simply by increasing
+the forward speed of an explosive mixture of acetylene and air to a point
+exceeding that of its explosion velocity to prevent all danger of firing
+back in an atmospheric burner tube. A much higher pressure than is
+usually employed in gas-burners, other than blowpipes, would be needed to
+confer a sufficient degree of velocity upon the gas, a pressure which
+would probably fracture any incandescent mantle placed in the flame.
+
+SERVICE-PIPES AND MAINS.--The pipes used for the distribution of
+acetylene must be sound in themselves, and their joints perfectly tight.
+Higher pressures generally prevail in acetylene service-pipes within a
+house than in coal-gas service-pipes, while slight leaks are more
+offensive and entail a greater waste of resources. Therefore it is
+uneconomical, as well as otherwise objectionable, to employ service-pipes
+or fittings for acetylene which are in the least degree unsound.
+Unfortunately ordinary gas-barrel is none too sound, nor well-threaded,
+and the taps and joints of ordinary gas-fittings are commonly leaky.
+Hence something better should invariably be used for acetylene. What is
+known as "water" barrel, which is one gauge heavier than gas-barrel of
+the same size, may be adopted for the service-pipes, but it is better to
+incur a slight extra initial expense and to use "steam" barrel, which is
+of still heavier gauge and is sounder than either gas or water-pipe. All
+elbows, tees, &c.;, should be of the same quality. The fitters' work in
+making the joints should be done with the utmost care, and the sloppy
+work often passed in the case of coal-gas services must on no account be
+allowed. It is no exaggeration to say that the success of an acetylene
+installation, from the consumer's point of view, will largely, if not
+principally, depend on the tightness of the pipes in his house. The
+statement has been made that the "paint" used by gas-fitters,
+_i.e._, the mixture of red and white lead ground in "linseed" oil,
+is not suitable for employment with acetylene, and it has been proposed
+to adopt a similar material in which the vehicle is castor-oil. No good
+reason has been given for the preference for castor-oil, and the troubles
+which have arisen after using ordinary paint may be explained partly on
+the very probable assumption that the oil was not genuine linseed, and so
+did not dry, and partly on the fact that almost entire reliance was
+placed on the paint for keeping the joint sound. Joints for acetylene,
+like those for steam and high-pressure water, must be made tight by using
+well-threaded fittings, so as to secure metallic contact between pipe and
+socket, &c.; the paint or spun-yarn is only an additional safeguard. In
+making a faced joint, washers of (say, 7 lb) lead, or coils of lead-wire
+arc extremely convenient and quite trustworthy; the packing can be used
+repeatedly.
+
+LEAKAGE.--Broadly speaking, it may be said that the commercial success of
+any village acetylene-supply--if not that of all large installations--
+depends upon the leakage being kept within moderate limits. It follows
+from what was stated in Chapter VI. about the diffusion of acetylene,
+that from pipes of equal porosity acetylene and coal-gas will escape at
+equal rates when the effective pressure in the pipe containing acetylene
+is double that in the pipe containing coal-gas. The loss of coal-gas by
+leakage is seldom less than 5 per cent. of the volume passed into the
+main at the works; and provided a village main delivering acetylene is
+not unduly long in proportion to the consumption of gas--or, in other
+words, provided the district through which an acetylene distributing main
+passes is not too sparsely populated--the loss of acetylene should not
+exceed the same figure. Caro holds that the loss of gas by leakage from a
+village installation should be quoted in absolute figures and not as a
+percentage of the total make as indicated by the works meter, because
+that total make varies so largely at different periods of the year, while
+the factors which determine the magnitude of the leakage are always
+identical; and therefore whereas the actual loss of gas remains the same,
+it is represented to be more serious in the summer than in the winter.
+Such argument is perfectly sound, but the method of returning leakage as
+a percentage of the make has been employed in the coal-gas industry for
+many years, and as it does not appear to have led to any misunderstanding
+or inconvenience, there is no particular reason for departing from the
+usual practice in the case of acetylene where the conditions as to
+uniform leakage and irregular make are strictly analogous.
+
+Caro has stated that a loss of 15 to 20 litres per kilometre per hour
+(_i.e._, of 0.85 to 1.14 cubic feet per mile per hour) from an
+acetylene distributing main is good practice; but it should be noted that
+much lower figures have been obtained when conditions are favourable and
+when due attention has been devoted to the fitters' work. In one of the
+German village acetylene installations where the matter has been
+carefully investigated (Doese, near Cuxhaven), leakage originally occurred
+at the rate of 7.3 litres per kilometre per hour in a main 8.5
+kilometres, or 5.3 miles, long and 4 to 2 inches in diameter; but it was
+reduced to 5.2 litres, and then to 3.12 litres by tightening the plugs of
+the street lantern and other gas cocks. In British units, these figures
+are 0.415, 0.295, and 0.177 cubic foot per mile per hour. By calculation,
+the volume of acetylene generated in this village would appear to have
+been about 23,000 cubic feet per mile of main per year, and therefore it
+may be said that the proportion of gas lost was reduced by attending to
+the cocks from 15.7 per cent, to 11.3 per cent, and then to 6.8 per cent.
+At another village where the main was 2.5 kilometres long, tests
+extending over two months, when the public lamps were not in use, showed
+the leakage to be 4.4 litres per kilometre per hour, _i.e._, 1.25
+cubic foot per mile per hour, when the annual make was roughly 46,000
+cubic feet per mile of main. Here, the loss, calculated from the direct
+readings of the works motor, was 4.65 per cent.
+
+When all the fittings, burners excepted, have been connected, the whole
+system of pipes must be tested by putting it under a gas (or air)
+pressure of 9 or 12 inches of water, and observing on an attached
+pressure gauge whether any fall in pressure occurs within fifteen minutes
+after the main inlet tap has been shut. The pressure required for this
+purpose can be obtained by temporarily weighting the holder, or by the
+
+Back to Full Books
