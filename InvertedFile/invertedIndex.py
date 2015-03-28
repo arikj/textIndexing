@@ -37,5 +37,11 @@ class invertedIndex:
 			else:
 				self.invertedList[word].append(index)
 
+	def findDocumentsWithTerm(self, term):
+		if term not in self.invertedList:
+			return []
+		else:
+			return self.invertedList[term]
+
 
 
