@@ -2,7 +2,7 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.stem import *
 from nltk.tokenize import RegexpTokenizer
-
+from objectClass import *
 
 class preprocessing:
 
@@ -14,16 +14,25 @@ class preprocessing:
 	def processText(self, text):
 		wordList = self.tokenizer.tokenize(text)
 		filteredWords = [w for w in wordList if not w in stopwords.words('english')]
-		allWordList = []
-
+		wordList = documentObject()
+		index = 0
+		distinct = 0
 		for word in filteredWords:
 			word = word.lower()
 			word = self.lemmatizer.lemmatize(word)
 			word = self.stemmer.stem(word);
 
-			if word not in allWordList:
-				allWordList.append(word)
+			if word not in wordList.words:
+				wordList.words.append(word)
+				wordList.frequency.append(1)
+				wordList.posList.append([index])
+			else:
+				matchIndex = wordList.words.index(word)
+				wordList.frequency[matchIndex] += 1
+				wordList.posList[matchIndex].append(index)
 
-		return allWordList
+			index += 1
+
+		return wordList
 
 

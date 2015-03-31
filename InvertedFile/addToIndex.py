@@ -15,17 +15,17 @@ indexFile = invertedIndex()
 preprocessText = preprocessing()
 
 
-def mergeIndex(allWordList, index):
+def mergeIndex(wordList, index):
 	indexFile.readFromFile()
-	indexFile.modifyInvertedList(allWordList, index)
+	indexFile.modifyInvertedList(wordList, index)
 	indexFile.writeBackToFile()
 
 def addToIndex(index):
 	filename = filePath + "doc" + str(index) + ".txt"
 	f = open(filename, "r")
 	content = f.read()
-	allWordList = preprocessText.processText(content)
-	mergeIndex(allWordList, index)
+	wordList = preprocessText.processText(content)
+	mergeIndex(wordList, index)
 	
 
 
