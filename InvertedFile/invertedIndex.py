@@ -36,6 +36,17 @@ class invertedIndex:
 			self.invertedList.perWord.append(newObject)
 
 
+	def printVal(self):
+		for k in range(0, len(self.invertedList.words)):
+			print self.invertedList.words[k] + "\t" + str(self.invertedList.frequency[k]) + "\t"
+
+			
+			for j in range(0, len(self.invertedList.perWord[k].document)):
+				print str(self.invertedList.perWord[k].document[j]) + "\t" + str(self.invertedList.perWord[k].frequency[j]) + "\t"
+				for i in range(0, self.invertedList.perWord[k].frequency[j]):
+					print str(self.invertedList.perWord[k].posList[j][i]) + "\t"
+			
+
 	def writeBackToFile(self):
 		f = open(self.filename, "w")
 

@@ -3,7 +3,7 @@ class documentObject:
 	def __init__(self):
 		self.words = []
 		self.frequency = []
-		self.posList = [[]]
+		self.posList = []
 
 
 class perWordObject:
@@ -11,7 +11,7 @@ class perWordObject:
 	def __init__(self):
 		self.document = []
 		self.frequency = []
-		self.posList = [[]]
+		self.posList = []
 
 class invertedObject:
 
