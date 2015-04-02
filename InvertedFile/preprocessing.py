@@ -12,15 +12,19 @@ class preprocessing:
 		self.tokenizer = RegexpTokenizer(r'\w+')
 
 	def processText(self, text):
-		wordList = self.tokenizer.tokenize(text)
-		filteredWords = [w for w in wordList if not w in stopwords.words('english')]
+		wordSet = self.tokenizer.tokenize(text)
+		stop = stopwords.words('english')
 		wordList = documentObject()
 		index = 0
 		distinct = 0
-		for word in filteredWords:
+		
+		for word in wordSet:
 			word = word.lower()
 			word = self.lemmatizer.lemmatize(word)
 			word = self.stemmer.stem(word);
+			
+			if word in stop:
+				continue
 
 			if word not in wordList.words:
 				wordList.words.append(word)

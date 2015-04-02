@@ -1,23 +1,91 @@
+# hpc1516@gmail
+
 from invertedIndex import *
 from preprocessing import *
 
-preprocessText = preprocessing()
-indexFile = invertedIndex()
+print "1. Search by terms query\n2. Search by phrase query\n"
+option = int(raw_input("Select an option: "))
 
-queryterms = str(raw_input("Query terms: "))
-queryList = preprocessText.processText(queryterms)
+if option == 1:
+	preprocessText = preprocessing()
+	indexFile = invertedIndex()
 
-indexFile.readFromFile()
-docList = []
-flag = True
+	queryterms = str(raw_input("Query terms: "))
+	queryList = preprocessText.processText(queryterms)
 
-for query in queryList:
-	newdocList = indexFile.findDocumentsWithTerm(query)
-	if flag == True:
-		docList = newdocList
-		flag = False
-	else:
-		convertToSet = set(docList)
-		docList = [val for val in newdocList if val in convertToSet]
+	indexFile.readFromFile()
+	docList = []
+	flag = True
 
-print docList
+	for query in queryList.words:
+		newdocList = indexFile.findDocumentsWithTerm(query)
+		newdoc = newdocList.document
+
+		if flag == True:
+			docList = newdoc
+			flag = False
+		else:
+			convertToSet = set(docList)
+			docList = [val for val in newdoc if val in convertToSet]
+
+	print docList
+
+elif option == 2:
+	preprocessText = preprocessing()
+	indexFile = invertedIndex()
+
+	queryterms = str(raw_input("Phrase terms: "))
+	queryList = preprocessText.processText(queryterms)
+
+	indexFile.readFromFile()
+	docList = []
+	posList = []
+	flag = True
+
+	for query in queryList.words:
+		newdocList = indexFile.findDocumentsWithTerm(query)
+
+		if flag == True:
+			docList = newdocList.document
+			for k in range(0, len(newdocList.document)):
+				posList.append(newdocList.posList[k])
+			flag = False
+
+		else:
+			removeElem = []
+			for k in range(0,len(docList)):
+				if docList[k] in newdocList.document:
+					matchIndex = newdocList.document.index(docList[k])
+					newVector = []
+					for i in range(0, len(posList[k])):
+						found = False
+						for j in range(0, len(newdocList.posList[matchIndex])):
+							if posList[k][i] + 1 == newdocList.posList[matchIndex][j]:
+								found = True
+								break
+						if found == True:
+							newVector.append(posList[k][i]+1)
+	
+					if len(newVector) != 0:
+						posList[k] = newVector		
+
+					else:
+						removeElem.append(k)
+				else:
+					removeElem.append(k)
+
+			copyDoc = []
+			copyPos = []
+
+			for k in range(0, len(docList)):
+				if k not in removeElem:
+					copyDoc.append(docList[k])
+					copyPos.append(posList[k])
+
+			docList = copyDoc
+			posList = copyPos
+
+	print docList
+
+else:
+	print "No such option"

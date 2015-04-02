@@ -5,22 +5,17 @@ from preprocessing import *
 
 
 
-filePath = "../documents/set1/"
-
-lemmatizer = WordNetLemmatizer()
-stemmer = PorterStemmer()
-tokenizer = RegexpTokenizer(r'\w+')
-
-indexFile = invertedIndex()
-preprocessText = preprocessing()
+filePath = "../documents/set2/"
 
 
 def mergeIndex(wordList, index):
+	indexFile = invertedIndex()
 	indexFile.readFromFile()
 	indexFile.modifyInvertedList(wordList, index)
 	indexFile.writeBackToFile()
 
 def addToIndex(index):
+	preprocessText = preprocessing()
 	filename = filePath + "doc" + str(index) + ".txt"
 	f = open(filename, "r")
 	content = f.read()
@@ -33,5 +28,5 @@ startIndex = int(sys.argv[1])
 endIndex = int(sys.argv[2])
 
 for index in range(startIndex, endIndex+1):
-	print "Analysing document:", index
+	print "Indexing document:", index
 	addToIndex(index)
