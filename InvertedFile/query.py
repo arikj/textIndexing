@@ -1,9 +1,13 @@
-# hpc1516@gmail
-
 from invertedIndex import *
 from preprocessing import *
+from math import log10
 
-print "1. Search by terms query\n2. Search by phrase query\n"
+topResult = 10
+
+def computeScore(frequency, total, num):
+	return (1+log10(frequency))*(log10(total/num))
+
+print "1. Search by terms query\n2. Search by phrase query\n3. Ranking of documents based on query"
 option = int(raw_input("Select an option: "))
 
 if option == 1:
@@ -86,6 +90,32 @@ elif option == 2:
 			posList = copyPos
 
 	print docList
+
+
+elif option == 3:
+	preprocessText = preprocessing()
+	indexFile = invertedIndex()
+
+	queryterms = str(raw_input("Query terms: "))
+	queryList = preprocessText.processText(queryterms)
+
+	indexFile.readFromFile()
+
+	scoreDoc = {}
+	for query in queryList.words:
+		newdocList = indexFile.findDocumentsWithTerm(query)
+
+		for k in range(0, len(newdocList.document)):
+			if newdocList.document[k] not in scoreDoc:
+				scoreDoc[newdocList.document[k]] = computeScore(newdocList.frequency[k], indexFile.totalDoc, len(newdocList.document))
+
+			else:
+				scoreDoc[newdocList.document[k]] += computeScore(newdocList.frequency[k], indexFile.totalDoc, len(newdocList.document))
+
+	newList = sorted(scoreDoc.iteritems(), key=lambda x:-x[1])[:min(topResult, len(scoreDoc))]
+
+	for value in newList:
+		print  "Document: " + str(value[0]) + " score: " + str(value[1])
 
 else:
 	print "No such option"

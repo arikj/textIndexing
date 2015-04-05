@@ -7,6 +7,7 @@ class invertedIndex:
 		self.invertedList =  invertedObject()
 		self.filename = "./invertedIndex.txt"
 		self.distinctWords = 0
+		self.totalDoc = 0
 
 	def readFromFile(self):
 		contents = ""
@@ -14,9 +15,17 @@ class invertedIndex:
 			contents = f.read()
 
 		contentList = contents.split("\n")
+
+		flag = False
 		for content in contentList:
 			if content == "":
 				break
+
+			if flag == False:
+				self.totalDoc = int(content)
+				flag = True
+				continue
+
 			term, filename = content.split("\t")
 			self.invertedList.words.append(term)
 			self.invertedList.filename.append(filename)
@@ -26,6 +35,7 @@ class invertedIndex:
 	def writeBackToFile(self):
 		f = open(self.filename, "w")
 
+		f.write(str(self.totalDoc) + "\n")
 		for k in range(0, len(self.invertedList.words)):
 			f.write(self.invertedList.words[k] + "\t" + str(self.invertedList.filename[k]) + "\n") 
 
@@ -64,7 +74,7 @@ class invertedIndex:
 				oldObject.mergeObjects(newObject)
 				oldObject.writeToFile(objectFile)
 
-
+		self.totalDoc += 1
 
 
 	def findDocumentsWithTerm(self, term):
