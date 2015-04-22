@@ -3,6 +3,7 @@ from nltk.corpus import stopwords
 from nltk.stem import *
 from nltk.tokenize import RegexpTokenizer
 from objectClass import *
+import re
 
 class preprocessing:
 
@@ -10,8 +11,10 @@ class preprocessing:
 		self.lemmatizer = WordNetLemmatizer()
 		self.stemmer = PorterStemmer()
 		self.tokenizer = RegexpTokenizer(r'\w+')
+		self.pattern = r'[a-z0-9]+'
 
 	def processText(self, text):
+		text = text.decode("utf8")
 		wordSet = self.tokenizer.tokenize(text)
 		stop = stopwords.words('english')
 		wordList = documentObject()
@@ -24,6 +27,9 @@ class preprocessing:
 			word = self.stemmer.stem(word);
 			
 			if word in stop:
+				continue
+
+			if not re.match(self.pattern,word):
 				continue
 
 			if word not in wordList.words:
