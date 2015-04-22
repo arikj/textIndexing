@@ -3,3 +3,6 @@ Inverted file:
 - grouping according to synonyms of words for queries
 - position of term in document for proximity query
 - tf-idf in inverted index
+
+- Signature files: Re encoding after some time
+- Handling editing of file
