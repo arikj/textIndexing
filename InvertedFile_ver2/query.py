@@ -28,54 +28,7 @@ elif option == 2:
 	queryterms = str(raw_input("Phrase terms: "))
 	queryList = preprocessText.processText(queryterms)
 
-	indexFile.readFromFile()
-	docList = []
-	posList = []
-	flag = True
-
-	for query in queryList.words:
-		newdocList = indexFile.findDocumentsWithTerm(query)
-
-		if flag == True:
-			docList = newdocList.document
-			for k in range(0, len(newdocList.document)):
-				posList.append(newdocList.posList[k])
-			flag = False
-
-		else:
-			removeElem = []
-			for k in range(0,len(docList)):
-				if docList[k] in newdocList.document:
-					matchIndex = newdocList.document.index(docList[k])
-					newVector = []
-					for i in range(0, len(posList[k])):
-						found = False
-						for j in range(0, len(newdocList.posList[matchIndex])):
-							if posList[k][i] + 1 == newdocList.posList[matchIndex][j]:
-								found = True
-								break
-						if found == True:
-							newVector.append(posList[k][i]+1)
-	
-					if len(newVector) != 0:
-						posList[k] = newVector		
-
-					else:
-						removeElem.append(k)
-				else:
-					removeElem.append(k)
-
-			copyDoc = []
-			copyPos = []
-
-			for k in range(0, len(docList)):
-				if k not in removeElem:
-					copyDoc.append(docList[k])
-					copyPos.append(posList[k])
-
-			docList = copyDoc
-			posList = copyPos
-
+	docList = indexFile.findDocumentsWithPhrase(queryList.words)
 	print docList
 
 

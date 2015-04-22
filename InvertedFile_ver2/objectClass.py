@@ -17,6 +17,10 @@ class documentObject:
 		self.posList = []
 
 
+class wordInfo:
+	def __init__(self):
+		self.docs = []
+		self.posList = []
 
 class perWordObject:
 	def __init__(self):

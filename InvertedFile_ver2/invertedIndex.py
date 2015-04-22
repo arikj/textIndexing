@@ -18,11 +18,13 @@ class invertedIndex:
 		self.numBytes = 2
 		self.sizeChar = 1
 		self.sizeDoc = 2
-		self.sizeFptr = 0
+		self.sizeFptr = 2
 		self.distinctWords = 0
 		self.totalDoc = 0
-		self.memSize = 0;
-		self.offset = 0;
+		self.memSize = 0
+		self.offset = 0
+		self.distinctWords = 0
+		self.posSize = 2
 
 		f = open(self.configFile, "r")
 		content = f.read()
@@ -30,6 +32,7 @@ class invertedIndex:
 		lists = content.split("\n")
 		self.memSize = int(lists[0])
 		self.totalDoc = int(lists[1])
+		self.distinctWords = int(lists[2])
 
 		f.close()
 
@@ -52,9 +55,9 @@ class invertedIndex:
 		while currSize < self.memSize:
 			sizeword = ord(f.read(self.sizeChar))
 			newObject.words.append(f.read(sizeword))
-			#newObject.fptr.append(int(f.read(self.sizeFptr)))
+			newObject.fptr.append(struct.unpack('<H',f.read(self.sizeFptr))[0])
 
-			numEntries = (numbytes - sizeword - self.sizeChar)/(2*self.sizeDoc)
+			numEntries = (numbytes - sizeword - self.sizeChar - self.sizeFptr)/(2*self.sizeDoc)
 
 			doc = []
 			freq = []
@@ -88,7 +91,7 @@ class invertedIndex:
 			f.write(struct.pack("H",numbytes))
 			f.write(chr(len(newObject.words[k])))
 			f.write(newObject.words[k])
-			# f.write(newObject.fptr[k])
+			f.write(struct.pack("H",newObject.fptr[k]))
 
 			for i in range(0, len(newObject.docs[k])):
 				f.write(struct.pack("H",newObject.docs[k][i]))
@@ -96,6 +99,26 @@ class invertedIndex:
 
 		f.close()
 
+
+	def writeToobjectFile(self, fname, posList):
+		filename = "./invertedFiles/word" + str(fname) + ".bin"
+		out = open(filename, "wb") 
+		format = "H"
+		for k in range(0,len(posList)):
+			data = struct.pack(format, posList[k])
+			out.write(data)
+		out.close()
+
+	def appendToObjectFile(self, fname, posList):
+		filename = "./invertedFiles/word" + str(fname) + ".bin"
+		out = open(filename, "ab") 
+		format = "H"
+
+		for k in range(0,len(posList)):
+			data = struct.pack(format, posList[k])
+			out.write(data)
+
+		out.close()
 
 	def writeAdditionalToTemp(self, wordList, fname):
 		f = open(self.tempFile, "ab")
@@ -106,15 +129,18 @@ class invertedIndex:
 			f.write(struct.pack("H",numbytes))
 			f.write(chr(len(wordList.words[k])))
 			f.write(wordList.words[k])
-			# f.write(fptr)
+			f.write(struct.pack("H",self.distinctWords))
 			f.write(struct.pack("H",fname))
 			f.write(struct.pack("H",wordList.frequency[k]))
+
+			self.writeToobjectFile(self.distinctWords, wordList.posList[k])
+			self.distinctWords += 1
 
 		f.close()
 
 	def modifyConfigFile(self):
 		f = open(self.configFile, "w")
-		f.write(str(self.memSize) + "\n" + str(self.totalDoc+1))
+		f.write(str(self.memSize) + "\n" + str(self.totalDoc+1) + "\n" + str(self.distinctWords))
 		f.close()
 
 	def modifyInvertedList(self,newList, fname):
@@ -136,6 +162,7 @@ class invertedIndex:
 
 					newObject.frequency[k].append(newList.frequency[index])
 					newObject.docs[k].append(fname)
+					self.appendToObjectFile(newObject.fptr[k], newList.posList[index])
 
 					del newList.words[index]
 					del newList.frequency[index]
@@ -148,6 +175,73 @@ class invertedIndex:
 
 		os.remove(self.filename)
 		os.rename(self.tempFile , self.filename)
+
+
+	def findPosList(self, fname, frequency):
+		filename = "./invertedFiles/word" + str(fname) + ".bin"
+		f = open(filename, "rb")
+
+		posList = []
+		for freq in frequency:
+			newList = []
+			for k in range(0, freq):
+				newList.append(struct.unpack('<H',f.read(self.sizeDoc))[0])
+			posList.append(newList)
+		f.close()
+
+		return posList
+
+	def findSequentialTerms(self, termDict, terms):
+		docList = []
+		posList = []
+		flag = True
+
+		for term in terms:
+
+			if term not in termDict:
+				return []
+
+			if flag == True:
+				docList = termDict[term].docs
+				for k in range(0, len(docList)):
+					posList.append(termDict[term].posList[k])
+				flag = False
+
+			else:
+				removeElem = []
+				for k in range(0,len(docList)):
+					if docList[k] in termDict[term].docs:
+						matchIndex = termDict[term].docs.index(docList[k])
+						newVector = []
+						for i in range(0, len(posList[k])):
+							found = False
+							for j in range(0, len(termDict[term].posList[matchIndex])):
+								if posList[k][i] + 1 == termDict[term].posList[matchIndex][j]:
+									found = True
+									break
+							if found == True:
+								newVector.append(posList[k][i]+1)
+		
+						if len(newVector) != 0:
+							posList[k] = newVector		
+
+						else:
+							removeElem.append(k)
+					else:
+						removeElem.append(k)
+
+				copyDoc = []
+				copyPos = []
+
+				for k in range(0, len(docList)):
+					if k not in removeElem:
+						copyDoc.append(docList[k])
+						copyPos.append(posList[k])
+
+				docList = copyDoc
+				posList = copyPos
+
+		return docList
 
 
 	def findDocumentsWithTerm(self, terms):
@@ -178,6 +272,28 @@ class invertedIndex:
 		return docList
 
 
+	def findDocumentsWithPhrase(self, terms):
+
+		termDict = {}
+		while True:
+			newObject = self.readFromFile()
+
+			if len(newObject.words) == 0:
+				break
+
+			for k in range(0, len(terms)):
+				term= terms[k]
+				if term in newObject.words:
+					newInfo = wordInfo()
+					index = newObject.words.index(term)
+
+					newInfo.docs = newObject.docs[index]
+					newInfo.posList = self.findPosList(newObject.fptr[index], newObject.frequency[index])
+
+					termDict[term] = newInfo
+
+
+		return self.findSequentialTerms(termDict, terms)
 
 	def findTopKDocuments(self, terms, numResult):
 		termList = []
