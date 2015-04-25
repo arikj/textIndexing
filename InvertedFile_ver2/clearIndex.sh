@@ -1,2 +1,2 @@
 cp /dev/null "./invertedIndex.bin"
-rm ./invertedFile/*
+rm ./invertedFiles/*

@@ -1,0 +1,10 @@
+423 1255 1304 1307
+
+23 717 737
+
+Document: 567 score: 4.63048416947
+Document: 1088 score: 4.50662678015
+Document: 391 score: 3.77858532786
+Document: 1148 score: 3.55798814822
+Document: 1287 score: 2.36361197989
+

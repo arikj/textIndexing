@@ -1,7 +1,7 @@
 from random import randint
 
 numSet = 2
-nData = 1000
+nData = 100
 
 if numSet == 1:
 	numDocs = 799

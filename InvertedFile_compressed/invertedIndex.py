@@ -3,6 +3,7 @@ import bisect
 import os
 import struct
 from math import log10
+import math
 from huff import *
 
 def computeScore(frequency, total, num):

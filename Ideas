@@ -6,3 +6,23 @@ Inverted file:
 
 - Signature files: Re encoding after some time
 - Handling editing of file
+
+
+
+Data sets description
+
+Graphs:
+For each data set,
+
+1) Mean Time for each queries					: indexfile << ver2 < Signature < Compressed << linear	
+2) Additional Memory requirements				: Signature < Compressed < ver2 = indexfile
+3) Preprocessing Time 							: Signature < indexfile < ver2 < Compressed
+
+
+
+Inference:
+- Use Signature for space limitation
+- Use index file for better time performance
+
+- Compressed index structure increase encoding decoding time
+- Compressed phrase query time is high due to random access

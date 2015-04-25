@@ -4,7 +4,6 @@ from invertedIndex import *
 from preprocessing import *
 
 
-
 filePath = "../documents/set2/"
 
 

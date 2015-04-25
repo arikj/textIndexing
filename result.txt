@@ -1,0 +1,81 @@
+SET 1
+-----
+	Distinct Words 	: 81147
+	Total Docs		: 799
+	Total Size		: 69.1 MB
+	Average Size	: 88.559 kB
+
+
+
+---------------------Preprocessing Time Set1
+	real	105m38.175s
+	user	77m18.392s
+	sys	0m55.660s
+
+	Size
+		- Inverted Files			:	26.5 MB
+		- invertedIndex.bin			:	15.2 MB
+
+
+---------------------Compressing Time Set1
+	real	0m44.727s
+	user	0m44.676s
+	sys	0m0.084s
+
+
+	Size
+		- Inverted Files			:	26.5 MB
+		- invertedIndexCompress.bin	:	5.5 MB
+
+
+---------------------Original Time Set1
+	real	
+	user	
+	sys	
+
+	Size
+		- Inverted Files			:	40.7 MB
+		- invertedIndex.txt			:	1.1 MB
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+SET 2
+-----
+	Distinct Words 	: 3468
+	Total Docs		: 1391
+	Total Size		: 485 kB
+	Average Size	: 357.038 Bytes
+
+
+
+---------------------Preprocessing Time Set2
+	real	1m54.832s
+	user	1m25.816s
+	sys	0m1.232s
+
+	Size
+		- Inverted Files			:	86.3 kB
+		- invertedIndex.bin			:	192.7 kB
+
+
+---------------------Compressing Time Set2
+	real	0m24.262s
+	user	0m10.984s
+	sys	0m13.240s
+
+	Size
+		- Inverted Files			:	86.3 kB
+		- invertedIndexCompress.bin	:	136.3 kB
+
+
+---------------------Original Time Set2
+	real	0m34.808s
+	user	0m30.544s
+	sys	0m2.632s
+
+	Size
+		- Inverted Files			:	247.5 kB
+		- invertedIndex.txt			:	40.9 kB
+
+

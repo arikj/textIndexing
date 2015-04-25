@@ -1,0 +1,10 @@
+1304 1307 1255
+
+23 717 737
+
+Document: 1088 score: 5.28634193025
+Document: 567 score: 4.65674259949
+Document: 391 score: 3.79497574405
+Document: 1148 score: 3.57437856441
+Document: 69 score: 2.36361197989
+

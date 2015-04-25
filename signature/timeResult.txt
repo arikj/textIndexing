@@ -1,0 +1,15 @@
+---------- Term Queries-----------
+Minimum: 0.17
+Maximum: 0.17
+Mean: 0.17
+Standard deviation: 0.0
+---------- Phrase Queries-----------
+Minimum: 0.17
+Maximum: 0.17
+Mean: 0.17
+Standard deviation: 0.0
+---------- Ranking Queries-----------
+Minimum: 0.21
+Maximum: 0.21
+Mean: 0.21
+Standard deviation: 0.0
